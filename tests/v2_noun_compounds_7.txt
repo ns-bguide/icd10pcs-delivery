@@ -1,0 +1,202 @@
+7W0	Treatment of the Anatomical Regions
+7W0	Anatomical Regions Treatment
+7W00X0Z	Treatment of the Head Articulatory-Raising
+7W00X0Z	Head Articulatory-Raising Treatment
+7W00X1Z	Treatment of the Head Fascial Release
+7W00X1Z	Head Fascial Release Treatment
+7W00X2Z	Treatment of the Head General Mobilization
+7W00X2Z	Head General Mobilization Treatment
+7W00X3Z	Treatment of the Head High Velocity-Low Amplitude
+7W00X3Z	Head High Velocity-Low Amplitude Treatment
+7W00X4Z	Treatment of the Head Indirect
+7W00X4Z	Head Indirect Treatment
+7W00X5Z	Treatment of the Head Low Velocity-High Amplitude
+7W00X5Z	Head Low Velocity-High Amplitude Treatment
+7W00X6Z	Treatment of the Head Lymphatic Pump
+7W00X6Z	Head Lymphatic Pump Treatment
+7W00X7Z	Treatment of the Head Muscle Energy-Isometric
+7W00X7Z	Head Muscle Energy-Isometric Treatment
+7W00X8Z	Treatment of the Head Muscle Energy-Isotonic
+7W00X8Z	Head Muscle Energy-Isotonic Treatment
+7W00X9Z	Treatment of the Head Other Method
+7W00X9Z	Head Other Method Treatment
+7W01X0Z	Treatment of the Cervical Region Articulatory-Raising
+7W01X0Z	Cervical Region Articulatory-Raising Treatment
+7W01X1Z	Treatment of the Cervical Region Fascial Release
+7W01X1Z	Cervical Region Fascial Release Treatment
+7W01X2Z	Treatment of the Cervical Region General Mobilization
+7W01X2Z	Cervical Region General Mobilization Treatment
+7W01X3Z	Treatment of the Cervical Region High Velocity-Low Amplitude
+7W01X3Z	Cervical Region High Velocity-Low Amplitude Treatment
+7W01X4Z	Treatment of the Cervical Region Indirect
+7W01X4Z	Cervical Region Indirect Treatment
+7W01X5Z	Treatment of the Cervical Region Low Velocity-High Amplitude
+7W01X5Z	Cervical Region Low Velocity-High Amplitude Treatment
+7W01X6Z	Treatment of the Cervical Region Lymphatic Pump
+7W01X6Z	Cervical Region Lymphatic Pump Treatment
+7W01X7Z	Treatment of the Cervical Region Muscle Energy-Isometric
+7W01X7Z	Cervical Region Muscle Energy-Isometric Treatment
+7W01X8Z	Treatment of the Cervical Region Muscle Energy-Isotonic
+7W01X8Z	Cervical Region Muscle Energy-Isotonic Treatment
+7W01X9Z	Treatment of the Cervical Region Other Method
+7W01X9Z	Cervical Region Other Method Treatment
+7W02X0Z	Treatment of the Thoracic Region Articulatory-Raising
+7W02X0Z	Thoracic Region Articulatory-Raising Treatment
+7W02X1Z	Treatment of the Thoracic Region Fascial Release
+7W02X1Z	Thoracic Region Fascial Release Treatment
+7W02X2Z	Treatment of the Thoracic Region General Mobilization
+7W02X2Z	Thoracic Region General Mobilization Treatment
+7W02X3Z	Treatment of the Thoracic Region High Velocity-Low Amplitude
+7W02X3Z	Thoracic Region High Velocity-Low Amplitude Treatment
+7W02X4Z	Treatment of the Thoracic Region Indirect
+7W02X4Z	Thoracic Region Indirect Treatment
+7W02X5Z	Treatment of the Thoracic Region Low Velocity-High Amplitude
+7W02X5Z	Thoracic Region Low Velocity-High Amplitude Treatment
+7W02X6Z	Treatment of the Thoracic Region Lymphatic Pump
+7W02X6Z	Thoracic Region Lymphatic Pump Treatment
+7W02X7Z	Treatment of the Thoracic Region Muscle Energy-Isometric
+7W02X7Z	Thoracic Region Muscle Energy-Isometric Treatment
+7W02X8Z	Treatment of the Thoracic Region Muscle Energy-Isotonic
+7W02X8Z	Thoracic Region Muscle Energy-Isotonic Treatment
+7W02X9Z	Treatment of the Thoracic Region Other Method
+7W02X9Z	Thoracic Region Other Method Treatment
+7W03X0Z	Treatment of the Lumbar Region Articulatory-Raising
+7W03X0Z	Lumbar Region Articulatory-Raising Treatment
+7W03X1Z	Treatment of the Lumbar Region Fascial Release
+7W03X1Z	Lumbar Region Fascial Release Treatment
+7W03X2Z	Treatment of the Lumbar Region General Mobilization
+7W03X2Z	Lumbar Region General Mobilization Treatment
+7W03X3Z	Treatment of the Lumbar Region High Velocity-Low Amplitude
+7W03X3Z	Lumbar Region High Velocity-Low Amplitude Treatment
+7W03X4Z	Treatment of the Lumbar Region Indirect
+7W03X4Z	Lumbar Region Indirect Treatment
+7W03X5Z	Treatment of the Lumbar Region Low Velocity-High Amplitude
+7W03X5Z	Lumbar Region Low Velocity-High Amplitude Treatment
+7W03X6Z	Treatment of the Lumbar Region Lymphatic Pump
+7W03X6Z	Lumbar Region Lymphatic Pump Treatment
+7W03X7Z	Treatment of the Lumbar Region Muscle Energy-Isometric
+7W03X7Z	Lumbar Region Muscle Energy-Isometric Treatment
+7W03X8Z	Treatment of the Lumbar Region Muscle Energy-Isotonic
+7W03X8Z	Lumbar Region Muscle Energy-Isotonic Treatment
+7W03X9Z	Treatment of the Lumbar Region Other Method
+7W03X9Z	Lumbar Region Other Method Treatment
+7W04X0Z	Treatment of the Sacrum Articulatory-Raising
+7W04X0Z	Sacrum Articulatory-Raising Treatment
+7W04X1Z	Treatment of the Sacrum Fascial Release
+7W04X1Z	Sacrum Fascial Release Treatment
+7W04X2Z	Treatment of the Sacrum General Mobilization
+7W04X2Z	Sacrum General Mobilization Treatment
+7W04X3Z	Treatment of the Sacrum High Velocity-Low Amplitude
+7W04X3Z	Sacrum High Velocity-Low Amplitude Treatment
+7W04X4Z	Treatment of the Sacrum Indirect
+7W04X4Z	Sacrum Indirect Treatment
+7W04X5Z	Treatment of the Sacrum Low Velocity-High Amplitude
+7W04X5Z	Sacrum Low Velocity-High Amplitude Treatment
+7W04X6Z	Treatment of the Sacrum Lymphatic Pump
+7W04X6Z	Sacrum Lymphatic Pump Treatment
+7W04X7Z	Treatment of the Sacrum Muscle Energy-Isometric
+7W04X7Z	Sacrum Muscle Energy-Isometric Treatment
+7W04X8Z	Treatment of the Sacrum Muscle Energy-Isotonic
+7W04X8Z	Sacrum Muscle Energy-Isotonic Treatment
+7W04X9Z	Treatment of the Sacrum Other Method
+7W04X9Z	Sacrum Other Method Treatment
+7W05X0Z	Treatment of the Pelvis Articulatory-Raising
+7W05X0Z	Pelvis Articulatory-Raising Treatment
+7W05X1Z	Treatment of the Pelvis Fascial Release
+7W05X1Z	Pelvis Fascial Release Treatment
+7W05X2Z	Treatment of the Pelvis General Mobilization
+7W05X2Z	Pelvis General Mobilization Treatment
+7W05X3Z	Treatment of the Pelvis High Velocity-Low Amplitude
+7W05X3Z	Pelvis High Velocity-Low Amplitude Treatment
+7W05X4Z	Treatment of the Pelvis Indirect
+7W05X4Z	Pelvis Indirect Treatment
+7W05X5Z	Treatment of the Pelvis Low Velocity-High Amplitude
+7W05X5Z	Pelvis Low Velocity-High Amplitude Treatment
+7W05X6Z	Treatment of the Pelvis Lymphatic Pump
+7W05X6Z	Pelvis Lymphatic Pump Treatment
+7W05X7Z	Treatment of the Pelvis Muscle Energy-Isometric
+7W05X7Z	Pelvis Muscle Energy-Isometric Treatment
+7W05X8Z	Treatment of the Pelvis Muscle Energy-Isotonic
+7W05X8Z	Pelvis Muscle Energy-Isotonic Treatment
+7W05X9Z	Treatment of the Pelvis Other Method
+7W05X9Z	Pelvis Other Method Treatment
+7W06X0Z	Treatment of the Lower Extremities Articulatory-Raising
+7W06X0Z	Lower Extremities Articulatory-Raising Treatment
+7W06X1Z	Treatment of the Lower Extremities Fascial Release
+7W06X1Z	Lower Extremities Fascial Release Treatment
+7W06X2Z	Treatment of the Lower Extremities General Mobilization
+7W06X2Z	Lower Extremities General Mobilization Treatment
+7W06X3Z	Treatment of the Lower Extremities High Velocity-Low Amplitude
+7W06X3Z	Lower Extremities High Velocity-Low Amplitude Treatment
+7W06X4Z	Treatment of the Lower Extremities Indirect
+7W06X4Z	Lower Extremities Indirect Treatment
+7W06X5Z	Treatment of the Lower Extremities Low Velocity-High Amplitude
+7W06X5Z	Lower Extremities Low Velocity-High Amplitude Treatment
+7W06X6Z	Treatment of the Lower Extremities Lymphatic Pump
+7W06X6Z	Lower Extremities Lymphatic Pump Treatment
+7W06X7Z	Treatment of the Lower Extremities Muscle Energy-Isometric
+7W06X7Z	Lower Extremities Muscle Energy-Isometric Treatment
+7W06X8Z	Treatment of the Lower Extremities Muscle Energy-Isotonic
+7W06X8Z	Lower Extremities Muscle Energy-Isotonic Treatment
+7W06X9Z	Treatment of the Lower Extremities Other Method
+7W06X9Z	Lower Extremities Other Method Treatment
+7W07X0Z	Treatment of the Upper Extremities Articulatory-Raising
+7W07X0Z	Upper Extremities Articulatory-Raising Treatment
+7W07X1Z	Treatment of the Upper Extremities Fascial Release
+7W07X1Z	Upper Extremities Fascial Release Treatment
+7W07X2Z	Treatment of the Upper Extremities General Mobilization
+7W07X2Z	Upper Extremities General Mobilization Treatment
+7W07X3Z	Treatment of the Upper Extremities High Velocity-Low Amplitude
+7W07X3Z	Upper Extremities High Velocity-Low Amplitude Treatment
+7W07X4Z	Treatment of the Upper Extremities Indirect
+7W07X4Z	Upper Extremities Indirect Treatment
+7W07X5Z	Treatment of the Upper Extremities Low Velocity-High Amplitude
+7W07X5Z	Upper Extremities Low Velocity-High Amplitude Treatment
+7W07X6Z	Treatment of the Upper Extremities Lymphatic Pump
+7W07X6Z	Upper Extremities Lymphatic Pump Treatment
+7W07X7Z	Treatment of the Upper Extremities Muscle Energy-Isometric
+7W07X7Z	Upper Extremities Muscle Energy-Isometric Treatment
+7W07X8Z	Treatment of the Upper Extremities Muscle Energy-Isotonic
+7W07X8Z	Upper Extremities Muscle Energy-Isotonic Treatment
+7W07X9Z	Treatment of the Upper Extremities Other Method
+7W07X9Z	Upper Extremities Other Method Treatment
+7W08X0Z	Treatment of the Rib Cage Articulatory-Raising
+7W08X0Z	Rib Cage Articulatory-Raising Treatment
+7W08X1Z	Treatment of the Rib Cage Fascial Release
+7W08X1Z	Rib Cage Fascial Release Treatment
+7W08X2Z	Treatment of the Rib Cage General Mobilization
+7W08X2Z	Rib Cage General Mobilization Treatment
+7W08X3Z	Treatment of the Rib Cage High Velocity-Low Amplitude
+7W08X3Z	Rib Cage High Velocity-Low Amplitude Treatment
+7W08X4Z	Treatment of the Rib Cage Indirect
+7W08X4Z	Rib Cage Indirect Treatment
+7W08X5Z	Treatment of the Rib Cage Low Velocity-High Amplitude
+7W08X5Z	Rib Cage Low Velocity-High Amplitude Treatment
+7W08X6Z	Treatment of the Rib Cage Lymphatic Pump
+7W08X6Z	Rib Cage Lymphatic Pump Treatment
+7W08X7Z	Treatment of the Rib Cage Muscle Energy-Isometric
+7W08X7Z	Rib Cage Muscle Energy-Isometric Treatment
+7W08X8Z	Treatment of the Rib Cage Muscle Energy-Isotonic
+7W08X8Z	Rib Cage Muscle Energy-Isotonic Treatment
+7W08X9Z	Treatment of the Rib Cage Other Method
+7W08X9Z	Rib Cage Other Method Treatment
+7W09X0Z	Treatment of the Abdomen Articulatory-Raising
+7W09X0Z	Abdomen Articulatory-Raising Treatment
+7W09X1Z	Treatment of the Abdomen Fascial Release
+7W09X1Z	Abdomen Fascial Release Treatment
+7W09X2Z	Treatment of the Abdomen General Mobilization
+7W09X2Z	Abdomen General Mobilization Treatment
+7W09X3Z	Treatment of the Abdomen High Velocity-Low Amplitude
+7W09X3Z	Abdomen High Velocity-Low Amplitude Treatment
+7W09X4Z	Treatment of the Abdomen Indirect
+7W09X4Z	Abdomen Indirect Treatment
+7W09X5Z	Treatment of the Abdomen Low Velocity-High Amplitude
+7W09X5Z	Abdomen Low Velocity-High Amplitude Treatment
+7W09X6Z	Treatment of the Abdomen Lymphatic Pump
+7W09X6Z	Abdomen Lymphatic Pump Treatment
+7W09X7Z	Treatment of the Abdomen Muscle Energy-Isometric
+7W09X7Z	Abdomen Muscle Energy-Isometric Treatment
+7W09X8Z	Treatment of the Abdomen Muscle Energy-Isotonic
+7W09X8Z	Abdomen Muscle Energy-Isotonic Treatment
+7W09X9Z	Treatment of the Abdomen Other Method
+7W09X9Z	Abdomen Other Method Treatment

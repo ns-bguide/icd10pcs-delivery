@@ -1,0 +1,258 @@
+4A0	We measured the physiological systems.
+4A0	We are measuring the physiological systems.
+4A0	We will measure the physiological systems.
+4A0002Z	We measured the conductivity of the central nervous system.
+4A0002Z	We are measuring the conductivity of the central nervous system.
+4A0002Z	We will measure the conductivity of the central nervous system.
+4A0004Z	We measured the electrical activity of the central nervous system.
+4A0004Z	We are measuring the electrical activity of the central nervous system.
+4A0004Z	We will measure the electrical activity of the central nervous system.
+4A000BZ	We measured the pressure of the central nervous system.
+4A000BZ	We are measuring the pressure of the central nervous system.
+4A000BZ	We will measure the pressure of the central nervous system.
+4A003KD	We measured the temperature of the central nervous system.
+4A003KD	We are measuring the temperature of the central nervous system.
+4A003KD	We will measure the temperature of the central nervous system.
+4A003RD	We measured the saturation of the central nervous system.
+4A003RD	We are measuring the saturation of the central nervous system.
+4A003RD	We will measure the saturation of the central nervous system.
+4A01029	We measured the conductivity of the peripheral nervous system.
+4A01029	We are measuring the conductivity of the peripheral nervous system.
+4A01029	We will measure the conductivity of the peripheral nervous system.
+4A0104Z	We measured the electrical activity of the peripheral nervous system.
+4A0104Z	We are measuring the electrical activity of the peripheral nervous system.
+4A0104Z	We will measure the electrical activity of the peripheral nervous system.
+4A0204Z	We measured the electrical activity of the cardiac system.
+4A0204Z	We are measuring the electrical activity of the cardiac system.
+4A0204Z	We will measure the electrical activity of the cardiac system.
+4A0209Z	We measured the output of the cardiac system.
+4A0209Z	We are measuring the output of the cardiac system.
+4A0209Z	We will measure the output of the cardiac system.
+4A020CZ	We measured the rate of the cardiac system.
+4A020CZ	We are measuring the rate of the cardiac system.
+4A020CZ	We will measure the rate of the cardiac system.
+4A020FZ	We measured the rhythm of the cardiac system.
+4A020FZ	We are measuring the rhythm of the cardiac system.
+4A020FZ	We will measure the rhythm of the cardiac system.
+4A020HZ	We measured the sound of the cardiac system.
+4A020HZ	We are measuring the sound of the cardiac system.
+4A020HZ	We will measure the sound of the cardiac system.
+4A020N6	We measured the sampling and pressure of the cardiac system.
+4A020N6	We are measuring the sampling and pressure of the cardiac system.
+4A020N6	We will measure the sampling and pressure of the cardiac system.
+4A020PZ	We measured the action currents of the cardiac system.
+4A020PZ	We are measuring the action currents of the cardiac system.
+4A020PZ	We will measure the action currents of the cardiac system.
+4A02XM4	We measured the total activity of the cardiac system.
+4A02XM4	We are measuring the total activity of the cardiac system.
+4A02XM4	We will measure the total activity of the cardiac system.
+4A03051	We measured the flow of the arterial system.
+4A03051	We are measuring the flow of the arterial system.
+4A03051	We will measure the flow of the arterial system.
+4A030B1	We measured the pressure of the arterial system.
+4A030B1	We are measuring the pressure of the arterial system.
+4A030B1	We will measure the pressure of the arterial system.
+4A030H1	We measured the sound of the arterial system.
+4A030H1	We are measuring the sound of the arterial system.
+4A030H1	We will measure the sound of the arterial system.
+4A030J1	We measured the pulse of the arterial system.
+4A030J1	We are measuring the pulse of the arterial system.
+4A030J1	We will measure the pulse of the arterial system.
+4A030R1	We measured the saturation of the arterial system.
+4A030R1	We are measuring the saturation of the arterial system.
+4A030R1	We will measure the saturation of the arterial system.
+4A04050	We measured the flow of the venous system.
+4A04050	We are measuring the flow of the venous system.
+4A04050	We will measure the flow of the venous system.
+4A040B0	We measured the pressure of the venous system.
+4A040B0	We are measuring the pressure of the venous system.
+4A040B0	We will measure the pressure of the venous system.
+4A040J0	We measured the pulse of the venous system.
+4A040J0	We are measuring the pulse of the venous system.
+4A040J0	We will measure the pulse of the venous system.
+4A040R1	We measured the saturation of the venous system.
+4A040R1	We are measuring the saturation of the venous system.
+4A040R1	We will measure the saturation of the venous system.
+4A0605Z	We measured the flow of the lymphatic system.
+4A0605Z	We are measuring the flow of the lymphatic system.
+4A0605Z	We will measure the flow of the lymphatic system.
+4A060BZ	We measured the pressure of the lymphatic system.
+4A060BZ	We are measuring the pressure of the lymphatic system.
+4A060BZ	We will measure the pressure of the lymphatic system.
+4A07X0Z	We measured the acuity of the visual.
+4A07X0Z	We are measuring the acuity of the visual.
+4A07X0Z	We will measure the acuity of the visual.
+4A07X7Z	We measured the mobility of the visual.
+4A07X7Z	We are measuring the mobility of the visual.
+4A07X7Z	We will measure the mobility of the visual.
+4A07XBZ	We measured the pressure of the visual.
+4A07XBZ	We are measuring the pressure of the visual.
+4A07XBZ	We will measure the pressure of the visual.
+4A08X0Z	We measured the acuity of the olfactory.
+4A08X0Z	We are measuring the acuity of the olfactory.
+4A08X0Z	We will measure the acuity of the olfactory.
+4A0C35Z	We measured the flow of the biliary system.
+4A0C35Z	We are measuring the flow of the biliary system.
+4A0C35Z	We will measure the flow of the biliary system.
+4A0C3BZ	We measured the pressure of the biliary system.
+4A0C3BZ	We are measuring the pressure of the biliary system.
+4A0C3BZ	We will measure the pressure of the biliary system.
+4A0D73Z	We measured the contractility of the urinary system.
+4A0D73Z	We are measuring the contractility of the urinary system.
+4A0D73Z	We will measure the contractility of the urinary system.
+4A0D75Z	We measured the flow of the urinary system.
+4A0D75Z	We are measuring the flow of the urinary system.
+4A0D75Z	We will measure the flow of the urinary system.
+4A0D7BZ	We measured the pressure of the urinary system.
+4A0D7BZ	We are measuring the pressure of the urinary system.
+4A0D7BZ	We will measure the pressure of the urinary system.
+4A0D7DZ	We measured the resistance of the urinary system.
+4A0D7DZ	We are measuring the resistance of the urinary system.
+4A0D7DZ	We will measure the resistance of the urinary system.
+4A0H74Z	We measured the electrical activity of the products of conception.
+4A0H74Z	We are measuring the electrical activity of the products of conception.
+4A0H74Z	We will measure the electrical activity of the products of conception.
+4A0H7CZ	We measured the rate of the products of conception.
+4A0H7CZ	We are measuring the rate of the products of conception.
+4A0H7CZ	We will measure the rate of the products of conception.
+4A0H7FZ	We measured the rhythm of the products of conception.
+4A0H7FZ	We are measuring the rhythm of the products of conception.
+4A0H7FZ	We will measure the rhythm of the products of conception.
+4A0H7HZ	We measured the sound of the products of conception.
+4A0H7HZ	We are measuring the sound of the products of conception.
+4A0H7HZ	We will measure the sound of the products of conception.
+4A0J72Z	We measured the conductivity of the products of conception.
+4A0J72Z	We are measuring the conductivity of the products of conception.
+4A0J72Z	We will measure the conductivity of the products of conception.
+4A0J7BZ	We measured the pressure of the products of conception.
+4A0J7BZ	We are measuring the pressure of the products of conception.
+4A0J7BZ	We will measure the pressure of the products of conception.
+4A1	We monitored the physiological systems.
+4A1	We are monitoring the physiological systems.
+4A1	We will monitor the physiological systems.
+4A1002Z	We monitored the conductivity of the central nervous system.
+4A1002Z	We are monitoring the conductivity of the central nervous system.
+4A1002Z	We will monitor the conductivity of the central nervous system.
+4A1004G	We monitored the electrical activity of the central nervous system.
+4A1004G	We are monitoring the electrical activity of the central nervous system.
+4A1004G	We will monitor the electrical activity of the central nervous system.
+4A100BZ	We monitored the pressure of the central nervous system.
+4A100BZ	We are monitoring the pressure of the central nervous system.
+4A100BZ	We will monitor the pressure of the central nervous system.
+4A103KD	We monitored the temperature of the central nervous system.
+4A103KD	We are monitoring the temperature of the central nervous system.
+4A103KD	We will monitor the temperature of the central nervous system.
+4A103RD	We monitored the saturation of the central nervous system.
+4A103RD	We are monitoring the saturation of the central nervous system.
+4A103RD	We will monitor the saturation of the central nervous system.
+4A11029	We monitored the conductivity of the peripheral nervous system.
+4A11029	We are monitoring the conductivity of the peripheral nervous system.
+4A11029	We will monitor the conductivity of the peripheral nervous system.
+4A1104G	We monitored the electrical activity of the peripheral nervous system.
+4A1104G	We are monitoring the electrical activity of the peripheral nervous system.
+4A1104G	We will monitor the electrical activity of the peripheral nervous system.
+4A1204Z	We monitored the electrical activity of the cardiac system.
+4A1204Z	We are monitoring the electrical activity of the cardiac system.
+4A1204Z	We will monitor the electrical activity of the cardiac system.
+4A1209Z	We monitored the output of the cardiac system.
+4A1209Z	We are monitoring the output of the cardiac system.
+4A1209Z	We will monitor the output of the cardiac system.
+4A120CZ	We monitored the rate of the cardiac system.
+4A120CZ	We are monitoring the rate of the cardiac system.
+4A120CZ	We will monitor the rate of the cardiac system.
+4A120FZ	We monitored the rhythm of the cardiac system.
+4A120FZ	We are monitoring the rhythm of the cardiac system.
+4A120FZ	We will monitor the rhythm of the cardiac system.
+4A120HZ	We monitored the sound of the cardiac system.
+4A120HZ	We are monitoring the sound of the cardiac system.
+4A120HZ	We will monitor the sound of the cardiac system.
+4A12XM4	We monitored the total activity of the cardiac system.
+4A12XM4	We are monitoring the total activity of the cardiac system.
+4A12XM4	We will monitor the total activity of the cardiac system.
+4A12XSH	We monitored the vascular perfusion of the cardiac system.
+4A12XSH	We are monitoring the vascular perfusion of the cardiac system.
+4A12XSH	We will monitor the vascular perfusion of the cardiac system.
+4A13051	We monitored the flow of the arterial system.
+4A13051	We are monitoring the flow of the arterial system.
+4A13051	We will monitor the flow of the arterial system.
+4A130B1	We monitored the pressure of the arterial system.
+4A130B1	We are monitoring the pressure of the arterial system.
+4A130B1	We will monitor the pressure of the arterial system.
+4A130H1	We monitored the sound of the arterial system.
+4A130H1	We are monitoring the sound of the arterial system.
+4A130H1	We will monitor the sound of the arterial system.
+4A130J1	We monitored the pulse of the arterial system.
+4A130J1	We are monitoring the pulse of the arterial system.
+4A130J1	We will monitor the pulse of the arterial system.
+4A130R1	We monitored the saturation of the arterial system.
+4A130R1	We are monitoring the saturation of the arterial system.
+4A130R1	We will monitor the saturation of the arterial system.
+4A14050	We monitored the flow of the venous system.
+4A14050	We are monitoring the flow of the venous system.
+4A14050	We will monitor the flow of the venous system.
+4A140B0	We monitored the pressure of the venous system.
+4A140B0	We are monitoring the pressure of the venous system.
+4A140B0	We will monitor the pressure of the venous system.
+4A140J0	We monitored the pulse of the venous system.
+4A140J0	We are monitoring the pulse of the venous system.
+4A140J0	We will monitor the pulse of the venous system.
+4A140R0	We monitored the saturation of the venous system.
+4A140R0	We are monitoring the saturation of the venous system.
+4A140R0	We will monitor the saturation of the venous system.
+4A1605H	We monitored the flow of the lymphatic system.
+4A1605H	We are monitoring the flow of the lymphatic system.
+4A1605H	We will monitor the flow of the lymphatic system.
+4A160BZ	We monitored the pressure of the lymphatic system.
+4A160BZ	We are monitoring the pressure of the lymphatic system.
+4A160BZ	We will monitor the pressure of the lymphatic system.
+4A1D73Z	We monitored the contractility of the urinary system.
+4A1D73Z	We are monitoring the contractility of the urinary system.
+4A1D73Z	We will monitor the contractility of the urinary system.
+4A1D75Z	We monitored the flow of the urinary system.
+4A1D75Z	We are monitoring the flow of the urinary system.
+4A1D75Z	We will monitor the flow of the urinary system.
+4A1D7BZ	We monitored the pressure of the urinary system.
+4A1D7BZ	We are monitoring the pressure of the urinary system.
+4A1D7BZ	We will monitor the pressure of the urinary system.
+4A1D7DZ	We monitored the resistance of the urinary system.
+4A1D7DZ	We are monitoring the resistance of the urinary system.
+4A1D7DZ	We will monitor the resistance of the urinary system.
+4A1GXSH	We monitored the vascular perfusion of the skin and breast.
+4A1GXSH	We are monitoring the vascular perfusion of the skin and breast.
+4A1GXSH	We will monitor the vascular perfusion of the skin and breast.
+4A1H74Z	We monitored the electrical activity of the products of conception.
+4A1H74Z	We are monitoring the electrical activity of the products of conception.
+4A1H74Z	We will monitor the electrical activity of the products of conception.
+4A1H7CZ	We monitored the rate of the products of conception.
+4A1H7CZ	We are monitoring the rate of the products of conception.
+4A1H7CZ	We will monitor the rate of the products of conception.
+4A1H7FZ	We monitored the rhythm of the products of conception.
+4A1H7FZ	We are monitoring the rhythm of the products of conception.
+4A1H7FZ	We will monitor the rhythm of the products of conception.
+4A1H7HZ	We monitored the sound of the products of conception.
+4A1H7HZ	We are monitoring the sound of the products of conception.
+4A1H7HZ	We will monitor the sound of the products of conception.
+4A1J72Z	We monitored the conductivity of the products of conception.
+4A1J72Z	We are monitoring the conductivity of the products of conception.
+4A1J72Z	We will monitor the conductivity of the products of conception.
+4A1J7BZ	We monitored the pressure of the products of conception.
+4A1J7BZ	We are monitoring the pressure of the products of conception.
+4A1J7BZ	We will monitor the pressure of the products of conception.
+4B0	We measured the physiological devices.
+4B0	We are measuring the physiological devices.
+4B0	We will measure the physiological devices.
+4B00XVZ	We measured the stimulator of the central nervous system.
+4B00XVZ	We are measuring the stimulator of the central nervous system.
+4B00XVZ	We will measure the stimulator of the central nervous system.
+4B00XW0	We measured the cerebrospinal fluid shunt of the central nervous system.
+4B00XW0	We are measuring the cerebrospinal fluid shunt of the central nervous system.
+4B00XW0	We will measure the cerebrospinal fluid shunt of the central nervous system.
+4B01XVZ	We measured the stimulator of the peripheral nervous system.
+4B01XVZ	We are measuring the stimulator of the peripheral nervous system.
+4B01XVZ	We will measure the stimulator of the peripheral nervous system.
+4B02XSZ	We measured the pacemaker of the cardiac system.
+4B02XSZ	We are measuring the pacemaker of the cardiac system.
+4B02XSZ	We will measure the pacemaker of the cardiac system.
+4B02XTZ	We measured the defibrillator of the cardiac system.
+4B02XTZ	We are measuring the defibrillator of the cardiac system.
+4B02XTZ	We will measure the defibrillator of the cardiac system.

@@ -1,0 +1,32 @@
+general surgeon
+orthopedic surgeon
+neurosurgeon
+cardiac surgeon
+vascular surgeon
+plastic surgeon
+urologist
+gynecologist
+otolaryngologist
+ophthalmologist
+anesthesiologist
+radiologist
+pathologist
+cardiologist
+gastroenterologist
+pulmonologist
+nephrologist
+endocrinologist
+oncologist
+hematologist
+rheumatologist
+dermatologist
+neurologist
+psychiatrist
+surgical resident
+attending physician
+nurse practitioner
+physician assistant
+surgical technologist
+scrub nurse
+circulating nurse
+perfusionist

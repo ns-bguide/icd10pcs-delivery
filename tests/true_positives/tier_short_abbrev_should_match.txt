@@ -1,0 +1,16 @@
+# TD-11 guardrail — short-abbreviation procedures that SHOULD match (protects against BP-1 over-correction)
+# Created 2026-06-01 by the grammar review (docs/review_2026-06-01.md F2.1).
+#
+# These are genuine procedures expressed with the same 2-char abbreviations that
+# BP-1 targets. All verified to FIRE on the 2026-06-01 build. A BP-1 fix that
+# makes these tokens case-sensitive or drops them must keep these matching
+# (the cardiac/anatomic abbreviations are conventionally uppercase: AV, MV, TV,
+# LV, AF, CN), while killing the lowercase-English collisions in
+# tests/false_positives/fp_composed_short_tokens.txt.
+av node ablation
+mv repair
+tv repair
+gb removal
+lv reconstruction
+af ablation
+cn decompression

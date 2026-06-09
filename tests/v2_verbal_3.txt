@@ -1,0 +1,1338 @@
+30233C0	We transfused the genetically modified hematopoietic stem/progenitor cells into the peripheral vein.
+30233C0	We are transfusing the genetically modified hematopoietic stem/progenitor cells into the peripheral vein.
+30233C0	We will transfuse the genetically modified hematopoietic stem/progenitor cells into the peripheral vein.
+30233D1	We transfused the pathogen reduced cryoprecipitated fibrinogen complex into the peripheral vein.
+30233D1	We are transfusing the pathogen reduced cryoprecipitated fibrinogen complex into the peripheral vein.
+30233D1	We will transfuse the pathogen reduced cryoprecipitated fibrinogen complex into the peripheral vein.
+30233G0	We transfused the bone marrow into the peripheral vein.
+30233G0	We are transfusing the bone marrow into the peripheral vein.
+30233G0	We will transfuse the bone marrow into the peripheral vein.
+30233H0	We transfused the whole blood into the peripheral vein.
+30233H0	We are transfusing the whole blood into the peripheral vein.
+30233H0	We will transfuse the whole blood into the peripheral vein.
+30233J0	We transfused the serum albumin into the peripheral vein.
+30233J0	We are transfusing the serum albumin into the peripheral vein.
+30233J0	We will transfuse the serum albumin into the peripheral vein.
+30233K0	We transfused the frozen plasma into the peripheral vein.
+30233K0	We are transfusing the frozen plasma into the peripheral vein.
+30233K0	We will transfuse the frozen plasma into the peripheral vein.
+30233M0	We transfused the plasma cryoprecipitate into the peripheral vein.
+30233M0	We are transfusing the plasma cryoprecipitate into the peripheral vein.
+30233M0	We will transfuse the plasma cryoprecipitate into the peripheral vein.
+30233N0	We transfused the red blood cells into the peripheral vein.
+30233N0	We are transfusing the red blood cells into the peripheral vein.
+30233N0	We will transfuse the red blood cells into the peripheral vein.
+30233P0	We transfused the frozen red cells into the peripheral vein.
+30233P0	We are transfusing the frozen red cells into the peripheral vein.
+30233P0	We will transfuse the frozen red cells into the peripheral vein.
+30233Q0	We transfused the white cells into the peripheral vein.
+30233Q0	We are transfusing the white cells into the peripheral vein.
+30233Q0	We will transfuse the white cells into the peripheral vein.
+30233R0	We transfused the platelets into the peripheral vein.
+30233R0	We are transfusing the platelets into the peripheral vein.
+30233R0	We will transfuse the platelets into the peripheral vein.
+30233S0	We transfused the globulin into the peripheral vein.
+30233S0	We are transfusing the globulin into the peripheral vein.
+30233S0	We will transfuse the globulin into the peripheral vein.
+30233T0	We transfused the fibrinogen into the peripheral vein.
+30233T0	We are transfusing the fibrinogen into the peripheral vein.
+30233T0	We will transfuse the fibrinogen into the peripheral vein.
+30233U2	We transfused the t-cell depleted hematopoietic stem cells into the peripheral vein.
+30233U2	We are transfusing the t-cell depleted hematopoietic stem cells into the peripheral vein.
+30233U2	We will transfuse the t-cell depleted hematopoietic stem cells into the peripheral vein.
+30233V0	We transfused the antihemophilic factors into the peripheral vein.
+30233V0	We are transfusing the antihemophilic factors into the peripheral vein.
+30233V0	We will transfuse the antihemophilic factors into the peripheral vein.
+30233W0	We transfused the factor ix into the peripheral vein.
+30233W0	We are transfusing the factor ix into the peripheral vein.
+30233W0	We will transfuse the factor ix into the peripheral vein.
+30233X0	We transfused the cord blood stem cells into the peripheral vein.
+30233X0	We are transfusing the cord blood stem cells into the peripheral vein.
+30233X0	We will transfuse the cord blood stem cells into the peripheral vein.
+30233Y0	We transfused the hematopoietic stem cells into the peripheral vein.
+30233Y0	We are transfusing the hematopoietic stem cells into the peripheral vein.
+30233Y0	We will transfuse the hematopoietic stem cells into the peripheral vein.
+30243C0	We transfused the genetically modified hematopoietic stem/progenitor cells into the central vein.
+30243C0	We are transfusing the genetically modified hematopoietic stem/progenitor cells into the central vein.
+30243C0	We will transfuse the genetically modified hematopoietic stem/progenitor cells into the central vein.
+30243D1	We transfused the pathogen reduced cryoprecipitated fibrinogen complex into the central vein.
+30243D1	We are transfusing the pathogen reduced cryoprecipitated fibrinogen complex into the central vein.
+30243D1	We will transfuse the pathogen reduced cryoprecipitated fibrinogen complex into the central vein.
+30243G0	We transfused the bone marrow into the central vein.
+30243G0	We are transfusing the bone marrow into the central vein.
+30243G0	We will transfuse the bone marrow into the central vein.
+30243H0	We transfused the whole blood into the central vein.
+30243H0	We are transfusing the whole blood into the central vein.
+30243H0	We will transfuse the whole blood into the central vein.
+30243J0	We transfused the serum albumin into the central vein.
+30243J0	We are transfusing the serum albumin into the central vein.
+30243J0	We will transfuse the serum albumin into the central vein.
+30243K0	We transfused the frozen plasma into the central vein.
+30243K0	We are transfusing the frozen plasma into the central vein.
+30243K0	We will transfuse the frozen plasma into the central vein.
+30243M0	We transfused the plasma cryoprecipitate into the central vein.
+30243M0	We are transfusing the plasma cryoprecipitate into the central vein.
+30243M0	We will transfuse the plasma cryoprecipitate into the central vein.
+30243N0	We transfused the red blood cells into the central vein.
+30243N0	We are transfusing the red blood cells into the central vein.
+30243N0	We will transfuse the red blood cells into the central vein.
+30243P0	We transfused the frozen red cells into the central vein.
+30243P0	We are transfusing the frozen red cells into the central vein.
+30243P0	We will transfuse the frozen red cells into the central vein.
+30243Q0	We transfused the white cells into the central vein.
+30243Q0	We are transfusing the white cells into the central vein.
+30243Q0	We will transfuse the white cells into the central vein.
+30243R0	We transfused the platelets into the central vein.
+30243R0	We are transfusing the platelets into the central vein.
+30243R0	We will transfuse the platelets into the central vein.
+30243S0	We transfused the globulin into the central vein.
+30243S0	We are transfusing the globulin into the central vein.
+30243S0	We will transfuse the globulin into the central vein.
+30243T0	We transfused the fibrinogen into the central vein.
+30243T0	We are transfusing the fibrinogen into the central vein.
+30243T0	We will transfuse the fibrinogen into the central vein.
+30243U2	We transfused the t-cell depleted hematopoietic stem cells into the central vein.
+30243U2	We are transfusing the t-cell depleted hematopoietic stem cells into the central vein.
+30243U2	We will transfuse the t-cell depleted hematopoietic stem cells into the central vein.
+30243V0	We transfused the antihemophilic factors into the central vein.
+30243V0	We are transfusing the antihemophilic factors into the central vein.
+30243V0	We will transfuse the antihemophilic factors into the central vein.
+30243W0	We transfused the factor ix into the central vein.
+30243W0	We are transfusing the factor ix into the central vein.
+30243W0	We will transfuse the factor ix into the central vein.
+30243X0	We transfused the cord blood stem cells into the central vein.
+30243X0	We are transfusing the cord blood stem cells into the central vein.
+30243X0	We will transfuse the cord blood stem cells into the central vein.
+30243Y0	We transfused the hematopoietic stem cells into the central vein.
+30243Y0	We are transfusing the hematopoietic stem cells into the central vein.
+30243Y0	We will transfuse the hematopoietic stem cells into the central vein.
+30273H1	We transfused the whole blood into the products of conception.
+30273H1	We are transfusing the whole blood into the products of conception.
+30273H1	We will transfuse the whole blood into the products of conception.
+30273J1	We transfused the serum albumin into the products of conception.
+30273J1	We are transfusing the serum albumin into the products of conception.
+30273J1	We will transfuse the serum albumin into the products of conception.
+30273K1	We transfused the frozen plasma into the products of conception.
+30273K1	We are transfusing the frozen plasma into the products of conception.
+30273K1	We will transfuse the frozen plasma into the products of conception.
+30273M1	We transfused the plasma cryoprecipitate into the products of conception.
+30273M1	We are transfusing the plasma cryoprecipitate into the products of conception.
+30273M1	We will transfuse the plasma cryoprecipitate into the products of conception.
+30273N1	We transfused the red blood cells into the products of conception.
+30273N1	We are transfusing the red blood cells into the products of conception.
+30273N1	We will transfuse the red blood cells into the products of conception.
+30273P1	We transfused the frozen red cells into the products of conception.
+30273P1	We are transfusing the frozen red cells into the products of conception.
+30273P1	We will transfuse the frozen red cells into the products of conception.
+30273Q1	We transfused the white cells into the products of conception.
+30273Q1	We are transfusing the white cells into the products of conception.
+30273Q1	We will transfuse the white cells into the products of conception.
+30273R1	We transfused the platelets into the products of conception.
+30273R1	We are transfusing the platelets into the products of conception.
+30273R1	We will transfuse the platelets into the products of conception.
+30273S1	We transfused the globulin into the products of conception.
+30273S1	We are transfusing the globulin into the products of conception.
+30273S1	We will transfuse the globulin into the products of conception.
+30273T1	We transfused the fibrinogen into the products of conception.
+30273T1	We are transfusing the fibrinogen into the products of conception.
+30273T1	We will transfuse the fibrinogen into the products of conception.
+30273V1	We transfused the antihemophilic factors into the products of conception.
+30273V1	We are transfusing the antihemophilic factors into the products of conception.
+30273V1	We will transfuse the antihemophilic factors into the products of conception.
+30273W1	We transfused the factor ix into the products of conception.
+30273W1	We are transfusing the factor ix into the products of conception.
+30273W1	We will transfuse the factor ix into the products of conception.
+30283B1	We transfused the 4-factor prothrombin complex concentrate into the vein.
+30283B1	We are transfusing the 4-factor prothrombin complex concentrate into the vein.
+30283B1	We will transfuse the 4-factor prothrombin complex concentrate into the vein.
+302A3H0	We transfused the whole blood into the bone marrow.
+302A3H0	We are transfusing the whole blood into the bone marrow.
+302A3H0	We will transfuse the whole blood into the bone marrow.
+302A3J0	We transfused the serum albumin into the bone marrow.
+302A3J0	We are transfusing the serum albumin into the bone marrow.
+302A3J0	We will transfuse the serum albumin into the bone marrow.
+302A3K0	We transfused the frozen plasma into the bone marrow.
+302A3K0	We are transfusing the frozen plasma into the bone marrow.
+302A3K0	We will transfuse the frozen plasma into the bone marrow.
+302A3N0	We transfused the red blood cells into the bone marrow.
+302A3N0	We are transfusing the red blood cells into the bone marrow.
+302A3N0	We will transfuse the red blood cells into the bone marrow.
+302A3P0	We transfused the frozen red cells into the bone marrow.
+302A3P0	We are transfusing the frozen red cells into the bone marrow.
+302A3P0	We will transfuse the frozen red cells into the bone marrow.
+302A3R0	We transfused the platelets into the bone marrow.
+302A3R0	We are transfusing the platelets into the bone marrow.
+302A3R0	We will transfuse the platelets into the bone marrow.
+3C1	We irrigated the indwelling device.
+3C1	We are irrigating the indwelling device.
+3C1	We will irrigate the indwelling device.
+3C1ZX8Z	We irrigated the irrigating substance.
+3C1ZX8Z	We are irrigating the irrigating substance.
+3C1ZX8Z	We will irrigate the irrigating substance.
+3E00X05	We introduced the antineoplastic into the skin and mucous membranes.
+3E00X05	We are introducing the antineoplastic into the skin and mucous membranes.
+3E00X05	We will introduce the antineoplastic into the skin and mucous membranes.
+3E00X28	We introduced the anti-infective into the skin and mucous membranes.
+3E00X28	We are introducing the anti-infective into the skin and mucous membranes.
+3E00X28	We will introduce the anti-infective into the skin and mucous membranes.
+3E00X3Z	We introduced the anti-inflammatory into the skin and mucous membranes.
+3E00X3Z	We are introducing the anti-inflammatory into the skin and mucous membranes.
+3E00X3Z	We will introduce the anti-inflammatory into the skin and mucous membranes.
+3E00X4Z	We introduced the toxoid and vaccine serum into the skin and mucous membranes.
+3E00X4Z	We are introducing the toxoid and vaccine serum into the skin and mucous membranes.
+3E00X4Z	We will introduce the toxoid and vaccine serum into the skin and mucous membranes.
+3E00XBZ	We introduced the anesthetic agent into the skin and mucous membranes.
+3E00XBZ	We are introducing the anesthetic agent into the skin and mucous membranes.
+3E00XBZ	We will introduce the anesthetic agent into the skin and mucous membranes.
+3E00XGC	We introduced the other therapeutic substance into the skin and mucous membranes.
+3E00XGC	We are introducing the other therapeutic substance into the skin and mucous membranes.
+3E00XGC	We will introduce the other therapeutic substance into the skin and mucous membranes.
+3E00XKZ	We introduced the other diagnostic substance into the skin and mucous membranes.
+3E00XKZ	We are introducing the other diagnostic substance into the skin and mucous membranes.
+3E00XKZ	We will introduce the other diagnostic substance into the skin and mucous membranes.
+3E00XMZ	We introduced the pigment into the skin and mucous membranes.
+3E00XMZ	We are introducing the pigment into the skin and mucous membranes.
+3E00XMZ	We will introduce the pigment into the skin and mucous membranes.
+3E00XNZ	We introduced the analgesics, hypnotics, sedatives into the skin and mucous membranes.
+3E00XNZ	We are introducing the analgesics, hypnotics, sedatives into the skin and mucous membranes.
+3E00XNZ	We will introduce the analgesics, hypnotics, sedatives into the skin and mucous membranes.
+3E00XTZ	We introduced the destructive agent into the skin and mucous membranes.
+3E00XTZ	We are introducing the destructive agent into the skin and mucous membranes.
+3E00XTZ	We will introduce the destructive agent into the skin and mucous membranes.
+3E0102A	We introduced the anti-infective into the subcutaneous tissue.
+3E0102A	We are introducing the anti-infective into the subcutaneous tissue.
+3E0102A	We will introduce the anti-infective into the subcutaneous tissue.
+3E01305	We introduced the antineoplastic into the subcutaneous tissue.
+3E01305	We are introducing the antineoplastic into the subcutaneous tissue.
+3E01305	We will introduce the antineoplastic into the subcutaneous tissue.
+3E0133Z	We introduced the anti-inflammatory into the subcutaneous tissue.
+3E0133Z	We are introducing the anti-inflammatory into the subcutaneous tissue.
+3E0133Z	We will introduce the anti-inflammatory into the subcutaneous tissue.
+3E01340	We introduced the toxoid and vaccine serum into the subcutaneous tissue.
+3E01340	We are introducing the toxoid and vaccine serum into the subcutaneous tissue.
+3E01340	We will introduce the toxoid and vaccine serum into the subcutaneous tissue.
+3E0136Z	We introduced the nutritional substance into the subcutaneous tissue.
+3E0136Z	We are introducing the nutritional substance into the subcutaneous tissue.
+3E0136Z	We will introduce the nutritional substance into the subcutaneous tissue.
+3E0137Z	We introduced the electrolytic and water balance substance into the subcutaneous tissue.
+3E0137Z	We are introducing the electrolytic and water balance substance into the subcutaneous tissue.
+3E0137Z	We will introduce the electrolytic and water balance substance into the subcutaneous tissue.
+3E013BZ	We introduced the anesthetic agent into the subcutaneous tissue.
+3E013BZ	We are introducing the anesthetic agent into the subcutaneous tissue.
+3E013BZ	We will introduce the anesthetic agent into the subcutaneous tissue.
+3E013GC	We introduced the other therapeutic substance into the subcutaneous tissue.
+3E013GC	We are introducing the other therapeutic substance into the subcutaneous tissue.
+3E013GC	We will introduce the other therapeutic substance into the subcutaneous tissue.
+3E013HZ	We introduced the radioactive substance into the subcutaneous tissue.
+3E013HZ	We are introducing the radioactive substance into the subcutaneous tissue.
+3E013HZ	We will introduce the radioactive substance into the subcutaneous tissue.
+3E013KZ	We introduced the other diagnostic substance into the subcutaneous tissue.
+3E013KZ	We are introducing the other diagnostic substance into the subcutaneous tissue.
+3E013KZ	We will introduce the other diagnostic substance into the subcutaneous tissue.
+3E013NZ	We introduced the analgesics, hypnotics, sedatives into the subcutaneous tissue.
+3E013NZ	We are introducing the analgesics, hypnotics, sedatives into the subcutaneous tissue.
+3E013NZ	We will introduce the analgesics, hypnotics, sedatives into the subcutaneous tissue.
+3E013TZ	We introduced the destructive agent into the subcutaneous tissue.
+3E013TZ	We are introducing the destructive agent into the subcutaneous tissue.
+3E013TZ	We will introduce the destructive agent into the subcutaneous tissue.
+3E013VG	We introduced the hormone into the subcutaneous tissue.
+3E013VG	We are introducing the hormone into the subcutaneous tissue.
+3E013VG	We will introduce the hormone into the subcutaneous tissue.
+3E02305	We introduced the antineoplastic into the muscle.
+3E02305	We are introducing the antineoplastic into the muscle.
+3E02305	We will introduce the antineoplastic into the muscle.
+3E02328	We introduced the anti-infective into the muscle.
+3E02328	We are introducing the anti-infective into the muscle.
+3E02328	We will introduce the anti-infective into the muscle.
+3E0233Z	We introduced the anti-inflammatory into the muscle.
+3E0233Z	We are introducing the anti-inflammatory into the muscle.
+3E0233Z	We will introduce the anti-inflammatory into the muscle.
+3E02340	We introduced the toxoid and vaccine serum into the muscle.
+3E02340	We are introducing the toxoid and vaccine serum into the muscle.
+3E02340	We will introduce the toxoid and vaccine serum into the muscle.
+3E0236Z	We introduced the nutritional substance into the muscle.
+3E0236Z	We are introducing the nutritional substance into the muscle.
+3E0236Z	We will introduce the nutritional substance into the muscle.
+3E0237Z	We introduced the electrolytic and water balance substance into the muscle.
+3E0237Z	We are introducing the electrolytic and water balance substance into the muscle.
+3E0237Z	We will introduce the electrolytic and water balance substance into the muscle.
+3E023BZ	We introduced the anesthetic agent into the muscle.
+3E023BZ	We are introducing the anesthetic agent into the muscle.
+3E023BZ	We will introduce the anesthetic agent into the muscle.
+3E023GC	We introduced the other therapeutic substance into the muscle.
+3E023GC	We are introducing the other therapeutic substance into the muscle.
+3E023GC	We will introduce the other therapeutic substance into the muscle.
+3E023HZ	We introduced the radioactive substance into the muscle.
+3E023HZ	We are introducing the radioactive substance into the muscle.
+3E023HZ	We will introduce the radioactive substance into the muscle.
+3E023KZ	We introduced the other diagnostic substance into the muscle.
+3E023KZ	We are introducing the other diagnostic substance into the muscle.
+3E023KZ	We will introduce the other diagnostic substance into the muscle.
+3E023NZ	We introduced the analgesics, hypnotics, sedatives into the muscle.
+3E023NZ	We are introducing the analgesics, hypnotics, sedatives into the muscle.
+3E023NZ	We will introduce the analgesics, hypnotics, sedatives into the muscle.
+3E023TZ	We introduced the destructive agent into the muscle.
+3E023TZ	We are introducing the destructive agent into the muscle.
+3E023TZ	We will introduce the destructive agent into the muscle.
+3E03002	We introduced the antineoplastic into the peripheral vein.
+3E03002	We are introducing the antineoplastic into the peripheral vein.
+3E03002	We will introduce the antineoplastic into the peripheral vein.
+3E03016	We introduced the thrombolytic into the peripheral vein.
+3E03016	We are introducing the thrombolytic into the peripheral vein.
+3E03016	We will introduce the thrombolytic into the peripheral vein.
+3E03028	We introduced the anti-infective into the peripheral vein.
+3E03028	We are introducing the anti-infective into the peripheral vein.
+3E03028	We will introduce the anti-infective into the peripheral vein.
+3E0303Z	We introduced the anti-inflammatory into the peripheral vein.
+3E0303Z	We are introducing the anti-inflammatory into the peripheral vein.
+3E0303Z	We will introduce the anti-inflammatory into the peripheral vein.
+3E0304Z	We introduced the toxoid and vaccine serum into the peripheral vein.
+3E0304Z	We are introducing the toxoid and vaccine serum into the peripheral vein.
+3E0304Z	We will introduce the toxoid and vaccine serum into the peripheral vein.
+3E0306Z	We introduced the nutritional substance into the peripheral vein.
+3E0306Z	We are introducing the nutritional substance into the peripheral vein.
+3E0306Z	We will introduce the nutritional substance into the peripheral vein.
+3E0307Z	We introduced the electrolytic and water balance substance into the peripheral vein.
+3E0307Z	We are introducing the electrolytic and water balance substance into the peripheral vein.
+3E0307Z	We will introduce the electrolytic and water balance substance into the peripheral vein.
+3E030FZ	We introduced the intracirculatory anesthetic into the peripheral vein.
+3E030FZ	We are introducing the intracirculatory anesthetic into the peripheral vein.
+3E030FZ	We will introduce the intracirculatory anesthetic into the peripheral vein.
+3E030GC	We introduced the other therapeutic substance into the peripheral vein.
+3E030GC	We are introducing the other therapeutic substance into the peripheral vein.
+3E030GC	We will introduce the other therapeutic substance into the peripheral vein.
+3E030HZ	We introduced the radioactive substance into the peripheral vein.
+3E030HZ	We are introducing the radioactive substance into the peripheral vein.
+3E030HZ	We will introduce the radioactive substance into the peripheral vein.
+3E030KZ	We introduced the other diagnostic substance into the peripheral vein.
+3E030KZ	We are introducing the other diagnostic substance into the peripheral vein.
+3E030KZ	We will introduce the other diagnostic substance into the peripheral vein.
+3E030NZ	We introduced the analgesics, hypnotics, sedatives into the peripheral vein.
+3E030NZ	We are introducing the analgesics, hypnotics, sedatives into the peripheral vein.
+3E030NZ	We will introduce the analgesics, hypnotics, sedatives into the peripheral vein.
+3E030PZ	We introduced the platelet inhibitor into the peripheral vein.
+3E030PZ	We are introducing the platelet inhibitor into the peripheral vein.
+3E030PZ	We will introduce the platelet inhibitor into the peripheral vein.
+3E030RZ	We introduced the antiarrhythmic into the peripheral vein.
+3E030RZ	We are introducing the antiarrhythmic into the peripheral vein.
+3E030RZ	We will introduce the antiarrhythmic into the peripheral vein.
+3E030TZ	We introduced the destructive agent into the peripheral vein.
+3E030TZ	We are introducing the destructive agent into the peripheral vein.
+3E030TZ	We will introduce the destructive agent into the peripheral vein.
+3E030U0	We introduced the pancreatic islet cells into the peripheral vein.
+3E030U0	We are introducing the pancreatic islet cells into the peripheral vein.
+3E030U0	We will introduce the pancreatic islet cells into the peripheral vein.
+3E030VG	We introduced the hormone into the peripheral vein.
+3E030VG	We are introducing the hormone into the peripheral vein.
+3E030VG	We will introduce the hormone into the peripheral vein.
+3E030WK	We introduced the immunotherapeutic into the peripheral vein.
+3E030WK	We are introducing the immunotherapeutic into the peripheral vein.
+3E030WK	We will introduce the immunotherapeutic into the peripheral vein.
+3E030XZ	We introduced the vasopressor into the peripheral vein.
+3E030XZ	We are introducing the vasopressor into the peripheral vein.
+3E030XZ	We will introduce the vasopressor into the peripheral vein.
+3E033AZ	We introduced the embryonic stem cells into the peripheral vein.
+3E033AZ	We are introducing the embryonic stem cells into the peripheral vein.
+3E033AZ	We will introduce the embryonic stem cells into the peripheral vein.
+3E04002	We introduced the antineoplastic into the central vein.
+3E04002	We are introducing the antineoplastic into the central vein.
+3E04002	We will introduce the antineoplastic into the central vein.
+3E04016	We introduced the thrombolytic into the central vein.
+3E04016	We are introducing the thrombolytic into the central vein.
+3E04016	We will introduce the thrombolytic into the central vein.
+3E04028	We introduced the anti-infective into the central vein.
+3E04028	We are introducing the anti-infective into the central vein.
+3E04028	We will introduce the anti-infective into the central vein.
+3E0403Z	We introduced the anti-inflammatory into the central vein.
+3E0403Z	We are introducing the anti-inflammatory into the central vein.
+3E0403Z	We will introduce the anti-inflammatory into the central vein.
+3E0404Z	We introduced the toxoid and vaccine serum into the central vein.
+3E0404Z	We are introducing the toxoid and vaccine serum into the central vein.
+3E0404Z	We will introduce the toxoid and vaccine serum into the central vein.
+3E0406Z	We introduced the nutritional substance into the central vein.
+3E0406Z	We are introducing the nutritional substance into the central vein.
+3E0406Z	We will introduce the nutritional substance into the central vein.
+3E0407Z	We introduced the electrolytic and water balance substance into the central vein.
+3E0407Z	We are introducing the electrolytic and water balance substance into the central vein.
+3E0407Z	We will introduce the electrolytic and water balance substance into the central vein.
+3E040FZ	We introduced the intracirculatory anesthetic into the central vein.
+3E040FZ	We are introducing the intracirculatory anesthetic into the central vein.
+3E040FZ	We will introduce the intracirculatory anesthetic into the central vein.
+3E040GC	We introduced the other therapeutic substance into the central vein.
+3E040GC	We are introducing the other therapeutic substance into the central vein.
+3E040GC	We will introduce the other therapeutic substance into the central vein.
+3E040HZ	We introduced the radioactive substance into the central vein.
+3E040HZ	We are introducing the radioactive substance into the central vein.
+3E040HZ	We will introduce the radioactive substance into the central vein.
+3E040KZ	We introduced the other diagnostic substance into the central vein.
+3E040KZ	We are introducing the other diagnostic substance into the central vein.
+3E040KZ	We will introduce the other diagnostic substance into the central vein.
+3E040NZ	We introduced the analgesics, hypnotics, sedatives into the central vein.
+3E040NZ	We are introducing the analgesics, hypnotics, sedatives into the central vein.
+3E040NZ	We will introduce the analgesics, hypnotics, sedatives into the central vein.
+3E040PZ	We introduced the platelet inhibitor into the central vein.
+3E040PZ	We are introducing the platelet inhibitor into the central vein.
+3E040PZ	We will introduce the platelet inhibitor into the central vein.
+3E040RZ	We introduced the antiarrhythmic into the central vein.
+3E040RZ	We are introducing the antiarrhythmic into the central vein.
+3E040RZ	We will introduce the antiarrhythmic into the central vein.
+3E040TZ	We introduced the destructive agent into the central vein.
+3E040TZ	We are introducing the destructive agent into the central vein.
+3E040TZ	We will introduce the destructive agent into the central vein.
+3E040VG	We introduced the hormone into the central vein.
+3E040VG	We are introducing the hormone into the central vein.
+3E040VG	We will introduce the hormone into the central vein.
+3E040WK	We introduced the immunotherapeutic into the central vein.
+3E040WK	We are introducing the immunotherapeutic into the central vein.
+3E040WK	We will introduce the immunotherapeutic into the central vein.
+3E040XZ	We introduced the vasopressor into the central vein.
+3E040XZ	We are introducing the vasopressor into the central vein.
+3E040XZ	We will introduce the vasopressor into the central vein.
+3E043AZ	We introduced the embryonic stem cells into the central vein.
+3E043AZ	We are introducing the embryonic stem cells into the central vein.
+3E043AZ	We will introduce the embryonic stem cells into the central vein.
+3E05002	We introduced the antineoplastic into the peripheral artery.
+3E05002	We are introducing the antineoplastic into the peripheral artery.
+3E05002	We will introduce the antineoplastic into the peripheral artery.
+3E05016	We introduced the thrombolytic into the peripheral artery.
+3E05016	We are introducing the thrombolytic into the peripheral artery.
+3E05016	We will introduce the thrombolytic into the peripheral artery.
+3E05028	We introduced the anti-infective into the peripheral artery.
+3E05028	We are introducing the anti-infective into the peripheral artery.
+3E05028	We will introduce the anti-infective into the peripheral artery.
+3E0503Z	We introduced the anti-inflammatory into the peripheral artery.
+3E0503Z	We are introducing the anti-inflammatory into the peripheral artery.
+3E0503Z	We will introduce the anti-inflammatory into the peripheral artery.
+3E0504Z	We introduced the toxoid and vaccine serum into the peripheral artery.
+3E0504Z	We are introducing the toxoid and vaccine serum into the peripheral artery.
+3E0504Z	We will introduce the toxoid and vaccine serum into the peripheral artery.
+3E0506Z	We introduced the nutritional substance into the peripheral artery.
+3E0506Z	We are introducing the nutritional substance into the peripheral artery.
+3E0506Z	We will introduce the nutritional substance into the peripheral artery.
+3E0507Z	We introduced the electrolytic and water balance substance into the peripheral artery.
+3E0507Z	We are introducing the electrolytic and water balance substance into the peripheral artery.
+3E0507Z	We will introduce the electrolytic and water balance substance into the peripheral artery.
+3E050FZ	We introduced the intracirculatory anesthetic into the peripheral artery.
+3E050FZ	We are introducing the intracirculatory anesthetic into the peripheral artery.
+3E050FZ	We will introduce the intracirculatory anesthetic into the peripheral artery.
+3E050GC	We introduced the other therapeutic substance into the peripheral artery.
+3E050GC	We are introducing the other therapeutic substance into the peripheral artery.
+3E050GC	We will introduce the other therapeutic substance into the peripheral artery.
+3E050HZ	We introduced the radioactive substance into the peripheral artery.
+3E050HZ	We are introducing the radioactive substance into the peripheral artery.
+3E050HZ	We will introduce the radioactive substance into the peripheral artery.
+3E050KZ	We introduced the other diagnostic substance into the peripheral artery.
+3E050KZ	We are introducing the other diagnostic substance into the peripheral artery.
+3E050KZ	We will introduce the other diagnostic substance into the peripheral artery.
+3E050NZ	We introduced the analgesics, hypnotics, sedatives into the peripheral artery.
+3E050NZ	We are introducing the analgesics, hypnotics, sedatives into the peripheral artery.
+3E050NZ	We will introduce the analgesics, hypnotics, sedatives into the peripheral artery.
+3E050PZ	We introduced the platelet inhibitor into the peripheral artery.
+3E050PZ	We are introducing the platelet inhibitor into the peripheral artery.
+3E050PZ	We will introduce the platelet inhibitor into the peripheral artery.
+3E050RZ	We introduced the antiarrhythmic into the peripheral artery.
+3E050RZ	We are introducing the antiarrhythmic into the peripheral artery.
+3E050RZ	We will introduce the antiarrhythmic into the peripheral artery.
+3E050TZ	We introduced the destructive agent into the peripheral artery.
+3E050TZ	We are introducing the destructive agent into the peripheral artery.
+3E050TZ	We will introduce the destructive agent into the peripheral artery.
+3E050VG	We introduced the hormone into the peripheral artery.
+3E050VG	We are introducing the hormone into the peripheral artery.
+3E050VG	We will introduce the hormone into the peripheral artery.
+3E050WK	We introduced the immunotherapeutic into the peripheral artery.
+3E050WK	We are introducing the immunotherapeutic into the peripheral artery.
+3E050WK	We will introduce the immunotherapeutic into the peripheral artery.
+3E050XZ	We introduced the vasopressor into the peripheral artery.
+3E050XZ	We are introducing the vasopressor into the peripheral artery.
+3E050XZ	We will introduce the vasopressor into the peripheral artery.
+3E06002	We introduced the antineoplastic into the central artery.
+3E06002	We are introducing the antineoplastic into the central artery.
+3E06002	We will introduce the antineoplastic into the central artery.
+3E06016	We introduced the thrombolytic into the central artery.
+3E06016	We are introducing the thrombolytic into the central artery.
+3E06016	We will introduce the thrombolytic into the central artery.
+3E06028	We introduced the anti-infective into the central artery.
+3E06028	We are introducing the anti-infective into the central artery.
+3E06028	We will introduce the anti-infective into the central artery.
+3E0603Z	We introduced the anti-inflammatory into the central artery.
+3E0603Z	We are introducing the anti-inflammatory into the central artery.
+3E0603Z	We will introduce the anti-inflammatory into the central artery.
+3E0604Z	We introduced the toxoid and vaccine serum into the central artery.
+3E0604Z	We are introducing the toxoid and vaccine serum into the central artery.
+3E0604Z	We will introduce the toxoid and vaccine serum into the central artery.
+3E0606Z	We introduced the nutritional substance into the central artery.
+3E0606Z	We are introducing the nutritional substance into the central artery.
+3E0606Z	We will introduce the nutritional substance into the central artery.
+3E0607Z	We introduced the electrolytic and water balance substance into the central artery.
+3E0607Z	We are introducing the electrolytic and water balance substance into the central artery.
+3E0607Z	We will introduce the electrolytic and water balance substance into the central artery.
+3E060FZ	We introduced the intracirculatory anesthetic into the central artery.
+3E060FZ	We are introducing the intracirculatory anesthetic into the central artery.
+3E060FZ	We will introduce the intracirculatory anesthetic into the central artery.
+3E060GC	We introduced the other therapeutic substance into the central artery.
+3E060GC	We are introducing the other therapeutic substance into the central artery.
+3E060GC	We will introduce the other therapeutic substance into the central artery.
+3E060HZ	We introduced the radioactive substance into the central artery.
+3E060HZ	We are introducing the radioactive substance into the central artery.
+3E060HZ	We will introduce the radioactive substance into the central artery.
+3E060KZ	We introduced the other diagnostic substance into the central artery.
+3E060KZ	We are introducing the other diagnostic substance into the central artery.
+3E060KZ	We will introduce the other diagnostic substance into the central artery.
+3E060NZ	We introduced the analgesics, hypnotics, sedatives into the central artery.
+3E060NZ	We are introducing the analgesics, hypnotics, sedatives into the central artery.
+3E060NZ	We will introduce the analgesics, hypnotics, sedatives into the central artery.
+3E060PZ	We introduced the platelet inhibitor into the central artery.
+3E060PZ	We are introducing the platelet inhibitor into the central artery.
+3E060PZ	We will introduce the platelet inhibitor into the central artery.
+3E060RZ	We introduced the antiarrhythmic into the central artery.
+3E060RZ	We are introducing the antiarrhythmic into the central artery.
+3E060RZ	We will introduce the antiarrhythmic into the central artery.
+3E060TZ	We introduced the destructive agent into the central artery.
+3E060TZ	We are introducing the destructive agent into the central artery.
+3E060TZ	We will introduce the destructive agent into the central artery.
+3E060VG	We introduced the hormone into the central artery.
+3E060VG	We are introducing the hormone into the central artery.
+3E060VG	We will introduce the hormone into the central artery.
+3E060WK	We introduced the immunotherapeutic into the central artery.
+3E060WK	We are introducing the immunotherapeutic into the central artery.
+3E060WK	We will introduce the immunotherapeutic into the central artery.
+3E060XZ	We introduced the vasopressor into the central artery.
+3E060XZ	We are introducing the vasopressor into the central artery.
+3E060XZ	We will introduce the vasopressor into the central artery.
+3E07016	We introduced the thrombolytic into the coronary artery.
+3E07016	We are introducing the thrombolytic into the coronary artery.
+3E07016	We will introduce the thrombolytic into the coronary artery.
+3E070GC	We introduced the other therapeutic substance into the coronary artery.
+3E070GC	We are introducing the other therapeutic substance into the coronary artery.
+3E070GC	We will introduce the other therapeutic substance into the coronary artery.
+3E070KZ	We introduced the other diagnostic substance into the coronary artery.
+3E070KZ	We are introducing the other diagnostic substance into the coronary artery.
+3E070KZ	We will introduce the other diagnostic substance into the coronary artery.
+3E070PZ	We introduced the platelet inhibitor into the coronary artery.
+3E070PZ	We are introducing the platelet inhibitor into the coronary artery.
+3E070PZ	We will introduce the platelet inhibitor into the coronary artery.
+3E08016	We introduced the thrombolytic into the heart.
+3E08016	We are introducing the thrombolytic into the heart.
+3E08016	We will introduce the thrombolytic into the heart.
+3E080GC	We introduced the other therapeutic substance into the heart.
+3E080GC	We are introducing the other therapeutic substance into the heart.
+3E080GC	We will introduce the other therapeutic substance into the heart.
+3E080KZ	We introduced the other diagnostic substance into the heart.
+3E080KZ	We are introducing the other diagnostic substance into the heart.
+3E080KZ	We will introduce the other diagnostic substance into the heart.
+3E080PZ	We introduced the platelet inhibitor into the heart.
+3E080PZ	We are introducing the platelet inhibitor into the heart.
+3E080PZ	We will introduce the platelet inhibitor into the heart.
+3E09305	We introduced the antineoplastic into the nose.
+3E09305	We are introducing the antineoplastic into the nose.
+3E09305	We will introduce the antineoplastic into the nose.
+3E09328	We introduced the anti-infective into the nose.
+3E09328	We are introducing the anti-infective into the nose.
+3E09328	We will introduce the anti-infective into the nose.
+3E0933Z	We introduced the anti-inflammatory into the nose.
+3E0933Z	We are introducing the anti-inflammatory into the nose.
+3E0933Z	We will introduce the anti-inflammatory into the nose.
+3E0934Z	We introduced the toxoid and vaccine serum into the nose.
+3E0934Z	We are introducing the toxoid and vaccine serum into the nose.
+3E0934Z	We will introduce the toxoid and vaccine serum into the nose.
+3E093BZ	We introduced the anesthetic agent into the nose.
+3E093BZ	We are introducing the anesthetic agent into the nose.
+3E093BZ	We will introduce the anesthetic agent into the nose.
+3E093GC	We introduced the other therapeutic substance into the nose.
+3E093GC	We are introducing the other therapeutic substance into the nose.
+3E093GC	We will introduce the other therapeutic substance into the nose.
+3E093HZ	We introduced the radioactive substance into the nose.
+3E093HZ	We are introducing the radioactive substance into the nose.
+3E093HZ	We will introduce the radioactive substance into the nose.
+3E093KZ	We introduced the other diagnostic substance into the nose.
+3E093KZ	We are introducing the other diagnostic substance into the nose.
+3E093KZ	We will introduce the other diagnostic substance into the nose.
+3E093NZ	We introduced the analgesics, hypnotics, sedatives into the nose.
+3E093NZ	We are introducing the analgesics, hypnotics, sedatives into the nose.
+3E093NZ	We will introduce the analgesics, hypnotics, sedatives into the nose.
+3E093TZ	We introduced the destructive agent into the nose.
+3E093TZ	We are introducing the destructive agent into the nose.
+3E093TZ	We will introduce the destructive agent into the nose.
+3E0A305	We introduced the antineoplastic into the bone marrow.
+3E0A305	We are introducing the antineoplastic into the bone marrow.
+3E0A305	We will introduce the antineoplastic into the bone marrow.
+3E0A3GC	We introduced the other therapeutic substance into the bone marrow.
+3E0A3GC	We are introducing the other therapeutic substance into the bone marrow.
+3E0A3GC	We will introduce the other therapeutic substance into the bone marrow.
+3E0B304	We introduced the antineoplastic into the ear.
+3E0B304	We are introducing the antineoplastic into the ear.
+3E0B304	We will introduce the antineoplastic into the ear.
+3E0B328	We introduced the anti-infective into the ear.
+3E0B328	We are introducing the anti-infective into the ear.
+3E0B328	We will introduce the anti-infective into the ear.
+3E0B33Z	We introduced the anti-inflammatory into the ear.
+3E0B33Z	We are introducing the anti-inflammatory into the ear.
+3E0B33Z	We will introduce the anti-inflammatory into the ear.
+3E0B3BZ	We introduced the anesthetic agent into the ear.
+3E0B3BZ	We are introducing the anesthetic agent into the ear.
+3E0B3BZ	We will introduce the anesthetic agent into the ear.
+3E0B3GC	We introduced the other therapeutic substance into the ear.
+3E0B3GC	We are introducing the other therapeutic substance into the ear.
+3E0B3GC	We will introduce the other therapeutic substance into the ear.
+3E0B3HZ	We introduced the radioactive substance into the ear.
+3E0B3HZ	We are introducing the radioactive substance into the ear.
+3E0B3HZ	We will introduce the radioactive substance into the ear.
+3E0B3KZ	We introduced the other diagnostic substance into the ear.
+3E0B3KZ	We are introducing the other diagnostic substance into the ear.
+3E0B3KZ	We will introduce the other diagnostic substance into the ear.
+3E0B3NZ	We introduced the analgesics, hypnotics, sedatives into the ear.
+3E0B3NZ	We are introducing the analgesics, hypnotics, sedatives into the ear.
+3E0B3NZ	We will introduce the analgesics, hypnotics, sedatives into the ear.
+3E0B3TZ	We introduced the destructive agent into the ear.
+3E0B3TZ	We are introducing the destructive agent into the ear.
+3E0B3TZ	We will introduce the destructive agent into the ear.
+3E0C304	We introduced the antineoplastic into the eye.
+3E0C304	We are introducing the antineoplastic into the eye.
+3E0C304	We will introduce the antineoplastic into the eye.
+3E0C328	We introduced the anti-infective into the eye.
+3E0C328	We are introducing the anti-infective into the eye.
+3E0C328	We will introduce the anti-infective into the eye.
+3E0C33Z	We introduced the anti-inflammatory into the eye.
+3E0C33Z	We are introducing the anti-inflammatory into the eye.
+3E0C33Z	We will introduce the anti-inflammatory into the eye.
+3E0C3BZ	We introduced the anesthetic agent into the eye.
+3E0C3BZ	We are introducing the anesthetic agent into the eye.
+3E0C3BZ	We will introduce the anesthetic agent into the eye.
+3E0C3GC	We introduced the other therapeutic substance into the eye.
+3E0C3GC	We are introducing the other therapeutic substance into the eye.
+3E0C3GC	We will introduce the other therapeutic substance into the eye.
+3E0C3HZ	We introduced the radioactive substance into the eye.
+3E0C3HZ	We are introducing the radioactive substance into the eye.
+3E0C3HZ	We will introduce the radioactive substance into the eye.
+3E0C3KZ	We introduced the other diagnostic substance into the eye.
+3E0C3KZ	We are introducing the other diagnostic substance into the eye.
+3E0C3KZ	We will introduce the other diagnostic substance into the eye.
+3E0C3MZ	We introduced the pigment into the eye.
+3E0C3MZ	We are introducing the pigment into the eye.
+3E0C3MZ	We will introduce the pigment into the eye.
+3E0C3NZ	We introduced the analgesics, hypnotics, sedatives into the eye.
+3E0C3NZ	We are introducing the analgesics, hypnotics, sedatives into the eye.
+3E0C3NZ	We will introduce the analgesics, hypnotics, sedatives into the eye.
+3E0C3SF	We introduced the gas into the eye.
+3E0C3SF	We are introducing the gas into the eye.
+3E0C3SF	We will introduce the gas into the eye.
+3E0C3TZ	We introduced the destructive agent into the eye.
+3E0C3TZ	We are introducing the destructive agent into the eye.
+3E0C3TZ	We will introduce the destructive agent into the eye.
+3E0D304	We introduced the antineoplastic into the mouth and pharynx.
+3E0D304	We are introducing the antineoplastic into the mouth and pharynx.
+3E0D304	We will introduce the antineoplastic into the mouth and pharynx.
+3E0D328	We introduced the anti-infective into the mouth and pharynx.
+3E0D328	We are introducing the anti-infective into the mouth and pharynx.
+3E0D328	We will introduce the anti-infective into the mouth and pharynx.
+3E0D33Z	We introduced the anti-inflammatory into the mouth and pharynx.
+3E0D33Z	We are introducing the anti-inflammatory into the mouth and pharynx.
+3E0D33Z	We will introduce the anti-inflammatory into the mouth and pharynx.
+3E0D34Z	We introduced the toxoid and vaccine serum into the mouth and pharynx.
+3E0D34Z	We are introducing the toxoid and vaccine serum into the mouth and pharynx.
+3E0D34Z	We will introduce the toxoid and vaccine serum into the mouth and pharynx.
+3E0D36Z	We introduced the nutritional substance into the mouth and pharynx.
+3E0D36Z	We are introducing the nutritional substance into the mouth and pharynx.
+3E0D36Z	We will introduce the nutritional substance into the mouth and pharynx.
+3E0D37Z	We introduced the electrolytic and water balance substance into the mouth and pharynx.
+3E0D37Z	We are introducing the electrolytic and water balance substance into the mouth and pharynx.
+3E0D37Z	We will introduce the electrolytic and water balance substance into the mouth and pharynx.
+3E0D3BZ	We introduced the anesthetic agent into the mouth and pharynx.
+3E0D3BZ	We are introducing the anesthetic agent into the mouth and pharynx.
+3E0D3BZ	We will introduce the anesthetic agent into the mouth and pharynx.
+3E0D3GC	We introduced the other therapeutic substance into the mouth and pharynx.
+3E0D3GC	We are introducing the other therapeutic substance into the mouth and pharynx.
+3E0D3GC	We will introduce the other therapeutic substance into the mouth and pharynx.
+3E0D3HZ	We introduced the radioactive substance into the mouth and pharynx.
+3E0D3HZ	We are introducing the radioactive substance into the mouth and pharynx.
+3E0D3HZ	We will introduce the radioactive substance into the mouth and pharynx.
+3E0D3KZ	We introduced the other diagnostic substance into the mouth and pharynx.
+3E0D3KZ	We are introducing the other diagnostic substance into the mouth and pharynx.
+3E0D3KZ	We will introduce the other diagnostic substance into the mouth and pharynx.
+3E0D3NZ	We introduced the analgesics, hypnotics, sedatives into the mouth and pharynx.
+3E0D3NZ	We are introducing the analgesics, hypnotics, sedatives into the mouth and pharynx.
+3E0D3NZ	We will introduce the analgesics, hypnotics, sedatives into the mouth and pharynx.
+3E0D3RZ	We introduced the antiarrhythmic into the mouth and pharynx.
+3E0D3RZ	We are introducing the antiarrhythmic into the mouth and pharynx.
+3E0D3RZ	We will introduce the antiarrhythmic into the mouth and pharynx.
+3E0D3TZ	We introduced the destructive agent into the mouth and pharynx.
+3E0D3TZ	We are introducing the destructive agent into the mouth and pharynx.
+3E0D3TZ	We will introduce the destructive agent into the mouth and pharynx.
+3E0E304	We introduced the antineoplastic into the products of conception.
+3E0E304	We are introducing the antineoplastic into the products of conception.
+3E0E304	We will introduce the antineoplastic into the products of conception.
+3E0E328	We introduced the anti-infective into the products of conception.
+3E0E328	We are introducing the anti-infective into the products of conception.
+3E0E328	We will introduce the anti-infective into the products of conception.
+3E0E33Z	We introduced the anti-inflammatory into the products of conception.
+3E0E33Z	We are introducing the anti-inflammatory into the products of conception.
+3E0E33Z	We will introduce the anti-inflammatory into the products of conception.
+3E0E36Z	We introduced the nutritional substance into the products of conception.
+3E0E36Z	We are introducing the nutritional substance into the products of conception.
+3E0E36Z	We will introduce the nutritional substance into the products of conception.
+3E0E37Z	We introduced the electrolytic and water balance substance into the products of conception.
+3E0E37Z	We are introducing the electrolytic and water balance substance into the products of conception.
+3E0E37Z	We will introduce the electrolytic and water balance substance into the products of conception.
+3E0E3BZ	We introduced the anesthetic agent into the products of conception.
+3E0E3BZ	We are introducing the anesthetic agent into the products of conception.
+3E0E3BZ	We will introduce the anesthetic agent into the products of conception.
+3E0E3GC	We introduced the other therapeutic substance into the products of conception.
+3E0E3GC	We are introducing the other therapeutic substance into the products of conception.
+3E0E3GC	We will introduce the other therapeutic substance into the products of conception.
+3E0E3HZ	We introduced the radioactive substance into the products of conception.
+3E0E3HZ	We are introducing the radioactive substance into the products of conception.
+3E0E3HZ	We will introduce the radioactive substance into the products of conception.
+3E0E3KZ	We introduced the other diagnostic substance into the products of conception.
+3E0E3KZ	We are introducing the other diagnostic substance into the products of conception.
+3E0E3KZ	We will introduce the other diagnostic substance into the products of conception.
+3E0E3NZ	We introduced the analgesics, hypnotics, sedatives into the products of conception.
+3E0E3NZ	We are introducing the analgesics, hypnotics, sedatives into the products of conception.
+3E0E3NZ	We will introduce the analgesics, hypnotics, sedatives into the products of conception.
+3E0E3SF	We introduced the gas into the products of conception.
+3E0E3SF	We are introducing the gas into the products of conception.
+3E0E3SF	We will introduce the gas into the products of conception.
+3E0E3TZ	We introduced the destructive agent into the products of conception.
+3E0E3TZ	We are introducing the destructive agent into the products of conception.
+3E0E3TZ	We will introduce the destructive agent into the products of conception.
+3E0F304	We introduced the antineoplastic into the respiratory system tract.
+3E0F304	We are introducing the antineoplastic into the respiratory system tract.
+3E0F304	We will introduce the antineoplastic into the respiratory system tract.
+3E0F328	We introduced the anti-infective into the respiratory system tract.
+3E0F328	We are introducing the anti-infective into the respiratory system tract.
+3E0F328	We will introduce the anti-infective into the respiratory system tract.
+3E0F33Z	We introduced the anti-inflammatory into the respiratory system tract.
+3E0F33Z	We are introducing the anti-inflammatory into the respiratory system tract.
+3E0F33Z	We will introduce the anti-inflammatory into the respiratory system tract.
+3E0F36Z	We introduced the nutritional substance into the respiratory system tract.
+3E0F36Z	We are introducing the nutritional substance into the respiratory system tract.
+3E0F36Z	We will introduce the nutritional substance into the respiratory system tract.
+3E0F37Z	We introduced the electrolytic and water balance substance into the respiratory system tract.
+3E0F37Z	We are introducing the electrolytic and water balance substance into the respiratory system tract.
+3E0F37Z	We will introduce the electrolytic and water balance substance into the respiratory system tract.
+3E0F3BZ	We introduced the anesthetic agent into the respiratory system tract.
+3E0F3BZ	We are introducing the anesthetic agent into the respiratory system tract.
+3E0F3BZ	We will introduce the anesthetic agent into the respiratory system tract.
+3E0F3GC	We introduced the other therapeutic substance into the respiratory system tract.
+3E0F3GC	We are introducing the other therapeutic substance into the respiratory system tract.
+3E0F3GC	We will introduce the other therapeutic substance into the respiratory system tract.
+3E0F3HZ	We introduced the radioactive substance into the respiratory system tract.
+3E0F3HZ	We are introducing the radioactive substance into the respiratory system tract.
+3E0F3HZ	We will introduce the radioactive substance into the respiratory system tract.
+3E0F3KZ	We introduced the other diagnostic substance into the respiratory system tract.
+3E0F3KZ	We are introducing the other diagnostic substance into the respiratory system tract.
+3E0F3KZ	We will introduce the other diagnostic substance into the respiratory system tract.
+3E0F3NZ	We introduced the analgesics, hypnotics, sedatives into the respiratory system tract.
+3E0F3NZ	We are introducing the analgesics, hypnotics, sedatives into the respiratory system tract.
+3E0F3NZ	We will introduce the analgesics, hypnotics, sedatives into the respiratory system tract.
+3E0F3SD	We introduced the gas into the respiratory system tract.
+3E0F3SD	We are introducing the gas into the respiratory system tract.
+3E0F3SD	We will introduce the gas into the respiratory system tract.
+3E0F3TZ	We introduced the destructive agent into the respiratory system tract.
+3E0F3TZ	We are introducing the destructive agent into the respiratory system tract.
+3E0F3TZ	We will introduce the destructive agent into the respiratory system tract.
+3E0G304	We introduced the antineoplastic into the upper gi.
+3E0G304	We are introducing the antineoplastic into the upper gi.
+3E0G304	We will introduce the antineoplastic into the upper gi.
+3E0G328	We introduced the anti-infective into the upper gi.
+3E0G328	We are introducing the anti-infective into the upper gi.
+3E0G328	We will introduce the anti-infective into the upper gi.
+3E0G33Z	We introduced the anti-inflammatory into the upper gi.
+3E0G33Z	We are introducing the anti-inflammatory into the upper gi.
+3E0G33Z	We will introduce the anti-inflammatory into the upper gi.
+3E0G36Z	We introduced the nutritional substance into the upper gi.
+3E0G36Z	We are introducing the nutritional substance into the upper gi.
+3E0G36Z	We will introduce the nutritional substance into the upper gi.
+3E0G37Z	We introduced the electrolytic and water balance substance into the upper gi.
+3E0G37Z	We are introducing the electrolytic and water balance substance into the upper gi.
+3E0G37Z	We will introduce the electrolytic and water balance substance into the upper gi.
+3E0G3BZ	We introduced the anesthetic agent into the upper gi.
+3E0G3BZ	We are introducing the anesthetic agent into the upper gi.
+3E0G3BZ	We will introduce the anesthetic agent into the upper gi.
+3E0G3GC	We introduced the other therapeutic substance into the upper gi.
+3E0G3GC	We are introducing the other therapeutic substance into the upper gi.
+3E0G3GC	We will introduce the other therapeutic substance into the upper gi.
+3E0G3HZ	We introduced the radioactive substance into the upper gi.
+3E0G3HZ	We are introducing the radioactive substance into the upper gi.
+3E0G3HZ	We will introduce the radioactive substance into the upper gi.
+3E0G3KZ	We introduced the other diagnostic substance into the upper gi.
+3E0G3KZ	We are introducing the other diagnostic substance into the upper gi.
+3E0G3KZ	We will introduce the other diagnostic substance into the upper gi.
+3E0G3NZ	We introduced the analgesics, hypnotics, sedatives into the upper gi.
+3E0G3NZ	We are introducing the analgesics, hypnotics, sedatives into the upper gi.
+3E0G3NZ	We will introduce the analgesics, hypnotics, sedatives into the upper gi.
+3E0G3SF	We introduced the gas into the upper gi.
+3E0G3SF	We are introducing the gas into the upper gi.
+3E0G3SF	We will introduce the gas into the upper gi.
+3E0G3TZ	We introduced the destructive agent into the upper gi.
+3E0G3TZ	We are introducing the destructive agent into the upper gi.
+3E0G3TZ	We will introduce the destructive agent into the upper gi.
+3E0H304	We introduced the antineoplastic into the lower gi.
+3E0H304	We are introducing the antineoplastic into the lower gi.
+3E0H304	We will introduce the antineoplastic into the lower gi.
+3E0H328	We introduced the anti-infective into the lower gi.
+3E0H328	We are introducing the anti-infective into the lower gi.
+3E0H328	We will introduce the anti-infective into the lower gi.
+3E0H33Z	We introduced the anti-inflammatory into the lower gi.
+3E0H33Z	We are introducing the anti-inflammatory into the lower gi.
+3E0H33Z	We will introduce the anti-inflammatory into the lower gi.
+3E0H36Z	We introduced the nutritional substance into the lower gi.
+3E0H36Z	We are introducing the nutritional substance into the lower gi.
+3E0H36Z	We will introduce the nutritional substance into the lower gi.
+3E0H37Z	We introduced the electrolytic and water balance substance into the lower gi.
+3E0H37Z	We are introducing the electrolytic and water balance substance into the lower gi.
+3E0H37Z	We will introduce the electrolytic and water balance substance into the lower gi.
+3E0H3BZ	We introduced the anesthetic agent into the lower gi.
+3E0H3BZ	We are introducing the anesthetic agent into the lower gi.
+3E0H3BZ	We will introduce the anesthetic agent into the lower gi.
+3E0H3GC	We introduced the other therapeutic substance into the lower gi.
+3E0H3GC	We are introducing the other therapeutic substance into the lower gi.
+3E0H3GC	We will introduce the other therapeutic substance into the lower gi.
+3E0H3HZ	We introduced the radioactive substance into the lower gi.
+3E0H3HZ	We are introducing the radioactive substance into the lower gi.
+3E0H3HZ	We will introduce the radioactive substance into the lower gi.
+3E0H3KZ	We introduced the other diagnostic substance into the lower gi.
+3E0H3KZ	We are introducing the other diagnostic substance into the lower gi.
+3E0H3KZ	We will introduce the other diagnostic substance into the lower gi.
+3E0H3NZ	We introduced the analgesics, hypnotics, sedatives into the lower gi.
+3E0H3NZ	We are introducing the analgesics, hypnotics, sedatives into the lower gi.
+3E0H3NZ	We will introduce the analgesics, hypnotics, sedatives into the lower gi.
+3E0H3SF	We introduced the gas into the lower gi.
+3E0H3SF	We are introducing the gas into the lower gi.
+3E0H3SF	We will introduce the gas into the lower gi.
+3E0H3TZ	We introduced the destructive agent into the lower gi.
+3E0H3TZ	We are introducing the destructive agent into the lower gi.
+3E0H3TZ	We will introduce the destructive agent into the lower gi.
+3E0J304	We introduced the antineoplastic into the biliary system and pancreatic tract.
+3E0J304	We are introducing the antineoplastic into the biliary system and pancreatic tract.
+3E0J304	We will introduce the antineoplastic into the biliary system and pancreatic tract.
+3E0J328	We introduced the anti-infective into the biliary system and pancreatic tract.
+3E0J328	We are introducing the anti-infective into the biliary system and pancreatic tract.
+3E0J328	We will introduce the anti-infective into the biliary system and pancreatic tract.
+3E0J33Z	We introduced the anti-inflammatory into the biliary system and pancreatic tract.
+3E0J33Z	We are introducing the anti-inflammatory into the biliary system and pancreatic tract.
+3E0J33Z	We will introduce the anti-inflammatory into the biliary system and pancreatic tract.
+3E0J36Z	We introduced the nutritional substance into the biliary system and pancreatic tract.
+3E0J36Z	We are introducing the nutritional substance into the biliary system and pancreatic tract.
+3E0J36Z	We will introduce the nutritional substance into the biliary system and pancreatic tract.
+3E0J37Z	We introduced the electrolytic and water balance substance into the biliary system and pancreatic tract.
+3E0J37Z	We are introducing the electrolytic and water balance substance into the biliary system and pancreatic tract.
+3E0J37Z	We will introduce the electrolytic and water balance substance into the biliary system and pancreatic tract.
+3E0J3BZ	We introduced the anesthetic agent into the biliary system and pancreatic tract.
+3E0J3BZ	We are introducing the anesthetic agent into the biliary system and pancreatic tract.
+3E0J3BZ	We will introduce the anesthetic agent into the biliary system and pancreatic tract.
+3E0J3GC	We introduced the other therapeutic substance into the biliary system and pancreatic tract.
+3E0J3GC	We are introducing the other therapeutic substance into the biliary system and pancreatic tract.
+3E0J3GC	We will introduce the other therapeutic substance into the biliary system and pancreatic tract.
+3E0J3HZ	We introduced the radioactive substance into the biliary system and pancreatic tract.
+3E0J3HZ	We are introducing the radioactive substance into the biliary system and pancreatic tract.
+3E0J3HZ	We will introduce the radioactive substance into the biliary system and pancreatic tract.
+3E0J3KZ	We introduced the other diagnostic substance into the biliary system and pancreatic tract.
+3E0J3KZ	We are introducing the other diagnostic substance into the biliary system and pancreatic tract.
+3E0J3KZ	We will introduce the other diagnostic substance into the biliary system and pancreatic tract.
+3E0J3NZ	We introduced the analgesics, hypnotics, sedatives into the biliary system and pancreatic tract.
+3E0J3NZ	We are introducing the analgesics, hypnotics, sedatives into the biliary system and pancreatic tract.
+3E0J3NZ	We will introduce the analgesics, hypnotics, sedatives into the biliary system and pancreatic tract.
+3E0J3SF	We introduced the gas into the biliary system and pancreatic tract.
+3E0J3SF	We are introducing the gas into the biliary system and pancreatic tract.
+3E0J3SF	We will introduce the gas into the biliary system and pancreatic tract.
+3E0J3TZ	We introduced the destructive agent into the biliary system and pancreatic tract.
+3E0J3TZ	We are introducing the destructive agent into the biliary system and pancreatic tract.
+3E0J3TZ	We will introduce the destructive agent into the biliary system and pancreatic tract.
+3E0J3U0	We introduced the pancreatic islet cells into the biliary system and pancreatic tract.
+3E0J3U0	We are introducing the pancreatic islet cells into the biliary system and pancreatic tract.
+3E0J3U0	We will introduce the pancreatic islet cells into the biliary system and pancreatic tract.
+3E0K304	We introduced the antineoplastic into the genitourinary system tract.
+3E0K304	We are introducing the antineoplastic into the genitourinary system tract.
+3E0K304	We will introduce the antineoplastic into the genitourinary system tract.
+3E0K328	We introduced the anti-infective into the genitourinary system tract.
+3E0K328	We are introducing the anti-infective into the genitourinary system tract.
+3E0K328	We will introduce the anti-infective into the genitourinary system tract.
+3E0K33Z	We introduced the anti-inflammatory into the genitourinary system tract.
+3E0K33Z	We are introducing the anti-inflammatory into the genitourinary system tract.
+3E0K33Z	We will introduce the anti-inflammatory into the genitourinary system tract.
+3E0K36Z	We introduced the nutritional substance into the genitourinary system tract.
+3E0K36Z	We are introducing the nutritional substance into the genitourinary system tract.
+3E0K36Z	We will introduce the nutritional substance into the genitourinary system tract.
+3E0K37Z	We introduced the electrolytic and water balance substance into the genitourinary system tract.
+3E0K37Z	We are introducing the electrolytic and water balance substance into the genitourinary system tract.
+3E0K37Z	We will introduce the electrolytic and water balance substance into the genitourinary system tract.
+3E0K3BZ	We introduced the anesthetic agent into the genitourinary system tract.
+3E0K3BZ	We are introducing the anesthetic agent into the genitourinary system tract.
+3E0K3BZ	We will introduce the anesthetic agent into the genitourinary system tract.
+3E0K3GC	We introduced the other therapeutic substance into the genitourinary system tract.
+3E0K3GC	We are introducing the other therapeutic substance into the genitourinary system tract.
+3E0K3GC	We will introduce the other therapeutic substance into the genitourinary system tract.
+3E0K3HZ	We introduced the radioactive substance into the genitourinary system tract.
+3E0K3HZ	We are introducing the radioactive substance into the genitourinary system tract.
+3E0K3HZ	We will introduce the radioactive substance into the genitourinary system tract.
+3E0K3KZ	We introduced the other diagnostic substance into the genitourinary system tract.
+3E0K3KZ	We are introducing the other diagnostic substance into the genitourinary system tract.
+3E0K3KZ	We will introduce the other diagnostic substance into the genitourinary system tract.
+3E0K3NZ	We introduced the analgesics, hypnotics, sedatives into the genitourinary system tract.
+3E0K3NZ	We are introducing the analgesics, hypnotics, sedatives into the genitourinary system tract.
+3E0K3NZ	We will introduce the analgesics, hypnotics, sedatives into the genitourinary system tract.
+3E0K3SF	We introduced the gas into the genitourinary system tract.
+3E0K3SF	We are introducing the gas into the genitourinary system tract.
+3E0K3SF	We will introduce the gas into the genitourinary system tract.
+3E0K3TZ	We introduced the destructive agent into the genitourinary system tract.
+3E0K3TZ	We are introducing the destructive agent into the genitourinary system tract.
+3E0K3TZ	We will introduce the destructive agent into the genitourinary system tract.
+3E0M05Z	We introduced the adhesion barrier into the peritoneal cavity.
+3E0M05Z	We are introducing the adhesion barrier into the peritoneal cavity.
+3E0M05Z	We will introduce the adhesion barrier into the peritoneal cavity.
+3E0M304	We introduced the antineoplastic into the peritoneal cavity.
+3E0M304	We are introducing the antineoplastic into the peritoneal cavity.
+3E0M304	We will introduce the antineoplastic into the peritoneal cavity.
+3E0M328	We introduced the anti-infective into the peritoneal cavity.
+3E0M328	We are introducing the anti-infective into the peritoneal cavity.
+3E0M328	We will introduce the anti-infective into the peritoneal cavity.
+3E0M33Z	We introduced the anti-inflammatory into the peritoneal cavity.
+3E0M33Z	We are introducing the anti-inflammatory into the peritoneal cavity.
+3E0M33Z	We will introduce the anti-inflammatory into the peritoneal cavity.
+3E0M36Z	We introduced the nutritional substance into the peritoneal cavity.
+3E0M36Z	We are introducing the nutritional substance into the peritoneal cavity.
+3E0M36Z	We will introduce the nutritional substance into the peritoneal cavity.
+3E0M37Z	We introduced the electrolytic and water balance substance into the peritoneal cavity.
+3E0M37Z	We are introducing the electrolytic and water balance substance into the peritoneal cavity.
+3E0M37Z	We will introduce the electrolytic and water balance substance into the peritoneal cavity.
+3E0M3BZ	We introduced the anesthetic agent into the peritoneal cavity.
+3E0M3BZ	We are introducing the anesthetic agent into the peritoneal cavity.
+3E0M3BZ	We will introduce the anesthetic agent into the peritoneal cavity.
+3E0M3GC	We introduced the other therapeutic substance into the peritoneal cavity.
+3E0M3GC	We are introducing the other therapeutic substance into the peritoneal cavity.
+3E0M3GC	We will introduce the other therapeutic substance into the peritoneal cavity.
+3E0M3HZ	We introduced the radioactive substance into the peritoneal cavity.
+3E0M3HZ	We are introducing the radioactive substance into the peritoneal cavity.
+3E0M3HZ	We will introduce the radioactive substance into the peritoneal cavity.
+3E0M3KZ	We introduced the other diagnostic substance into the peritoneal cavity.
+3E0M3KZ	We are introducing the other diagnostic substance into the peritoneal cavity.
+3E0M3KZ	We will introduce the other diagnostic substance into the peritoneal cavity.
+3E0M3NZ	We introduced the analgesics, hypnotics, sedatives into the peritoneal cavity.
+3E0M3NZ	We are introducing the analgesics, hypnotics, sedatives into the peritoneal cavity.
+3E0M3NZ	We will introduce the analgesics, hypnotics, sedatives into the peritoneal cavity.
+3E0M3SF	We introduced the gas into the peritoneal cavity.
+3E0M3SF	We are introducing the gas into the peritoneal cavity.
+3E0M3SF	We will introduce the gas into the peritoneal cavity.
+3E0M3TZ	We introduced the destructive agent into the peritoneal cavity.
+3E0M3TZ	We are introducing the destructive agent into the peritoneal cavity.
+3E0M3TZ	We will introduce the destructive agent into the peritoneal cavity.
+3E0N304	We introduced the antineoplastic into the male reproductive.
+3E0N304	We are introducing the antineoplastic into the male reproductive.
+3E0N304	We will introduce the antineoplastic into the male reproductive.
+3E0N328	We introduced the anti-infective into the male reproductive.
+3E0N328	We are introducing the anti-infective into the male reproductive.
+3E0N328	We will introduce the anti-infective into the male reproductive.
+3E0N33Z	We introduced the anti-inflammatory into the male reproductive.
+3E0N33Z	We are introducing the anti-inflammatory into the male reproductive.
+3E0N33Z	We will introduce the anti-inflammatory into the male reproductive.
+3E0N36Z	We introduced the nutritional substance into the male reproductive.
+3E0N36Z	We are introducing the nutritional substance into the male reproductive.
+3E0N36Z	We will introduce the nutritional substance into the male reproductive.
+3E0N37Z	We introduced the electrolytic and water balance substance into the male reproductive.
+3E0N37Z	We are introducing the electrolytic and water balance substance into the male reproductive.
+3E0N37Z	We will introduce the electrolytic and water balance substance into the male reproductive.
+3E0N3BZ	We introduced the anesthetic agent into the male reproductive.
+3E0N3BZ	We are introducing the anesthetic agent into the male reproductive.
+3E0N3BZ	We will introduce the anesthetic agent into the male reproductive.
+3E0N3GC	We introduced the other therapeutic substance into the male reproductive.
+3E0N3GC	We are introducing the other therapeutic substance into the male reproductive.
+3E0N3GC	We will introduce the other therapeutic substance into the male reproductive.
+3E0N3HZ	We introduced the radioactive substance into the male reproductive.
+3E0N3HZ	We are introducing the radioactive substance into the male reproductive.
+3E0N3HZ	We will introduce the radioactive substance into the male reproductive.
+3E0N3KZ	We introduced the other diagnostic substance into the male reproductive.
+3E0N3KZ	We are introducing the other diagnostic substance into the male reproductive.
+3E0N3KZ	We will introduce the other diagnostic substance into the male reproductive.
+3E0N3NZ	We introduced the analgesics, hypnotics, sedatives into the male reproductive.
+3E0N3NZ	We are introducing the analgesics, hypnotics, sedatives into the male reproductive.
+3E0N3NZ	We will introduce the analgesics, hypnotics, sedatives into the male reproductive.
+3E0N3SF	We introduced the gas into the male reproductive.
+3E0N3SF	We are introducing the gas into the male reproductive.
+3E0N3SF	We will introduce the gas into the male reproductive.
+3E0N3TZ	We introduced the destructive agent into the male reproductive.
+3E0N3TZ	We are introducing the destructive agent into the male reproductive.
+3E0N3TZ	We will introduce the destructive agent into the male reproductive.
+3E0P05Z	We introduced the adhesion barrier into the female reproductive.
+3E0P05Z	We are introducing the adhesion barrier into the female reproductive.
+3E0P05Z	We will introduce the adhesion barrier into the female reproductive.
+3E0P304	We introduced the antineoplastic into the female reproductive.
+3E0P304	We are introducing the antineoplastic into the female reproductive.
+3E0P304	We will introduce the antineoplastic into the female reproductive.
+3E0P328	We introduced the anti-infective into the female reproductive.
+3E0P328	We are introducing the anti-infective into the female reproductive.
+3E0P328	We will introduce the anti-infective into the female reproductive.
+3E0P33Z	We introduced the anti-inflammatory into the female reproductive.
+3E0P33Z	We are introducing the anti-inflammatory into the female reproductive.
+3E0P33Z	We will introduce the anti-inflammatory into the female reproductive.
+3E0P36Z	We introduced the nutritional substance into the female reproductive.
+3E0P36Z	We are introducing the nutritional substance into the female reproductive.
+3E0P36Z	We will introduce the nutritional substance into the female reproductive.
+3E0P37Z	We introduced the electrolytic and water balance substance into the female reproductive.
+3E0P37Z	We are introducing the electrolytic and water balance substance into the female reproductive.
+3E0P37Z	We will introduce the electrolytic and water balance substance into the female reproductive.
+3E0P3BZ	We introduced the anesthetic agent into the female reproductive.
+3E0P3BZ	We are introducing the anesthetic agent into the female reproductive.
+3E0P3BZ	We will introduce the anesthetic agent into the female reproductive.
+3E0P3GC	We introduced the other therapeutic substance into the female reproductive.
+3E0P3GC	We are introducing the other therapeutic substance into the female reproductive.
+3E0P3GC	We will introduce the other therapeutic substance into the female reproductive.
+3E0P3HZ	We introduced the radioactive substance into the female reproductive.
+3E0P3HZ	We are introducing the radioactive substance into the female reproductive.
+3E0P3HZ	We will introduce the radioactive substance into the female reproductive.
+3E0P3KZ	We introduced the other diagnostic substance into the female reproductive.
+3E0P3KZ	We are introducing the other diagnostic substance into the female reproductive.
+3E0P3KZ	We will introduce the other diagnostic substance into the female reproductive.
+3E0P3NZ	We introduced the analgesics, hypnotics, sedatives into the female reproductive.
+3E0P3NZ	We are introducing the analgesics, hypnotics, sedatives into the female reproductive.
+3E0P3NZ	We will introduce the analgesics, hypnotics, sedatives into the female reproductive.
+3E0P3Q0	We introduced the fertilized ovum into the female reproductive.
+3E0P3Q0	We are introducing the fertilized ovum into the female reproductive.
+3E0P3Q0	We will introduce the fertilized ovum into the female reproductive.
+3E0P3SF	We introduced the gas into the female reproductive.
+3E0P3SF	We are introducing the gas into the female reproductive.
+3E0P3SF	We will introduce the gas into the female reproductive.
+3E0P3TZ	We introduced the destructive agent into the female reproductive.
+3E0P3TZ	We are introducing the destructive agent into the female reproductive.
+3E0P3TZ	We will introduce the destructive agent into the female reproductive.
+3E0P3VZ	We introduced the hormone into the female reproductive.
+3E0P3VZ	We are introducing the hormone into the female reproductive.
+3E0P3VZ	We will introduce the hormone into the female reproductive.
+3E0Q004	We introduced the antineoplastic into the cranial cavity and brain.
+3E0Q004	We are introducing the antineoplastic into the cranial cavity and brain.
+3E0Q004	We will introduce the antineoplastic into the cranial cavity and brain.
+3E0Q028	We introduced the anti-infective into the cranial cavity and brain.
+3E0Q028	We are introducing the anti-infective into the cranial cavity and brain.
+3E0Q028	We will introduce the anti-infective into the cranial cavity and brain.
+3E0Q03Z	We introduced the anti-inflammatory into the cranial cavity and brain.
+3E0Q03Z	We are introducing the anti-inflammatory into the cranial cavity and brain.
+3E0Q03Z	We will introduce the anti-inflammatory into the cranial cavity and brain.
+3E0Q06Z	We introduced the nutritional substance into the cranial cavity and brain.
+3E0Q06Z	We are introducing the nutritional substance into the cranial cavity and brain.
+3E0Q06Z	We will introduce the nutritional substance into the cranial cavity and brain.
+3E0Q07Z	We introduced the electrolytic and water balance substance into the cranial cavity and brain.
+3E0Q07Z	We are introducing the electrolytic and water balance substance into the cranial cavity and brain.
+3E0Q07Z	We will introduce the electrolytic and water balance substance into the cranial cavity and brain.
+3E0Q0AZ	We introduced the embryonic stem cells into the cranial cavity and brain.
+3E0Q0AZ	We are introducing the embryonic stem cells into the cranial cavity and brain.
+3E0Q0AZ	We will introduce the embryonic stem cells into the cranial cavity and brain.
+3E0Q0BZ	We introduced the anesthetic agent into the cranial cavity and brain.
+3E0Q0BZ	We are introducing the anesthetic agent into the cranial cavity and brain.
+3E0Q0BZ	We will introduce the anesthetic agent into the cranial cavity and brain.
+3E0Q0E0	We introduced the somatic stem cells into the cranial cavity and brain.
+3E0Q0E0	We are introducing the somatic stem cells into the cranial cavity and brain.
+3E0Q0E0	We will introduce the somatic stem cells into the cranial cavity and brain.
+3E0Q0GC	We introduced the other therapeutic substance into the cranial cavity and brain.
+3E0Q0GC	We are introducing the other therapeutic substance into the cranial cavity and brain.
+3E0Q0GC	We will introduce the other therapeutic substance into the cranial cavity and brain.
+3E0Q0HZ	We introduced the radioactive substance into the cranial cavity and brain.
+3E0Q0HZ	We are introducing the radioactive substance into the cranial cavity and brain.
+3E0Q0HZ	We will introduce the radioactive substance into the cranial cavity and brain.
+3E0Q0KZ	We introduced the other diagnostic substance into the cranial cavity and brain.
+3E0Q0KZ	We are introducing the other diagnostic substance into the cranial cavity and brain.
+3E0Q0KZ	We will introduce the other diagnostic substance into the cranial cavity and brain.
+3E0Q0NZ	We introduced the analgesics, hypnotics, sedatives into the cranial cavity and brain.
+3E0Q0NZ	We are introducing the analgesics, hypnotics, sedatives into the cranial cavity and brain.
+3E0Q0NZ	We will introduce the analgesics, hypnotics, sedatives into the cranial cavity and brain.
+3E0Q0SF	We introduced the gas into the cranial cavity and brain.
+3E0Q0SF	We are introducing the gas into the cranial cavity and brain.
+3E0Q0SF	We will introduce the gas into the cranial cavity and brain.
+3E0Q0TZ	We introduced the destructive agent into the cranial cavity and brain.
+3E0Q0TZ	We are introducing the destructive agent into the cranial cavity and brain.
+3E0Q0TZ	We will introduce the destructive agent into the cranial cavity and brain.
+3E0R0AZ	We introduced the embryonic stem cells into the spinal canal.
+3E0R0AZ	We are introducing the embryonic stem cells into the spinal canal.
+3E0R0AZ	We will introduce the embryonic stem cells into the spinal canal.
+3E0R0E0	We introduced the somatic stem cells into the spinal canal.
+3E0R0E0	We are introducing the somatic stem cells into the spinal canal.
+3E0R0E0	We will introduce the somatic stem cells into the spinal canal.
+3E0R302	We introduced the antineoplastic into the spinal canal.
+3E0R302	We are introducing the antineoplastic into the spinal canal.
+3E0R302	We will introduce the antineoplastic into the spinal canal.
+3E0R328	We introduced the anti-infective into the spinal canal.
+3E0R328	We are introducing the anti-infective into the spinal canal.
+3E0R328	We will introduce the anti-infective into the spinal canal.
+3E0R33Z	We introduced the anti-inflammatory into the spinal canal.
+3E0R33Z	We are introducing the anti-inflammatory into the spinal canal.
+3E0R33Z	We will introduce the anti-inflammatory into the spinal canal.
+3E0R36Z	We introduced the nutritional substance into the spinal canal.
+3E0R36Z	We are introducing the nutritional substance into the spinal canal.
+3E0R36Z	We will introduce the nutritional substance into the spinal canal.
+3E0R37Z	We introduced the electrolytic and water balance substance into the spinal canal.
+3E0R37Z	We are introducing the electrolytic and water balance substance into the spinal canal.
+3E0R37Z	We will introduce the electrolytic and water balance substance into the spinal canal.
+3E0R3BZ	We introduced the anesthetic agent into the spinal canal.
+3E0R3BZ	We are introducing the anesthetic agent into the spinal canal.
+3E0R3BZ	We will introduce the anesthetic agent into the spinal canal.
+3E0R3GC	We introduced the other therapeutic substance into the spinal canal.
+3E0R3GC	We are introducing the other therapeutic substance into the spinal canal.
+3E0R3GC	We will introduce the other therapeutic substance into the spinal canal.
+3E0R3HZ	We introduced the radioactive substance into the spinal canal.
+3E0R3HZ	We are introducing the radioactive substance into the spinal canal.
+3E0R3HZ	We will introduce the radioactive substance into the spinal canal.
+3E0R3KZ	We introduced the other diagnostic substance into the spinal canal.
+3E0R3KZ	We are introducing the other diagnostic substance into the spinal canal.
+3E0R3KZ	We will introduce the other diagnostic substance into the spinal canal.
+3E0R3NZ	We introduced the analgesics, hypnotics, sedatives into the spinal canal.
+3E0R3NZ	We are introducing the analgesics, hypnotics, sedatives into the spinal canal.
+3E0R3NZ	We will introduce the analgesics, hypnotics, sedatives into the spinal canal.
+3E0R3SF	We introduced the gas into the spinal canal.
+3E0R3SF	We are introducing the gas into the spinal canal.
+3E0R3SF	We will introduce the gas into the spinal canal.
+3E0R3TZ	We introduced the destructive agent into the spinal canal.
+3E0R3TZ	We are introducing the destructive agent into the spinal canal.
+3E0R3TZ	We will introduce the destructive agent into the spinal canal.
+3E0S302	We introduced the antineoplastic into the epidural space.
+3E0S302	We are introducing the antineoplastic into the epidural space.
+3E0S302	We will introduce the antineoplastic into the epidural space.
+3E0S328	We introduced the anti-infective into the epidural space.
+3E0S328	We are introducing the anti-infective into the epidural space.
+3E0S328	We will introduce the anti-infective into the epidural space.
+3E0S33Z	We introduced the anti-inflammatory into the epidural space.
+3E0S33Z	We are introducing the anti-inflammatory into the epidural space.
+3E0S33Z	We will introduce the anti-inflammatory into the epidural space.
+3E0S36Z	We introduced the nutritional substance into the epidural space.
+3E0S36Z	We are introducing the nutritional substance into the epidural space.
+3E0S36Z	We will introduce the nutritional substance into the epidural space.
+3E0S37Z	We introduced the electrolytic and water balance substance into the epidural space.
+3E0S37Z	We are introducing the electrolytic and water balance substance into the epidural space.
+3E0S37Z	We will introduce the electrolytic and water balance substance into the epidural space.
+3E0S3BZ	We introduced the anesthetic agent into the epidural space.
+3E0S3BZ	We are introducing the anesthetic agent into the epidural space.
+3E0S3BZ	We will introduce the anesthetic agent into the epidural space.
+3E0S3GC	We introduced the other therapeutic substance into the epidural space.
+3E0S3GC	We are introducing the other therapeutic substance into the epidural space.
+3E0S3GC	We will introduce the other therapeutic substance into the epidural space.
+3E0S3HZ	We introduced the radioactive substance into the epidural space.
+3E0S3HZ	We are introducing the radioactive substance into the epidural space.
+3E0S3HZ	We will introduce the radioactive substance into the epidural space.
+3E0S3KZ	We introduced the other diagnostic substance into the epidural space.
+3E0S3KZ	We are introducing the other diagnostic substance into the epidural space.
+3E0S3KZ	We will introduce the other diagnostic substance into the epidural space.
+3E0S3NZ	We introduced the analgesics, hypnotics, sedatives into the epidural space.
+3E0S3NZ	We are introducing the analgesics, hypnotics, sedatives into the epidural space.
+3E0S3NZ	We will introduce the analgesics, hypnotics, sedatives into the epidural space.
+3E0S3SF	We introduced the gas into the epidural space.
+3E0S3SF	We are introducing the gas into the epidural space.
+3E0S3SF	We will introduce the gas into the epidural space.
+3E0S3TZ	We introduced the destructive agent into the epidural space.
+3E0S3TZ	We are introducing the destructive agent into the epidural space.
+3E0S3TZ	We will introduce the destructive agent into the epidural space.
+3E0T33Z	We introduced the anti-inflammatory into the peripheral nerves and plexi.
+3E0T33Z	We are introducing the anti-inflammatory into the peripheral nerves and plexi.
+3E0T33Z	We will introduce the anti-inflammatory into the peripheral nerves and plexi.
+3E0T3BZ	We introduced the anesthetic agent into the peripheral nerves and plexi.
+3E0T3BZ	We are introducing the anesthetic agent into the peripheral nerves and plexi.
+3E0T3BZ	We will introduce the anesthetic agent into the peripheral nerves and plexi.
+3E0T3GC	We introduced the other therapeutic substance into the peripheral nerves and plexi.
+3E0T3GC	We are introducing the other therapeutic substance into the peripheral nerves and plexi.
+3E0T3GC	We will introduce the other therapeutic substance into the peripheral nerves and plexi.
+3E0T3TZ	We introduced the destructive agent into the peripheral nerves and plexi.
+3E0T3TZ	We are introducing the destructive agent into the peripheral nerves and plexi.
+3E0T3TZ	We will introduce the destructive agent into the peripheral nerves and plexi.
+3E0U028	We introduced the anti-infective into the joints.
+3E0U028	We are introducing the anti-infective into the joints.
+3E0U028	We will introduce the anti-infective into the joints.
+3E0U0GB	We introduced the other therapeutic substance into the joints.
+3E0U0GB	We are introducing the other therapeutic substance into the joints.
+3E0U0GB	We will introduce the other therapeutic substance into the joints.
+3E0U304	We introduced the antineoplastic into the joints.
+3E0U304	We are introducing the antineoplastic into the joints.
+3E0U304	We will introduce the antineoplastic into the joints.
+3E0U33Z	We introduced the anti-inflammatory into the joints.
+3E0U33Z	We are introducing the anti-inflammatory into the joints.
+3E0U33Z	We will introduce the anti-inflammatory into the joints.
+3E0U36Z	We introduced the nutritional substance into the joints.
+3E0U36Z	We are introducing the nutritional substance into the joints.
+3E0U36Z	We will introduce the nutritional substance into the joints.
+3E0U37Z	We introduced the electrolytic and water balance substance into the joints.
+3E0U37Z	We are introducing the electrolytic and water balance substance into the joints.
+3E0U37Z	We will introduce the electrolytic and water balance substance into the joints.
+3E0U3BZ	We introduced the anesthetic agent into the joints.
+3E0U3BZ	We are introducing the anesthetic agent into the joints.
+3E0U3BZ	We will introduce the anesthetic agent into the joints.
+3E0U3HZ	We introduced the radioactive substance into the joints.
+3E0U3HZ	We are introducing the radioactive substance into the joints.
+3E0U3HZ	We will introduce the radioactive substance into the joints.
+3E0U3KZ	We introduced the other diagnostic substance into the joints.
+3E0U3KZ	We are introducing the other diagnostic substance into the joints.
+3E0U3KZ	We will introduce the other diagnostic substance into the joints.
+3E0U3NZ	We introduced the analgesics, hypnotics, sedatives into the joints.
+3E0U3NZ	We are introducing the analgesics, hypnotics, sedatives into the joints.
+3E0U3NZ	We will introduce the analgesics, hypnotics, sedatives into the joints.
+3E0U3SF	We introduced the gas into the joints.
+3E0U3SF	We are introducing the gas into the joints.
+3E0U3SF	We will introduce the gas into the joints.
+3E0U3TZ	We introduced the destructive agent into the joints.
+3E0U3TZ	We are introducing the destructive agent into the joints.
+3E0U3TZ	We will introduce the destructive agent into the joints.
+3E0V0GB	We introduced the other therapeutic substance into the bones.
+3E0V0GB	We are introducing the other therapeutic substance into the bones.
+3E0V0GB	We will introduce the other therapeutic substance into the bones.
+3E0V305	We introduced the antineoplastic into the bones.
+3E0V305	We are introducing the antineoplastic into the bones.
+3E0V305	We will introduce the antineoplastic into the bones.
+3E0V328	We introduced the anti-infective into the bones.
+3E0V328	We are introducing the anti-infective into the bones.
+3E0V328	We will introduce the anti-infective into the bones.
+3E0V33Z	We introduced the anti-inflammatory into the bones.
+3E0V33Z	We are introducing the anti-inflammatory into the bones.
+3E0V33Z	We will introduce the anti-inflammatory into the bones.
+3E0V36Z	We introduced the nutritional substance into the bones.
+3E0V36Z	We are introducing the nutritional substance into the bones.
+3E0V36Z	We will introduce the nutritional substance into the bones.
+3E0V37Z	We introduced the electrolytic and water balance substance into the bones.
+3E0V37Z	We are introducing the electrolytic and water balance substance into the bones.
+3E0V37Z	We will introduce the electrolytic and water balance substance into the bones.
+3E0V3BZ	We introduced the anesthetic agent into the bones.
+3E0V3BZ	We are introducing the anesthetic agent into the bones.
+3E0V3BZ	We will introduce the anesthetic agent into the bones.
+3E0V3HZ	We introduced the radioactive substance into the bones.
+3E0V3HZ	We are introducing the radioactive substance into the bones.
+3E0V3HZ	We will introduce the radioactive substance into the bones.
+3E0V3KZ	We introduced the other diagnostic substance into the bones.
+3E0V3KZ	We are introducing the other diagnostic substance into the bones.
+3E0V3KZ	We will introduce the other diagnostic substance into the bones.
+3E0V3NZ	We introduced the analgesics, hypnotics, sedatives into the bones.
+3E0V3NZ	We are introducing the analgesics, hypnotics, sedatives into the bones.
+3E0V3NZ	We will introduce the analgesics, hypnotics, sedatives into the bones.
+3E0V3TZ	We introduced the destructive agent into the bones.
+3E0V3TZ	We are introducing the destructive agent into the bones.
+3E0V3TZ	We will introduce the destructive agent into the bones.
+3E0W305	We introduced the antineoplastic into the lymphatic systems.
+3E0W305	We are introducing the antineoplastic into the lymphatic systems.
+3E0W305	We will introduce the antineoplastic into the lymphatic systems.
+3E0W328	We introduced the anti-infective into the lymphatic systems.
+3E0W328	We are introducing the anti-infective into the lymphatic systems.
+3E0W328	We will introduce the anti-infective into the lymphatic systems.
+3E0W33Z	We introduced the anti-inflammatory into the lymphatic systems.
+3E0W33Z	We are introducing the anti-inflammatory into the lymphatic systems.
+3E0W33Z	We will introduce the anti-inflammatory into the lymphatic systems.
+3E0W36Z	We introduced the nutritional substance into the lymphatic systems.
+3E0W36Z	We are introducing the nutritional substance into the lymphatic systems.
+3E0W36Z	We will introduce the nutritional substance into the lymphatic systems.
+3E0W37Z	We introduced the electrolytic and water balance substance into the lymphatic systems.
+3E0W37Z	We are introducing the electrolytic and water balance substance into the lymphatic systems.
+3E0W37Z	We will introduce the electrolytic and water balance substance into the lymphatic systems.
+3E0W3BZ	We introduced the anesthetic agent into the lymphatic systems.
+3E0W3BZ	We are introducing the anesthetic agent into the lymphatic systems.
+3E0W3BZ	We will introduce the anesthetic agent into the lymphatic systems.
+3E0W3GC	We introduced the other therapeutic substance into the lymphatic systems.
+3E0W3GC	We are introducing the other therapeutic substance into the lymphatic systems.
+3E0W3GC	We will introduce the other therapeutic substance into the lymphatic systems.
+3E0W3HZ	We introduced the radioactive substance into the lymphatic systems.
+3E0W3HZ	We are introducing the radioactive substance into the lymphatic systems.
+3E0W3HZ	We will introduce the radioactive substance into the lymphatic systems.
+3E0W3KZ	We introduced the other diagnostic substance into the lymphatic systems.
+3E0W3KZ	We are introducing the other diagnostic substance into the lymphatic systems.
+3E0W3KZ	We will introduce the other diagnostic substance into the lymphatic systems.
+3E0W3NZ	We introduced the analgesics, hypnotics, sedatives into the lymphatic systems.
+3E0W3NZ	We are introducing the analgesics, hypnotics, sedatives into the lymphatic systems.
+3E0W3NZ	We will introduce the analgesics, hypnotics, sedatives into the lymphatic systems.
+3E0W3TZ	We introduced the destructive agent into the lymphatic systems.
+3E0W3TZ	We are introducing the destructive agent into the lymphatic systems.
+3E0W3TZ	We will introduce the destructive agent into the lymphatic systems.
+3E0X33Z	We introduced the anti-inflammatory into the cranial nerves.
+3E0X33Z	We are introducing the anti-inflammatory into the cranial nerves.
+3E0X33Z	We will introduce the anti-inflammatory into the cranial nerves.
+3E0X3BZ	We introduced the anesthetic agent into the cranial nerves.
+3E0X3BZ	We are introducing the anesthetic agent into the cranial nerves.
+3E0X3BZ	We will introduce the anesthetic agent into the cranial nerves.
+3E0X3GC	We introduced the other therapeutic substance into the cranial nerves.
+3E0X3GC	We are introducing the other therapeutic substance into the cranial nerves.
+3E0X3GC	We will introduce the other therapeutic substance into the cranial nerves.
+3E0X3TZ	We introduced the destructive agent into the cranial nerves.
+3E0X3TZ	We are introducing the destructive agent into the cranial nerves.
+3E0X3TZ	We will introduce the destructive agent into the cranial nerves.
+3E0Y304	We introduced the antineoplastic into the pericardial cavity.
+3E0Y304	We are introducing the antineoplastic into the pericardial cavity.
+3E0Y304	We will introduce the antineoplastic into the pericardial cavity.
+3E0Y328	We introduced the anti-infective into the pericardial cavity.
+3E0Y328	We are introducing the anti-infective into the pericardial cavity.
+3E0Y328	We will introduce the anti-infective into the pericardial cavity.
+3E0Y33Z	We introduced the anti-inflammatory into the pericardial cavity.
+3E0Y33Z	We are introducing the anti-inflammatory into the pericardial cavity.
+3E0Y33Z	We will introduce the anti-inflammatory into the pericardial cavity.
+3E0Y36Z	We introduced the nutritional substance into the pericardial cavity.
+3E0Y36Z	We are introducing the nutritional substance into the pericardial cavity.
+3E0Y36Z	We will introduce the nutritional substance into the pericardial cavity.
+3E0Y37Z	We introduced the electrolytic and water balance substance into the pericardial cavity.
+3E0Y37Z	We are introducing the electrolytic and water balance substance into the pericardial cavity.
+3E0Y37Z	We will introduce the electrolytic and water balance substance into the pericardial cavity.
+3E0Y3BZ	We introduced the anesthetic agent into the pericardial cavity.
+3E0Y3BZ	We are introducing the anesthetic agent into the pericardial cavity.
+3E0Y3BZ	We will introduce the anesthetic agent into the pericardial cavity.
+3E0Y3GC	We introduced the other therapeutic substance into the pericardial cavity.
+3E0Y3GC	We are introducing the other therapeutic substance into the pericardial cavity.
+3E0Y3GC	We will introduce the other therapeutic substance into the pericardial cavity.
+3E0Y3HZ	We introduced the radioactive substance into the pericardial cavity.
+3E0Y3HZ	We are introducing the radioactive substance into the pericardial cavity.
+3E0Y3HZ	We will introduce the radioactive substance into the pericardial cavity.
+3E0Y3KZ	We introduced the other diagnostic substance into the pericardial cavity.
+3E0Y3KZ	We are introducing the other diagnostic substance into the pericardial cavity.
+3E0Y3KZ	We will introduce the other diagnostic substance into the pericardial cavity.
+3E0Y3NZ	We introduced the analgesics, hypnotics, sedatives into the pericardial cavity.
+3E0Y3NZ	We are introducing the analgesics, hypnotics, sedatives into the pericardial cavity.
+3E0Y3NZ	We will introduce the analgesics, hypnotics, sedatives into the pericardial cavity.
+3E0Y3SF	We introduced the gas into the pericardial cavity.
+3E0Y3SF	We are introducing the gas into the pericardial cavity.
+3E0Y3SF	We will introduce the gas into the pericardial cavity.
+3E0Y3TZ	We introduced the destructive agent into the pericardial cavity.
+3E0Y3TZ	We are introducing the destructive agent into the pericardial cavity.
+3E0Y3TZ	We will introduce the destructive agent into the pericardial cavity.
+3E1	We irrigated the physiological systems and anatomical regions.
+3E1	We are irrigating the physiological systems and anatomical regions.
+3E1	We will irrigate the physiological systems and anatomical regions.
+3E1038X	We irrigated the skin and mucous membranes with irrigating substance.
+3E1038X	We are irrigating the skin and mucous membranes with irrigating substance.
+3E1038X	We will irrigate the skin and mucous membranes with irrigating substance.
+3E1938X	We irrigated the nose with irrigating substance.
+3E1938X	We are irrigating the nose with irrigating substance.
+3E1938X	We will irrigate the nose with irrigating substance.
+3E1B38X	We irrigated the ear with irrigating substance.
+3E1B38X	We are irrigating the ear with irrigating substance.
+3E1B38X	We will irrigate the ear with irrigating substance.
+3E1C38X	We irrigated the eye with irrigating substance.
+3E1C38X	We are irrigating the eye with irrigating substance.
+3E1C38X	We will irrigate the eye with irrigating substance.
+3E1F38X	We irrigated the respiratory system tract with irrigating substance.
+3E1F38X	We are irrigating the respiratory system tract with irrigating substance.
+3E1F38X	We will irrigate the respiratory system tract with irrigating substance.
+3E1G38X	We irrigated the upper gi with irrigating substance.
+3E1G38X	We are irrigating the upper gi with irrigating substance.
+3E1G38X	We will irrigate the upper gi with irrigating substance.
+3E1H38X	We irrigated the lower gi with irrigating substance.
+3E1H38X	We are irrigating the lower gi with irrigating substance.
+3E1H38X	We will irrigate the lower gi with irrigating substance.
+3E1J38X	We irrigated the biliary system and pancreatic tract with irrigating substance.
+3E1J38X	We are irrigating the biliary system and pancreatic tract with irrigating substance.
+3E1J38X	We will irrigate the biliary system and pancreatic tract with irrigating substance.
+3E1K38X	We irrigated the genitourinary system tract with irrigating substance.
+3E1K38X	We are irrigating the genitourinary system tract with irrigating substance.
+3E1K38X	We will irrigate the genitourinary system tract with irrigating substance.
+3E1M38X	We irrigated the peritoneal cavity with irrigating substance.
+3E1M38X	We are irrigating the peritoneal cavity with irrigating substance.
+3E1M38X	We will irrigate the peritoneal cavity with irrigating substance.
+3E1M39Z	We irrigated the peritoneal cavity with a dialysate.
+3E1M39Z	We are irrigating the peritoneal cavity with a dialysate.
+3E1M39Z	We will irrigate the peritoneal cavity with a dialysate.
+3E1N38X	We irrigated the male reproductive with irrigating substance.
+3E1N38X	We are irrigating the male reproductive with irrigating substance.
+3E1N38X	We will irrigate the male reproductive with irrigating substance.
+3E1P38X	We irrigated the female reproductive with irrigating substance.
+3E1P38X	We are irrigating the female reproductive with irrigating substance.
+3E1P38X	We will irrigate the female reproductive with irrigating substance.
+3E1Q38X	We irrigated the cranial cavity and brain with irrigating substance.
+3E1Q38X	We are irrigating the cranial cavity and brain with irrigating substance.
+3E1Q38X	We will irrigate the cranial cavity and brain with irrigating substance.
+3E1R38X	We irrigated the spinal canal with irrigating substance.
+3E1R38X	We are irrigating the spinal canal with irrigating substance.
+3E1R38X	We will irrigate the spinal canal with irrigating substance.
+3E1S38X	We irrigated the epidural space with irrigating substance.
+3E1S38X	We are irrigating the epidural space with irrigating substance.
+3E1S38X	We will irrigate the epidural space with irrigating substance.
+3E1U38X	We irrigated the joints with irrigating substance.
+3E1U38X	We are irrigating the joints with irrigating substance.
+3E1U38X	We will irrigate the joints with irrigating substance.
+3E1Y38X	We irrigated the pericardial cavity with irrigating substance.
+3E1Y38X	We are irrigating the pericardial cavity with irrigating substance.
+3E1Y38X	We will irrigate the pericardial cavity with irrigating substance.

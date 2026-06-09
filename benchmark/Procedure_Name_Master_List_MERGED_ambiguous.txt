@@ -1,0 +1,2905 @@
+abdominal exploration
+abdominal operation
+abdominal procedure
+abdominal surgery
+abscess drainage
+adhesiolysis
+advancement flap
+ambulatory surgery
+amputation procedure
+amputation surgery
+ankle surgery
+arthroscopic ablation
+arthroscopic adhesiolysis
+arthroscopic ankle surgery
+arthroscopic arthrodesis
+arthroscopic aspiration
+arthroscopic augmentation
+arthroscopic cauterization
+arthroscopic destruction
+arthroscopic dilatation
+arthroscopic dilation
+arthroscopic division
+arthroscopic drainage
+arthroscopic elbow surgery
+arthroscopic excision
+arthroscopic explantation
+arthroscopic extirpation
+arthroscopic extraction
+arthroscopic fixation
+arthroscopic fragmentation
+arthroscopic fulguration
+arthroscopic fusion
+arthroscopic hip surgery
+arthroscopic implantation
+arthroscopic insertion
+arthroscopic joint surgery
+arthroscopic knee surgery
+arthroscopic lysis
+arthroscopic procedure
+arthroscopic reattachment
+arthroscopic reduction
+arthroscopic reimplantation
+arthroscopic reinforcement
+arthroscopic release
+arthroscopic removal
+arthroscopic removal of foreign body
+arthroscopic repair
+arthroscopic replacement
+arthroscopic reposition
+arthroscopic resection
+arthroscopic revision
+arthroscopic shoulder surgery
+arthroscopic surgery
+arthroscopic transection
+arthroscopic transfer
+arthroscopic wrist surgery
+arthroscopy
+balloon dilatation
+balloon dilation
+band-aid surgery
+bandaid surgery
+bilateral procedure
+bilateral surgery
+bone fusion
+bone surgery
+bronchoscopic ablation
+bronchoscopic adhesiolysis
+bronchoscopic alteration
+bronchoscopic aspiration
+bronchoscopic augmentation
+bronchoscopic banding
+bronchoscopic biopsy
+bronchoscopic bypass
+bronchoscopic cauterization
+bronchoscopic control of bleeding
+bronchoscopic cosmetic modification
+bronchoscopic creation
+bronchoscopic destruction
+bronchoscopic dilatation
+bronchoscopic dilation
+bronchoscopic diversion
+bronchoscopic division
+bronchoscopic drainage
+bronchoscopic excision
+bronchoscopic explantation
+bronchoscopic extirpation
+bronchoscopic extraction
+bronchoscopic fragmentation
+bronchoscopic fulguration
+bronchoscopic hemostasis
+bronchoscopic implantation
+bronchoscopic insertion
+bronchoscopic ligation
+bronchoscopic lithotripsy
+bronchoscopic lysis
+bronchoscopic occlusion
+bronchoscopic reconstruction
+bronchoscopic reduction
+bronchoscopic reinforcement
+bronchoscopic release
+bronchoscopic removal
+bronchoscopic removal of foreign body
+bronchoscopic repair
+bronchoscopic replacement
+bronchoscopic reposition
+bronchoscopic resection
+bronchoscopic restriction
+bronchoscopic revision
+bronchoscopic transection
+bypass graft
+bypass grafting
+bypass procedure
+bypass surgery
+cancer surgery
+cardiac surgery
+cardiothoracic surgery
+chest surgery
+colonoscopic adhesiolysis
+colonoscopic alteration
+colonoscopic aspiration
+colonoscopic augmentation
+colonoscopic banding
+colonoscopic biopsy
+colonoscopic bypass
+colonoscopic cauterization
+colonoscopic control of bleeding
+colonoscopic cosmetic modification
+colonoscopic creation
+colonoscopic destruction
+colonoscopic dilatation
+colonoscopic dilation
+colonoscopic diversion
+colonoscopic division
+colonoscopic drainage
+colonoscopic excision
+colonoscopic explantation
+colonoscopic extirpation
+colonoscopic extraction
+colonoscopic fragmentation
+colonoscopic fulguration
+colonoscopic hemostasis
+colonoscopic implantation
+colonoscopic insertion
+colonoscopic ligation
+colonoscopic lithotripsy
+colonoscopic lysis
+colonoscopic occlusion
+colonoscopic reconstruction
+colonoscopic reduction
+colonoscopic reinforcement
+colonoscopic release
+colonoscopic removal
+colonoscopic removal of foreign body
+colonoscopic repair
+colonoscopic replacement
+colonoscopic reposition
+colonoscopic resection
+colonoscopic restriction
+colonoscopic revision
+colonoscopic transection
+colorectal surgery
+completion surgery
+control of hemorrhage
+conversion to open
+converted to open procedure
+converted to open surgery
+cosmetic surgery
+cranial surgery
+cryoablation
+cryosurgery
+cryotherapy
+ct-guided percutaneous ablation
+ct-guided percutaneous adhesiolysis
+ct-guided percutaneous alteration
+ct-guided percutaneous arthrodesis
+ct-guided percutaneous aspiration
+ct-guided percutaneous augmentation
+ct-guided percutaneous banding
+ct-guided percutaneous biopsy
+ct-guided percutaneous bypass
+ct-guided percutaneous cauterization
+ct-guided percutaneous control of bleeding
+ct-guided percutaneous creation
+ct-guided percutaneous destruction
+ct-guided percutaneous dilatation
+ct-guided percutaneous dilation
+ct-guided percutaneous diversion
+ct-guided percutaneous division
+ct-guided percutaneous drainage
+ct-guided percutaneous excision
+ct-guided percutaneous explantation
+ct-guided percutaneous extirpation
+ct-guided percutaneous extraction
+ct-guided percutaneous fixation
+ct-guided percutaneous fragmentation
+ct-guided percutaneous fulguration
+ct-guided percutaneous fusion
+ct-guided percutaneous hemostasis
+ct-guided percutaneous implantation
+ct-guided percutaneous insertion
+ct-guided percutaneous ligation
+ct-guided percutaneous lithotripsy
+ct-guided percutaneous lysis
+ct-guided percutaneous occlusion
+ct-guided percutaneous reconstruction
+ct-guided percutaneous reduction
+ct-guided percutaneous reinforcement
+ct-guided percutaneous release
+ct-guided percutaneous removal
+ct-guided percutaneous removal of foreign body
+ct-guided percutaneous repair
+ct-guided percutaneous replacement
+ct-guided percutaneous reposition
+ct-guided percutaneous resection
+ct-guided percutaneous restriction
+ct-guided percutaneous revision
+ct-guided percutaneous transection
+ct-guided percutaneous transplant
+ct-guided percutaneous transplantation
+ct-guided procedure
+cts
+cvs
+cystoscopic ablation
+cystoscopic adhesiolysis
+cystoscopic alteration
+cystoscopic aspiration
+cystoscopic augmentation
+cystoscopic banding
+cystoscopic biopsy
+cystoscopic bypass
+cystoscopic cauterization
+cystoscopic control of bleeding
+cystoscopic cosmetic modification
+cystoscopic creation
+cystoscopic destruction
+cystoscopic dilatation
+cystoscopic dilation
+cystoscopic diversion
+cystoscopic division
+cystoscopic drainage
+cystoscopic excision
+cystoscopic explantation
+cystoscopic extirpation
+cystoscopic extraction
+cystoscopic fragmentation
+cystoscopic fulguration
+cystoscopic hemostasis
+cystoscopic implantation
+cystoscopic insertion
+cystoscopic ligation
+cystoscopic lithotripsy
+cystoscopic lysis
+cystoscopic occlusion
+cystoscopic reconstruction
+cystoscopic reduction
+cystoscopic reinforcement
+cystoscopic release
+cystoscopic removal
+cystoscopic removal of foreign body
+cystoscopic repair
+cystoscopic replacement
+cystoscopic reposition
+cystoscopic resection
+cystoscopic restriction
+cystoscopic revision
+cystoscopic transection
+da vinci ablation
+da vinci adhesiolysis
+da vinci alteration
+da vinci amputation
+da vinci arthrodesis
+da vinci aspiration
+da vinci augmentation
+da vinci banding
+da vinci biopsy
+da vinci bypass
+da vinci cauterization
+da vinci control of bleeding
+da vinci cosmetic modification
+da vinci creation
+da vinci destruction
+da vinci detachment
+da vinci dilatation
+da vinci dilation
+da vinci diversion
+da vinci division
+da vinci drainage
+da vinci excision
+da vinci explantation
+da vinci extirpation
+da vinci extraction
+da vinci fixation
+da vinci flap
+da vinci fragmentation
+da vinci fulguration
+da vinci fusion
+da vinci hemostasis
+da vinci implantation
+da vinci insertion
+da vinci ligation
+da vinci lithotripsy
+da vinci lysis
+da vinci occlusion
+da vinci procedure
+da vinci reattachment
+da vinci reconstruction
+da vinci reduction
+da vinci reimplantation
+da vinci reinforcement
+da vinci release
+da vinci removal
+da vinci removal of foreign body
+da vinci repair
+da vinci replacement
+da vinci reposition
+da vinci resection
+da vinci restriction
+da vinci revision
+da vinci robotic surgery
+da vinci surgery
+da vinci transection
+da vinci transfer
+da vinci transplant
+da vinci transplantation
+da vinci transposition
+day surgery
+definitive surgery
+definitive surgical treatment
+device implantation
+device insertion
+device removal
+diagnostic arthroscopy
+diagnostic biopsy
+diagnostic endoscopy
+diagnostic operation
+diagnostic procedure
+diagnostic surgery
+diversion procedure
+ear surgery
+elbow surgery
+elective operation
+elective procedure
+elective surgery
+electrocauterization
+electrofulguration
+emergency surgery
+emergent surgery
+en bloc resection
+endoscopic ablation
+endoscopic adhesiolysis
+endoscopic alteration
+endoscopic amputation
+endoscopic arthrodesis
+endoscopic aspiration
+endoscopic augmentation
+endoscopic banding
+endoscopic biliary surgery
+endoscopic biopsy
+endoscopic bypass
+endoscopic cauterization
+endoscopic control of bleeding
+endoscopic cosmetic modification
+endoscopic creation
+endoscopic destruction
+endoscopic detachment
+endoscopic dilatation
+endoscopic dilation
+endoscopic diversion
+endoscopic division
+endoscopic drainage
+endoscopic excision
+endoscopic explantation
+endoscopic extirpation
+endoscopic extraction
+endoscopic fixation
+endoscopic flap
+endoscopic fragmentation
+endoscopic fulguration
+endoscopic fusion
+endoscopic gi surgery
+endoscopic hemostasis
+endoscopic implantation
+endoscopic insertion
+endoscopic ligation
+endoscopic lithotripsy
+endoscopic lysis
+endoscopic nasal surgery
+endoscopic occlusion
+endoscopic procedure
+endoscopic reattachment
+endoscopic reconstruction
+endoscopic reduction
+endoscopic reimplantation
+endoscopic reinforcement
+endoscopic release
+endoscopic removal
+endoscopic removal of foreign body
+endoscopic repair
+endoscopic replacement
+endoscopic reposition
+endoscopic resection
+endoscopic restriction
+endoscopic revision
+endoscopic sinus surgery
+endoscopic spinal surgery
+endoscopic surgery
+endoscopic transection
+endoscopic transfer
+endoscopic transplant
+endoscopic transplantation
+endoscopic transposition
+endovascular procedure
+endovascular surgery
+ent procedure
+ent surgery
+esophagoscopic ablation
+esophagoscopic adhesiolysis
+esophagoscopic alteration
+esophagoscopic aspiration
+esophagoscopic augmentation
+esophagoscopic banding
+esophagoscopic biopsy
+esophagoscopic bypass
+esophagoscopic cauterization
+esophagoscopic control of bleeding
+esophagoscopic cosmetic modification
+esophagoscopic creation
+esophagoscopic destruction
+esophagoscopic dilatation
+esophagoscopic dilation
+esophagoscopic diversion
+esophagoscopic division
+esophagoscopic drainage
+esophagoscopic excision
+esophagoscopic explantation
+esophagoscopic extirpation
+esophagoscopic extraction
+esophagoscopic fragmentation
+esophagoscopic fulguration
+esophagoscopic hemostasis
+esophagoscopic implantation
+esophagoscopic insertion
+esophagoscopic ligation
+esophagoscopic lithotripsy
+esophagoscopic lysis
+esophagoscopic occlusion
+esophagoscopic reconstruction
+esophagoscopic reduction
+esophagoscopic reinforcement
+esophagoscopic release
+esophagoscopic removal
+esophagoscopic removal of foreign body
+esophagoscopic repair
+esophagoscopic replacement
+esophagoscopic reposition
+esophagoscopic resection
+esophagoscopic restriction
+esophagoscopic revision
+esophagoscopic transection
+ess
+excisional biopsy
+exploratory operation
+exploratory procedure
+exploratory surgery
+external fixation
+extremity surgery
+eye surgery
+fess
+flap procedure
+flap surgery
+fluoroscopic procedure
+fluoroscopy-guided percutaneous ablation
+fluoroscopy-guided percutaneous adhesiolysis
+fluoroscopy-guided percutaneous alteration
+fluoroscopy-guided percutaneous arthrodesis
+fluoroscopy-guided percutaneous aspiration
+fluoroscopy-guided percutaneous augmentation
+fluoroscopy-guided percutaneous banding
+fluoroscopy-guided percutaneous biopsy
+fluoroscopy-guided percutaneous bypass
+fluoroscopy-guided percutaneous cauterization
+fluoroscopy-guided percutaneous control of bleeding
+fluoroscopy-guided percutaneous creation
+fluoroscopy-guided percutaneous destruction
+fluoroscopy-guided percutaneous dilatation
+fluoroscopy-guided percutaneous dilation
+fluoroscopy-guided percutaneous diversion
+fluoroscopy-guided percutaneous division
+fluoroscopy-guided percutaneous drainage
+fluoroscopy-guided percutaneous excision
+fluoroscopy-guided percutaneous explantation
+fluoroscopy-guided percutaneous extirpation
+fluoroscopy-guided percutaneous extraction
+fluoroscopy-guided percutaneous fixation
+fluoroscopy-guided percutaneous fragmentation
+fluoroscopy-guided percutaneous fulguration
+fluoroscopy-guided percutaneous fusion
+fluoroscopy-guided percutaneous hemostasis
+fluoroscopy-guided percutaneous implantation
+fluoroscopy-guided percutaneous insertion
+fluoroscopy-guided percutaneous ligation
+fluoroscopy-guided percutaneous lithotripsy
+fluoroscopy-guided percutaneous lysis
+fluoroscopy-guided percutaneous occlusion
+fluoroscopy-guided percutaneous reconstruction
+fluoroscopy-guided percutaneous reduction
+fluoroscopy-guided percutaneous reinforcement
+fluoroscopy-guided percutaneous release
+fluoroscopy-guided percutaneous removal
+fluoroscopy-guided percutaneous removal of foreign body
+fluoroscopy-guided percutaneous repair
+fluoroscopy-guided percutaneous replacement
+fluoroscopy-guided percutaneous reposition
+fluoroscopy-guided percutaneous resection
+fluoroscopy-guided percutaneous restriction
+fluoroscopy-guided percutaneous revision
+fluoroscopy-guided percutaneous transection
+fluoroscopy-guided percutaneous transplant
+fluoroscopy-guided percutaneous transplantation
+foot surgery
+free flap
+gastrointestinal surgery
+gastroscopic ablation
+gastroscopic adhesiolysis
+gastroscopic alteration
+gastroscopic aspiration
+gastroscopic augmentation
+gastroscopic banding
+gastroscopic biopsy
+gastroscopic bypass
+gastroscopic cauterization
+gastroscopic control of bleeding
+gastroscopic cosmetic modification
+gastroscopic creation
+gastroscopic destruction
+gastroscopic dilatation
+gastroscopic dilation
+gastroscopic diversion
+gastroscopic division
+gastroscopic drainage
+gastroscopic excision
+gastroscopic explantation
+gastroscopic extirpation
+gastroscopic extraction
+gastroscopic fragmentation
+gastroscopic fulguration
+gastroscopic hemostasis
+gastroscopic implantation
+gastroscopic insertion
+gastroscopic ligation
+gastroscopic lithotripsy
+gastroscopic lysis
+gastroscopic occlusion
+gastroscopic reconstruction
+gastroscopic reduction
+gastroscopic reinforcement
+gastroscopic release
+gastroscopic removal
+gastroscopic removal of foreign body
+gastroscopic repair
+gastroscopic replacement
+gastroscopic reposition
+gastroscopic resection
+gastroscopic restriction
+gastroscopic revision
+gastroscopic transection
+genitourinary surgery
+gi surgery
+graft augmentation
+gu surgery
+gyn surgery
+gynecologic procedure
+gynecologic surgery
+gynecological surgery
+hand surgery
+hand-assisted laparoscopic ablation
+hand-assisted laparoscopic adhesiolysis
+hand-assisted laparoscopic alteration
+hand-assisted laparoscopic amputation
+hand-assisted laparoscopic arthrodesis
+hand-assisted laparoscopic aspiration
+hand-assisted laparoscopic augmentation
+hand-assisted laparoscopic banding
+hand-assisted laparoscopic biopsy
+hand-assisted laparoscopic bypass
+hand-assisted laparoscopic cauterization
+hand-assisted laparoscopic control of bleeding
+hand-assisted laparoscopic cosmetic modification
+hand-assisted laparoscopic creation
+hand-assisted laparoscopic destruction
+hand-assisted laparoscopic detachment
+hand-assisted laparoscopic dilatation
+hand-assisted laparoscopic dilation
+hand-assisted laparoscopic diversion
+hand-assisted laparoscopic division
+hand-assisted laparoscopic drainage
+hand-assisted laparoscopic excision
+hand-assisted laparoscopic explantation
+hand-assisted laparoscopic extirpation
+hand-assisted laparoscopic extraction
+hand-assisted laparoscopic fixation
+hand-assisted laparoscopic flap
+hand-assisted laparoscopic fragmentation
+hand-assisted laparoscopic fulguration
+hand-assisted laparoscopic fusion
+hand-assisted laparoscopic hemostasis
+hand-assisted laparoscopic implantation
+hand-assisted laparoscopic insertion
+hand-assisted laparoscopic ligation
+hand-assisted laparoscopic lithotripsy
+hand-assisted laparoscopic lysis
+hand-assisted laparoscopic occlusion
+hand-assisted laparoscopic reattachment
+hand-assisted laparoscopic reconstruction
+hand-assisted laparoscopic reduction
+hand-assisted laparoscopic reimplantation
+hand-assisted laparoscopic reinforcement
+hand-assisted laparoscopic release
+hand-assisted laparoscopic removal
+hand-assisted laparoscopic removal of foreign body
+hand-assisted laparoscopic repair
+hand-assisted laparoscopic replacement
+hand-assisted laparoscopic reposition
+hand-assisted laparoscopic resection
+hand-assisted laparoscopic restriction
+hand-assisted laparoscopic revision
+hand-assisted laparoscopic transection
+hand-assisted laparoscopic transfer
+hand-assisted laparoscopic transplant
+hand-assisted laparoscopic transplantation
+hand-assisted laparoscopic transposition
+hand-assisted laparoscopy
+head and neck procedure
+head and neck surgery
+heart surgery
+hepatobiliary surgery
+hip surgery
+hysteroscopic ablation
+hysteroscopic adhesiolysis
+hysteroscopic alteration
+hysteroscopic aspiration
+hysteroscopic augmentation
+hysteroscopic banding
+hysteroscopic biopsy
+hysteroscopic cauterization
+hysteroscopic control of bleeding
+hysteroscopic cosmetic modification
+hysteroscopic creation
+hysteroscopic destruction
+hysteroscopic dilatation
+hysteroscopic dilation
+hysteroscopic division
+hysteroscopic drainage
+hysteroscopic excision
+hysteroscopic explantation
+hysteroscopic extirpation
+hysteroscopic extraction
+hysteroscopic fragmentation
+hysteroscopic fulguration
+hysteroscopic hemostasis
+hysteroscopic implantation
+hysteroscopic insertion
+hysteroscopic ligation
+hysteroscopic lithotripsy
+hysteroscopic lysis
+hysteroscopic occlusion
+hysteroscopic reattachment
+hysteroscopic reconstruction
+hysteroscopic reduction
+hysteroscopic reimplantation
+hysteroscopic reinforcement
+hysteroscopic release
+hysteroscopic removal
+hysteroscopic removal of foreign body
+hysteroscopic repair
+hysteroscopic replacement
+hysteroscopic reposition
+hysteroscopic resection
+hysteroscopic restriction
+hysteroscopic revision
+hysteroscopic transection
+i&d
+image-guided percutaneous ablation
+image-guided percutaneous adhesiolysis
+image-guided percutaneous alteration
+image-guided percutaneous arthrodesis
+image-guided percutaneous aspiration
+image-guided percutaneous augmentation
+image-guided percutaneous banding
+image-guided percutaneous biopsy
+image-guided percutaneous bypass
+image-guided percutaneous cauterization
+image-guided percutaneous control of bleeding
+image-guided percutaneous creation
+image-guided percutaneous destruction
+image-guided percutaneous dilatation
+image-guided percutaneous dilation
+image-guided percutaneous diversion
+image-guided percutaneous division
+image-guided percutaneous drainage
+image-guided percutaneous excision
+image-guided percutaneous explantation
+image-guided percutaneous extirpation
+image-guided percutaneous extraction
+image-guided percutaneous fixation
+image-guided percutaneous fragmentation
+image-guided percutaneous fulguration
+image-guided percutaneous fusion
+image-guided percutaneous hemostasis
+image-guided percutaneous implantation
+image-guided percutaneous insertion
+image-guided percutaneous ligation
+image-guided percutaneous lithotripsy
+image-guided percutaneous lysis
+image-guided percutaneous occlusion
+image-guided percutaneous reconstruction
+image-guided percutaneous reduction
+image-guided percutaneous reinforcement
+image-guided percutaneous release
+image-guided percutaneous removal
+image-guided percutaneous removal of foreign body
+image-guided percutaneous repair
+image-guided percutaneous replacement
+image-guided percutaneous reposition
+image-guided percutaneous resection
+image-guided percutaneous restriction
+image-guided percutaneous revision
+image-guided percutaneous transection
+image-guided percutaneous transplant
+image-guided percutaneous transplantation
+image-guided procedure
+image-guided surgery
+implant procedure
+implant removal
+implant surgery
+implantation surgery
+incision and drainage
+incisional biopsy
+inpatient surgery
+internal fixation
+interventional endoscopy
+intra-abdominal surgery
+intraabdominal surgery
+intracranial procedure
+intracranial surgery
+intraocular surgery
+intraoperative procedure
+intrathoracic surgery
+joint fusion
+joint surgery
+keyhole procedure
+keyhole surgery
+knee surgery
+lap ablation
+lap adhesiolysis
+lap alteration
+lap amputation
+lap arthrodesis
+lap aspiration
+lap augmentation
+lap banding
+lap biopsy
+lap bypass
+lap case
+lap cauterization
+lap control of bleeding
+lap cosmetic modification
+lap creation
+lap destruction
+lap detachment
+lap dilatation
+lap dilation
+lap diversion
+lap division
+lap drainage
+lap excision
+lap explantation
+lap extirpation
+lap extraction
+lap fixation
+lap flap
+lap fragmentation
+lap fulguration
+lap fusion
+lap hemostasis
+lap implantation
+lap insertion
+lap ligation
+lap lithotripsy
+lap lysis
+lap occlusion
+lap procedure
+lap reattachment
+lap reconstruction
+lap reduction
+lap reimplantation
+lap reinforcement
+lap release
+lap removal
+lap removal of foreign body
+lap repair
+lap replacement
+lap reposition
+lap resection
+lap restriction
+lap revision
+lap surgery
+lap transection
+lap transfer
+lap transplant
+lap transplantation
+lap transposition
+laparoscopic abdominal procedure
+laparoscopic abdominal surgery
+laparoscopic ablation
+laparoscopic adhesiolysis
+laparoscopic alteration
+laparoscopic amputation
+laparoscopic arthrodesis
+laparoscopic aspiration
+laparoscopic augmentation
+laparoscopic banding
+laparoscopic bariatric surgery
+laparoscopic biopsy
+laparoscopic bypass
+laparoscopic cauterization
+laparoscopic colorectal procedure
+laparoscopic colorectal surgery
+laparoscopic control of bleeding
+laparoscopic cosmetic modification
+laparoscopic creation
+laparoscopic destruction
+laparoscopic detachment
+laparoscopic dilatation
+laparoscopic dilation
+laparoscopic diversion
+laparoscopic division
+laparoscopic drainage
+laparoscopic excision
+laparoscopic explantation
+laparoscopic extirpation
+laparoscopic extraction
+laparoscopic fixation
+laparoscopic flap
+laparoscopic fragmentation
+laparoscopic fulguration
+laparoscopic fusion
+laparoscopic gi procedure
+laparoscopic gi surgery
+laparoscopic gyn surgery
+laparoscopic gynecologic surgery
+laparoscopic gynecological surgery
+laparoscopic hemostasis
+laparoscopic hepatobiliary surgery
+laparoscopic implantation
+laparoscopic insertion
+laparoscopic ligation
+laparoscopic lithotripsy
+laparoscopic lysis
+laparoscopic occlusion
+laparoscopic oncologic surgery
+laparoscopic operation
+laparoscopic pelvic procedure
+laparoscopic pelvic surgery
+laparoscopic procedure
+laparoscopic reattachment
+laparoscopic reconstruction
+laparoscopic reduction
+laparoscopic reimplantation
+laparoscopic reinforcement
+laparoscopic release
+laparoscopic removal
+laparoscopic removal of foreign body
+laparoscopic repair
+laparoscopic replacement
+laparoscopic reposition
+laparoscopic resection
+laparoscopic restriction
+laparoscopic revision
+laparoscopic surgery
+laparoscopic transection
+laparoscopic transfer
+laparoscopic transplant
+laparoscopic transplantation
+laparoscopic transposition
+laparoscopic urologic surgery
+laparoscopic urological surgery
+laparoscopic-assisted ablation
+laparoscopic-assisted adhesiolysis
+laparoscopic-assisted alteration
+laparoscopic-assisted amputation
+laparoscopic-assisted arthrodesis
+laparoscopic-assisted aspiration
+laparoscopic-assisted augmentation
+laparoscopic-assisted banding
+laparoscopic-assisted biopsy
+laparoscopic-assisted bypass
+laparoscopic-assisted cauterization
+laparoscopic-assisted control of bleeding
+laparoscopic-assisted cosmetic modification
+laparoscopic-assisted creation
+laparoscopic-assisted destruction
+laparoscopic-assisted detachment
+laparoscopic-assisted dilatation
+laparoscopic-assisted dilation
+laparoscopic-assisted diversion
+laparoscopic-assisted division
+laparoscopic-assisted drainage
+laparoscopic-assisted excision
+laparoscopic-assisted explantation
+laparoscopic-assisted extirpation
+laparoscopic-assisted extraction
+laparoscopic-assisted fixation
+laparoscopic-assisted flap
+laparoscopic-assisted fragmentation
+laparoscopic-assisted fulguration
+laparoscopic-assisted fusion
+laparoscopic-assisted hemostasis
+laparoscopic-assisted implantation
+laparoscopic-assisted insertion
+laparoscopic-assisted ligation
+laparoscopic-assisted lithotripsy
+laparoscopic-assisted lysis
+laparoscopic-assisted occlusion
+laparoscopic-assisted reattachment
+laparoscopic-assisted reconstruction
+laparoscopic-assisted reduction
+laparoscopic-assisted reimplantation
+laparoscopic-assisted reinforcement
+laparoscopic-assisted release
+laparoscopic-assisted removal
+laparoscopic-assisted removal of foreign body
+laparoscopic-assisted repair
+laparoscopic-assisted replacement
+laparoscopic-assisted reposition
+laparoscopic-assisted resection
+laparoscopic-assisted restriction
+laparoscopic-assisted revision
+laparoscopic-assisted transection
+laparoscopic-assisted transfer
+laparoscopic-assisted transplant
+laparoscopic-assisted transplantation
+laparoscopic-assisted transposition
+laparoscopy-assisted ablation
+laparoscopy-assisted adhesiolysis
+laparoscopy-assisted alteration
+laparoscopy-assisted amputation
+laparoscopy-assisted arthrodesis
+laparoscopy-assisted aspiration
+laparoscopy-assisted augmentation
+laparoscopy-assisted banding
+laparoscopy-assisted biopsy
+laparoscopy-assisted bypass
+laparoscopy-assisted cauterization
+laparoscopy-assisted control of bleeding
+laparoscopy-assisted cosmetic modification
+laparoscopy-assisted creation
+laparoscopy-assisted destruction
+laparoscopy-assisted detachment
+laparoscopy-assisted dilatation
+laparoscopy-assisted dilation
+laparoscopy-assisted diversion
+laparoscopy-assisted division
+laparoscopy-assisted drainage
+laparoscopy-assisted excision
+laparoscopy-assisted explantation
+laparoscopy-assisted extirpation
+laparoscopy-assisted extraction
+laparoscopy-assisted fixation
+laparoscopy-assisted flap
+laparoscopy-assisted fragmentation
+laparoscopy-assisted fulguration
+laparoscopy-assisted fusion
+laparoscopy-assisted hemostasis
+laparoscopy-assisted implantation
+laparoscopy-assisted insertion
+laparoscopy-assisted ligation
+laparoscopy-assisted lithotripsy
+laparoscopy-assisted lysis
+laparoscopy-assisted occlusion
+laparoscopy-assisted reattachment
+laparoscopy-assisted reconstruction
+laparoscopy-assisted reduction
+laparoscopy-assisted reimplantation
+laparoscopy-assisted reinforcement
+laparoscopy-assisted release
+laparoscopy-assisted removal
+laparoscopy-assisted removal of foreign body
+laparoscopy-assisted repair
+laparoscopy-assisted replacement
+laparoscopy-assisted reposition
+laparoscopy-assisted resection
+laparoscopy-assisted restriction
+laparoscopy-assisted revision
+laparoscopy-assisted transection
+laparoscopy-assisted transfer
+laparoscopy-assisted transplant
+laparoscopy-assisted transplantation
+laparoscopy-assisted transposition
+laparotomy
+laryngoscopic ablation
+laryngoscopic adhesiolysis
+laryngoscopic alteration
+laryngoscopic aspiration
+laryngoscopic augmentation
+laryngoscopic banding
+laryngoscopic biopsy
+laryngoscopic bypass
+laryngoscopic cauterization
+laryngoscopic control of bleeding
+laryngoscopic cosmetic modification
+laryngoscopic creation
+laryngoscopic destruction
+laryngoscopic dilatation
+laryngoscopic dilation
+laryngoscopic diversion
+laryngoscopic division
+laryngoscopic drainage
+laryngoscopic excision
+laryngoscopic explantation
+laryngoscopic extirpation
+laryngoscopic extraction
+laryngoscopic fragmentation
+laryngoscopic fulguration
+laryngoscopic hemostasis
+laryngoscopic implantation
+laryngoscopic insertion
+laryngoscopic ligation
+laryngoscopic lithotripsy
+laryngoscopic lysis
+laryngoscopic occlusion
+laryngoscopic reconstruction
+laryngoscopic reduction
+laryngoscopic reinforcement
+laryngoscopic release
+laryngoscopic removal
+laryngoscopic removal of foreign body
+laryngoscopic repair
+laryngoscopic replacement
+laryngoscopic reposition
+laryngoscopic resection
+laryngoscopic restriction
+laryngoscopic revision
+laryngoscopic transection
+laser ablation
+laser surgery
+lesion excision
+lesion removal
+less
+limb surgery
+lithotripsy procedure
+lower extremity surgery
+major operative procedure
+major surgery
+mass excision
+mass removal
+mesh repair
+microwave ablation
+minilaparoscopic ablation
+minilaparoscopic adhesiolysis
+minilaparoscopic arthrodesis
+minilaparoscopic aspiration
+minilaparoscopic augmentation
+minilaparoscopic banding
+minilaparoscopic biopsy
+minilaparoscopic bypass
+minilaparoscopic cauterization
+minilaparoscopic control of bleeding
+minilaparoscopic destruction
+minilaparoscopic dilatation
+minilaparoscopic dilation
+minilaparoscopic diversion
+minilaparoscopic division
+minilaparoscopic drainage
+minilaparoscopic excision
+minilaparoscopic explantation
+minilaparoscopic extirpation
+minilaparoscopic extraction
+minilaparoscopic fixation
+minilaparoscopic fragmentation
+minilaparoscopic fulguration
+minilaparoscopic fusion
+minilaparoscopic hemostasis
+minilaparoscopic implantation
+minilaparoscopic insertion
+minilaparoscopic ligation
+minilaparoscopic lithotripsy
+minilaparoscopic lysis
+minilaparoscopic occlusion
+minilaparoscopic reconstruction
+minilaparoscopic reduction
+minilaparoscopic reinforcement
+minilaparoscopic release
+minilaparoscopic removal
+minilaparoscopic removal of foreign body
+minilaparoscopic repair
+minilaparoscopic replacement
+minilaparoscopic reposition
+minilaparoscopic resection
+minilaparoscopic restriction
+minilaparoscopic revision
+minilaparoscopic surgery
+minilaparoscopic transection
+minilaparoscopic transfer
+minimal access procedure
+minimal access surgery
+minimally invasive procedure
+minimally invasive surgery
+minimally invasive surgical procedure
+minor operative procedure
+minor surgery
+mis procedure
+mis surgery
+musculoskeletal surgery
+nasal surgery
+natural orifice ablation
+natural orifice adhesiolysis
+natural orifice aspiration
+natural orifice augmentation
+natural orifice banding
+natural orifice biopsy
+natural orifice bypass
+natural orifice cauterization
+natural orifice control of bleeding
+natural orifice destruction
+natural orifice dilatation
+natural orifice dilation
+natural orifice diversion
+natural orifice division
+natural orifice drainage
+natural orifice excision
+natural orifice explantation
+natural orifice extirpation
+natural orifice extraction
+natural orifice fixation
+natural orifice flap
+natural orifice fragmentation
+natural orifice fulguration
+natural orifice hemostasis
+natural orifice implantation
+natural orifice insertion
+natural orifice ligation
+natural orifice lithotripsy
+natural orifice lysis
+natural orifice occlusion
+natural orifice reduction
+natural orifice reinforcement
+natural orifice release
+natural orifice removal
+natural orifice removal of foreign body
+natural orifice repair
+natural orifice replacement
+natural orifice reposition
+natural orifice resection
+natural orifice restriction
+natural orifice revision
+natural orifice transection
+natural orifice transfer
+natural orifice transluminal endoscopic surgery
+natural orifice transposition
+needlescopic surgery
+neuroendoscopic ablation
+neuroendoscopic adhesiolysis
+neuroendoscopic alteration
+neuroendoscopic amputation
+neuroendoscopic arthrodesis
+neuroendoscopic aspiration
+neuroendoscopic augmentation
+neuroendoscopic banding
+neuroendoscopic biopsy
+neuroendoscopic bypass
+neuroendoscopic cauterization
+neuroendoscopic control of bleeding
+neuroendoscopic cosmetic modification
+neuroendoscopic creation
+neuroendoscopic destruction
+neuroendoscopic detachment
+neuroendoscopic dilatation
+neuroendoscopic dilation
+neuroendoscopic diversion
+neuroendoscopic division
+neuroendoscopic drainage
+neuroendoscopic excision
+neuroendoscopic explantation
+neuroendoscopic extirpation
+neuroendoscopic extraction
+neuroendoscopic fixation
+neuroendoscopic flap
+neuroendoscopic fragmentation
+neuroendoscopic fulguration
+neuroendoscopic fusion
+neuroendoscopic hemostasis
+neuroendoscopic implantation
+neuroendoscopic insertion
+neuroendoscopic ligation
+neuroendoscopic lithotripsy
+neuroendoscopic lysis
+neuroendoscopic occlusion
+neuroendoscopic reattachment
+neuroendoscopic reconstruction
+neuroendoscopic reduction
+neuroendoscopic reimplantation
+neuroendoscopic reinforcement
+neuroendoscopic release
+neuroendoscopic removal
+neuroendoscopic removal of foreign body
+neuroendoscopic repair
+neuroendoscopic replacement
+neuroendoscopic reposition
+neuroendoscopic resection
+neuroendoscopic restriction
+neuroendoscopic revision
+neuroendoscopic transection
+neuroendoscopic transfer
+neuroendoscopic transplant
+neuroendoscopic transplantation
+neuroendoscopic transposition
+neurosurgery
+neurosurgical procedure
+notes
+notes ablation
+notes adhesiolysis
+notes aspiration
+notes augmentation
+notes banding
+notes biopsy
+notes bypass
+notes cauterization
+notes control of bleeding
+notes destruction
+notes dilatation
+notes dilation
+notes diversion
+notes division
+notes drainage
+notes excision
+notes explantation
+notes extirpation
+notes extraction
+notes fixation
+notes flap
+notes fragmentation
+notes fulguration
+notes hemostasis
+notes implantation
+notes insertion
+notes ligation
+notes lithotripsy
+notes lysis
+notes occlusion
+notes procedure
+notes reduction
+notes reinforcement
+notes release
+notes removal
+notes removal of foreign body
+notes repair
+notes replacement
+notes reposition
+notes resection
+notes restriction
+notes revision
+notes surgery
+notes transection
+notes transfer
+notes transposition
+ocular surgery
+oncologic surgery
+oncological surgery
+open abdominal procedure
+open abdominal surgery
+open ablation
+open adhesiolysis
+open alteration
+open amputation
+open arthrodesis
+open aspiration
+open augmentation
+open banding
+open biopsy
+open bypass
+open cardiac surgery
+open case
+open cauterization
+open control of bleeding
+open cosmetic modification
+open cranial surgery
+open creation
+open destruction
+open detachment
+open dilatation
+open dilation
+open diversion
+open division
+open drainage
+open excision
+open explantation
+open extirpation
+open extraction
+open fixation
+open flap
+open fragmentation
+open fulguration
+open fusion
+open heart procedure
+open heart surgery
+open hemostasis
+open implantation
+open insertion
+open joint surgery
+open ligation
+open lithotripsy
+open lysis
+open occlusion
+open operation
+open orthopedic surgery
+open pelvic surgery
+open procedure
+open reattachment
+open reconstruction
+open reduction
+open reimplantation
+open reinforcement
+open release
+open removal
+open removal of foreign body
+open repair
+open replacement
+open reposition
+open resection
+open restriction
+open revision
+open spinal surgery
+open spine surgery
+open surgery
+open surgical ablation
+open surgical adhesiolysis
+open surgical alteration
+open surgical amputation
+open surgical arthrodesis
+open surgical aspiration
+open surgical augmentation
+open surgical banding
+open surgical biopsy
+open surgical bypass
+open surgical cauterization
+open surgical control of bleeding
+open surgical cosmetic modification
+open surgical creation
+open surgical destruction
+open surgical detachment
+open surgical dilatation
+open surgical dilation
+open surgical diversion
+open surgical division
+open surgical drainage
+open surgical excision
+open surgical explantation
+open surgical extirpation
+open surgical extraction
+open surgical fixation
+open surgical flap
+open surgical fragmentation
+open surgical fulguration
+open surgical fusion
+open surgical hemostasis
+open surgical implantation
+open surgical insertion
+open surgical ligation
+open surgical lithotripsy
+open surgical lysis
+open surgical occlusion
+open surgical procedure
+open surgical reattachment
+open surgical reconstruction
+open surgical reduction
+open surgical reimplantation
+open surgical reinforcement
+open surgical release
+open surgical removal
+open surgical removal of foreign body
+open surgical repair
+open surgical replacement
+open surgical reposition
+open surgical resection
+open surgical restriction
+open surgical revision
+open surgical transection
+open surgical transfer
+open surgical transplant
+open surgical transplantation
+open surgical transposition
+open thoracic surgery
+open transection
+open transfer
+open transplant
+open transplantation
+open transposition
+open vascular procedure
+open vascular surgery
+operating room procedure
+operative adhesiolysis
+operative arthroscopy
+operative case
+operative endoscopy
+operative intervention
+operative management
+operative procedure
+operative repair
+operative treatment
+ophthalmic procedure
+ophthalmic surgery
+or case
+or procedure
+organ biopsy
+organ transplant
+organ transplant surgery
+organ transplantation
+orthopaedic procedure
+orthopaedic surgery
+orthopedic procedure
+orthopedic surgery
+otolaryngologic surgery
+otolaryngological surgery
+outpatient surgery
+palliative procedure
+palliative surgery
+partial resection
+pedicled flap
+pelvic floor surgery
+pelvic operation
+pelvic procedure
+pelvic reconstruction
+pelvic surgery
+percutaneous ablation
+percutaneous adhesiolysis
+percutaneous alteration
+percutaneous arthrodesis
+percutaneous aspiration
+percutaneous augmentation
+percutaneous banding
+percutaneous biopsy
+percutaneous bypass
+percutaneous cauterization
+percutaneous control of bleeding
+percutaneous creation
+percutaneous destruction
+percutaneous dilatation
+percutaneous dilation
+percutaneous diversion
+percutaneous division
+percutaneous drainage
+percutaneous excision
+percutaneous explantation
+percutaneous extirpation
+percutaneous extraction
+percutaneous fixation
+percutaneous fragmentation
+percutaneous fulguration
+percutaneous fusion
+percutaneous hemostasis
+percutaneous implantation
+percutaneous insertion
+percutaneous intervention
+percutaneous ligation
+percutaneous lithotripsy
+percutaneous lysis
+percutaneous occlusion
+percutaneous procedure
+percutaneous reconstruction
+percutaneous reduction
+percutaneous reinforcement
+percutaneous release
+percutaneous removal
+percutaneous removal of foreign body
+percutaneous repair
+percutaneous replacement
+percutaneous reposition
+percutaneous resection
+percutaneous restriction
+percutaneous revision
+percutaneous surgery
+percutaneous transection
+percutaneous transplant
+percutaneous transplantation
+plastic surgery
+pleuroscopic ablation
+pleuroscopic adhesiolysis
+pleuroscopic alteration
+pleuroscopic amputation
+pleuroscopic arthrodesis
+pleuroscopic aspiration
+pleuroscopic augmentation
+pleuroscopic banding
+pleuroscopic biopsy
+pleuroscopic bypass
+pleuroscopic cauterization
+pleuroscopic control of bleeding
+pleuroscopic cosmetic modification
+pleuroscopic creation
+pleuroscopic destruction
+pleuroscopic detachment
+pleuroscopic dilatation
+pleuroscopic dilation
+pleuroscopic diversion
+pleuroscopic division
+pleuroscopic drainage
+pleuroscopic excision
+pleuroscopic explantation
+pleuroscopic extirpation
+pleuroscopic extraction
+pleuroscopic fixation
+pleuroscopic flap
+pleuroscopic fragmentation
+pleuroscopic fulguration
+pleuroscopic fusion
+pleuroscopic hemostasis
+pleuroscopic implantation
+pleuroscopic insertion
+pleuroscopic ligation
+pleuroscopic lithotripsy
+pleuroscopic lysis
+pleuroscopic occlusion
+pleuroscopic reattachment
+pleuroscopic reconstruction
+pleuroscopic reduction
+pleuroscopic reimplantation
+pleuroscopic reinforcement
+pleuroscopic release
+pleuroscopic removal
+pleuroscopic removal of foreign body
+pleuroscopic repair
+pleuroscopic replacement
+pleuroscopic reposition
+pleuroscopic resection
+pleuroscopic restriction
+pleuroscopic revision
+pleuroscopic surgery
+pleuroscopic transection
+pleuroscopic transfer
+pleuroscopic transplant
+pleuroscopic transplantation
+pleuroscopic transposition
+pleuroscopy
+preventive surgery
+primary repair
+prophylactic surgery
+prosthetic replacement
+punch biopsy
+radical resection
+radiofrequency ablation
+rats
+re-operation
+reconstructive operation
+reconstructive procedure
+reconstructive surgery
+redo procedure
+redo surgery
+reduced-port laparoscopic ablation
+reduced-port laparoscopic adhesiolysis
+reduced-port laparoscopic arthrodesis
+reduced-port laparoscopic aspiration
+reduced-port laparoscopic augmentation
+reduced-port laparoscopic banding
+reduced-port laparoscopic biopsy
+reduced-port laparoscopic bypass
+reduced-port laparoscopic cauterization
+reduced-port laparoscopic control of bleeding
+reduced-port laparoscopic destruction
+reduced-port laparoscopic dilatation
+reduced-port laparoscopic dilation
+reduced-port laparoscopic diversion
+reduced-port laparoscopic division
+reduced-port laparoscopic drainage
+reduced-port laparoscopic excision
+reduced-port laparoscopic explantation
+reduced-port laparoscopic extirpation
+reduced-port laparoscopic extraction
+reduced-port laparoscopic fixation
+reduced-port laparoscopic fragmentation
+reduced-port laparoscopic fulguration
+reduced-port laparoscopic fusion
+reduced-port laparoscopic hemostasis
+reduced-port laparoscopic implantation
+reduced-port laparoscopic insertion
+reduced-port laparoscopic ligation
+reduced-port laparoscopic lithotripsy
+reduced-port laparoscopic lysis
+reduced-port laparoscopic occlusion
+reduced-port laparoscopic reconstruction
+reduced-port laparoscopic reduction
+reduced-port laparoscopic reinforcement
+reduced-port laparoscopic release
+reduced-port laparoscopic removal
+reduced-port laparoscopic removal of foreign body
+reduced-port laparoscopic repair
+reduced-port laparoscopic replacement
+reduced-port laparoscopic reposition
+reduced-port laparoscopic resection
+reduced-port laparoscopic restriction
+reduced-port laparoscopic revision
+reduced-port laparoscopic surgery
+reduced-port laparoscopic transection
+reduced-port laparoscopic transfer
+reoperation
+replantation
+replantation surgery
+reproductive surgery
+retroperitoneal procedure
+retroperitoneal surgery
+revision procedure
+revision surgery
+rfa
+robot surgery
+robot-assisted ablation
+robot-assisted adhesiolysis
+robot-assisted alteration
+robot-assisted amputation
+robot-assisted arthrodesis
+robot-assisted aspiration
+robot-assisted augmentation
+robot-assisted banding
+robot-assisted biopsy
+robot-assisted bypass
+robot-assisted cauterization
+robot-assisted control of bleeding
+robot-assisted cosmetic modification
+robot-assisted creation
+robot-assisted destruction
+robot-assisted detachment
+robot-assisted dilatation
+robot-assisted dilation
+robot-assisted diversion
+robot-assisted division
+robot-assisted drainage
+robot-assisted excision
+robot-assisted explantation
+robot-assisted extirpation
+robot-assisted extraction
+robot-assisted fixation
+robot-assisted flap
+robot-assisted fragmentation
+robot-assisted fulguration
+robot-assisted fusion
+robot-assisted hemostasis
+robot-assisted implantation
+robot-assisted insertion
+robot-assisted laparoscopic ablation
+robot-assisted laparoscopic adhesiolysis
+robot-assisted laparoscopic alteration
+robot-assisted laparoscopic amputation
+robot-assisted laparoscopic arthrodesis
+robot-assisted laparoscopic aspiration
+robot-assisted laparoscopic augmentation
+robot-assisted laparoscopic banding
+robot-assisted laparoscopic biopsy
+robot-assisted laparoscopic bypass
+robot-assisted laparoscopic cauterization
+robot-assisted laparoscopic control of bleeding
+robot-assisted laparoscopic cosmetic modification
+robot-assisted laparoscopic creation
+robot-assisted laparoscopic destruction
+robot-assisted laparoscopic detachment
+robot-assisted laparoscopic dilatation
+robot-assisted laparoscopic dilation
+robot-assisted laparoscopic diversion
+robot-assisted laparoscopic division
+robot-assisted laparoscopic drainage
+robot-assisted laparoscopic excision
+robot-assisted laparoscopic explantation
+robot-assisted laparoscopic extirpation
+robot-assisted laparoscopic extraction
+robot-assisted laparoscopic fixation
+robot-assisted laparoscopic flap
+robot-assisted laparoscopic fragmentation
+robot-assisted laparoscopic fulguration
+robot-assisted laparoscopic fusion
+robot-assisted laparoscopic hemostasis
+robot-assisted laparoscopic implantation
+robot-assisted laparoscopic insertion
+robot-assisted laparoscopic ligation
+robot-assisted laparoscopic lithotripsy
+robot-assisted laparoscopic lysis
+robot-assisted laparoscopic occlusion
+robot-assisted laparoscopic reattachment
+robot-assisted laparoscopic reconstruction
+robot-assisted laparoscopic reduction
+robot-assisted laparoscopic reimplantation
+robot-assisted laparoscopic reinforcement
+robot-assisted laparoscopic release
+robot-assisted laparoscopic removal
+robot-assisted laparoscopic removal of foreign body
+robot-assisted laparoscopic repair
+robot-assisted laparoscopic replacement
+robot-assisted laparoscopic reposition
+robot-assisted laparoscopic resection
+robot-assisted laparoscopic restriction
+robot-assisted laparoscopic revision
+robot-assisted laparoscopic surgery
+robot-assisted laparoscopic transection
+robot-assisted laparoscopic transfer
+robot-assisted laparoscopic transplant
+robot-assisted laparoscopic transplantation
+robot-assisted laparoscopic transposition
+robot-assisted ligation
+robot-assisted lithotripsy
+robot-assisted lysis
+robot-assisted occlusion
+robot-assisted procedure
+robot-assisted reattachment
+robot-assisted reconstruction
+robot-assisted reduction
+robot-assisted reimplantation
+robot-assisted reinforcement
+robot-assisted release
+robot-assisted removal
+robot-assisted removal of foreign body
+robot-assisted repair
+robot-assisted replacement
+robot-assisted reposition
+robot-assisted resection
+robot-assisted restriction
+robot-assisted revision
+robot-assisted surgery
+robot-assisted transection
+robot-assisted transfer
+robot-assisted transplant
+robot-assisted transplantation
+robot-assisted transposition
+robot-enhanced procedure
+robot-enhanced surgery
+robotic abdominal surgery
+robotic ablation
+robotic adhesiolysis
+robotic alteration
+robotic amputation
+robotic arthrodesis
+robotic aspiration
+robotic augmentation
+robotic banding
+robotic biopsy
+robotic bypass
+robotic cardiac surgery
+robotic cauterization
+robotic colorectal surgery
+robotic control of bleeding
+robotic cosmetic modification
+robotic creation
+robotic destruction
+robotic detachment
+robotic dilatation
+robotic dilation
+robotic diversion
+robotic division
+robotic drainage
+robotic excision
+robotic explantation
+robotic extirpation
+robotic extraction
+robotic fixation
+robotic flap
+robotic fragmentation
+robotic fulguration
+robotic fusion
+robotic gi surgery
+robotic gynecologic surgery
+robotic gynecological surgery
+robotic hemostasis
+robotic hepatobiliary surgery
+robotic implantation
+robotic insertion
+robotic laparoscopic ablation
+robotic laparoscopic adhesiolysis
+robotic laparoscopic alteration
+robotic laparoscopic amputation
+robotic laparoscopic arthrodesis
+robotic laparoscopic aspiration
+robotic laparoscopic augmentation
+robotic laparoscopic banding
+robotic laparoscopic biopsy
+robotic laparoscopic bypass
+robotic laparoscopic cauterization
+robotic laparoscopic control of bleeding
+robotic laparoscopic cosmetic modification
+robotic laparoscopic creation
+robotic laparoscopic destruction
+robotic laparoscopic detachment
+robotic laparoscopic dilatation
+robotic laparoscopic dilation
+robotic laparoscopic diversion
+robotic laparoscopic division
+robotic laparoscopic drainage
+robotic laparoscopic excision
+robotic laparoscopic explantation
+robotic laparoscopic extirpation
+robotic laparoscopic extraction
+robotic laparoscopic fixation
+robotic laparoscopic flap
+robotic laparoscopic fragmentation
+robotic laparoscopic fulguration
+robotic laparoscopic fusion
+robotic laparoscopic hemostasis
+robotic laparoscopic implantation
+robotic laparoscopic insertion
+robotic laparoscopic ligation
+robotic laparoscopic lithotripsy
+robotic laparoscopic lysis
+robotic laparoscopic occlusion
+robotic laparoscopic reattachment
+robotic laparoscopic reconstruction
+robotic laparoscopic reduction
+robotic laparoscopic reimplantation
+robotic laparoscopic reinforcement
+robotic laparoscopic release
+robotic laparoscopic removal
+robotic laparoscopic removal of foreign body
+robotic laparoscopic repair
+robotic laparoscopic replacement
+robotic laparoscopic reposition
+robotic laparoscopic resection
+robotic laparoscopic restriction
+robotic laparoscopic revision
+robotic laparoscopic surgery
+robotic laparoscopic transection
+robotic laparoscopic transfer
+robotic laparoscopic transplant
+robotic laparoscopic transplantation
+robotic laparoscopic transposition
+robotic ligation
+robotic lithotripsy
+robotic lysis
+robotic occlusion
+robotic operation
+robotic pelvic surgery
+robotic procedure
+robotic reattachment
+robotic reconstruction
+robotic reduction
+robotic reimplantation
+robotic reinforcement
+robotic release
+robotic removal
+robotic removal of foreign body
+robotic repair
+robotic replacement
+robotic reposition
+robotic resection
+robotic restriction
+robotic revision
+robotic surgery
+robotic thoracic surgery
+robotic transection
+robotic transfer
+robotic transplant
+robotic transplantation
+robotic transposition
+robotic urologic surgery
+robotic urological surgery
+robotic-assisted abdominal surgery
+robotic-assisted ablation
+robotic-assisted adhesiolysis
+robotic-assisted alteration
+robotic-assisted amputation
+robotic-assisted arthrodesis
+robotic-assisted aspiration
+robotic-assisted augmentation
+robotic-assisted banding
+robotic-assisted biopsy
+robotic-assisted bypass
+robotic-assisted cauterization
+robotic-assisted control of bleeding
+robotic-assisted cosmetic modification
+robotic-assisted creation
+robotic-assisted destruction
+robotic-assisted detachment
+robotic-assisted dilatation
+robotic-assisted dilation
+robotic-assisted diversion
+robotic-assisted division
+robotic-assisted drainage
+robotic-assisted excision
+robotic-assisted explantation
+robotic-assisted extirpation
+robotic-assisted extraction
+robotic-assisted fixation
+robotic-assisted flap
+robotic-assisted fragmentation
+robotic-assisted fulguration
+robotic-assisted fusion
+robotic-assisted gynecologic surgery
+robotic-assisted hemostasis
+robotic-assisted implantation
+robotic-assisted insertion
+robotic-assisted ligation
+robotic-assisted lithotripsy
+robotic-assisted lysis
+robotic-assisted occlusion
+robotic-assisted pelvic surgery
+robotic-assisted procedure
+robotic-assisted reattachment
+robotic-assisted reconstruction
+robotic-assisted reduction
+robotic-assisted reimplantation
+robotic-assisted reinforcement
+robotic-assisted release
+robotic-assisted removal
+robotic-assisted removal of foreign body
+robotic-assisted repair
+robotic-assisted replacement
+robotic-assisted reposition
+robotic-assisted resection
+robotic-assisted restriction
+robotic-assisted revision
+robotic-assisted surgery
+robotic-assisted transection
+robotic-assisted transfer
+robotic-assisted transplant
+robotic-assisted transplantation
+robotic-assisted transposition
+robotic-assisted urologic surgery
+rotational flap
+salvage procedure
+salvage surgery
+same-day surgery
+scheduled surgery
+second look operation
+second-look procedure
+second-look surgery
+second-stage procedure
+segmental resection
+shave excision
+shoulder surgery
+sils
+sils ablation
+sils adhesiolysis
+sils aspiration
+sils augmentation
+sils banding
+sils biopsy
+sils bypass
+sils cauterization
+sils control of bleeding
+sils destruction
+sils dilatation
+sils dilation
+sils diversion
+sils division
+sils drainage
+sils excision
+sils explantation
+sils extirpation
+sils extraction
+sils fragmentation
+sils fulguration
+sils hemostasis
+sils implantation
+sils insertion
+sils ligation
+sils lithotripsy
+sils lysis
+sils occlusion
+sils procedure
+sils reconstruction
+sils reduction
+sils reimplantation
+sils reinforcement
+sils release
+sils removal
+sils removal of foreign body
+sils repair
+sils replacement
+sils reposition
+sils resection
+sils restriction
+sils revision
+sils surgery
+sils transection
+sils transfer
+sils transposition
+single-incision laparoscopic ablation
+single-incision laparoscopic adhesiolysis
+single-incision laparoscopic alteration
+single-incision laparoscopic amputation
+single-incision laparoscopic arthrodesis
+single-incision laparoscopic aspiration
+single-incision laparoscopic augmentation
+single-incision laparoscopic banding
+single-incision laparoscopic biopsy
+single-incision laparoscopic bypass
+single-incision laparoscopic cauterization
+single-incision laparoscopic control of bleeding
+single-incision laparoscopic cosmetic modification
+single-incision laparoscopic creation
+single-incision laparoscopic destruction
+single-incision laparoscopic detachment
+single-incision laparoscopic dilatation
+single-incision laparoscopic dilation
+single-incision laparoscopic diversion
+single-incision laparoscopic division
+single-incision laparoscopic drainage
+single-incision laparoscopic excision
+single-incision laparoscopic explantation
+single-incision laparoscopic extirpation
+single-incision laparoscopic extraction
+single-incision laparoscopic fixation
+single-incision laparoscopic flap
+single-incision laparoscopic fragmentation
+single-incision laparoscopic fulguration
+single-incision laparoscopic fusion
+single-incision laparoscopic hemostasis
+single-incision laparoscopic implantation
+single-incision laparoscopic insertion
+single-incision laparoscopic ligation
+single-incision laparoscopic lithotripsy
+single-incision laparoscopic lysis
+single-incision laparoscopic occlusion
+single-incision laparoscopic reattachment
+single-incision laparoscopic reconstruction
+single-incision laparoscopic reduction
+single-incision laparoscopic reimplantation
+single-incision laparoscopic reinforcement
+single-incision laparoscopic release
+single-incision laparoscopic removal
+single-incision laparoscopic removal of foreign body
+single-incision laparoscopic repair
+single-incision laparoscopic replacement
+single-incision laparoscopic reposition
+single-incision laparoscopic resection
+single-incision laparoscopic restriction
+single-incision laparoscopic revision
+single-incision laparoscopic surgery
+single-incision laparoscopic transection
+single-incision laparoscopic transfer
+single-incision laparoscopic transplant
+single-incision laparoscopic transplantation
+single-incision laparoscopic transposition
+single-port laparoscopic ablation
+single-port laparoscopic adhesiolysis
+single-port laparoscopic alteration
+single-port laparoscopic amputation
+single-port laparoscopic arthrodesis
+single-port laparoscopic aspiration
+single-port laparoscopic augmentation
+single-port laparoscopic banding
+single-port laparoscopic biopsy
+single-port laparoscopic bypass
+single-port laparoscopic cauterization
+single-port laparoscopic control of bleeding
+single-port laparoscopic cosmetic modification
+single-port laparoscopic creation
+single-port laparoscopic destruction
+single-port laparoscopic detachment
+single-port laparoscopic dilatation
+single-port laparoscopic dilation
+single-port laparoscopic diversion
+single-port laparoscopic division
+single-port laparoscopic drainage
+single-port laparoscopic excision
+single-port laparoscopic explantation
+single-port laparoscopic extirpation
+single-port laparoscopic extraction
+single-port laparoscopic fixation
+single-port laparoscopic flap
+single-port laparoscopic fragmentation
+single-port laparoscopic fulguration
+single-port laparoscopic fusion
+single-port laparoscopic hemostasis
+single-port laparoscopic implantation
+single-port laparoscopic insertion
+single-port laparoscopic ligation
+single-port laparoscopic lithotripsy
+single-port laparoscopic lysis
+single-port laparoscopic occlusion
+single-port laparoscopic reattachment
+single-port laparoscopic reconstruction
+single-port laparoscopic reduction
+single-port laparoscopic reimplantation
+single-port laparoscopic reinforcement
+single-port laparoscopic release
+single-port laparoscopic removal
+single-port laparoscopic removal of foreign body
+single-port laparoscopic repair
+single-port laparoscopic replacement
+single-port laparoscopic reposition
+single-port laparoscopic resection
+single-port laparoscopic restriction
+single-port laparoscopic revision
+single-port laparoscopic transection
+single-port laparoscopic transfer
+single-port laparoscopic transplant
+single-port laparoscopic transplantation
+single-port laparoscopic transposition
+sinoscopic ablation
+sinoscopic adhesiolysis
+sinoscopic alteration
+sinoscopic aspiration
+sinoscopic augmentation
+sinoscopic banding
+sinoscopic biopsy
+sinoscopic bypass
+sinoscopic cauterization
+sinoscopic control of bleeding
+sinoscopic cosmetic modification
+sinoscopic creation
+sinoscopic destruction
+sinoscopic dilatation
+sinoscopic dilation
+sinoscopic diversion
+sinoscopic division
+sinoscopic drainage
+sinoscopic excision
+sinoscopic explantation
+sinoscopic extirpation
+sinoscopic extraction
+sinoscopic fragmentation
+sinoscopic fulguration
+sinoscopic hemostasis
+sinoscopic implantation
+sinoscopic insertion
+sinoscopic ligation
+sinoscopic lithotripsy
+sinoscopic lysis
+sinoscopic occlusion
+sinoscopic reconstruction
+sinoscopic reduction
+sinoscopic reinforcement
+sinoscopic release
+sinoscopic removal
+sinoscopic removal of foreign body
+sinoscopic repair
+sinoscopic replacement
+sinoscopic reposition
+sinoscopic resection
+sinoscopic restriction
+sinoscopic revision
+sinoscopic transection
+sinus surgery
+solid organ transplant
+spinal procedure
+spinal surgery
+spine surgery
+staged procedure
+staged surgery
+staging procedure
+staging surgery
+stone fragmentation
+stone removal
+stricture dilation
+subtotal resection
+surgical ablation
+surgical adhesiolysis
+surgical arthroscopy
+surgical aspiration
+surgical augmentation
+surgical banding
+surgical biopsy
+surgical bypass
+surgical case
+surgical clipping
+surgical control of bleeding
+surgical dilatation
+surgical dilation
+surgical diversion
+surgical division
+surgical drainage
+surgical endoscopy
+surgical excision
+surgical exploration
+surgical extraction
+surgical fixation
+surgical flap
+surgical fusion
+surgical hemostasis
+surgical implantation
+surgical insertion
+surgical intervention
+surgical ligation
+surgical lithotripsy
+surgical lysis
+surgical management
+surgical occlusion
+surgical oncology procedure
+surgical reattachment
+surgical reconstruction
+surgical reduction
+surgical reimplantation
+surgical reinforcement
+surgical release
+surgical removal
+surgical repair
+surgical replacement
+surgical reposition
+surgical resection
+surgical restriction
+surgical revision
+surgical staging
+surgical transection
+surgical treatment
+telepresence surgery
+telesurgery
+tem surgery
+therapeutic endoscopy
+thermal ablation
+thoracic procedure
+thoracic surgery
+thoracoscopic ablation
+thoracoscopic adhesiolysis
+thoracoscopic alteration
+thoracoscopic amputation
+thoracoscopic arthrodesis
+thoracoscopic aspiration
+thoracoscopic augmentation
+thoracoscopic banding
+thoracoscopic biopsy
+thoracoscopic bypass
+thoracoscopic cauterization
+thoracoscopic chest surgery
+thoracoscopic control of bleeding
+thoracoscopic cosmetic modification
+thoracoscopic creation
+thoracoscopic destruction
+thoracoscopic detachment
+thoracoscopic dilatation
+thoracoscopic dilation
+thoracoscopic diversion
+thoracoscopic division
+thoracoscopic drainage
+thoracoscopic excision
+thoracoscopic explantation
+thoracoscopic extirpation
+thoracoscopic extraction
+thoracoscopic fixation
+thoracoscopic flap
+thoracoscopic fragmentation
+thoracoscopic fulguration
+thoracoscopic fusion
+thoracoscopic hemostasis
+thoracoscopic implantation
+thoracoscopic insertion
+thoracoscopic ligation
+thoracoscopic lithotripsy
+thoracoscopic lung surgery
+thoracoscopic lysis
+thoracoscopic occlusion
+thoracoscopic procedure
+thoracoscopic reattachment
+thoracoscopic reconstruction
+thoracoscopic reduction
+thoracoscopic reimplantation
+thoracoscopic reinforcement
+thoracoscopic release
+thoracoscopic removal
+thoracoscopic removal of foreign body
+thoracoscopic repair
+thoracoscopic replacement
+thoracoscopic reposition
+thoracoscopic resection
+thoracoscopic restriction
+thoracoscopic revision
+thoracoscopic surgery
+thoracoscopic thoracic surgery
+thoracoscopic transection
+thoracoscopic transfer
+thoracoscopic transplant
+thoracoscopic transplantation
+thoracoscopic transposition
+thoracotomy
+throat surgery
+tissue biopsy
+tissue extraction
+tissue transfer
+total resection
+transanal ablation
+transanal adhesiolysis
+transanal aspiration
+transanal augmentation
+transanal banding
+transanal biopsy
+transanal bypass
+transanal cauterization
+transanal control of bleeding
+transanal destruction
+transanal dilatation
+transanal dilation
+transanal diversion
+transanal division
+transanal drainage
+transanal endoscopic ablation
+transanal endoscopic adhesiolysis
+transanal endoscopic alteration
+transanal endoscopic amputation
+transanal endoscopic arthrodesis
+transanal endoscopic aspiration
+transanal endoscopic augmentation
+transanal endoscopic banding
+transanal endoscopic biopsy
+transanal endoscopic bypass
+transanal endoscopic cauterization
+transanal endoscopic control of bleeding
+transanal endoscopic cosmetic modification
+transanal endoscopic creation
+transanal endoscopic destruction
+transanal endoscopic detachment
+transanal endoscopic dilatation
+transanal endoscopic dilation
+transanal endoscopic diversion
+transanal endoscopic division
+transanal endoscopic drainage
+transanal endoscopic excision
+transanal endoscopic explantation
+transanal endoscopic extirpation
+transanal endoscopic extraction
+transanal endoscopic fixation
+transanal endoscopic flap
+transanal endoscopic fragmentation
+transanal endoscopic fulguration
+transanal endoscopic fusion
+transanal endoscopic hemostasis
+transanal endoscopic implantation
+transanal endoscopic insertion
+transanal endoscopic ligation
+transanal endoscopic lithotripsy
+transanal endoscopic lysis
+transanal endoscopic occlusion
+transanal endoscopic reattachment
+transanal endoscopic reconstruction
+transanal endoscopic reduction
+transanal endoscopic reimplantation
+transanal endoscopic reinforcement
+transanal endoscopic release
+transanal endoscopic removal
+transanal endoscopic removal of foreign body
+transanal endoscopic repair
+transanal endoscopic replacement
+transanal endoscopic reposition
+transanal endoscopic resection
+transanal endoscopic restriction
+transanal endoscopic revision
+transanal endoscopic surgery
+transanal endoscopic transection
+transanal endoscopic transfer
+transanal endoscopic transplant
+transanal endoscopic transplantation
+transanal endoscopic transposition
+transanal excision
+transanal explantation
+transanal extirpation
+transanal extraction
+transanal fixation
+transanal flap
+transanal fragmentation
+transanal fulguration
+transanal hemostasis
+transanal implantation
+transanal insertion
+transanal ligation
+transanal lithotripsy
+transanal lysis
+transanal minimally invasive surgery
+transanal occlusion
+transanal reduction
+transanal reinforcement
+transanal release
+transanal removal
+transanal removal of foreign body
+transanal repair
+transanal replacement
+transanal reposition
+transanal resection
+transanal restriction
+transanal revision
+transanal transection
+transanal transfer
+transanal transposition
+transoral ablation
+transoral adhesiolysis
+transoral aspiration
+transoral augmentation
+transoral banding
+transoral biopsy
+transoral bypass
+transoral cauterization
+transoral control of bleeding
+transoral destruction
+transoral dilatation
+transoral dilation
+transoral diversion
+transoral division
+transoral drainage
+transoral endoscopic ablation
+transoral endoscopic adhesiolysis
+transoral endoscopic alteration
+transoral endoscopic amputation
+transoral endoscopic arthrodesis
+transoral endoscopic aspiration
+transoral endoscopic augmentation
+transoral endoscopic banding
+transoral endoscopic biopsy
+transoral endoscopic bypass
+transoral endoscopic cauterization
+transoral endoscopic control of bleeding
+transoral endoscopic cosmetic modification
+transoral endoscopic creation
+transoral endoscopic destruction
+transoral endoscopic detachment
+transoral endoscopic dilatation
+transoral endoscopic dilation
+transoral endoscopic diversion
+transoral endoscopic division
+transoral endoscopic drainage
+transoral endoscopic excision
+transoral endoscopic explantation
+transoral endoscopic extirpation
+transoral endoscopic extraction
+transoral endoscopic fixation
+transoral endoscopic flap
+transoral endoscopic fragmentation
+transoral endoscopic fulguration
+transoral endoscopic fusion
+transoral endoscopic hemostasis
+transoral endoscopic implantation
+transoral endoscopic insertion
+transoral endoscopic ligation
+transoral endoscopic lithotripsy
+transoral endoscopic lysis
+transoral endoscopic occlusion
+transoral endoscopic reattachment
+transoral endoscopic reconstruction
+transoral endoscopic reduction
+transoral endoscopic reimplantation
+transoral endoscopic reinforcement
+transoral endoscopic release
+transoral endoscopic removal
+transoral endoscopic removal of foreign body
+transoral endoscopic repair
+transoral endoscopic replacement
+transoral endoscopic reposition
+transoral endoscopic resection
+transoral endoscopic restriction
+transoral endoscopic revision
+transoral endoscopic surgery
+transoral endoscopic transection
+transoral endoscopic transfer
+transoral endoscopic transplant
+transoral endoscopic transplantation
+transoral endoscopic transposition
+transoral excision
+transoral explantation
+transoral extirpation
+transoral extraction
+transoral fixation
+transoral flap
+transoral fragmentation
+transoral fulguration
+transoral hemostasis
+transoral implantation
+transoral insertion
+transoral ligation
+transoral lithotripsy
+transoral lysis
+transoral occlusion
+transoral reduction
+transoral reinforcement
+transoral release
+transoral removal
+transoral removal of foreign body
+transoral repair
+transoral replacement
+transoral reposition
+transoral resection
+transoral restriction
+transoral revision
+transoral transection
+transoral transfer
+transoral transposition
+transplant operation
+transplant procedure
+transplant surgery
+transurethral ablation
+transurethral adhesiolysis
+transurethral aspiration
+transurethral augmentation
+transurethral banding
+transurethral biopsy
+transurethral bypass
+transurethral cauterization
+transurethral control of bleeding
+transurethral destruction
+transurethral dilatation
+transurethral dilation
+transurethral diversion
+transurethral division
+transurethral drainage
+transurethral endoscopic ablation
+transurethral endoscopic adhesiolysis
+transurethral endoscopic alteration
+transurethral endoscopic amputation
+transurethral endoscopic arthrodesis
+transurethral endoscopic aspiration
+transurethral endoscopic augmentation
+transurethral endoscopic banding
+transurethral endoscopic biopsy
+transurethral endoscopic bypass
+transurethral endoscopic cauterization
+transurethral endoscopic control of bleeding
+transurethral endoscopic cosmetic modification
+transurethral endoscopic creation
+transurethral endoscopic destruction
+transurethral endoscopic detachment
+transurethral endoscopic dilatation
+transurethral endoscopic dilation
+transurethral endoscopic diversion
+transurethral endoscopic division
+transurethral endoscopic drainage
+transurethral endoscopic excision
+transurethral endoscopic explantation
+transurethral endoscopic extirpation
+transurethral endoscopic extraction
+transurethral endoscopic fixation
+transurethral endoscopic flap
+transurethral endoscopic fragmentation
+transurethral endoscopic fulguration
+transurethral endoscopic fusion
+transurethral endoscopic hemostasis
+transurethral endoscopic implantation
+transurethral endoscopic insertion
+transurethral endoscopic ligation
+transurethral endoscopic lithotripsy
+transurethral endoscopic lysis
+transurethral endoscopic occlusion
+transurethral endoscopic reattachment
+transurethral endoscopic reconstruction
+transurethral endoscopic reduction
+transurethral endoscopic reimplantation
+transurethral endoscopic reinforcement
+transurethral endoscopic release
+transurethral endoscopic removal
+transurethral endoscopic removal of foreign body
+transurethral endoscopic repair
+transurethral endoscopic replacement
+transurethral endoscopic reposition
+transurethral endoscopic resection
+transurethral endoscopic restriction
+transurethral endoscopic revision
+transurethral endoscopic transection
+transurethral endoscopic transfer
+transurethral endoscopic transplant
+transurethral endoscopic transplantation
+transurethral endoscopic transposition
+transurethral excision
+transurethral explantation
+transurethral extirpation
+transurethral extraction
+transurethral fixation
+transurethral flap
+transurethral fragmentation
+transurethral fulguration
+transurethral hemostasis
+transurethral implantation
+transurethral insertion
+transurethral ligation
+transurethral lithotripsy
+transurethral lysis
+transurethral occlusion
+transurethral reduction
+transurethral reinforcement
+transurethral release
+transurethral removal
+transurethral removal of foreign body
+transurethral repair
+transurethral replacement
+transurethral reposition
+transurethral resection
+transurethral restriction
+transurethral revision
+transurethral transection
+transurethral transfer
+transurethral transposition
+transvaginal ablation
+transvaginal adhesiolysis
+transvaginal aspiration
+transvaginal augmentation
+transvaginal banding
+transvaginal biopsy
+transvaginal bypass
+transvaginal cauterization
+transvaginal control of bleeding
+transvaginal destruction
+transvaginal dilatation
+transvaginal dilation
+transvaginal diversion
+transvaginal division
+transvaginal drainage
+transvaginal endoscopic ablation
+transvaginal endoscopic adhesiolysis
+transvaginal endoscopic alteration
+transvaginal endoscopic amputation
+transvaginal endoscopic arthrodesis
+transvaginal endoscopic aspiration
+transvaginal endoscopic augmentation
+transvaginal endoscopic banding
+transvaginal endoscopic biopsy
+transvaginal endoscopic bypass
+transvaginal endoscopic cauterization
+transvaginal endoscopic control of bleeding
+transvaginal endoscopic cosmetic modification
+transvaginal endoscopic creation
+transvaginal endoscopic destruction
+transvaginal endoscopic detachment
+transvaginal endoscopic dilatation
+transvaginal endoscopic dilation
+transvaginal endoscopic diversion
+transvaginal endoscopic division
+transvaginal endoscopic drainage
+transvaginal endoscopic excision
+transvaginal endoscopic explantation
+transvaginal endoscopic extirpation
+transvaginal endoscopic extraction
+transvaginal endoscopic fixation
+transvaginal endoscopic flap
+transvaginal endoscopic fragmentation
+transvaginal endoscopic fulguration
+transvaginal endoscopic fusion
+transvaginal endoscopic hemostasis
+transvaginal endoscopic implantation
+transvaginal endoscopic insertion
+transvaginal endoscopic ligation
+transvaginal endoscopic lithotripsy
+transvaginal endoscopic lysis
+transvaginal endoscopic occlusion
+transvaginal endoscopic reattachment
+transvaginal endoscopic reconstruction
+transvaginal endoscopic reduction
+transvaginal endoscopic reimplantation
+transvaginal endoscopic reinforcement
+transvaginal endoscopic release
+transvaginal endoscopic removal
+transvaginal endoscopic removal of foreign body
+transvaginal endoscopic repair
+transvaginal endoscopic replacement
+transvaginal endoscopic reposition
+transvaginal endoscopic resection
+transvaginal endoscopic restriction
+transvaginal endoscopic revision
+transvaginal endoscopic transection
+transvaginal endoscopic transfer
+transvaginal endoscopic transplant
+transvaginal endoscopic transplantation
+transvaginal endoscopic transposition
+transvaginal excision
+transvaginal explantation
+transvaginal extirpation
+transvaginal extraction
+transvaginal fixation
+transvaginal flap
+transvaginal fragmentation
+transvaginal fulguration
+transvaginal hemostasis
+transvaginal implantation
+transvaginal insertion
+transvaginal ligation
+transvaginal lithotripsy
+transvaginal lysis
+transvaginal occlusion
+transvaginal reduction
+transvaginal reinforcement
+transvaginal release
+transvaginal removal
+transvaginal removal of foreign body
+transvaginal repair
+transvaginal replacement
+transvaginal reposition
+transvaginal resection
+transvaginal restriction
+transvaginal revision
+transvaginal transection
+transvaginal transfer
+transvaginal transposition
+trauma surgery
+tumor excision
+tumor removal
+tumor resection
+tumor surgery
+two-stage procedure
+ultrasound-guided percutaneous ablation
+ultrasound-guided percutaneous adhesiolysis
+ultrasound-guided percutaneous alteration
+ultrasound-guided percutaneous arthrodesis
+ultrasound-guided percutaneous aspiration
+ultrasound-guided percutaneous augmentation
+ultrasound-guided percutaneous banding
+ultrasound-guided percutaneous biopsy
+ultrasound-guided percutaneous bypass
+ultrasound-guided percutaneous cauterization
+ultrasound-guided percutaneous control of bleeding
+ultrasound-guided percutaneous creation
+ultrasound-guided percutaneous destruction
+ultrasound-guided percutaneous dilatation
+ultrasound-guided percutaneous dilation
+ultrasound-guided percutaneous diversion
+ultrasound-guided percutaneous division
+ultrasound-guided percutaneous drainage
+ultrasound-guided percutaneous excision
+ultrasound-guided percutaneous explantation
+ultrasound-guided percutaneous extirpation
+ultrasound-guided percutaneous extraction
+ultrasound-guided percutaneous fixation
+ultrasound-guided percutaneous fragmentation
+ultrasound-guided percutaneous fulguration
+ultrasound-guided percutaneous fusion
+ultrasound-guided percutaneous hemostasis
+ultrasound-guided percutaneous implantation
+ultrasound-guided percutaneous insertion
+ultrasound-guided percutaneous ligation
+ultrasound-guided percutaneous lithotripsy
+ultrasound-guided percutaneous lysis
+ultrasound-guided percutaneous occlusion
+ultrasound-guided percutaneous reconstruction
+ultrasound-guided percutaneous reduction
+ultrasound-guided percutaneous reinforcement
+ultrasound-guided percutaneous release
+ultrasound-guided percutaneous removal
+ultrasound-guided percutaneous removal of foreign body
+ultrasound-guided percutaneous repair
+ultrasound-guided percutaneous replacement
+ultrasound-guided percutaneous reposition
+ultrasound-guided percutaneous resection
+ultrasound-guided percutaneous restriction
+ultrasound-guided percutaneous revision
+ultrasound-guided percutaneous transection
+ultrasound-guided percutaneous transplant
+ultrasound-guided percutaneous transplantation
+ultrasound-guided procedure
+unilateral surgery
+upper extremity surgery
+ureteroscopic ablation
+ureteroscopic adhesiolysis
+ureteroscopic aspiration
+ureteroscopic augmentation
+ureteroscopic biopsy
+ureteroscopic cauterization
+ureteroscopic control of bleeding
+ureteroscopic creation
+ureteroscopic destruction
+ureteroscopic dilatation
+ureteroscopic dilation
+ureteroscopic diversion
+ureteroscopic division
+ureteroscopic drainage
+ureteroscopic excision
+ureteroscopic explantation
+ureteroscopic extirpation
+ureteroscopic extraction
+ureteroscopic fragmentation
+ureteroscopic fulguration
+ureteroscopic hemostasis
+ureteroscopic implantation
+ureteroscopic insertion
+ureteroscopic ligation
+ureteroscopic lysis
+ureteroscopic occlusion
+ureteroscopic reconstruction
+ureteroscopic reduction
+ureteroscopic reinforcement
+ureteroscopic release
+ureteroscopic removal
+ureteroscopic removal of foreign body
+ureteroscopic repair
+ureteroscopic replacement
+ureteroscopic reposition
+ureteroscopic resection
+ureteroscopic restriction
+ureteroscopic revision
+ureteroscopic transection
+urgent surgery
+urologic procedure
+urologic surgery
+urological surgery
+vascular operation
+vascular procedure
+vascular surgery
+vats
+vats ablation
+vats adhesiolysis
+vats alteration
+vats amputation
+vats arthrodesis
+vats aspiration
+vats augmentation
+vats banding
+vats biopsy
+vats bypass
+vats cauterization
+vats control of bleeding
+vats cosmetic modification
+vats creation
+vats destruction
+vats detachment
+vats dilatation
+vats dilation
+vats diversion
+vats division
+vats drainage
+vats excision
+vats explantation
+vats extirpation
+vats extraction
+vats fixation
+vats flap
+vats fragmentation
+vats fulguration
+vats fusion
+vats hemostasis
+vats implantation
+vats insertion
+vats ligation
+vats lithotripsy
+vats lung surgery
+vats lysis
+vats occlusion
+vats procedure
+vats reattachment
+vats reconstruction
+vats reduction
+vats reimplantation
+vats reinforcement
+vats release
+vats removal
+vats removal of foreign body
+vats repair
+vats replacement
+vats reposition
+vats resection
+vats restriction
+vats revision
+vats surgery
+vats thoracic procedure
+vats transection
+vats transfer
+vats transplant
+vats transplantation
+vats transposition
+vessel ligation
+video-assisted thoracic surgery
+video-assisted thoracoscopic ablation
+video-assisted thoracoscopic adhesiolysis
+video-assisted thoracoscopic alteration
+video-assisted thoracoscopic amputation
+video-assisted thoracoscopic arthrodesis
+video-assisted thoracoscopic aspiration
+video-assisted thoracoscopic augmentation
+video-assisted thoracoscopic banding
+video-assisted thoracoscopic biopsy
+video-assisted thoracoscopic bypass
+video-assisted thoracoscopic cauterization
+video-assisted thoracoscopic control of bleeding
+video-assisted thoracoscopic cosmetic modification
+video-assisted thoracoscopic creation
+video-assisted thoracoscopic destruction
+video-assisted thoracoscopic detachment
+video-assisted thoracoscopic dilatation
+video-assisted thoracoscopic dilation
+video-assisted thoracoscopic diversion
+video-assisted thoracoscopic division
+video-assisted thoracoscopic drainage
+video-assisted thoracoscopic excision
+video-assisted thoracoscopic explantation
+video-assisted thoracoscopic extirpation
+video-assisted thoracoscopic extraction
+video-assisted thoracoscopic fixation
+video-assisted thoracoscopic flap
+video-assisted thoracoscopic fragmentation
+video-assisted thoracoscopic fulguration
+video-assisted thoracoscopic fusion
+video-assisted thoracoscopic hemostasis
+video-assisted thoracoscopic implantation
+video-assisted thoracoscopic insertion
+video-assisted thoracoscopic ligation
+video-assisted thoracoscopic lithotripsy
+video-assisted thoracoscopic lysis
+video-assisted thoracoscopic occlusion
+video-assisted thoracoscopic reattachment
+video-assisted thoracoscopic reconstruction
+video-assisted thoracoscopic reduction
+video-assisted thoracoscopic reimplantation
+video-assisted thoracoscopic reinforcement
+video-assisted thoracoscopic release
+video-assisted thoracoscopic removal
+video-assisted thoracoscopic removal of foreign body
+video-assisted thoracoscopic repair
+video-assisted thoracoscopic replacement
+video-assisted thoracoscopic reposition
+video-assisted thoracoscopic resection
+video-assisted thoracoscopic restriction
+video-assisted thoracoscopic revision
+video-assisted thoracoscopic surgery
+video-assisted thoracoscopic transection
+video-assisted thoracoscopic transfer
+video-assisted thoracoscopic transplant
+video-assisted thoracoscopic transplantation
+video-assisted thoracoscopic transposition
+wedge biopsy
+wedge excision
+wedge resection
+wrist surgery

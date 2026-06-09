@@ -1,0 +1,15 @@
+5A0	We assisted the physiological systems.
+5A0	We are assisting the physiological systems.
+5A0	We will assist the physiological systems.
+5A02110	We assisted the cardiac system with output.
+5A02110	We are assisting the cardiac system with output.
+5A02110	We will assist the cardiac system with output.
+5A0222C	We assisted the cardiac system with oxygenation.
+5A0222C	We are assisting the cardiac system with oxygenation.
+5A0222C	We will assist the cardiac system with oxygenation.
+5A05121	We assisted the circulatory system with oxygenation.
+5A05121	We are assisting the circulatory system with oxygenation.
+5A05121	We will assist the circulatory system with oxygenation.
+5A05A6M	We assisted the circulatory system with cerebral embolic filtration.
+5A05A6M	We are assisting the circulatory system with cerebral embolic filtration.
+5A05A6M	We will assist the circulatory system with cerebral embolic filtration.

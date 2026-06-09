@@ -1,0 +1,102 @@
+HZ31ZZZ	Individual Counseling of the Behavioral
+HZ31ZZZ	Behavioral Individual Counseling
+HZ32ZZZ	Individual Counseling of the Cognitive-Behavioral
+HZ32ZZZ	Cognitive-Behavioral Individual Counseling
+HZ33ZZZ	Individual Counseling of the 12-Step
+HZ33ZZZ	12-Step Individual Counseling
+HZ34ZZZ	Individual Counseling of the Interpersonal
+HZ34ZZZ	Interpersonal Individual Counseling
+HZ36ZZZ	Individual Counseling of the Psychoeducation
+HZ36ZZZ	Psychoeducation Individual Counseling
+HZ37ZZZ	Individual Counseling of the Motivational Enhancement
+HZ37ZZZ	Motivational Enhancement Individual Counseling
+HZ38ZZZ	Individual Counseling of the Confrontational
+HZ38ZZZ	Confrontational Individual Counseling
+HZ3BZZZ	Individual Counseling of the Spiritual
+HZ3BZZZ	Spiritual Individual Counseling
+HZ3CZZZ	Individual Counseling of the Pre/Post-Test Infectious Disease
+HZ3CZZZ	Pre/Post-Test Infectious Disease Individual Counseling
+HZ41ZZZ	Group Counseling of the Behavioral
+HZ41ZZZ	Behavioral Group Counseling
+HZ42ZZZ	Group Counseling of the Cognitive-Behavioral
+HZ42ZZZ	Cognitive-Behavioral Group Counseling
+HZ43ZZZ	Group Counseling of the 12-Step
+HZ43ZZZ	12-Step Group Counseling
+HZ44ZZZ	Group Counseling of the Interpersonal
+HZ44ZZZ	Interpersonal Group Counseling
+HZ46ZZZ	Group Counseling of the Psychoeducation
+HZ46ZZZ	Psychoeducation Group Counseling
+HZ47ZZZ	Group Counseling of the Motivational Enhancement
+HZ47ZZZ	Motivational Enhancement Group Counseling
+HZ48ZZZ	Group Counseling of the Confrontational
+HZ48ZZZ	Confrontational Group Counseling
+HZ4BZZZ	Group Counseling of the Spiritual
+HZ4BZZZ	Spiritual Group Counseling
+HZ4CZZZ	Group Counseling of the Pre/Post-Test Infectious Disease
+HZ4CZZZ	Pre/Post-Test Infectious Disease Group Counseling
+HZ51ZZZ	Individual Psychotherapy of the Behavioral
+HZ51ZZZ	Behavioral Individual Psychotherapy
+HZ52ZZZ	Individual Psychotherapy of the Cognitive-Behavioral
+HZ52ZZZ	Cognitive-Behavioral Individual Psychotherapy
+HZ53ZZZ	Individual Psychotherapy of the 12-Step
+HZ53ZZZ	12-Step Individual Psychotherapy
+HZ54ZZZ	Individual Psychotherapy of the Interpersonal
+HZ54ZZZ	Interpersonal Individual Psychotherapy
+HZ55ZZZ	Individual Psychotherapy of the Interactive
+HZ55ZZZ	Interactive Individual Psychotherapy
+HZ56ZZZ	Individual Psychotherapy of the Psychoeducation
+HZ56ZZZ	Psychoeducation Individual Psychotherapy
+HZ57ZZZ	Individual Psychotherapy of the Motivational Enhancement
+HZ57ZZZ	Motivational Enhancement Individual Psychotherapy
+HZ58ZZZ	Individual Psychotherapy of the Confrontational
+HZ58ZZZ	Confrontational Individual Psychotherapy
+HZ59ZZZ	Individual Psychotherapy of the Supportive
+HZ59ZZZ	Supportive Individual Psychotherapy
+HZ5BZZZ	Individual Psychotherapy of the Psychoanalysis
+HZ5BZZZ	Psychoanalysis Individual Psychotherapy
+HZ5CZZZ	Individual Psychotherapy of the Psychodynamic
+HZ5CZZZ	Psychodynamic Individual Psychotherapy
+HZ5DZZZ	Individual Psychotherapy of the Psychophysiological
+HZ5DZZZ	Psychophysiological Individual Psychotherapy
+HZ63ZZZ	Family Counseling of the Other Family Counseling
+HZ63ZZZ	Other Family Counseling Family Counseling
+HZ80ZZZ	Medication Management of the Nicotine Replacement
+HZ80ZZZ	Nicotine Replacement Medication Management
+HZ81ZZZ	Medication Management of the Methadone Maintenance
+HZ81ZZZ	Methadone Maintenance Medication Management
+HZ82ZZZ	Medication Management of the Levo-Alpha-Acetyl-Methadol (Laam)
+HZ82ZZZ	Levo-Alpha-Acetyl-Methadol (Laam) Medication Management
+HZ83ZZZ	Medication Management of the Antabuse
+HZ83ZZZ	Antabuse Medication Management
+HZ84ZZZ	Medication Management of the Naltrexone
+HZ84ZZZ	Naltrexone Medication Management
+HZ85ZZZ	Medication Management of the Naloxone
+HZ85ZZZ	Naloxone Medication Management
+HZ86ZZZ	Medication Management of the Clonidine
+HZ86ZZZ	Clonidine Medication Management
+HZ87ZZZ	Medication Management of the Bupropion
+HZ87ZZZ	Bupropion Medication Management
+HZ88ZZZ	Medication Management of the Psychiatric Medication
+HZ88ZZZ	Psychiatric Medication Medication Management
+HZ89ZZZ	Medication Management of the Other Replacement Medication
+HZ89ZZZ	Other Replacement Medication Medication Management
+HZ90ZZZ	Pharmacotherapy of the Nicotine Replacement
+HZ90ZZZ	Nicotine Replacement Pharmacotherapy
+HZ91ZZZ	Pharmacotherapy of the Methadone Maintenance
+HZ91ZZZ	Methadone Maintenance Pharmacotherapy
+HZ92ZZZ	Pharmacotherapy of the Levo-Alpha-Acetyl-Methadol (Laam)
+HZ92ZZZ	Levo-Alpha-Acetyl-Methadol (Laam) Pharmacotherapy
+HZ93ZZZ	Pharmacotherapy of the Antabuse
+HZ93ZZZ	Antabuse Pharmacotherapy
+HZ94ZZZ	Pharmacotherapy of the Naltrexone
+HZ94ZZZ	Naltrexone Pharmacotherapy
+HZ95ZZZ	Pharmacotherapy of the Naloxone
+HZ95ZZZ	Naloxone Pharmacotherapy
+HZ96ZZZ	Pharmacotherapy of the Clonidine
+HZ96ZZZ	Clonidine Pharmacotherapy
+HZ97ZZZ	Pharmacotherapy of the Bupropion
+HZ97ZZZ	Bupropion Pharmacotherapy
+HZ98ZZZ	Pharmacotherapy of the Psychiatric Medication
+HZ98ZZZ	Psychiatric Medication Pharmacotherapy
+HZ99ZZZ	Pharmacotherapy of the Other Replacement Medication
+HZ99ZZZ	Other Replacement Medication Pharmacotherapy

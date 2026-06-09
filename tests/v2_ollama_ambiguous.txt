@@ -1,0 +1,5099 @@
+001	patient had procedure involving cerebral ventricle and nasopharynx
+001	cerebral ventricle was bypassed to another location
+001	bypass of cerebral ventricle to an unknown site performed
+001	patient underwent bypass of cerebrospinal fluid pathway
+002	neurological intervention
+002	intracranial pressure management
+002	cranial nerve repair
+002	spinal cord shunt placement
+002	brain tissue removal procedure
+005	brain damage
+005	nerve destruction
+005	cerebral tissue removal
+005	spinal cord ablation
+005	neurological procedure
+007	expansion of the cerebral ventricles
+007	ventricular dilation test
+007	cerebrospinal fluid pressure management
+007	ventricular size reduction procedure
+008	nerve bundle manipulation
+008	cranial nerve stimulation
+008	brain tissue reconfiguration
+008	hemispheric reorganization
+008	basal ganglia rearrangement
+008	olfactory pathway modification
+008	visual axis realignment
+008	eye movement adjustment
+008	facial expression enhancement
+008	hearing sensitivity improvement
+008	swallowing function optimization
+008	respiratory pattern stabilization
+008	neck and throat muscle retraining
+009	cerebral fluid drainage
+009	intracranial pressure relief
+009	brain ventricle tapping
+009	dura mater irrigation
+009	subarachnoid space decompression
+009	spinal cord shunt placement
+009	meningeal fluid diversion
+00B	brain tissue removal
+00B	meningeal excision
+00B	dural repair
+00B	ventricle shunt placement
+00B	hemispheric lesion resection
+00B	basal ganglia tumor removal
+00B	thalamus surgery
+00B	hypothalamic procedure
+00B	pons compression relief
+00B	cerebellar atrophy treatment
+00B	medullary compression release
+00B	olfactory nerve decompression
+00B	optic nerve injury repair
+00B	oculomotor nerve palsy treatment
+00B	trochlear nerve paralysis management
+00B	trigeminal neuralgia treatment
+00B	facial nerve paralysis correction
+00B	acoustic nerve damage repair
+00B	glossopharyngeal nerve dysfunction treatment
+00B	vagus nerve stimulation therapy
+00C	brain surgery
+00C	cerebral procedure
+00C	nerve removal
+00C	spinal cord debridement
+00C	intracranial space evacuation
+00D	brain tissue removal procedure
+00D	cerebral hemispheres resection
+00D	dural repair
+00D	hemispheric resection
+00D	cerebellar manipulation
+00D	olfactory nerve decompression
+00D	optic nerve decompression
+00D	oculomotor nerve stimulation
+00D	trochlear nerve function testing
+00D	trigeminal nerve stimulation
+00D	facial nerve function assessment
+00D	acoustic nerve function testing
+00D	glossopharyngeal nerve function assessment
+00D	vagus nerve stimulation
+00D	accessory nerve function testing
+00F	intra cranial procedure
+00F	space-occupying lesion treatment
+00F	ventricular shunting procedure
+00F	spinal cord decompression
+00F	intracranial space management
+00H	brain implantation procedure
+00H	neurostimulator placement
+00H	cerebral ventricle catheterization
+00H	cranial nerve stimulation
+00H	spinal canal intervention
+00J	look at the brain
+00J	check the nerves
+00J	examine the spinal area
+00J	evaluate the spine
+00K	brain scan results
+00K	cerebral imaging study
+00K	neuroanatomy review
+00K	basal ganglia evaluation
+00K	thalamus assessment
+00N	brain surgery
+00N	cerebral procedure
+00N	nerve release
+00N	spinal cord surgery
+00N	meningeal release
+00N	ventricle procedure
+00N	hemisphere surgery
+00N	ganglia release
+00N	thalamus surgery
+00P	brain surgery
+00P	tissue substitute removal
+00P	device removal from brain
+00P	cerebral ventricle procedure
+00P	cranial nerve intervention
+00P	spinal meninges treatment
+00P	drainage device removal
+00P	monitoring device removal
+00Q	repair of damaged brain tissue
+00Q	surgery for cerebral meningitis
+00Q	dura mater reconstruction
+00Q	ventricle repair procedure
+00Q	hemispheric surgery due to stroke
+00Q	basal ganglia repair
+00Q	thalamus repair
+00Q	hypothalamus repair
+00Q	pons repair
+00Q	cerebellum repair
+00Q	medulla oblongata repair
+00Q	olfactory nerve repair
+00Q	optic nerve repair
+00Q	oculomotor nerve repair
+00Q	trochlear nerve repair
+00Q	trigeminal nerve repair
+00Q	facial nerve repair
+00R	nerve repair procedure
+00R	meningeal surgery
+00R	ventricle management
+00R	cranial nerve grafting
+00R	neurological decompression
+00S	nerve repair procedure
+00S	nerve decompression surgery
+00S	cranial nerve stimulation
+00S	spinal cord injury rehabilitation
+00S	neurological assessment and management
+00T	brain surgery
+00T	cerebral tissue removal
+00T	hemispheric lesion excision
+00U	cerebral shunt placement
+00U	nerve decompression procedure
+00U	meningeal repair surgery
+00U	ventricle shunting procedure
+00W	brain surgery
+00W	nerve repair
+00W	ventricle shunt adjustment
+00W	dura mater repair
+00W	cerebral ventricle management
+00W	cranial nerve intervention
+00W	spinal meninges treatment
+00W	spinal canal revision
+012	drainage procedure on nerve
+012	nerve repair technique
+012	peripheral nerve management
+015	nerve damage in the neck area
+015	cervical region procedure
+015	plexus disruption
+015	brachial nerve issue
+015	ulnar nerve compression
+015	median nerve entrapment
+015	radial nerve dysfunction
+015	thoracic spine surgery
+015	lumbar nerve irritation
+015	pudendal nerve condition
+015	femoral nerve pain
+018	nerve bundle removal
+018	plexus dissection
+018	nerve trunk division
+018	neural tissue resection
+018	sympathetic chain disruption
+019	nerve drainage procedure
+019	plexus irrigation
+019	nerve decompression technique
+019	peripheral nerve surgery
+019	neurolysis procedure
+019	nerve sheath irrigation
+019	axillary nerve drainage
+019	brachial plexus manipulation
+01B	nerve removal procedure
+01B	plexus excision surgery
+01B	nerve excision at elbow
+01B	cervical nerve repair alternative
+01B	brachial plexus block procedure
+01C	nerve removal procedure
+01C	plexus surgery
+01C	neurolysis
+01C	sympathetic nerve resection
+01C	peripheral nerve excision
+01D	nerve repair
+01D	plexus compression
+01D	neurolysis procedure
+01D	nerve decompression technique
+01D	peripheral nerve surgery
+01H	nerve stimulation procedure
+01H	nerve implantation technique
+01H	peripheral nerve injection
+01H	nerve lead placement method
+01H	peripheral nerve monitoring setup
+01J	look at the nerves
+01J	check the nerve health
+01J	evaluate nerve activity
+01J	assess nerve function
+01N	cervical region pain relief
+01N	plexus irritation treatment
+01N	nerve compression management
+01N	sympathetic nerve stimulation
+01N	lower back pain relief procedure
+01P	peripheral nerve decompression
+01P	nerve repair procedure
+01P	nerve sheath stripping
+01P	peripheral nerve mobilization
+01P	nerve transfer technique
+01Q	nerve repair in the neck
+01Q	plexus reconstruction
+01Q	nerve damage treatment in the arm
+01Q	sympathetic nerve repair procedure
+01Q	nerve injury rehabilitation
+01R	nerve repair procedure in neck area
+01R	cervical spine surgery for nerve damage
+01R	phrenic nerve stimulation therapy
+01R	ulnar nerve compression treatment
+01R	median nerve entrapment relief
+01R	radial nerve regeneration after injury
+01R	thoracic nerve decompression and repair
+01R	lumbar nerve pain management procedure
+01R	pudendal nerve dysfunction treatment
+01R	femoral nerve irritation relief
+01S	nerve repositioning procedure
+01S	plexus repositioning
+01S	nerve stimulation
+01S	neuromodulation technique
+01S	nerve repair
+01U	nerve supplement procedure
+01U	neurostimulation therapy
+01U	nerve augmentation technique
+01U	cervical nerve stimulation test
+01U	ulnar nerve mobilization exercise
+01U	median nerve function assessment
+01U	radial nerve mobility evaluation
+01U	thoracic nerve function testing
+01U	lumbar nerve stimulation trial
+01W	revised nerve repair
+01W	peripheral nerve revision procedure
+01W	nerve revision surgery
+01W	ulnar nerve repair technique
+01W	autologous tissue grafting for nerve repair
+01X	nerve transfer from cervical region
+01X	cervical nerve reassignment
+01X	ulnar nerve relocation
+01X	median nerve realignment
+01X	radial nerve repositioning
+021	coronary artery bypass procedure
+021	heart surgery with grafting
+021	artery bypass for coronary artery disease
+021	pulmonary artery bypass from subclavian
+021	subclavian to pulmonary artery bypass
+024	new heart valve installed
+024	aortic valve repair
+024	mitral valve replacement procedure
+024	tricuspid valve surgery
+024	heart valve reconstruction
+025	coronary vein procedure
+025	atrial septum treatment
+025	right atrium intervention
+025	left atrial appendage removal
+025	left atrium modification
+025	conduction mechanism adjustment
+025	electroporation of conduction mechanism
+025	chordae tendineae repair
+025	papillary muscle reconstruction
+025	aortic valve replacement
+025	mitral valve repair
+025	pulmonary valve intervention
+025	tricuspid valve treatment
+025	ventricular septum repair
+025	pericardial procedure
+025	pulmonary trunk modification
+025	right pulmonary artery treatment
+025	left pulmonary artery intervention
+025	pulmonary vein removal
+027	coronary artery procedure
+027	artery dilation treatment
+027	heart valve repair
+027	chest surgery
+027	cardiac catheterization
+028	heart surgery
+028	cardiac procedure
+028	tissue separation in the heart
+028	abnormal conduction corrected
+028	heart valve repair
+02B	coronary vein procedure
+02B	atrial septum repair alternatives
+02B	right atrium surgical intervention
+02B	left atrial appendage management
+02B	left atrium surgery options
+02B	conduction mechanism modification
+02B	chordae tendineae repair alternatives
+02B	papillary muscle reconstruction methods
+02B	aortic valve replacement options
+02B	mitral valve repair techniques
+02B	pulmonary valve surgical intervention
+02B	tricuspid valve management strategies
+02B	right ventricular assist device implantation
+02B	ventricular septum patch repair
+02B	pericardial window creation
+02B	pulmonary trunk bypass procedure
+02B	right pulmonary artery stent placement
+02B	left pulmonary artery catheterization
+02C	coronary artery procedure
+02C	artery cleaning
+02C	atherectomy technique
+02C	bifurcation procedure
+02C	multi-artery procedure
+02F	coronary artery procedure
+02F	artery fragmentation procedure
+02F	pericardial intervention
+02F	pulmonary tract fragmentation
+02F	vascular procedure
+02F	artery fragmentation procedure ultrasonic
+02F	pulmonary artery manipulation
+02F	left pulmonary vein treatment
+02H	heart procedure today
+02H	cardiac cath lab results
+02H	electrophysiology study
+02H	coronary sinus ablation
+02H	ventricular pacing lead placement
+02J	heart checkup
+02J	vascular system review
+02J	cardiovascular evaluation
+02J	chest cavity examination
+02K	electrical activity in the heart
+02K	conduction pathway assessment
+02K	cardiac rhythm analysis
+02L	chest pain treatment
+02L	cardiac catheterization results
+02L	coronary artery disease management
+02L	left ventricular function assessment
+02L	myocardial perfusion imaging
+02N	coronary artery procedure
+02N	atrial septum repair
+02N	ventricular septum repair
+02N	pericardium repair
+02N	valve release procedure
+02N	artery release surgery
+02N	heart valve repair
+02N	chest cavity release
+02P	heart procedure
+02P	device removal from heart
+02P	heart surgery
+02P	removal of tissue substitute from heart
+02P	external heart assist system
+02Q	coronary artery bypass grafting
+02Q	atrial septal defect repair
+02Q	right atrial myopathy treatment
+02Q	left atrial valve repair
+02Q	conduction system pacing
+02R	atrial septum repair
+02R	aortic valve surgery
+02R	mitral valve procedure
+02R	pulmonary valve repair
+02R	pericardium patch
+02R	ventricular septum defect repair
+02R	heart valve replacement
+02R	cardiac surgery
+02S	coronary artery bypass
+02S	artery repositioning procedure
+02S	pulmonary vein repair
+02S	vena cava reconstruction
+02S	aortic grafting
+02T	heart surgery
+02T	septum repair
+02T	valve repair
+02T	muscle removal procedure
+02T	cardiac tissue resection
+02U	coronary artery procedure
+02U	atrial septum repair
+02U	right atrium intervention
+02U	left atrium intervention
+02U	heart surgery
+02U	papillary muscle repair
+02U	aortic valve replacement
+02U	mitral valve repair
+02U	cardiac catheterization
+02V	heart valve repair
+02V	pulmonary artery narrowing
+02V	artery constriction procedure
+02V	chest cavity compression
+02V	aortic stenosis treatment
+02W	heart revision
+02W	cardiac device repair
+02W	heart assist system modification
+02W	aortic valve replacement
+02W	mitral valve repair
+02W	pulmonary valve adjustment
+02W	tricuspid valve revision
+02W	synthetic substitute implantation
+02W	autologous tissue grafting
+02Y	new heart for patient
+02Y	cardiac surgery with donor tissue
+02Y	heart transplant procedure
+02Y	replacement of the heart with a new one
+02Y	allograft heart implantation
+035	affected the internal mammary arteries
+035	removed the innominate artery
+035	destroyed the subclavian artery
+035	interrupted blood flow to the arm
+035	cut off the axillary artery
+037	artery dilation procedure
+037	angioplasty performed on right internal mammary artery
+037	right subclavian artery stenting
+037	left axillary artery angioplasty
+037	brachial artery dilation using drug-coated balloon
+039	clearance of internal mammary artery
+039	arterial drainage procedure
+039	subclavian artery catheterization
+039	axillary artery intervention
+039	brachial artery access
+039	ulnar artery cannulation
+039	radial artery puncture
+039	hand artery sampling
+039	intracranial pressure management
+039	carotid artery monitoring
+039	vertebral artery stabilization
+03B	removal of internal mammary artery
+03B	artery excision procedure
+03B	subclavian artery removal
+03B	axillary artery excision
+03B	brachial artery excision
+03B	ulnar artery excision
+03B	radial artery excision
+03B	hand artery excision
+03B	intracranial artery removal
+03B	carotid artery excision procedure
+03B	vertebral artery excision
+03C	removal of blockage from internal mammary artery
+03C	clearing of artery
+03C	arterial debridement
+03C	artery cleaning procedure
+03C	intervention on upper limb artery
+03C	vascular access creation
+03C	stent placement in cerebral artery
+03C	carotid artery intervention
+03C	cerebral artery management
+03F	artery fragmentation procedure
+03F	vascular intervention
+03F	blood vessel cutting
+03F	artery clipping
+03F	ultrasound-assisted vascular surgery
+03H	arterial access procedure
+03H	vascular access
+03H	infusion therapy insertion
+03H	luminal device placement
+03H	arterial cannulation
+03J	upper body checkup
+03J	arterial pressure reading
+03J	vascular assessment
+03J	upper extremity evaluation
+03L	vascular access for blood sampling
+03L	arterial line placement
+03L	coronary catheterization
+03L	subclavian vein cannulation
+03L	carotid artery compression
+03N	access right internal mammary
+03N	release subclavian artery
+03N	axillary release
+03N	brachial artery release
+03N	ulnar artery release
+03N	radial artery release
+03N	hand artery release
+03N	intracranial access
+03P	upper artery procedure
+03P	device retrieval from upper artery
+03P	arterial intervention
+03P	upper limb procedure
+03P	vascular access removal
+03Q	artery repair
+03Q	vascular grafting
+03Q	blood vessel surgery
+03Q	arterial reconstruction
+03Q	vascular anastomosis
+03R	artery replacement procedure
+03R	vascular grafting
+03R	arterial bypass
+03R	blood vessel repair
+03R	circulatory system surgery
+03S	access right internal mammary artery
+03S	manipulate subclavian artery
+03S	redirect axillary artery
+03S	adjust brachial artery position
+03S	reorient ulnar artery course
+03U	access right internal mammary
+03U	supplement to internal mammary
+03U	right internal mammary graft
+03U	left subclavian bypass
+03U	axillary artery anastomosis
+03U	brachial artery connection
+03U	ulnar artery transfer
+03U	radial artery revascularization
+03U	hand artery reconstruction
+03U	intracranial grafting
+03U	common carotid bypass right
+03U	internal carotid repair
+03U	external carotid bypass left
+03V	artery narrowing
+03V	vascular constriction
+03V	blood vessel restriction
+03V	arterial stenosis
+03V	upper limb artery restriction
+03W	device revision in upper area
+03W	monitoring device maintenance
+03W	infusion system update
+03W	tissue substitute replacement
+03W	extraluminal device placement
+041	abdominal aortic bypass
+041	aorta to renal artery bypass
+041	lower extremity arterial bypass
+041	femoral artery bypass
+041	iliac artery bypass
+045	artery disruption in abdominal region
+045	vascular avulsion in celiac area
+045	gastric vessel excision during surgery
+045	hepatic artery occlusion for treatment
+045	splenic artery clipping during procedure
+045	superior mesenteric artery transection for symptom relief
+045	colic artery resection due to disease process
+045	renal artery ligation for hypertension management
+045	inferior mesenteric artery avulsion during surgery
+045	common iliac artery severance in lower extremity
+045	femoral artery clipping due to vascular disease
+047	abdominal aorta dilation
+047	celiac artery dilation
+047	gastric artery dilation
+047	hepatic artery dilation
+047	splenic artery dilation
+047	superior mesenteric artery dilation
+047	colic artery dilation
+047	renal artery dilation
+049	abdominal aortic aneurysm drainage
+049	celiac artery occlusion relief
+049	gastric artery stenosis treatment
+049	hepatic artery thrombosis management
+049	splenic artery vasculature assessment
+049	superior mesenteric artery ischemia intervention
+049	colic artery embolism clearance
+049	renal artery hypertension management
+049	mesenteric artery occlusion relief
+04B	aortic excision procedure
+04B	artery removal surgery
+04B	abdominal vascular excision
+04B	colic artery excision
+04B	renal artery excision
+04B	mesenteric artery excision
+04B	iliac artery excision
+04B	femoral artery excision
+04C	aortic debridement procedure
+04C	artery cleanup process
+04C	vascular removal technique
+04C	abdominal aorta cleaning
+04C	renal artery treatment
+04C	mesenteric artery management
+04C	iliac artery maintenance
+04C	lower extremity cleansing
+04F	iliac artery blockage
+04F	artery narrowing
+04F	vascular intervention
+04F	common iliac artery issue
+04F	lower extremity artery problem
+04H	abdominal aortic insertion
+04H	aortic procedure
+04H	arterial access
+04H	lower extremity monitoring
+04H	vascular access site
+04J	look at the arteries in my legs
+04J	check the blood flow to my feet
+04J	examine the vessels in my lower body
+04J	assess the condition of the arteries in my legs
+04L	revascularization procedure performed on the lower extremity
+04L	interventional treatment for arterial occlusion in the leg
+04L	angiographic intervention for blocked arteries in the lower body
+04L	surgical removal of a blood clot from an artery in the thigh
+04L	procedural treatment for reduced blood flow to the lower limbs
+04N	aortic release
+04N	artery release procedure
+04N	vascular release
+04N	abdominal aorta release
+04N	celiac artery release
+04N	gastric artery release
+04N	hepatic artery release
+04N	splenic artery release
+04N	superior mesenteric artery release
+04P	removed device from lower extremity
+04P	lower arterial intervention
+04P	device removal in lower limb
+04P	lower arterial catheter removal
+04P	access to lower arterial system
+04Q	lower extremity repair
+04Q	artery repair procedure
+04Q	vascular surgery
+04Q	abdominal aortic aneurysm treatment
+04Q	celiac artery stenosis correction
+04R	aortic replacement
+04R	artery replacement procedure
+04R	vascular grafting
+04R	lower extremity bypass
+04R	abdominal aorta reconstruction
+04S	aortic reposition procedure
+04S	artery repositioning
+04S	vascular repositioning
+04S	abdominal aorta reposition
+04S	celiac artery repositioning
+04S	gastric artery reposition
+04S	hepatic artery reposition
+04S	splenic artery reposition
+04S	superior mesenteric artery reposition
+04U	artery supply to abdominal organs
+04U	vascular access for dialysis
+04U	lower extremity circulation improvement
+04U	abdominal aortic aneurysm screening
+04U	renal artery stenosis diagnosis
+04U	mesenteric ischemia treatment
+04U	colic artery occlusion symptoms
+04V	abdominal aorta narrowing
+04V	temporary aortic constriction
+04V	artery restriction in abdominal region
+04V	aortic stenosis
+04V	gastrointestinal blood flow reduction
+04V	hepatic artery occlusion
+04V	splenic artery blockage
+04V	mesenteric artery narrowing
+04V	colic artery constriction
+04V	renal artery narrowing
+04V	inferior mesenteric artery occlusion
+04V	common iliac artery restriction
+04V	iliac artery narrowing in right leg
+04V	iliac artery narrowing in left leg
+04W	lower extremity intervention
+04W	arterial access procedure
+04W	vascular revision
+04W	lower limb angioplasty
+04W	arteriovenous access modification
+051	patient underwent a procedure involving the azygos vein
+051	bypass of the hemiazygos vein
+051	right innominate vein procedure
+051	subclavian vein bypass on left side
+051	axillary vein bypass right side
+051	brachial vein bypass on left side
+051	basilic vein bypass on right side
+051	cephalic vein bypass on left side
+055	vein destruction procedure
+055	upper vein removal
+055	subclavian vein ligation
+055	axillary vein embolization
+055	brachial vein catheterization
+055	basilic vein compression
+055	cephalic vein cannulation
+057	vein dilation procedure
+057	angioplasty with drug-coated balloon
+057	venous dilation and treatment
+057	right innominate vein dilatation
+057	left subclavian vein angioplasty
+059	drainage procedure
+059	vein clearance
+059	venous obstruction relief
+059	upper limb venous drainage
+059	subclavian vein management
+059	axillary vein treatment
+059	brachial vein intervention
+059	basilic vein management
+05B	vein removal procedure
+05B	upper vein surgery
+05B	subclavian vein procedure
+05B	axillary vein excision
+05B	brachial vein removal
+05B	basilic vein excision
+05B	cephalic vein procedure
+05B	hand vein excision
+05C	vein removal procedure
+05C	upper extremity vein excision
+05C	azygos vein ligation
+05C	subclavian vein debridement
+05C	axillary vein stripping
+05C	brachial vein excision
+05C	basilic vein stripping
+05C	cephalic vein excision
+05D	brachial vein issue resolved
+05D	basilic vein problem addressed
+05D	cephalic vein concern alleviated
+05D	hand vein condition treated
+05D	vein removal procedure performed
+05F	vein fragmentation procedure
+05F	upper vein treatment
+05F	arterial fragmentation
+05F	venous occlusion
+05F	blood vessel clipping
+05H	insertion in upper vein
+05H	insertion of device into vein
+05H	insertion of intravenous device
+05H	neurostimulator placement
+05H	infusion device placement
+05J	look at the veins
+05J	check the blood flow
+05J	review the circulation
+05J	evaluate the vascular system
+05L	venous obstruction relief
+05L	upper extremity vein compression release
+05L	superficial phlebectomy
+05L	venous stasis treatment
+05L	deep vein stripping procedure
+05N	clear vein
+05N	cut down on a vein
+05N	release of a vein
+05N	vein release procedure
+05N	removal of a vein
+05P	upper vein removal procedure
+05P	device removal from upper vein
+05P	neurostimulator lead extraction
+05P	venous device removal
+05P	tissue substitute removal from upper vein
+05Q	affect upper vein
+05Q	address vein issue
+05Q	fix vein problem
+05Q	relieve vein pressure
+05Q	mitigate vein symptoms
+05Q	correct vein alignment
+05R	subclavian vein bypass
+05R	axillary vein repair
+05R	brachial vein revision
+05R	basilic vein reconstruction
+05R	cephalic vein revision
+05R	hand vein revision
+05R	jugular vein repair - right
+05R	jugular vein repair - left
+05S	access and reposition azygos vein
+05S	reposition of hemiazygos vein
+05S	right innominate vein reposition
+05S	left subclavian vein reposition
+05S	axillary vein reposition right
+05S	brachial vein reposition left
+05U	venous access procedure
+05U	vein supplementation
+05U	upper limb vein treatment
+05U	arteriovenous shunt placement
+05U	superior vena cava intervention
+05U	axillary vein catheterization
+05U	brachial vein cannulation
+05V	vein narrowing
+05V	arterial constriction
+05V	venous obstruction
+05V	blood flow reduction
+05V	limb circulation issue
+05W	update of azygos vein monitoring system
+05W	revision of upper vein lead placement
+05W	upper vein neurostimulator adjustment
+05W	revision of innominate vein device
+05W	upper vein infusion port replacement
+061	lower extremity bypass procedure
+061	vena cava bypass surgery
+061	mesenteric vein bypass
+061	renal vein bypass
+061	portal vein bypass for renal artery disease
+061	inferior vena cava anastomosis
+061	superior mesenteric vein bypass graft
+065	vein removal procedure
+065	venous obstruction
+065	caval reduction
+065	splenic vein ligation
+065	gastric vein clipping
+065	esophageal vein cauterization
+065	hepatic vein ablation
+065	mesenteric vein ligation
+065	renal vein embolization
+065	iliac vein compression
+065	hypogastric vein reduction
+067	vein dilation procedure
+067	vascular dilation treatment
+067	cava dilation
+067	splenic vein dilation procedure
+067	gastric vein dilatation
+067	esophageal vein dilation technique
+067	hepatic vein dilation method
+067	mesenteric vein dilation approach
+069	vena cava drainage procedure
+069	splenic vein intervention
+069	gastric vein decompression
+069	esophageal vein catheterization
+069	hepatic vein stenting
+069	mesenteric vein angioplasty
+069	renal vein embolization
+069	iliac vein compression
+069	femoral vein thrombectomy
+06B	vein removal procedure
+06B	cava excision
+06B	splenic vein surgery
+06B	gastric vein ligation
+06B	esophageal vein clipping
+06B	hepatic vein embolization
+06B	mesenteric vein stenosis treatment
+06B	renal vein thrombectomy
+06C	vena cava removal
+06C	splenic vein cleaning
+06C	gastric vein debridement
+06C	esophageal vein evacuation
+06C	hepatic vein clearing
+06C	superior mesenteric vein excision
+06C	inferior mesenteric vein removal
+06C	colic vein evacuation
+06C	portal vein extraction
+06C	renal vein clearance
+06D	vein removal procedure
+06D	femoral vein ligation
+06D	saphenous vein stripping
+06D	foot vein treatment
+06F	iliac vein problem
+06F	vein issue
+06F	lower extremity procedure
+06F	ultrasound-assisted vein treatment
+06F	common iliac vein condition
+06H	lower extremity venous access
+06H	inferior vena cava catheterization
+06H	splenic vein cannulation
+06H	gastric vein access
+06H	esophageal vein cannulation
+06H	hepatic vein access
+06H	superior mesenteric vein cannulation
+06H	inferior mesenteric vein access
+06H	colic vein access
+06H	portal vein cannulation
+06J	look at the veins in my legs
+06J	examine the veins on my lower body
+06J	check the veins for any issues
+06L	lower extremity venous obstruction management
+06L	superficial femoral vein compression treatment
+06L	great saphenous vein compression therapy
+06L	gastrointestinal vein decompression
+06L	venous stasis ulcer treatment protocol
+06N	lower extremity release
+06N	vein release procedure
+06N	inferior vena cava decompression
+06N	splenic vein decompression
+06N	gastric vein release
+06N	esophageal vein release
+06N	hepatic vein release
+06N	superior mesenteric vein release
+06P	lower vein procedure
+06P	device removal in lower extremity
+06P	venous intervention
+06P	lower limb treatment
+06Q	vein repair near kidney
+06Q	cava repair
+06Q	splenic area repair
+06Q	gastric region repair
+06Q	esophageal issue resolved
+06Q	hepatic system repair
+06Q	mesenteric vein problem fixed
+06Q	lower extremity blood flow restored
+06Q	iliac vein repair (right)
+06Q	renal vein repair (left)
+06Q	common iliac vein issue resolved
+06R	lower extremity vein replacement
+06R	vein graft procedure
+06R	venous bypass surgery
+06R	inferior vena cava repair
+06R	splenic vein anastomosis
+06R	gastric vein ligation
+06S	reposition lower extremity vein
+06S	vein repositioning procedure
+06S	lower limb vein repositioning
+06S	venous repositioning procedure
+06S	inferior vena cava repositioning note
+06U	lower extremity vein repair
+06U	vena cava stenting
+06U	splenic vein ligation
+06U	gastric anastomosis
+06U	esophageal variceal treatment
+06U	hepatic artery embolization
+06U	mesenteric vein thrombectomy
+06U	renal vein stenosis correction
+06V	lower extremity vein narrowing
+06V	vein restriction procedure
+06V	venous obstruction treatment
+06V	vascular compression technique
+06V	iliac vein ligation method
+06W	revising vein access
+06W	lower extremity vein intervention
+06W	venous revision procedure
+06W	revision of venous device
+072	drainage device placement thoracic duct
+072	thymus drainage procedure
+072	lymphatic fluid management
+072	splenic drainage technique
+072	bone marrow aspiration
+075	lymph node biopsy left side
+075	axillary lymph node removal
+075	upper extremity lymph node procedure
+075	thoracic duct ligation
+075	aortic lymph node evaluation
+079	lymphatic drainage procedure
+079	endoscopic lymph node removal
+079	percutaneous lymphatic aspiration
+079	lymphatic catheter placement
+079	lymphatic fluid removal
+07B	lymph node biopsy
+07B	surgical intervention for lymphedema
+07B	lymphatic drainage procedure
+07B	lymph node aspiration
+07B	debulking procedure
+07C	lymph node removal
+07C	tissue debulking procedure
+07C	surgical intervention for lymphatic issue
+07C	destruction of abnormal tissue
+07C	extraction of unwanted cells
+07D	lymph node removal
+07D	lymphatic tissue sampling
+07D	regional lymph node dissection
+07D	axillary lymph node biopsy
+07D	thoracic duct exploration
+07H	insertion of device into duct
+07H	radioactive element placement in organ
+07H	infusion device insertion into body cavity
+07H	thoracic duct procedure
+07H	lymph node treatment
+07J	looking at the lymph nodes
+07J	examining the spleen area
+07J	checking for abnormal cell growth in bone marrow
+07J	evaluation of lymphatic system function
+07J	thoracic duct assessment
+07L	lymph node removal
+07L	hemilymphatic duct compression
+07L	vena cava obstruction
+07L	lower limb lymphedema treatment
+07L	catheter insertion for lymphatic drainage
+07N	lymph node dissection
+07N	lymphatic drainage procedure
+07N	lymphatic release technique
+07N	regional lymph node removal
+07N	lymphatic system manipulation
+07P	drainage procedure thoracic duct
+07P	removal from thoracic duct
+07P	device removal thoracic duct
+07P	thoracic duct intervention
+07P	removal lymphatic system
+07Q	assess and repair lymphatic drainage
+07Q	evaluate and correct lymphatic flow
+07Q	treat lymphedema with manual lymphatic drainage
+07Q	perform lymphatic decongestive therapy
+07Q	reconstruct lymphatic vessels
+07S	lymph node removal
+07S	splenic tissue relocation
+07S	thymic gland manipulation
+07T	lymph node biopsy results
+07T	neck and shoulder pain management
+07T	upper extremity swelling reduction
+07T	axillary dissection for cancer treatment
+07T	thoracic duct compression symptoms
+07U	lymphatic drainage procedure
+07U	lymph node removal
+07U	lymphatic surgery
+07U	upper extremity lymphatic issue
+07U	lower extremity lymphatic problem
+07U	axillary lymph node biopsy
+07U	thoracic duct repair
+07V	lymph node removal
+07V	lymphatic drainage procedure
+07V	lymphatic system manipulation
+07V	neck dissection
+07V	upper extremity surgery
+07W	drainage procedure thoracic duct
+07W	infusion revision thoracic duct
+07W	tissue substitute replacement thoracic duct
+07W	extraluminal device revision thoracic duct
+07W	intraluminal device repair thoracic duct
+07W	synthetic substitute revision thoracic duct
+07Y	thymus transplant patient
+07Y	spleen donor search
+07Y	thymus function assessment
+07Y	splenic rupture repair
+07Y	immunosuppressive therapy initiation
+080	eyelid adjustment
+080	upper lid modification
+080	lower lid revision
+081	chamber bypass procedure
+081	scleral bypass surgery
+081	duct bypass to nasal cavity
+081	nasal cavity bypass procedure
+082	eye irrigation procedure
+082	eye drainage management
+085	eye destruction procedure
+085	anterior chamber removal
+085	vitreous destruction
+085	sclera damage
+085	cornea removal
+085	choroid destruction
+085	iris removal
+085	retina damage
+085	lens extraction
+085	extraocular muscle removal
+087	lacrimal duct issues
+087	eye dilation procedure
+087	right eye examination results
+087	dilation test for vision
+087	left eye care routine
+089	eye drainage procedure
+089	anterior chamber irrigation
+089	vitreous tap
+089	scleral puncture
+089	corneal paracentesis
+089	choroidal tap
+089	iris biopsy
+089	retinal sampling
+089	lens aspiration
+08B	eye surgery
+08B	vitreous removal
+08B	scleral excision
+08B	corneal procedure
+08B	choroidal removal
+08B	iris excision procedure
+08B	retinal surgery
+08B	lens extraction
+08B	eyelid muscle excision
+08C	eye surgery
+08C	anterior chamber cleaning
+08C	vitreous humor removal
+08C	scleral scraping procedure
+08C	corneal debridement
+08C	choroidal biopsy
+08C	iris biopsy
+08C	retinal scraping
+08C	lens removal
+08D	eye surgery
+08D	cornea repair
+08D	lens replacement
+08D	eye examination result
+08D	corneal transplant
+08F	vitreous gel removal
+08F	eye vitreous surgery
+08F	retinal detachment repair
+08F	vitreous fragment removal
+08F	eye vitrectomy with debris
+08H	eye surgery performed on right eye
+08H	implantation of device in right eye
+08H	radioactive material injected into right eye
+08H	infusion therapy administered to right eye
+08J	eye exam
+08J	lens inspection
+08J	muscle assessment - eye
+08J	ocular health check
+08L	eye exam results unclear
+08L	foreign substance in eye
+08L	corneal abrasion symptoms persist
+08L	intraocular pressure elevated
+08L	ocular irritation persists
+08M	eyelid repair
+08M	upper eyelid surgery
+08M	lower eyelid reattachment
+08N	eye release procedure
+08N	anterior chamber surgery
+08N	vitreous surgery
+08N	sclera removal
+08N	cornea surgery
+08N	choroid release
+08N	iris surgery
+08N	retina surgery
+08N	lens replacement
+08N	extraocular muscle release
+08Q	eye repair
+08Q	anterior chamber surgery
+08Q	vitreous surgery
+08Q	scleral repair
+08Q	corneal transplant
+08Q	choroid repair
+08Q	iris repair
+08Q	retinal surgery
+08Q	lens replacement
+08Q	eyelid surgery
+08Q	conjunctival procedure
+08R	eye surgery
+08R	vitreous replacement procedure
+08R	scleral implantation
+08R	corneal transplant
+08R	choroidal replacement technique
+08R	iris repair method
+08R	retinal vessel clipping
+08R	intraocular lens insertion
+08R	eyelid reconstruction
+08R	conjunctiva grafting
+08S	adjust iris position
+08S	retinal vessel realignment
+08S	lens repositioning
+08S	extraocular muscle adjustment
+08S	eyelid retraction
+08S	tear duct manipulation
+08S	lacrimal gland adjustment
+08S	duct relocation
+08T	eye surgery
+08T	vitreous removal
+08T	corneal transplant
+08T	iris repair
+08T	lens extraction
+08U	eye procedure supplement
+08U	cornea implantation
+08U	iris replacement
+08U	retina repair
+08U	eyelid surgery
+08U	lacrimal duct bypass
+08V	lacrimal duct issue resolved
+08V	right eye drainage problem fixed
+08V	lacrimal duct obstruction cleared
+08V	right eye tear duct restriction relieved
+08W	eye surgery revision
+08W	right eye procedure
+08W	eye implant replacement
+08W	vision correction surgery
+08W	eye lens replacement
+08X	extraocular muscle transfer
+08X	lateral rectus transfer
+08X	rectus transfer procedure
+08X	superior oblique transfer
+090	external ear alteration
+090	ear alteration procedure
+090	nasal mucosa modification
+091	bypass inner ear
+091	inner ear procedure
+091	endolymphatic bypass
+091	ear surgery
+091	inner ear operation
+092	drainage procedure right ear
+092	ear irrigation
+092	nasal decongestant administration
+092	sinus pressure relief measure
+093	bleeding in the nose needs to be stopped
+093	nasal bleeding is a problem that needs attention
+093	control of nasal discharge during surgery
+095	ear destruction procedure
+095	tympanic membrane removal
+095	sinus cavity cleaning
+095	middle ear surgery
+095	outer ear procedure
+097	eustachian tube function test
+097	nasopharyngeal examination results
+097	middle ear ventilation assessment
+097	right eustachian tube evaluation
+097	nasopharyngeal opening inspection
+098	sinus irrigation procedure
+098	middle ear examination
+098	anterior nasal decongestion
+098	ear canal cleaning and inspection
+098	nasal passage evaluation
+099	ear drainage procedure
+099	middle ear cleaning
+099	tympanic membrane irrigation
+099	auditory canal clearance
+099	sinus drainage test
+09B	ear surgery
+09B	auditory canal removal
+09B	middle ear excision
+09B	tympanic membrane repair
+09C	removal of earwax
+09C	middle ear cleaning
+09C	ear canal debridement
+09C	tympanic membrane repair
+09C	mastoid sinus irrigation
+09D	right tympanic membrane procedure
+09D	tympanic membrane removal
+09D	auditory ossicle surgery
+09D	mastoid sinus operation
+09D	sinus extraction procedure
+09D	nasal septum repair
+09D	accessory sinus treatment
+09H	hearing aid insertion
+09H	cochlear implant placement
+09H	ear implant procedure
+09H	inner ear stimulation
+09H	radioactive element administration
+09J	ear examination
+09J	tympanic membrane check
+09J	inner ear evaluation
+09J	sinus assessment
+09M	external ear reconstruction
+09M	ear cartilage repair procedure
+09M	nasal tissue grafting
+09M	earlobe repair surgery
+09M	outer ear repair
+09N	endoscopic release right external auditory canal
+09N	natural opening release right middle ear
+09N	right ear surgery
+09N	left ear procedure
+09N	middle ear endoscopy
+09P	drainage issue in the ear
+09P	ear cleaning procedure
+09P	inner ear examination
+09P	tympanic membrane evaluation
+09P	hearing aid adjustment
+09Q	external ear repair
+09Q	middle ear procedure
+09Q	tympanic membrane repair
+09Q	auditory ossicle surgery
+09Q	ear repair via natural opening
+09Q	endoscopic ear surgery
+09Q	sinus repair with endoscope
+09R	ear reconstruction
+09R	middle ear surgery
+09R	tympanic membrane repair
+09R	auditory ossicle replacement
+09R	inner ear surgery
+09R	sinus surgery
+09R	nose revision
+09S	examined ear canal
+09S	tympanic membrane inspection
+09S	eustachian tube evaluation
+09S	ear ossicle assessment
+09S	nasal passage examination
+09T	middle ear surgery
+09T	ear reconstruction
+09T	tympanic membrane repair
+09T	auditory ossicle removal
+09T	mastoid sinus procedure
+09T	inner ear surgery
+09T	eustachian tube management
+09T	nasal mucosa excision
+09U	ear supplement procedure
+09U	middle ear cleaning
+09U	tympanic membrane repair
+09U	sinus augmentation procedure
+09U	nasal passage treatment
+09W	tympanic membrane revision
+09W	ear membrane repair
+09W	middle ear surgery
+09W	autologous tissue substitute placement in right ear
+09W	synthetic substitute implantation in left ear
+09X	nasal tissue removal and grafting
+09X	nasal septal repair
+09X	nasal mucosal flap procedure
+09X	nasal bone reconstruction
+0B1	respiratory bypass procedure
+0B1	esophageal bypass surgery
+0B1	tracheal bypass technique
+0B1	anastomotic procedure trachea esophagus
+0B1	bypass procedure respiratory tract
+0B2	drainage procedure in respiratory tract
+0B2	airway management adjustment
+0B2	breathing assistance modification
+0B5	tracheal destruction
+0B5	bronchial disruption
+0B5	lung tissue removal
+0B5	airway clearance procedure
+0B5	pleural space intervention
+0B7	bronchial dilation
+0B7	lung opening procedure
+0B7	airway management
+0B7	tracheal widening
+0B7	bronchial widening on right side
+0B7	upper lobe dilation
+0B7	middle lobe dilation
+0B7	lower lobe dilation
+0B7	main bronchus dilation
+0B9	tracheal suctioning
+0B9	bronchoscopy procedure
+0B9	lung clearance
+0B9	pleural tap
+0B9	chest tube placement
+0BB	tracheal bypass procedure
+0BB	bronchial clearance
+0BB	lung tissue removal
+0BB	pleural space surgery
+0BB	diaphragmatic repair
+0BC	tracheal cleaning
+0BC	bronchial clearance
+0BC	lung decontamination procedure
+0BC	airway management
+0BC	endoscopic examination of trachea
+0BD	bronchial extraction procedure
+0BD	lung tissue removal via endoscopy
+0BD	airway management procedure
+0BD	tracheal access and clearance
+0BD	bronchoscopic intervention
+0BF	tracheal narrowing
+0BF	bronchial constriction
+0BF	airway obstruction
+0BF	bronchial dilation
+0BF	lung tissue removal
+0BH	tracheobronchial procedure
+0BH	bronchial insertion
+0BH	lung monitoring device placement
+0BH	tracheal infusion device placement
+0BH	intraluminal device placement in lung
+0BJ	look inside the lungs
+0BJ	check the airways
+0BJ	examine the chest cavity
+0BJ	tracheal survey via endoscopy
+0BJ	bronchial tree assessment
+0BL	airway management difficulties
+0BL	respiratory distress treatment
+0BL	obstruction clearance procedure
+0BL	bronchodilator therapy adjustment
+0BM	bronchial reconnection
+0BM	airway repair
+0BM	tracheal reconstruction
+0BM	carinal surgery
+0BM	lobar reattachment procedure
+0BN	tracheal dilation procedure
+0BN	bronchial release with endoscopic assistance
+0BN	carinal release via external approach
+0BN	lung release with artificial opening
+0BN	bronchoscopic intervention for tracheal stenosis
+0BQ	tracheal surgery
+0BQ	bronchial repair
+0BQ	lung repair procedure
+0BQ	airway reconstruction
+0BQ	bronchoscopic intervention
+0BR	bronchial replacement procedure
+0BR	airway reconstruction surgery
+0BR	respiratory tract repair
+0BR	lungs reconstruction
+0BR	tracheobronchial bypass
+0BS	bronchial repositioning
+0BS	airway management
+0BS	respiratory support
+0BS	ventilatory assistance
+0BS	bronchoscopic intervention
+0BT	bronchial resection
+0BT	lung segment resection
+0BT	lobar resection
+0BT	upper lobe resection
+0BT	middle lobe resection
+0BT	lower lobe resection
+0BU	bronchoscopy procedure
+0BU	airway management technique
+0BU	respiratory tract intervention
+0BU	bronchial opening creation
+0BU	tracheal support device placement
+0BV	airway restriction
+0BV	bronchial narrowing treatment
+0BV	tracheal compression management
+0BV	bronchoscopic intervention for carinal stenosis
+0BV	bronchiolar stenosis correction
+0BY	lung transplant
+0BY	upper lobe transplantation
+0BY	lower lobe lung surgery
+0BY	bilateral lung procedure
+0BY	lung transplantation
+0C0	lip augmentation
+0C0	lip enhancement procedure
+0C0	smile makeover
+0C0	lip lift surgery
+0C0	facial rejuvenation treatment
+0C1	patient had laryngeal surgery
+0C1	performed bypass of vocal cord
+0C1	laryngeal bypass procedure completed
+0C1	bypass larynx to skin procedure
+0C2	salivary gland issue
+0C2	laryngeal drainage problem
+0C2	mouth and throat procedure performed
+0C2	salivary gland treatment completed
+0C5	lip destruction procedure
+0C5	palate removal
+0C5	mucosa excision
+0C5	gingiva ablation
+0C5	tongue excision
+0C5	salivary gland destruction
+0C5	pharyngeal ablation
+0C5	uvular resection
+0C7	perform a parotid duct exam
+0C7	dilation of the throat
+0C7	natural or artificial opening created
+0C7	pharyngeal dilation procedure performed
+0C7	laryngeal dilation and inspection
+0C9	salivary gland drainage
+0C9	pharyngeal suctioning
+0C9	gum care procedure
+0C9	oral cavity cleaning
+0C9	nasopharyngeal aspiration
+0CB	lip excision
+0CB	gum removal
+0CB	tongue tissue removal
+0CB	salivary gland excision
+0CB	pharyngeal surgery
+0CB	uvula removal
+0CB	tonsillectomy
+0CC	removal of tissue from upper lip area
+0CC	tissue removal from lower lip region
+0CC	surgical excision of hard palate tissue
+0CC	soft palate tissue removal procedure
+0CC	buccal mucosa tissue removal
+0CC	gingiva tissue removal
+0CC	tongue tissue excision
+0CD	vocal cord procedure
+0CD	opening in the throat
+0CD	endoscopic throat surgery
+0CD	tooth removal
+0CD	teeth extraction
+0CF	parotid duct issue
+0CF	right side gland problem
+0CF	duct clearance procedure
+0CF	parotid duct intervention
+0CF	gland duct treatment
+0CH	salivary gland procedure
+0CH	tongue injection
+0CH	opening in the throat for insertion
+0CH	endoscopic procedure in the larynx
+0CH	airway management in the mouth
+0CJ	look inside mouth
+0CJ	throat check
+0CJ	examining vocal cords
+0CJ	looking at tongue
+0CL	evaluation and treatment of temporomandibular joint disorder
+0CL	adjustment of dental occlusion
+0CL	biopsy of oral mucosa
+0CL	radiographic assessment of maxillary sinus anatomy
+0CL	evaluation for orthognathic surgery
+0CM	lip repair
+0CM	palate reconstruction
+0CM	tongue revision
+0CM	tooth repositioning
+0CM	oral tissue repair
+0CN	lip release
+0CN	palate release
+0CN	mucosa release
+0CN	gingiva release
+0CN	tongue release, minor
+0CN	parotid gland release
+0CN	sublingual gland release
+0CN	submaxillary gland release
+0CN	pharynx via opening
+0CN	uvula release, minor
+0CN	tonsil release, minor
+0CN	adenoid release, minor
+0CN	epiglottis release, minor
+0CP	salivary gland procedure
+0CP	device removal from salivary gland
+0CP	removal of foreign body from salivary gland
+0CP	salivary gland surgery
+0CP	removal of device from salivary gland
+0CQ	lip repair
+0CQ	palate repair
+0CQ	gingiva repair
+0CQ	tongue repair
+0CQ	parotid gland repair
+0CQ	sublingual gland repair
+0CQ	pharyngeal repair
+0CQ	uvular repair
+0CQ	tonsillar repair
+0CR	lip replacement surgery
+0CR	palate repair
+0CR	gum grafting
+0CR	tongue reconstruction
+0CR	salivary gland surgery
+0CR	upper gum tissue removal
+0CR	lower gum tissue removal
+0CR	oral mucosa excision
+0CR	oropharyngeal flap procedure
+0CS	lip repositioning
+0CS	palate repositioning
+0CS	tongue repositioning
+0CS	parotid duct manipulation
+0CS	uvula adjustment
+0CS	epiglottis manipulation via opening
+0CS	larynx repositioning via opening
+0CS	vocal cord repositioning right
+0CS	upper tooth realignment
+0CT	lip resection
+0CT	palate surgery
+0CT	gland removal
+0CT	tongue tissue removal
+0CT	parotid gland procedure
+0CT	sublingual gland surgery
+0CT	minor salivary gland resection
+0CT	pharyngeal resection
+0CU	lip augmentation
+0CU	palate repair
+0CU	gingiva grafting
+0CU	tongue tie release
+0CU	pharyngeal biopsy
+0CU	endoscopic pharynx procedure
+0CU	uvula reduction
+0CU	epiglottis removal
+0CU	laryngoscopy
+0CV	parotid gland surgery
+0CV	ductal stenosis treatment
+0CV	salivary gland procedure
+0CV	right side parotid duct issue correction
+0CV	parotid duct narrowing management
+0CW	salivary gland revision
+0CW	salivary gland drainage procedure
+0CW	oral surgery revision
+0CW	salivary gland repair
+0CX	lip augmentation procedure
+0CX	oral mucosa transfer
+0CX	gingival repair
+0CX	pharyngeal flap procedure
+0CX	tongue base transfer
+0CY	new voice
+0CY	vocal function improvement
+0CY	laryngeal rehabilitation
+0CY	voice therapy session
+0CY	surgical adjustment
+0D1	upper esophageal surgery
+0D1	gastrointestinal bypass procedure
+0D1	jejunum bypass
+0D1	duodenum bypass
+0D1	stomach bypass
+0D2	cleaned upper gut tract
+0D2	fed patient with tube
+0D2	inserted device into abdomen
+0D2	lower gi tract cleaned
+0D2	upper gi tract assessment
+0D5	laser treatment for esophageal damage
+0D5	thermal ablation of the stomach lining
+0D5	interstitial laser therapy for duodenal ulcers
+0D5	esophagus destruction procedure
+0D5	large intestine laser surgery
+0D7	esophageal dilation
+0D7	gastrointestinal dilation
+0D7	upper gi dilation
+0D7	lower gi dilation
+0D7	endoscopic dilation
+0D8	opening in the stomach
+0D8	natural or artificial opening in the esophagus
+0D8	endoscopic procedure on the stomach
+0D8	stomach surgery
+0D9	esophageal drainage procedure
+0D9	gastrointestinal tract drainage
+0D9	upper gi drainage
+0D9	lower gi drainage
+0D9	colon drainage procedure
+0DB	gastrointestinal surgery
+0DB	upper gi tract removal
+0DB	esophageal procedure
+0DB	lower esophageal tissue excision
+0DB	stomach and intestine removal
+0DC	esophageal procedure
+0DC	gastrointestinal surgery
+0DC	upper gi tract removal
+0DC	lower esophagus cleaning
+0DC	stomach lining repair
+0DD	esophageal procedure performed via endoscope
+0DD	gastrointestinal tract removal via natural opening
+0DD	upper gi tract resection
+0DD	natural opening extraction of intestinal segment
+0DD	endoscopic removal of stomach segment
+0DF	esophageal stricture treatment
+0DF	gastrointestinal tract narrowing
+0DF	small intestine narrowing procedure
+0DF	stomach lining repair
+0DF	colonoscopy with biopsy
+0DF	sigmoid colon prep for surgery
+0DF	rectal prolapse correction
+0DF	anus sphincter repair
+0DH	esophageal procedure
+0DH	gastrointestinal insertion
+0DH	upper gi tract intervention
+0DH	esophageal monitoring device placement
+0DH	gastric infusion tube placement
+0DJ	gut check
+0DJ	stomach scope
+0DJ	intestinal exam
+0DL	esophageal variceal treatment
+0DL	splenic vein occlusion management
+0DL	gallstone removal procedure
+0DL	femoral artery thrombectomy
+0DL	variceal ligation technique
+0DM	reattach bowel segment
+0DM	bowel reconnection surgery
+0DM	intestinal anastomosis
+0DM	gastrointestinal repair
+0DM	colonic reanastomosis
+0DN	esophageal release procedure
+0DN	gastrointestinal tract release
+0DN	upper gi release
+0DN	lower gi release
+0DN	endoscopic esophagus release
+0DN	natural opening stomach release
+0DN	small intestine release via natural opening
+0DN	duodenum release via natural opening
+0DP	removal of device from upper gastrointestinal tract
+0DP	removal of monitoring device from stomach
+0DP	removal of infusion device from stomach
+0DP	removal of autologous tissue substitute from stomach
+0DP	removal of extraluminal device from stomach
+0DP	removal of intraluminal device from stomach
+0DQ	upper gi bleed repair
+0DQ	esophageal stricture treatment
+0DQ	gastrointestinal perforation repair
+0DQ	esophageal motility disorder management
+0DQ	gastrointestinal surgery complications
+0DR	esophageal reconstruction
+0DR	gastrointestinal tract repair
+0DR	abdominal wall repair
+0DR	sphincteroplasty procedure
+0DS	adjust stomach position
+0DS	move small bowel
+0DS	endoscopic esophageal adjustment
+0DS	natural opening stomach repositioning
+0DS	jejunum positioning
+0DT	gastrointestinal surgery
+0DT	esophageal procedure
+0DT	upper gi resection
+0DT	esophageal resection via natural opening
+0DT	surgical removal of esophagus
+0DU	esophageal dilation procedure
+0DU	gastrointestinal tract supplement
+0DU	upper gi tract supplement
+0DU	lower gi tract supplement
+0DU	esophagogastroduodenoscopy (egd)
+0DV	esophageal narrowing treatment
+0DV	upper gi tract issue repair
+0DV	natural orifice surgery on stomach
+0DV	lower esophageal stricture release
+0DV	stomach constriction relief
+0DW	upper gi tract revision
+0DW	gastrointestinal tract monitoring device replacement
+0DW	small intestine revision
+0DW	large intestine revision
+0DW	anal sphincter stimulation lead revision
+0DX	small intestine transfer
+0DX	esophageal resection
+0DX	intestinal anastomosis
+0DX	ureteral reconstruction
+0DX	large intestine bypass
+0DY	esophageal surgery
+0DY	stomach transplant preparation
+0DY	small intestine resection and transplantation
+0DY	large intestine removal and replacement
+0F1	gallbladder surgery
+0F1	hepatic duct bypass
+0F1	cholecystectomy with duodenum anastomosis
+0F1	biliary bypass procedure
+0F1	hepatobiliary surgery
+0F2	assisted drainage of liver
+0F2	gallbladder drainage catheterization
+0F2	insertion of drainage tube in hepatobiliary duct
+0F2	placement of pancreatic duct stent
+0F5	liver ablation
+0F5	hepatectomy without removal
+0F5	bile duct destruction
+0F5	pancreas treatment with heat
+0F5	gallbladder removal method not specified
+0F7	hepatic duct dilation
+0F7	bile duct dilation
+0F7	pancreatic duct dilation
+0F7	accessory pancreatic duct dilation
+0F7	endoscopic hepatic duct dilation
+0F8	liver surgery
+0F8	lobar resection
+0F8	hepatic procedure
+0F8	pancreas biopsy
+0F9	liver drainage procedure
+0F9	gallbladder emptying
+0F9	hepatic duct clearance
+0F9	bile duct manipulation
+0F9	pancreatic duct intervention
+0FB	liver surgery
+0FB	gallbladder removal
+0FB	hepatic duct excision
+0FB	ampulla of vater procedure
+0FB	pancreatic duct treatment
+0FC	liver removal
+0FC	gallbladder surgery
+0FC	hepatic duct procedure
+0FC	pancreatic duct clearance
+0FD	liver surgery
+0FD	bile duct removal
+0FD	gallbladder procedure
+0FD	hepatic duct extraction
+0FD	pancreas removal
+0FF	gallbladder procedure
+0FF	hepatic duct treatment
+0FF	bile duct intervention
+0FF	endoscopic gallbladder fragmentation
+0FF	natural opening hepatic duct fragmentation
+0FH	liver procedure
+0FH	hepatic intervention
+0FH	gallbladder procedure
+0FH	biliary intervention
+0FH	pancreatic procedure
+0FJ	examined liver tissue
+0FJ	gallbladder visual examination
+0FJ	hepatobiliary system assessment
+0FJ	pancreatic duct evaluation
+0FJ	liver and gallbladder check
+0FL	liver function test abnormality
+0FL	hepatitis diagnosis
+0FL	bilirubin level elevation
+0FL	cholesterol profile analysis
+0FL	gallstone removal procedure
+0FM	liver resection and reanastomosis
+0FM	hepatic duct repair
+0FM	gallbladder reconnection
+0FM	bile duct reconstruction
+0FM	ampulla of vater reattachment
+0FN	liver release procedure
+0FN	hepatic duct release
+0FN	gallbladder removal surgery
+0FN	bile duct release procedure
+0FN	ampulla of vater release
+0FN	pancreatic duct release
+0FN	accessory pancreatic duct release
+0FP	liver procedure
+0FP	gallbladder removal
+0FP	drainage device removal
+0FP	monitoring device removal from gallbladder
+0FP	infusion device removal from liver
+0FQ	hepatic repair
+0FQ	biliary repair
+0FQ	liver surgery
+0FQ	gallbladder procedure
+0FQ	duct repair
+0FQ	pancreatic surgery
+0FQ	pancreatic duct issue
+0FQ	accessory pancreatic duct problem
+0FQ	pancreas repair
+0FR	hepatic duct repair
+0FR	bile duct surgery
+0FR	pancreatic duct intervention
+0FR	ampulla of vater reconstruction
+0FR	common bile duct bypass
+0FS	liver reposition procedure
+0FS	gallbladder manipulation
+0FS	hepatic duct reconfiguration
+0FS	common bile duct revision
+0FS	ampulla of vater realignment
+0FT	liver surgery
+0FT	gallbladder removal
+0FT	hepatic duct resection
+0FT	pancreatic duct surgery
+0FT	bile duct resection
+0FU	perform hepatic duct procedure via endoscopy
+0FU	access right hepatic duct for drainage
+0FU	common bile duct intervention
+0FU	ampulla of vater stenting
+0FU	pancreatic duct exploration
+0FV	hepatic duct narrowing
+0FV	bile duct constriction
+0FV	liver duct obstruction
+0FV	ductal pressure reduction
+0FV	hepatic duct closure procedure
+0FW	liver procedure
+0FW	gallbladder revision
+0FW	hepatic duct intervention
+0FW	pancreatic duct modification
+0FW	biliary system repair
+0FY	liver grafting procedure
+0FY	pancreas organ donation
+0FY	organ transplantation process
+0FY	grafting of liver tissue
+0FY	transplant surgery procedure
+0G2	drainage procedure in pituitary gland
+0G2	device adjustment in adrenal gland
+0G2	thyroid gland maintenance
+0G2	parathyroid gland treatment
+0G2	glandular drainage issue resolved
+0G5	pituitary gland treatment
+0G5	laser therapy for pituitary gland issues
+0G5	adrenal gland surgery
+0G5	carotid body disorder treatment
+0G5	thyroid gland problem solution
+0G8	thyroid gland procedure
+0G8	thyroid gland surgery
+0G8	gland division procedure
+0G8	thyroid gland isthmus resection
+0G8	endocrine system surgery
+0G9	adrenal gland drainage procedure
+0G9	carotid body drainage
+0G9	parathyroid gland drainage
+0G9	thyroid gland drainage procedure
+0G9	endocrine system drainage
+0GB	adrenal gland surgery
+0GB	carotid body procedure
+0GB	parathyroid gland removal
+0GB	thyroid gland surgery
+0GB	pituitary gland issue resolved
+0GC	tissue removal from pituitary region
+0GC	pineal body procedure
+0GC	adrenal gland surgery
+0GC	carotid body manipulation
+0GC	para-aortic body intervention
+0GC	glomus tissue excision
+0GC	thyroid gland lobe resection
+0GH	insert device into endocrine gland
+0GH	place monitoring equipment in thyroid
+0GH	implant medication delivery system
+0GH	insert device for hormone tracking
+0GH	insert infusion tube into adrenal gland
+0GJ	gland examination
+0GJ	hormone assessment
+0GJ	body fluid analysis
+0GJ	endocrine system check
+0GM	adrenal gland surgery
+0GM	thyroid lobe repair
+0GM	parathyroid gland surgery - partial
+0GM	endocrine gland reattachment
+0GN	adrenal gland surgery
+0GN	carotid body procedure
+0GN	parathyroid gland issue
+0GN	thyroid nodule removal
+0GN	pituitary tumor treatment
+0GP	drainage procedure on endocrine gland
+0GP	removal of device from endocrine gland area
+0GP	endocrine gland management procedure
+0GP	device removal from pituitary gland region
+0GP	endocrine gland monitoring device removal
+0GQ	adrenal gland repair
+0GQ	carotid body repair
+0GQ	thyroid gland repair
+0GQ	parathyroid gland repair
+0GQ	gland repair
+0GS	adrenal gland surgery
+0GS	thyroid gland manipulation
+0GS	parathyroid gland adjustment
+0GS	endocrine system procedure
+0GS	gland repositioning
+0GT	removal of pituitary tissue
+0GT	surgical removal of pineal gland
+0GT	adrenal gland excision
+0GT	bilateral adrenal gland surgery
+0GT	carotid body tumor removal
+0GT	para-aortic body resection
+0GT	glomus jugulare tumor removal
+0GT	thyroid gland nodule removal
+0GT	parathyroid gland hyperplasia treatment
+0GW	drainage device revision in endocrine gland
+0GW	endocrine gland drainage modification
+0GW	pituitary gland monitoring system update
+0H0	adjustment of breast area
+0H0	modification of breast tissue
+0H0	alteration of breast shape
+0H0	reconfiguration of breast tissue
+0H2	drainage system updated
+0H2	device inserted for drainage
+0H2	breast tissue drained
+0H2	skin incision and drainage performed
+0H2	other device used for skin care
+0H5	skin removal procedure
+0H5	tissue destruction
+0H5	scalp skin treatment
+0H5	face skin treatment
+0H5	ear skin treatment
+0H5	neck skin treatment
+0H5	chest skin treatment
+0H5	back skin treatment
+0H5	abdomen skin treatment
+0H5	buttock skin treatment
+0H5	perineum skin treatment
+0H5	inguinal skin treatment
+0H5	upper arm skin treatment
+0H5	lower arm skin treatment
+0H5	hand skin treatment
+0H5	leg skin treatment
+0H5	foot skin treatment
+0H8	skin removal procedure
+0H8	dermal excision
+0H8	skin excision method
+0H8	tissue removal technique
+0H8	scalp skin surgery
+0H9	scalp abscess drainage
+0H9	facial skin abscess
+0H9	ear abscess drainage
+0H9	arm abscess drainage
+0H9	breast abscess drainage
+0H9	chest wall drainage
+0H9	back abscess drainage
+0H9	abdominal abscess drainage
+0HB	skin excision procedure
+0HB	breast tissue removal
+0HB	scalp skin surgery
+0HB	face skin excision
+0HB	earlobe skin excision
+0HB	arm skin excision
+0HB	leg skin excision
+0HB	foot skin excision
+0HB	nail excision procedure
+0HC	skin biopsy from scalp
+0HC	earlobe skin removal
+0HC	neck lump excision
+0HC	chest wall repair
+0HC	back skin lesion removal
+0HC	abdomen scar revision
+0HC	buttock fat reduction
+0HC	perineum irritation treatment
+0HC	inguinal hernia repair
+0HC	upper arm lymph node biopsy
+0HC	lower arm skin tag removal
+0HC	hand wound closure
+0HC	foot callus removal
+0HC	finger nail fungus treatment
+0HC	toe nail fungal infection treatment
+0HC	right breast augmentation
+0HC	breast tissue reduction via natural opening
+0HC	breast tissue reduction via artificial opening endoscopic
+0HD	skin biopsy from scalp
+0HD	face skin analysis
+0HD	earlobe skin removal
+0HD	neck skin condition assessment
+0HD	chest skin examination
+0HD	back skin evaluation
+0HD	abdomen skin condition check
+0HD	buttock skin assessment
+0HD	perineum skin examination
+0HD	inguinal skin condition review
+0HD	upper arm skin injury report
+0HD	lower arm skin analysis
+0HD	hand skin condition check
+0HD	leg skin excision (unspecified)
+0HD	foot skin evaluation
+0HD	nail removal from finger toe
+0HH	breast augmentation procedure
+0HH	implant placement in breast
+0HH	breast implant insertion
+0HH	tissue expansion for breast reconstruction
+0HH	breast cancer treatment with radioactive element
+0HJ	skin check
+0HJ	nail inspection
+0HJ	breast assessment
+0HJ	exam of right breast
+0HJ	right breast evaluation
+0HJ	left breast exam
+0HJ	opening in breast for inspection
+0HJ	examination of right breast tissue
+0HM	skin graft
+0HM	skin closure
+0HM	skin flap
+0HM	skin resection
+0HM	skin reconstruction
+0HM	reconstructive surgery
+0HN	skin release procedure
+0HN	breast tissue removal
+0HN	scalp skin excision
+0HN	face skin excision
+0HN	earlobe reduction
+0HN	neck skin excision
+0HN	chest wall repair
+0HN	abdominal skin excision
+0HN	buttock fat grafting
+0HN	perineum skin excision
+0HP	removal of drainage device
+0HP	autologous tissue substitute removal
+0HP	synthetic substitute removal
+0HP	nonautologous tissue substitute removal
+0HP	tissue expander removal
+0HQ	skin repair near ear
+0HQ	breast tissue repair
+0HQ	upper arm skin graft
+0HQ	lower leg skin repair
+0HQ	foot skin surgery
+0HQ	nail repair on finger
+0HQ	nail repair on toe
+0HQ	breast augmentation via endoscopy
+0HR	scalp skin replacement
+0HR	face skin graft
+0HR	ear skin reconstruction
+0HR	neck skin repair
+0HR	chest skin surgery
+0HR	back skin procedure
+0HR	abdomen skin flap
+0HR	buttock skin transfer
+0HR	perineum skin repair
+0HR	inguinal skin surgery
+0HS	adjust hairline
+0HS	realign breast tissue
+0HS	reposition areola
+0HT	finger nail resection
+0HT	toe nail removal
+0HT	right nipple excision
+0HT	breast tissue reduction
+0HT	nipple-areola complex removal
+0HU	breast enhancement
+0HU	augmentation procedure
+0HU	breast implant placement
+0HU	cosmetic breast surgery
+0HU	breast tissue supplement
+0HW	revision of skin graft in finger nail
+0HW	revision of synthetic material in toe nail
+0HW	revision of autologous tissue in hair
+0HW	revision of drainage device in right breast, via natural or artificial opening
+0HW	revision of autologous tissue substitute in right breast, via natural or artificial opening
+0HX	transferred skin from the scalp to another area
+0HX	skin grafting procedure on the face
+0HX	earlobe skin transferred for reconstruction
+0HX	neck skin flap transferred for surgery
+0HX	chest wall skin transferred for repair
+0HX	back skin flap transferred for reconstruction
+0HX	abdomen skin transfer for hernia repair
+0HX	buttock skin transfer for reconstruction
+0HX	perineum skin grafting procedure
+0HX	inguinal skin transfer for hernia repair
+0J0	subcutaneous fat reduction
+0J0	facial contouring procedure
+0J0	neck lift surgery
+0J0	arm contouring
+0J0	leg contouring
+0J2	subcutaneous fluid removal
+0J2	tissue drainage procedure
+0J2	subcutaneous tissue cleaning
+0J2	fascial drainage technique
+0J2	subcutaneous tissue management
+0J5	removal of scalp fat
+0J5	facial fat destruction
+0J5	neck subcutaneous tissue removal
+0J5	chest wall fat destruction
+0J5	back fat removal
+0J5	abdominal fat destruction
+0J5	buttock fat removal
+0J5	perineal fat destruction
+0J5	pelvic region fat removal
+0J5	upper arm fat destruction
+0J5	lower arm fat removal
+0J8	subcutaneous tissue removal
+0J8	fascial division procedure
+0J8	tissue and fascia release
+0J8	subcutaneous tissue excision
+0J8	anatomical site subcutaneous tissue division
+0J8	body region subcutaneous tissue division
+0J8	subcutaneous tissue resection
+0J9	subcutaneous tissue fluid removal
+0J9	tissue drainage procedure
+0J9	subcutaneous tissue aspiration
+0J9	soft tissue drainage
+0J9	subcutaneous tissue irrigation
+0JB	subcutaneous tissue removal procedure
+0JB	fascia excision surgery
+0JB	tissue excision in the neck area
+0JB	chest wall surgery for subcutaneous tissue
+0JB	back surgery for subcutaneous tissue
+0JC	subcutaneous fat removal from neck area
+0JC	debridement of facial tissue
+0JC	removal of excess tissue under the arm
+0JC	chest wall fat excision
+0JC	back fat stripping procedure
+0JC	abdominal subcutaneous tissue debridement
+0JC	buttock fat removal and fascia excision
+0JC	perineum subcutaneous tissue and fascia stripping
+0JC	lower leg fat excision
+0JD	subcutaneous tissue removal
+0JD	fascial extraction procedure
+0JD	tissue and fascia extraction
+0JD	subcutaneous tissue excision
+0JD	removal of fatty tissue
+0JH	tissue expander placement in the neck
+0JH	chest implantation procedure
+0JH	pacemaker insertion in the chest
+0JH	cardiac device placement in the abdomen
+0JH	subcutaneous infusion pump placement
+0JJ	look at the skin under the surface
+0JJ	check for any abnormalities
+0JJ	examine the tissue layers
+0JJ	evaluate the subcutaneous layer
+0JJ	assess the superficial tissues
+0JN	subcutaneous tissue release procedure
+0JN	scalp fascia release
+0JN	neck subcutaneous tissue release
+0JN	arm subcutaneous tissue release
+0JN	leg subcutaneous tissue release
+0JN	release of subcutaneous tissue
+0JN	subcutaneous tissue mobilization
+0JP	removal of device from subcutaneous tissue and fascia
+0JP	removal of substance from head and neck area
+0JP	removal of infusion system from upper extremity
+0JP	removal of autologous material from lower extremity
+0JP	removal of foreign object from trunk
+0JQ	subcutaneous tissue repair
+0JQ	facial tissue repair
+0JQ	neck tissue repair
+0JQ	upper arm tissue repair
+0JQ	lower leg tissue repair
+0JR	subcutaneous tissue repair
+0JR	facial reconstruction
+0JR	neck tissue revision
+0JR	chest wall repair
+0JR	back tissue replacement
+0JR	abdominal tissue revision
+0JR	buttock tissue repair
+0JR	perineal tissue revision
+0JR	lower arm subcutaneous tissue repair
+0JU	added fat to the scalp area
+0JU	augmented facial contours
+0JU	neck tissue augmentation
+0JU	chest wall reinforcement
+0JU	back support enhancement
+0JU	abdominal tissue thickening
+0JU	buttock padding
+0JU	perineal tissue strengthening
+0JU	pelvic region broadening
+0JU	upper arm fat grafting
+0JU	lower arm tissue augmentation
+0JU	hand fat transfer
+0JW	subcutaneous tissue revision
+0JW	head and neck subcutaneous tissue procedure
+0JW	trunk subcutaneous tissue surgery
+0JW	upper extremity subcutaneous tissue repair
+0JW	lower extremity subcutaneous tissue correction
+0JX	subcutaneous fat removal procedure
+0JX	tissue transfer surgery
+0JX	fascial repair technique
+0JX	subcutaneous tissue mobilization
+0JX	anterior abdominal wall repair
+0K2	muscle drainage procedure
+0K2	upper muscle treatment
+0K2	lower muscle change
+0K5	muscle tissue removal
+0K5	muscle destruction procedure
+0K5	neck muscle excision
+0K5	upper arm muscle removal
+0K5	lower extremity muscle damage
+0K8	muscle division procedure
+0K8	neck muscle release
+0K8	upper arm muscle excision
+0K8	lower limb muscle removal
+0K8	trunk muscle dissection
+0K8	shoulder muscle resection
+0K9	muscle drainage procedure
+0K9	neck muscle aspiration
+0K9	shoulder muscle drainage
+0K9	upper arm muscle drainage
+0K9	lower extremity muscle drainage
+0K9	trunk muscle drainage
+0K9	abdominal muscle drainage
+0K9	perineal muscle drainage
+0KB	muscle removal from the neck area
+0KB	excision of a facial tissue
+0KB	removal of a muscle in the upper arm
+0KB	surgical removal of a tongue muscle
+0KB	shoulder muscle excision procedure
+0KB	upper arm muscle excision surgery
+0KB	lower arm and wrist muscle excision
+0KB	hand muscle excision for medical reasons
+0KB	trunk muscle removal for health issues
+0KB	excision of the perineum region
+0KC	muscle tissue removal
+0KC	tissue excision from neck area
+0KC	removal of muscle mass
+0KC	excision of facial muscles
+0KC	arm muscle excision
+0KC	lower extremity muscle removal
+0KC	shoulder muscle excision
+0KC	upper arm muscle excision
+0KD	shoulder muscle removal
+0KD	upper arm extraction procedure
+0KD	lower arm and wrist surgery
+0KD	hand muscle resection
+0KD	trunk muscle biopsy
+0KD	thorax muscle excision
+0KD	abdomen muscle dissection
+0KD	perineum tissue removal
+0KH	muscle stimulation procedure performed on upper back
+0KH	implantable device inserted in lower chest area
+0KH	electrical stimulation therapy applied to shoulder region
+0KJ	upper body inspection
+0KJ	muscle tone evaluation
+0KJ	skeletal system examination
+0KJ	upper extremity assessment
+0KM	muscle repair
+0KM	reattached tissue
+0KM	muscle reattachment surgery
+0KM	tissue repair procedure
+0KM	muscle reconstruction
+0KN	muscle relaxation technique
+0KN	neck and shoulder strain relief
+0KN	upper arm pain management
+0KN	lower extremity tension release
+0KN	hand and wrist comfort measures
+0KP	muscle tissue repair
+0KP	upper muscle procedure
+0KP	lower muscle surgery
+0KP	tissue substitute replacement
+0KP	stimulator implant removal
+0KQ	muscle repair
+0KQ	shoulder muscle repair
+0KQ	arm muscle repair
+0KQ	hand muscle repair
+0KQ	leg muscle repair
+0KR	muscle repair
+0KR	tissue replacement procedure
+0KR	surgical muscle transfer
+0KR	upper limb muscle surgery
+0KR	arm and hand muscle reconstruction
+0KS	muscle repositioning
+0KS	skeletal realignment procedure
+0KS	soft tissue adjustment
+0KS	joint mobilization technique
+0KS	muscle relaxation therapy
+0KT	muscle removal procedure
+0KT	neck muscle surgery
+0KT	upper arm resection
+0KT	lower arm and wrist amputation
+0KT	shoulder muscle excision
+0KT	abdomen muscle removal
+0KT	trunk muscle surgery
+0KT	hip muscle resection
+0KU	add muscle supplement
+0KU	muscle strengthening therapy
+0KU	upper limb muscle support
+0KU	lower extremity muscle repair
+0KU	hand and wrist muscle function test
+0KW	muscle revision procedure
+0KW	upper/lower muscle repair
+0KW	tissue substitute replacement in muscles
+0KW	stimulator lead repositioning in muscles
+0KX	muscle transfer
+0KX	neck muscle transfer
+0KX	upper arm muscle transfer
+0KX	shoulder muscle transfer
+0KX	arm muscle transfer
+0L2	tenderness in the shoulder area
+0L2	elbow pain after injury
+0L2	knee ligament sprain treatment
+0L2	hand and wrist strain management
+0L2	foot and ankle instability correction
+0L5	tendon damage assessment
+0L5	evaluation of patellar tendon integrity
+0L5	repair of bicep tendon strain
+0L5	destruction of flexor tendons in elbow
+0L5	partial destruction of achilles tendon repair
+0L8	tendon repair
+0L8	tenosynovial sheath evaluation
+0L8	tendon length adjustment
+0L8	tendon mobilization technique
+0L9	tendon repair with drainage
+0L9	drainage procedure for achilles tendonitis
+0L9	percutaneous treatment of patellar tendonitis
+0L9	open surgery on rotator cuff tendons
+0L9	endoscopic management of flexor tendinopathy
+0LB	tendon repair
+0LB	tendon lengthening procedure
+0LB	tendon transfer surgery
+0LB	debridement and excision of tendons
+0LB	tendon management procedure
+0LC	tendon repair alternative
+0LC	synovial fluid aspiration
+0LC	tissue sampling for histology
+0LD	tendon repair
+0LD	ligamentoplasty
+0LD	tenosynovitis treatment
+0LD	tendonitis management
+0LD	cuff tendon repair
+0LH	tendonitis treatment approach
+0LH	tendon length adjustment
+0LH	tendon repair technique
+0LH	tenosynovial sheath exploration
+0LJ	look at the tendons
+0LJ	tendon evaluation
+0LJ	check the tendons for damage
+0LJ	examine the tendons closely
+0LJ	review of tendon function
+0LM	tendinopathy treatment
+0LM	ligament repair procedure
+0LM	hand surgery for tendon issues
+0LM	knee ligament repair technique
+0LM	surgical intervention for tendonitis
+0LN	tendon repair technique
+0LN	tenosynovial sheath incision
+0LN	flexor tendon lengthening
+0LN	shoulder joint capsule repair
+0LN	cuff release procedure
+0LP	tendinosis treatment
+0LP	tendon repair procedure
+0LP	tendonitis management
+0LP	flexor tendon lengthening
+0LP	extensor tendon transfer
+0LQ	tendon injury treatment
+0LQ	hand surgery procedure
+0LQ	knee ligament repair
+0LQ	elbow tendon repair
+0LR	tendon repair procedure
+0LR	tenosynovitis treatment
+0LR	tendonitis management
+0LR	tendon lengthening surgery
+0LR	tendon transfer operation
+0LS	realigning the patellar tendon
+0LS	surgical adjustment of the achilles tendon
+0LS	lengthening the flexor tendons on the left knee
+0LS	operative realignment of the medial collateral ligament
+0LT	tendon repair
+0LT	bicep surgery
+0LT	knee tendon cleaning
+0LT	elbow surgery for tendonitis
+0LU	tendinopathy treatment
+0LU	tendonitis management
+0LU	tendonitis injection therapy
+0LU	tendon strain management
+0LU	tendonitis rehabilitation protocol
+0LW	revised tendon length
+0LW	tendon revision procedure
+0LW	flexor tendon reattachment
+0LW	partial tendon repair revision
+0LW	tendon reconstruction revision
+0LX	tendonitis treatment
+0LX	tenosynovitis management
+0LX	flexor tendonitis repair
+0LX	tendinosis surgery
+0LX	tendon lengthening procedure
+0M2	bursa irrigation procedure
+0M2	ligament treatment with drainage
+0M2	upper bursa management
+0M2	lower bursa intervention
+0M2	fluid clearance in bursa and ligament
+0M5	shoulder bursitis treatment
+0M5	elbow joint injection
+0M5	wrist pain management
+0M5	upper extremity injection
+0M5	hand therapy for pain
+0M5	hip joint injection
+0M5	knee pain relief
+0M5	ankle sprain treatment
+0M5	foot pain management
+0M8	shoulder bursitis treatment
+0M8	elbow joint pain management
+0M8	wrist bursa swelling
+0M8	upper arm pain relief
+0M8	lower back strain treatment
+0M9	shoulder bursitis treatment
+0M9	elbow bursitis drainage procedure
+0M9	wrist bursitis management
+0M9	upper extremity pain relief
+0M9	lower back pain treatment
+0MB	shoulder surgery
+0MB	elbow procedure
+0MB	wrist removal
+0MB	hand surgery
+0MB	upper extremity excision
+0MC	shoulder bursitis treatment
+0MC	elbow bursa inflammation
+0MC	upper extremity pain management
+0MC	knee bursa swelling
+0MC	lower back pain relief
+0MD	shoulder bursitis treatment
+0MD	elbow bursa inflammation
+0MD	wrist bursa swelling
+0MD	hand bursa pain
+0MD	upper extremity bursitis
+0MD	lower back bursitis
+0MD	abdominal bursitis symptoms
+0MH	bursal injection with needle
+0MH	ligament repair with suture placement
+0MH	insertion of material into bursal space
+0MH	device placement in bursal area
+0MJ	look at the bursae
+0MJ	check on the ligaments
+0MJ	evaluate joint health
+0MJ	examine soft tissue
+0MM	shoulder bursitis treatment
+0MM	elbow ligament sprain repair
+0MM	wrist bursitis surgery
+0MM	upper extremity pain management
+0MM	lower back strain relief
+0MN	bursotomy
+0MN	ligament release procedure
+0MN	bursitis treatment
+0MN	shoulder bursa release
+0MN	elbow bursa release
+0MN	wrist bursa release
+0MN	upper extremity bursa release
+0MN	lower spine bursa release
+0MN	sternum bursa release
+0MP	tissue substitute removal from upper bursa
+0MP	synthetic material removal from bursa
+0MP	bursa and ligament repair
+0MP	upper bursa cleaning
+0MP	lower bursa examination
+0MQ	tendinosis repair
+0MQ	bursitis treatment
+0MQ	ligament reconstruction
+0MQ	joint capsule repair
+0MQ	soft tissue repair
+0MR	shoulder bursitis treatment
+0MR	elbow bursa repair
+0MR	upper extremity bursa revision
+0MR	spine bursa reconstruction
+0MR	wrist bursa treatment
+0MR	perineum bursitis repair
+0MS	bursa reposition in the neck area
+0MS	shoulder bursa repair
+0MS	elbow bursa treatment
+0MS	wrist bursa management
+0MS	hand bursa care
+0MS	upper extremity bursa adjustment
+0MS	spine bursa realignment
+0MS	abdomen bursa revision
+0MS	perineum bursa correction
+0MS	hip bursa repair
+0MT	shoulder surgery
+0MT	elbow procedure
+0MT	wrist operation
+0MT	hand surgery
+0MT	upper extremity repair
+0MT	spine surgery
+0MT	lower back surgery
+0MT	chest surgery
+0MT	hip surgery
+0MT	knee surgery
+0MU	shoulder bursa treatment
+0MU	elbow bursitis treatment
+0MU	wrist bursa injection
+0MU	upper extremity pain management
+0MU	lower back bursa treatment
+0MU	abdominal bursa symptoms
+0MU	perineal bursa issues
+0MW	upper bursa revision
+0MW	bursa repair
+0MW	ligament revision procedure
+0MW	synthetic substitute replacement
+0MW	autologous tissue substitute placement
+0MX	bursa transfer procedure
+0MX	ligament repair
+0MX	joint fluid removal
+0MX	soft tissue manipulation
+0MX	upper limb bursitis treatment
+0N2	nasal decongestion procedure
+0N2	sinus drainage catheter placement
+0N2	facial bone sinus irrigation
+0N2	skull sinus drainage technique
+0N2	anterior ethmoid cell clearance
+0N5	parietal bone fracture
+0N5	skull base surgery
+0N5	facial bone removal
+0N5	temporal bone procedure
+0N5	orbitotomy
+0N8	bone removal procedure
+0N8	surgical bone cutting
+0N8	parietal bone surgery
+0N8	temporal bone reduction
+0N8	facial bone resection
+0N8	skull base surgery
+0N8	nasal bone reduction
+0N8	ethmoid sinus surgery
+0N8	lacrimal gland surgery
+0N9	bone drainage procedure
+0N9	parietal bone infection treatment
+0N9	temporal bone abscess drainage
+0N9	orbital bone infection clearing
+0N9	mandible bone infection management
+0NB	bone removal from face
+0NB	surgical procedure on parietal area
+0NB	excision of facial bone
+0NB	removal of orbital bone
+0NB	temporal bone surgery
+0NB	frontal bone excision - partial
+0NB	parietal bone surgical procedure
+0NC	bone removal procedure
+0NC	tissue clearance
+0NC	surgical debridement
+0NC	anatomical excision
+0NC	facial bone resection
+0NC	nasal cavity cleaning
+0NC	ethmoid sinus treatment
+0NC	lacrimal gland surgery
+0ND	bone removal procedure
+0ND	surgical extraction of a bone
+0ND	temporal bone surgery
+0ND	parietal bone procedure
+0ND	nasal bone extraction method
+0NH	skull implantation procedure
+0NH	facial bone surgery
+0NH	temporal bone repair
+0NH	parietal bone fixation
+0NH	frontal bone stabilization
+0NJ	head and neck exam
+0NJ	facial assessment
+0NJ	cranial nerve function test
+0NJ	sinus cavity inspection
+0NJ	bone density scan
+0NN	access to parietal bone
+0NN	temporal bone exposure
+0NN	occipital bone approach
+0NN	nasal bone access
+0NN	sphenoid bone exploration
+0NN	ethmoid bone window
+0NN	lacrimal bone exposure right eye
+0NN	zygomatic bone access right side
+0NN	orbit exposure right eye
+0NN	maxilla release with mandible
+0NP	drainage device removal
+0NP	infusion device removal
+0NP	internal fixation device removal
+0NP	external fixator removal
+0NP	tissue substitute removal
+0NQ	parietal bone repair
+0NQ	temporal bone surgery
+0NQ	frontal bone reconstruction
+0NQ	zygomatic bone realignment
+0NQ	orbit repair
+0NR	bone grafting procedure
+0NR	facial reconstruction surgery
+0NR	skull fracture repair
+0NR	parietal bone injury treatment
+0NR	temporal bone infection management
+0NR	nasal septum deviation correction
+0NR	ethmoid sinusitis treatment
+0NR	lacrimal gland surgery
+0NS	adjust skull position
+0NS	realignment frontal bone
+0NS	parietal bone repositioning
+0NS	temporal bone realignment
+0NS	facial bone repositioning
+0NS	orbit adjustment
+0NS	maxilla repositioning
+0NT	bone removal procedure
+0NT	facial bone surgery
+0NT	parietal bone procedure
+0NT	temporal bone operation
+0NT	nasal bone surgery
+0NT	sphenoid sinus resection
+0NT	ethmoid bone treatment
+0NT	lacrimal gland procedure
+0NU	bone supplement procedure
+0NU	facial bone reconstruction
+0NU	parietal bone repair method
+0NU	temporal bone repair technique
+0NU	sphenoid bone reconstruction approach
+0NU	ethmoid bone repair method
+0NU	lacrimal bone repair technique
+0NU	palatine bone repair approach
+0NU	zygomatic bone reconstruction method
+0NW	skull revision procedure
+0NW	facial bone repair
+0NW	nasal bone reconstruction
+0NW	external fixation device removal
+0NW	internal fixation device adjustment
+0P2	upper bone drainage procedure
+0P2	scapula or clavicle debridement
+0P2	humerus or humerus fracture repair
+0P2	maxilla or iliac crest change
+0P2	debridement of medial aspect
+0P5	rib destruction
+0P5	vertebral body removal
+0P5	sternum removal
+0P5	cervical spine treatment
+0P5	thoracic spine treatment
+0P5	scapular destruction
+0P5	clavicular destruction
+0P5	humeral shaft destruction
+0P5	carpal bone destruction
+0P8	rib removal
+0P8	bone resection
+0P8	surgical rib cut
+0P8	cervical spine surgery
+0P8	thoracic spine surgery
+0P8	scapula procedure
+0P8	glenoid surgery
+0P8	clavicle procedure
+0P8	humeral head surgery
+0P8	radius bone reduction
+0P9	rib drainage procedure
+0P9	scapula cavity drainage
+0P9	clavicle drainage
+0P9	shoulder drainage procedure
+0P9	arm drainage procedure
+0PB	rib removal procedure
+0PB	upper limb surgical excision
+0PB	scapular cavity surgery
+0PB	clavicle excision method
+0PB	humeral shaft resection
+0PC	surgical removal of tissue
+0PC	rib cage debridement
+0PC	scapular excision
+0PC	cervical vertebra clearing
+0PC	thoracic vertebra ablation
+0PC	humeral head resection
+0PC	radius clearing
+0PC	carpal excision
+0PD	rib extraction procedure
+0PD	scapula bone removal
+0PD	humeral shaft surgery
+0PD	carpal bone removal on right side
+0PD	metacarpal bone extraction
+0PH	surgery on upper bone
+0PH	insertion of internal device
+0PH	fixation device placement
+0PH	surgical insertion of rigid plate
+0PH	placement of internal fixator
+0PJ	look at the upper part of the face
+0PJ	check the sinuses
+0PJ	evaluate the nasal area
+0PJ	examine the forehead region
+0PN	surgical release of ribs
+0PN	rib release procedure
+0PN	vertebra release surgery
+0PN	scapula release operation
+0PN	clavicle release surgery
+0PN	humeral head release procedure
+0PQ	rib repair
+0PQ	vertebra repair
+0PQ	scapula stabilization
+0PQ	clavicle realignment
+0PQ	shoulder joint repair
+0PR	rib cage repair
+0PR	vertebrae stabilization
+0PR	scapular fixation
+0PR	clavicle realignment
+0PR	upper limb reconstruction
+0PS	adjust rib positioning
+0PS	realign multiple ribs
+0PS	cervical spine adjustment
+0PS	thoracic spine stabilization
+0PS	scapular repositioning
+0PS	glenoid cavity alignment
+0PS	clavicle stabilization
+0PS	humeral realignment
+0PT	removal of ribs on one side
+0PT	glenoid cavity surgery
+0PT	clavicle bone resection
+0PT	humeral head resection procedure
+0PT	radius bone removal
+0PT	carpal bone surgery
+0PT	metacarpal bone resection
+0PT	thumb phalanx removal
+0PU	add ribs to supplement
+0PU	rib augmentation
+0PU	cervical spine support
+0PU	thoracic spine stabilization
+0PU	scapula reinforcement
+0PU	clavicle strengthening
+0PU	humeral head reinforcement
+0PU	radius and ulna support
+0PU	carpal bone stabilization
+0PU	metacarpal bone supplement
+0Q2	lower bone drainage procedure
+0Q2	tibial bone change
+0Q2	femoral bone modification
+0Q2	lower extremity bone adjustment
+0Q2	bone repositioning in lower limb
+0Q5	laser treatment for bone pain
+0Q5	bone destruction procedure
+0Q5	interstitial thermal therapy for bone disease
+0Q5	sacrum pain relief
+0Q5	pelvic bone fracture repair
+0Q5	acetabulum surgery
+0Q5	femur bone shortening
+0Q5	tibia and fibula alignment
+0Q8	cutting of lumbar vertebra
+0Q8	removal of sacrum
+0Q8	pelvic bone reduction
+0Q8	femur shortening
+0Q8	tibia shortening
+0Q8	patella realignment
+0Q9	lumbar drainage procedure
+0Q9	sacral drainage
+0Q9	pelvic bone drainage
+0Q9	femoral shaft drainage
+0Q9	tibial drainage
+0QB	removal of lumbar vertebra
+0QB	sacral removal
+0QB	pelvic bone resection
+0QB	femoral shaft cutout
+0QB	acetabular excision
+0QB	lower extremity amputation
+0QB	patellar resection
+0QB	tibial resection
+0QB	fibular resection
+0QC	lumbar vertebra cleaning
+0QC	sacral debridement
+0QC	pelvic bone removal
+0QC	femur clearing
+0QC	acetabulum repair
+0QC	tibia excision
+0QC	fibula treatment
+0QC	foot surgery
+0QC	lower extremity cleaning
+0QD	lumbar vertebrae removed
+0QD	sacrum taken out
+0QD	pelvic bone extracted
+0QD	acetabulum cut out
+0QD	femur sectioned
+0QD	tarsal bones removed
+0QD	metatarsal extraction
+0QH	fixation device insertion
+0QH	external fixator placement
+0QH	internal fixation device implantation
+0QH	lower extremity stabilization
+0QH	femoral shaft stabilization
+0QJ	look at the ankle joint
+0QJ	check the lower leg
+0QJ	evaluate the bone structure
+0QJ	inspected the heel area
+0QJ	examined the foot bones
+0QN	lumbar vertebra manipulation
+0QN	sacral decompression
+0QN	pelvic bone realignment
+0QN	femoral shaft mobilization
+0QN	acetabular joint release
+0QP	fixation device removal from lumbar spine
+0QP	external fixation device take down from sacrum
+0QP	tissue substitute exchange in pelvic region
+0QP	synthetic implant removal from knee joint
+0QP	nonautologous graft placement in lower extremity
+0QQ	fracture repair in the lower back
+0QQ	sacrum bone condition
+0QQ	pelvic bone injury treatment
+0QQ	acetabulum damage correction
+0QQ	femur shaft stabilization procedure
+0QR	patient had a lumbar spine surgery
+0QR	sacrum replacement procedure performed
+0QR	patient underwent pelvic bone repair
+0QR	femoral shaft fracture repair surgery
+0QR	patella replacement surgery for knee pain
+0QR	tibia and fibula surgery for ankle instability
+0QR	patient received tarsal bone reconstruction
+0QR	metatarsal bone surgery for foot pain
+0QR	toe phalanx injury repair
+0QS	lumbar spine stabilization
+0QS	vertebral body stabilization
+0QS	sacral stabilization procedure
+0QS	pelvic bone stabilization
+0QS	acetabular stabilization surgery
+0QS	upper femur stabilization
+0QS	lower femur stabilization
+0QS	patellar realignment
+0QT	pelvic bone resection
+0QT	acetabular resection
+0QT	femoral shaft resection
+0QT	patellar resection
+0QT	tibial resection
+0QT	fibular resection
+0QT	lower extremity resection
+0QU	lumbar spine stabilization
+0QU	sacral bone reinforcement
+0QU	pelvic bone realignment
+0QU	acetabulum repair
+0QU	femur lengthening
+0QU	tibia strengthening
+0QU	fibula support
+0QU	tarsal alignment
+0QU	metatarsal correction
+0QU	phalanx adjustment
+0QW	fixation device revision
+0QW	tissue substitute replacement
+0QW	synthetic material adjustment
+0QW	nonautologous tissue repair
+0QW	internal fixation device modification
+0R2	upper joint adjustment
+0R2	joint maintenance procedure
+0R2	fluid management in the shoulder area
+0R2	elbow joint care and maintenance
+0R2	shoulder joint cleaning and flushing
+0R5	joint destruction procedure
+0R5	cervical spine surgery
+0R5	vertebral disc removal
+0R5	shoulder joint repair
+0R5	elbow joint reconstruction
+0R9	joint drainage procedure
+0R9	cervical spine drainage
+0R9	vertebral disc drainage
+0R9	temporomandibular joint issue
+0R9	shoulder joint pain relief
+0R9	elbow joint treatment
+0R9	wrist joint evaluation
+0R9	carpal tunnel release
+0RB	joint removal procedure
+0RB	cervical spine surgery
+0RB	vertebral disc excision
+0RB	temporomandibular joint repair
+0RB	shoulder surgery
+0RB	elbow surgery
+0RB	wrist surgery
+0RC	cervical spine procedure
+0RC	spine surgery
+0RC	disc removal from neck
+0RC	joint cleaning
+0RC	removal of tissue from shoulder area
+0RG	joint fusion procedure
+0RG	spine surgery
+0RG	vertebral column repair
+0RG	cervical spine stabilization
+0RG	fusion of multiple joints
+0RH	cervical spine procedure
+0RH	upper cervical joint insertion
+0RH	spinal stabilization device placement in neck
+0RJ	joint inspection
+0RJ	vertebral disc inspection
+0RJ	spine inspection
+0RJ	temporomandibular joint evaluation
+0RJ	shoulder evaluation
+0RN	joint release procedure
+0RN	vertebral disc manipulation
+0RN	cervical spine stabilization
+0RN	temporomandibular joint adjustment
+0RN	shoulder joint mobilization
+0RN	elbow joint therapy
+0RN	wrist joint treatment
+0RN	carpal tunnel release alternative
+0RP	joint cleaning procedure occipital-cervical joint
+0RP	device removal procedure cervical spine
+0RP	surgical decompression occipital-cervical joint
+0RP	tissue substitute removal occipital-cervical joint
+0RP	spacer removal occipital-cervical joint
+0RQ	joint repair
+0RQ	vertebral disc repair
+0RQ	shoulder joint repair
+0RQ	elbow joint repair
+0RQ	wrist joint repair
+0RR	cervical spine repair
+0RR	joint fusion surgery
+0RR	spinal reconstruction
+0RR	upper limb replacement
+0RR	orthopedic surgery on the neck
+0RS	joint realignment procedure
+0RS	cervical spine stabilization
+0RS	upper extremity joint repair
+0RS	temporomandibular joint adjustment
+0RS	shoulder girdle realignment
+0RS	elbow and wrist joint stabilization
+0RS	carpal tunnel release alternative
+0RT	joint removal procedure
+0RT	disc excision surgery
+0RT	vertebral disc resection
+0RT	shoulder joint repair
+0RT	wrist joint reconstruction
+0RU	cervical spine stabilization
+0RU	vertebral disc support
+0RU	joint replacement procedure
+0RU	spinal alignment correction
+0RU	temporomandibular joint repair
+0RW	joint revision procedure
+0RW	cervical spine surgery
+0RW	vertebral joint repair
+0RW	spinal fusion procedure
+0RW	tissue substitute revision
+0S2	joint adjustment procedure
+0S2	lower extremity repair
+0S2	joint fluid management
+0S2	lower joint intervention
+0S2	articular space treatment
+0S5	joint damage lumbar
+0S5	disc rupture lumbosacral
+0S5	sacroiliac pain relief
+0S5	knee joint repair
+0S5	ankle instability correction
+0S9	joint drainage procedure performed on lumbar spine
+0S9	disc puncture and irrigation in the lumbosacral region
+0S9	sacroiliac joint fluid removal
+0S9	knee joint aspiration for infection
+0S9	ankle joint drainage and cleaning
+0SB	remove disc from lumbar spine
+0SB	joint removal on lower back
+0SB	sacroiliac joint repair
+0SB	knee cap surgery
+0SB	ankle ligament reconstruction
+0SC	joint cleaning procedure
+0SC	disc removal process
+0SC	lower extremity debridement
+0SC	sacroiliac joint treatment
+0SC	knee joint maintenance
+0SG	lower back surgery
+0SG	spine stabilization
+0SG	vertebral column repair
+0SG	joint fusion procedure
+0SG	lumbar spine surgery with posterior approach
+0SJ	look at the joints
+0SJ	check the discs
+0SJ	evaluate the sacroiliac area
+0SJ	examine the knee
+0SJ	inspect the ankle
+0SN	joint release procedure performed on lumbar spine
+0SN	release of lumbar disc space
+0SN	sacroiliac joint manipulation
+0SN	hip joint mobilization
+0SN	knee joint injection
+0SN	ankle joint evaluation
+0SN	tarsal joint alignment
+0SP	lumbar spine surgery
+0SP	joint replacement procedure
+0SP	spinal fusion removal
+0SP	tissue substitute removal from lumbar joint
+0SP	spacer removal from lumbar joint
+0SQ	lumbosacral disc repair
+0SQ	sacroiliac joint issue
+0SQ	knee joint repair
+0SQ	ankle joint problem
+0SQ	foot joint repair
+0SR	hip joint replacement
+0SR	knee joint replacement
+0SR	ankle joint replacement
+0SR	lower back surgery
+0SR	sacroiliac joint repair
+0SS	joint reposition procedure
+0SS	sacroiliac joint manipulation
+0SS	lumbar spine stabilization
+0SS	hip joint realignment
+0SS	ankle joint mobilization
+0ST	lower back surgery
+0ST	joint removal procedure
+0ST	sacroiliac joint repair
+0ST	ankle surgery
+0ST	foot surgery
+0SU	hip joint supplement
+0SU	knee joint repair with patellar surface
+0SU	ankle joint fusion
+0SU	tarsal joint repair
+0SU	metatarsal-phalangeal joint repair
+0SU	toe phalangeal joint repair
+0SU	femoral surface hip joint liner placement
+0SW	lumbosacral joint revision
+0SW	sacroiliac joint revision
+0SW	hip joint revision
+0SW	knee joint revision
+0SW	ankle joint revision
+0T1	right kidney bypass
+0T1	kidney bypass procedure
+0T1	urinary tract bypass surgery
+0T1	left kidney pelvis bypass
+0T2	insert new kidney drainage system
+0T2	replace old ureter catheter
+0T2	update bladder irrigation protocol
+0T2	reconfigure urethra drainage pathway
+0T5	kidney removal
+0T5	renal procedure
+0T5	bladder demolition
+0T5	urethral excision
+0T5	pelvic kidney destruction
+0T7	kidney pelvis expansion
+0T7	urinary tract dilation
+0T7	right kidney access
+0T7	left ureter widening
+0T7	bladder relaxation
+0T7	natural opening procedure
+0T7	endoscopic procedure right kidney
+0T7	bilateral ureter treatment
+0T7	urethra widening procedure
+0T8	kidney surgery on one side
+0T8	surgical procedure for the kidneys
+0T8	removal of a kidney
+0T8	kidney tissue removal
+0T8	surgery for the urinary tract
+0T9	kidney function assessment
+0T9	urine collection device placement
+0T9	nephrostomy tube insertion
+0T9	urinary catheterization
+0T9	bladder irrigation procedure
+0TB	kidney removal
+0TB	urinary tract surgery
+0TB	bladder operation
+0TB	ureteral excision
+0TB	kidney pelvis removal
+0TC	kidney surgery
+0TC	urinary tract cleaning
+0TC	surgical intervention for kidney issue
+0TC	removal of kidney tissue
+0TC	right kidney treatment
+0TD	kidney removal procedure
+0TD	nephrectomy right side
+0TD	surgical procedure for right kidney
+0TD	removal of right kidney tissue
+0TD	right kidney surgical intervention
+0TF	right kidney issues
+0TF	kidney stone removal
+0TF	urinary tract problem
+0TF	bladder surgery complications
+0TF	endoscopic procedure on ureter
+0TH	kidney procedure
+0TH	urinary tract insertion
+0TH	bladder implant
+0TH	ureter catheterization
+0TH	catheter placement in kidney
+0TJ	kidney function test
+0TJ	urine analysis
+0TJ	cystoscopic examination of the bladder
+0TJ	urinary system evaluation
+0TJ	renal function assessment
+0TL	urinary tract issue
+0TL	lower urinary tract problem
+0TL	catheter management
+0TL	urine flow obstruction
+0TM	kidney reattachement
+0TM	pelvic kidney repair
+0TM	ureter reattachment procedure
+0TM	bladder reconnection surgery
+0TM	urological reconstruction
+0TN	kidney release procedure
+0TN	urinary tract release
+0TN	nephrectomy
+0TN	kidney surgery
+0TN	urinary system release
+0TN	bladder release surgery
+0TN	ureteral release
+0TN	kidney pelvis release
+0TN	bladder neck release procedure
+0TP	removal of device from kidney
+0TP	removal of monitoring device from ureter
+0TP	removal of infusion device from bladder
+0TP	removal of autologous tissue substitute from ureter
+0TP	removal of extraluminal device from bladder
+0TP	removal of intraluminal device from urethra
+0TQ	kidney repair
+0TQ	urinary tract surgery
+0TQ	bladder reconstruction
+0TQ	ureteral repair
+0TQ	open urinary system procedure
+0TR	kidney replacement surgery
+0TR	ureter repair procedure
+0TR	bladder transplant
+0TR	urinary tract reconstruction
+0TR	pelvic organ replacement
+0TS	kidney repositioning procedure
+0TS	ureteral repositioning
+0TS	bladder repositioning for stone removal
+0TS	urinary tract repositioning
+0TS	surgical reposition of kidney pelvis
+0TT	kidney surgery right side
+0TT	right kidney removal procedure
+0TT	kidney transplant rejection
+0TT	kidney stone removal procedure
+0TT	left kidney surgery
+0TU	urinary tract augmentation procedure
+0TU	kidney pelvis repair
+0TU	ureteral reconstruction
+0TU	bladder enhancement surgery
+0TU	augmentation of urinary system structures
+0TV	kidney pelvis narrowing
+0TV	urinary tract obstruction
+0TV	pelvic surgery
+0TV	ureteral blockage
+0TV	bladder outlet obstruction
+0TV	surgical intervention right kidney
+0TV	right side kidney issue
+0TV	natural opening procedure
+0TV	endoscopic procedure right ureter
+0TW	kidney revision procedure
+0TW	urinary system revision
+0TW	renal drainage modification
+0TW	monitoring device adjustment in kidney
+0TW	infusion device update in kidney
+0TW	autologous tissue substitute revision in kidney
+0TW	extraluminal device modification in kidney
+0TW	intraluminal device adjustment in kidney
+0TW	synthetic substitute revision in kidney
+0TW	nonautologous tissue substitute modification in kidney
+0TX	insertion bladder ureter
+0TX	bladder ureter connection
+0TY	right kidney transplant procedure
+0TY	kidney transplant surgery details
+0TY	allogeneic kidney donation
+0TY	left kidney transplant information
+0TY	kidney transplantation process
+0U1	reconnect fallopian tubes
+0U1	anastomose fallopian tubes
+0U1	repair fallopian tube connection
+0U1	fallopian tube reattachment procedure
+0U1	anastomosis of fallopian tubes to uterine region
+0U2	ovarian drainage procedure
+0U2	fallopian tube intervention
+0U2	uterine cervical drainage
+0U2	vaginal drainage catheterization
+0U2	cervical pessary placement
+0U5	ovary removal
+0U5	uterine surgery
+0U5	fallopian tube destruction
+0U5	endometrial ablation
+0U5	cervical procedure
+0U7	tube dilation procedure
+0U7	uterine opening treatment
+0U7	cervical widening
+0U7	vaginal stretching test
+0U7	hymenal inspection
+0U8	ovarian procedure performed today
+0U8	uterine support release
+0U8	hymenal ablation
+0U8	ovarian cyst removal procedure
+0U8	hymenotomy for pain relief
+0U9	ovarian drainage procedure
+0U9	fallopian tube drainage
+0U9	uterine drainage
+0U9	cervical drainage
+0U9	vaginal drainage procedure
+0UB	ovarian tissue removal
+0UB	female reproductive organ surgery
+0UB	ovarian excision procedure
+0UB	uterine operation with ovarian involvement
+0UB	surgical removal of ovary or uterus
+0UC	ovary removal procedure
+0UC	fallopian tube surgery
+0UC	uterine tissue removal
+0UC	endometrial biopsy via natural opening
+0UC	cervical sample collection
+0UD	ovarian extraction procedure
+0UD	uterine tissue removal via natural opening
+0UD	open ovarian biopsy
+0UD	percutaneous ovarian aspiration
+0UF	tubal fragmentation procedure
+0UF	fallopian tube clipping
+0UF	uterine cavity reduction
+0UF	endoscopic tubal ligation
+0UF	right fallopian tube dilation
+0UH	ovary procedure
+0UH	fallopian tube treatment
+0UH	uterine insertion
+0UH	cervical implantation
+0UH	vaginal device placement
+0UJ	gynecological exam
+0UJ	pelvic examination with biopsy
+0UJ	ovarian cyst removal procedure
+0UJ	fallopian tube evaluation during surgery
+0UJ	uterine and cervical assessment during delivery
+0UL	female reproductive system issue
+0UL	ovary problem
+0UL	uterus surgery
+0UL	fallopian tube blockage
+0UM	ovarian repair
+0UM	fallopian tube reconnection
+0UM	uterine reconstruction
+0UM	ovarian reattachment surgery
+0UM	reimplantation of fallopian tube and ovary
+0UN	ovarian release procedure
+0UN	fallopian tube release
+0UN	uterine manipulation
+0UN	vaginal release
+0UN	cervical dilation
+0UP	ovary procedure
+0UP	fallopian tube removal
+0UP	uterus and cervix cleaning
+0UP	vagina procedure
+0UP	cervical device removal
+0UQ	ovary repair via natural opening
+0UQ	fallopian tube repair via artificial opening
+0UQ	uterine support structure repair
+0UQ	natural opening ovary surgery
+0UQ	endoscopic fallopian tube repair
+0US	ovary repositioning procedure
+0US	fallopian tube repositioning
+0US	uterine structure repositioning
+0US	bilateral ovary repositioning
+0US	uterus repositioning via natural opening
+0UT	ovary surgery
+0UT	ovarian procedure
+0UT	female reproductive system surgery
+0UT	ovarian excision
+0UT	uterine resection
+0UU	right side fallopian tube issue
+0UU	natural opening for fallopian tube repair
+0UU	endoscopic surgery on right fallopian tube
+0UU	left fallopian tube support without opening
+0UU	bilateral fallopian tube problems
+0UV	cervical examination results
+0UV	cervical biopsy report discussion
+0UV	cervical stenosis management plan
+0UV	cervical canal evaluation and management
+0UV	uterine cervix assessment and correction
+0UW	ovary procedure revision
+0UW	fallopian tube revision
+0UW	other device revision in fallopian tube
+0UW	autologous tissue substitute revision in fallopian tube
+0UW	synthetic substitute revision in fallopian tube
+0UY	ovary transplant
+0UY	ovarian tissue transfer
+0UY	female reproductive organ replacement
+0UY	right ovary implant
+0UY	left ovary grafting
+0V1	vas deferens issue
+0V1	epididymis problem
+0V1	vas deferens surgery
+0V1	bypass procedure right side
+0V1	vas deferens connection issue
+0V2	prostate drainage
+0V2	seminal vesicle irrigation
+0V2	scrotal procedure
+0V2	testicular manipulation
+0V2	vas deferens catheterization
+0V5	prostate surgery
+0V5	seminal vesicle removal
+0V5	testicular procedure
+0V5	spermatic cord destruction
+0V5	epididymal ablation
+0V7	vas deference examination
+0V7	right-sided vas deference evaluation
+0V7	left-sided vas deference assessment
+0V7	vas deference function test
+0V7	vas deference diameter measurement
+0V9	prostate relief
+0V9	seminal vesicle drainage procedure
+0V9	scrotal fluid removal
+0V9	testicular drainage
+0V9	spermatic cord irrigation
+0VB	prostate gland removal
+0VB	seminal vesicle surgery
+0VB	scrotal procedure
+0VB	testicular excision via endoscopy
+0VB	spermatic cord ligation
+0VB	epididymal surgery
+0VB	vas deferens blockage
+0VC	surgical removal of prostate issue
+0VC	prostate procedure performed
+0VC	removal of prostate gland material
+0VC	prostate tissue extraction
+0VH	prostate procedure
+0VH	seminal vesicle treatment
+0VH	testicular implantation
+0VH	vas deferens procedure
+0VH	penile device insertion
+0VJ	genital area check
+0VJ	male reproductive system assessment
+0VJ	scrotal evaluation for infection
+0VJ	prostate gland health check
+0VJ	testicular examination during routine physical
+0VL	blockage of sperm duct
+0VL	testicular issue
+0VL	male fertility problem
+0VL	sperm delivery blockage
+0VM	tunica vaginalis repair
+0VM	testicular reconstruction
+0VM	spermatic cord repair
+0VM	scrotal reattachment procedure
+0VM	penile reconstruction surgery
+0VN	prostate surgery
+0VN	seminal vesicle release procedure
+0VN	testicular surgery
+0VN	spermatic cord release
+0VN	epididymis release procedure
+0VP	prostate surgery
+0VP	seminal vesicle removal
+0VP	urinary tract procedure
+0VP	prostate drainage system removal
+0VP	testicular procedure
+0VQ	prostate repair via natural opening
+0VQ	seminal vesicle repair on the right side
+0VQ	testicular repair on the left
+0VQ	spermatic cord repair with endoscopic approach
+0VQ	epididymis repair with endoscopic technique
+0VR	testicular replacement procedure
+0VR	male reproductive system implantation
+0VR	testicular surgery for replacement
+0VR	surgery to replace testes
+0VR	testicular implantation procedure
+0VS	testicular repositioning procedure
+0VS	spermatic cord relocation
+0VS	testicular orifice management
+0VS	bilateral testicular adjustment
+0VS	spermatic cord endoscopic approach
+0VT	prostate surgery
+0VT	male reproductive system procedure
+0VT	prostate gland removal
+0VT	surgical procedure on prostate
+0VT	endoscopic prostate surgery
+0VT	seminal vesicle resection
+0VT	testicular tissue removal
+0VT	scrotal surgery
+0VT	tunica vaginalis excision
+0VU	endoscopic procedure on seminal vesicle
+0VU	natural orifice endoscopic surgery on scrotum
+0VU	testicular augmentation via natural opening
+0VU	spermatic cord supplementation via endoscopy
+0VW	prostate procedure
+0VW	seminal vesicle revision
+0VW	tissue substitute placement
+0VW	synthetic material removal
+0VW	nonautologous tissue replacement
+0VX	urethral stricture repair
+0VX	penile reconstruction surgery
+0VX	foreskin revision procedure
+0VX	penal anatomy correction
+0VX	prepuce adjustment
+0VY	scrotum surgery
+0VY	testicular transplant
+0VY	genital organ replacement
+0VY	allogeneic scrotal transfer
+0W0	facial structure adjustment
+0W0	jawline realignment
+0W0	neck contouring procedure
+0W0	chest wall reshaping
+0W0	abdominal wall flattening technique
+0W1	cranial cavity bypass
+0W1	pleural cavity bypass
+0W1	peritoneal cavity bypass
+0W1	pelvic cavity bypass
+0W2	drainage procedure in head area
+0W2	device placement in cranial region
+0W2	facial device insertion
+0W2	jaw drainage system
+0W2	neck cavity device placement
+0W2	chest wall drainage procedure
+0W2	pleural cavity drainage device
+0W2	pericardial space device placement
+0W2	abdominal wall drainage procedure
+0W2	retroperitoneal device placement
+0W3	bleeding in the head area
+0W3	control of bleeding in a specific location
+0W3	stoppage of bleeding in the face
+0W3	controlled bleeding in the throat
+0W3	upper jaw injury with bleeding
+0W3	lower jaw injury with bleeding
+0W3	neck injury with bleeding controlled
+0W3	chest wall injury with bleeding
+0W3	right pleural cavity injury with bleeding
+0W3	left pleural cavity injury with bleeding
+0W3	mediastinum injury with bleeding
+0W3	pericardial cavity injury with bleeding
+0W3	abdominal wall injury with bleeding
+0W3	pelvic cavity injury with bleeding
+0W3	upper back injury with bleeding controlled
+0W3	male perineal injury with bleeding
+0W3	female perineal injury with bleeding
+0W4	genital reconfiguration procedure
+0W4	perineal orifice modification
+0W4	male genital area reconstruction
+0W4	female urethral opening placement
+0W8	perineal surgery
+0W8	vulval procedure
+0W8	perineal incision
+0W8	surgical intervention in the perineum
+0W9	drainage procedure performed on head area
+0W9	cavity drainage operation
+0W9	facial cavity drainage
+0W9	oral and throat drainage
+0W9	upper jaw drainage
+0W9	lower jaw drainage
+0W9	neck drainage procedure
+0W9	pleural cavity drainage right side
+0W9	pleural cavity drainage left side
+0WB	facial tissue removal
+0WB	oral cavity surgery
+0WB	jawbone removal
+0WB	neck dissection procedure
+0WB	abdominal wall incision with stoma
+0WC	removal of matter from oral cavity
+0WC	excision of upper jaw tissue
+0WC	lower jaw surgery
+0WC	pleural space evacuation
+0WC	mediastinal debridement procedure
+0WC	pericardial irrigation and aspiration
+0WC	peritoneal cavity dissection
+0WF	tissue disruption in the chest
+0WF	gastrointestinal tract damage
+0WF	respiratory tract shattering
+0WF	genital tract destruction
+0WF	peritoneal cavity incision
+0WH	insertion of device into head
+0WH	infusion therapy for cranial cavity
+0WH	facial injection procedure
+0WH	oral and throat infusion
+0WH	upper jaw injection
+0WH	lower jaw injection
+0WH	neck injection
+0WH	chest wall injection
+0WH	pleural cavity insertion
+0WH	mediastinum implant
+0WJ	general head and neck exam
+0WJ	cavity survey
+0WJ	facial evaluation
+0WJ	oral cavity check
+0WJ	jaw alignment assessment
+0WJ	neck and chest wall examination
+0WJ	pleural cavity evaluation
+0WJ	chest wall and mediastinum inspection
+0WJ	abdominal wall and peritoneal cavity examination
+0WM	facial repair
+0WM	jaw reconstruction
+0WM	lower jaw reattachment
+0WM	neck tissue repair
+0WM	chest wall closure
+0WM	abdominal wall repair
+0WM	upper back reattachment
+0WM	perineal tissue repair
+0WP	drainage device removal from head area
+0WP	radioactive element extraction from facial region
+0WP	infusion device removal from upper jaw
+0WP	autologous tissue substitute removal from lower jaw
+0WP	synthetic substitute removal from right pleural cavity
+0WQ	facial reconstruction
+0WQ	oral cavity revision
+0WQ	jaw fracture management
+0WQ	neck incision and drainage
+0WQ	chest wall closure
+0WQ	abdominal wall reinforcement
+0WQ	perineal wound care
+0WU	facial contours
+0WU	jawline definition
+0WU	neck and chest area lifting
+0WU	perineal support
+0WY	facial transplant procedure
+0WY	allogeneic facial tissue transfer
+0WY	transplantation of face tissue
+0X0	shoulder adjustment
+0X0	upper extremity modification
+0X0	arm alteration procedure
+0X0	elbow region treatment
+0X0	wrist area intervention
+0X2	upper extremity drainage issue
+0X2	arm change procedure details
+0X2	right upper arm treatment
+0X2	left arm drainage system adjustment
+0X3	arm bleeding
+0X3	upper arm bleeding
+0X3	wrist area bleeding
+0X3	shoulder region bleeding
+0X6	upper extremity detachment procedure
+0X6	forequarter surgical removal
+0X6	shoulder region surgery
+0X6	arm detachment procedure
+0X6	elbow area surgery
+0X6	hand partial detachment
+0X6	thumb detachment procedure
+0X6	finger detachment surgery
+0X9	shoulder drainage procedure
+0X9	upper extremity drainage
+0X9	arm drainage surgery
+0X9	elbow region drainage
+0XB	removed tissue from right shoulder area
+0XB	surgical removal of axillary tissue
+0XB	upper extremity excision procedure
+0XB	removal of upper arm tissue
+0XB	elbow region excision
+0XB	lower arm excision
+0XB	wrist area excision
+0XB	hand surgery
+0XH	shoulder injection
+0XH	upper extremity procedure
+0XH	arm implantation
+0XH	elbow insertion
+0XJ	shoulder exam
+0XJ	upper extremity evaluation
+0XJ	arm inspection
+0XJ	elbow check
+0XJ	wrist assessment
+0XM	shoulder reattachment
+0XM	arm reattachment
+0XM	upper extremity repair
+0XM	elbow region repair
+0XM	wrist region repair
+0XP	removed device from right arm
+0XP	cleared radioactive material from upper limb
+0XP	disconnected infusion tube from right hand
+0XP	excised autograft from upper arm
+0XP	removed foreign body from upper extremity
+0XP	extracted non-biological implant from left arm
+0XQ	shoulder repair
+0XQ	upper arm surgery
+0XQ	elbow region treatment
+0XQ	arm repair
+0XQ	hand rehabilitation
+0XR	thumb reconstruction with toe material
+0XR	toe transfer to thumb area
+0XR	autologous toe grafting procedure
+0XR	thumb replacement with toe substitute
+0XR	toe tissue used for thumb repair
+0XU	shoulder region procedure
+0XU	upper extremity repair
+0XU	arm supplement procedure
+0XU	elbow region treatment
+0XU	hand surgery
+0XU	finger supplement procedure
+0XU	axilla examination
+0XU	upper arm reconstruction
+0XU	wrist region evaluation
+0XU	extremity modification
+0XW	drainage issue in right arm
+0XW	infusion problem in right arm
+0XW	tissue substitute revision in right arm
+0XW	synthetic material replacement in right arm
+0XW	nonautologous tissue repair in right arm
+0XX	index finger transfer
+0XX	thumb reconstruction
+0XX	finger transfer procedure
+0XX	reconstruction of left thumb with finger transfer
+0XY	hand surgery
+0XY	upper extremity transplant
+0XY	allograft procedure
+0XY	grafting of the hand
+0XY	hand reconstruction
+0Y0	recontouring of the buttock area
+0Y0	adjustment of the lower extremity contour
+0Y0	reshaping of the upper leg surface
+0Y0	realignment of the knee joint
+0Y0	redesign of the lower leg shape
+0Y2	drainage issue in lower leg
+0Y2	catheter placement in lower extremities
+0Y2	lower extremity fluid management
+0Y2	device placement in lower limb
+0Y3	lower extremity bleeding
+0Y3	femoral region bleeding
+0Y3	inguinal region bleeding
+0Y3	upper leg bleeding
+0Y3	knee region bleeding
+0Y6	removal of hindquarter tissue
+0Y6	femoral region surgery
+0Y6	upper leg procedure
+0Y6	knee area operation
+0Y6	lower leg detachment
+0Y6	foot amputation
+0Y6	toe removal
+0Y9	drainage procedure performed on the right side
+0Y9	lower extremity drainage catheter placement
+0Y9	inguinal region abscess drainage
+0Y9	femoral region fluid collection management
+0Y9	lower leg drainage catheter insertion
+0YB	removal of buttock tissue
+0YB	inguinal region surgery
+0YB	femoral region excision
+0YB	lower extremity amputation
+0YB	upper leg removal
+0YB	knee region procedure
+0YB	lower leg excision
+0YH	lower extremity radioactive element procedure
+0YH	buttock infusion device placement
+0YH	inguinal region implantation of other device
+0YH	femoral region radioactive element injection
+0YH	knee region other device placement
+0YJ	look at the buttock area
+0YJ	check the inguinal crease
+0YJ	examine the femoral triangle
+0YJ	evaluate the lower extremity
+0YJ	inspect the groin area
+0YJ	assess the leg region
+0YJ	review the knee joint
+0YJ	conduct a bilateral inspection
+0YM	repair of lower extremity
+0YM	reconstruction of hindquarter
+0YM	surgical repair of inguinal region
+0YM	femoral region reconstruction
+0YM	lower extremity reattachment procedure
+0YM	upper leg reconstruction
+0YM	knee region repair
+0YM	lower leg reattachment
+0YP	remove device from leg
+0YP	take out implant from lower limb
+0YP	clear out foreign material from right leg
+0YP	discontinue treatment in right leg
+0YP	remove foreign object from left leg
+0YQ	surgery on lower leg
+0YQ	inguinal hernia repair
+0YQ	femoral artery repair
+0YQ	lower extremity surgery
+0YQ	upper leg surgery
+0YQ	knee surgery
+0YQ	ankle surgery
+0YQ	foot surgery
+0YQ	toe surgery
+0YU	right buttock repair
+0YU	inguinal hernia repair
+0YU	femoral region surgery
+0YU	lower extremity reconstruction
+0YU	bilateral inguinal region surgery
+0YW	lower extremity revision
+0YW	device revision in lower extremity
+0YW	tissue substitute revision in lower extremity
+0YW	synthetic material revision in lower extremity
+0YW	revision of unknown device in lower extremity
+102	change procedure in products of conception
+102	monitoring electrode placement in pregnancy
+102	uterine change procedure
+102	electrode placement during delivery
+102	fetal monitoring procedure
+109	fluid drainage from the uterus
+109	amniotic fluid management
+109	fetal fluid collection
+109	uterine fluid evacuation
+109	products of conception drainage
+10A	pregnancy termination
+10A	uterine evacuation
+10A	spontaneous abortion
+10A	early pregnancy loss
+10D	placental issues
+10D	delivery complications
+10D	manual removal of retained tissue
+10D	extraction procedure performed
+10D	forceps delivery with placental involvement
+10E	baby born today
+10E	new arrival to the hospital
+10E	fetus delivered safely
+10E	normal labor and delivery process
+10H	products of conception monitoring
+10H	electrode placement in uterus
+10H	uterine cavity insertion
+10H	fetal monitoring procedure
+10J	review of fetal development
+10J	uterine examination
+10J	fetal viability assessment
+10J	evaluation of pregnancy status
+10J	placental inspection
+10P	removal of fetal monitoring equipment
+10P	removal of placental device
+10Q	surgical repair of fetal anomalies
+10Q	repair of fetal cardiovascular system
+10Q	fetal lymphatic repair
+10Q	correction of fetal eye defect
+10Q	endoscopic repair of fetal sinus
+10Q	surgical intervention for fetal respiratory issues
+10Q	gastrointestinal repair in fetus
+10S	assisted delivery
+10S	chorioamnionitis management
+10S	uterine evacuation procedure
+10S	abdominal cavity examination
+10T	ectopic pregnancy removal
+10T	uterine foreign body extraction
+10T	gestational sac evacuation
+10T	surgical intervention for ectopic implantation
+10Y	nervous system transplant in pregnancy
+10Y	cardiovascular system graft in fetus
+10Y	lymphatic system replacement during pregnancy
+10Y	eye transplant for fetal development
+10Y	ear, nose and sinus transplant in utero
+2W0	apply head immobilization
+2W0	head and neck stabilization
+2W0	upper extremity support
+2W0	inguinal region immobilization
+2W0	pressure management on the back
+2W1	pressure on head
+2W1	facial compression
+2W1	neck support
+2W1	abdominal compression
+2W1	chest compression
+2W1	back support
+2W1	inguinal region compression
+2W1	upper arm compression
+2W1	lower arm compression
+2W2	dressing for wound care
+2W2	bandaged area treatment
+2W2	wound management with dressing
+2W2	dressing change procedure
+2W2	application of topical dressing
+2W3	head immobilization for injury
+2W3	face support for fracture
+2W3	neck stabilization for trauma
+2W3	abdominal wall fixation for surgery
+2W3	chest wall immobilization for disease
+2W4	material used for packing
+2W4	packing procedure
+2W4	placement of material
+2W4	packing technique
+2W4	material placement
+2W5	head immobilization
+2W5	upper extremity support
+2W5	neck stabilization
+2W5	arm immobilization
+2W5	lower limb support
+2W6	head traction
+2W6	facial traction
+2W6	neck traction
+2W6	abdominal wall traction
+2W6	chest wall traction
+2W6	back traction
+2W6	inguinal region traction
+2W6	upper limb traction
+2Y0	pack oral cavity
+2Y0	nasal packing procedure
+2Y0	ear canal preparation
+2Y0	anorectal packing technique
+2Y0	genital tract packing method
+2Y4	placement in nasal cavity
+2Y4	insertion into ear canal
+2Y4	proctoscopic packing
+2Y4	genital area packing for prolapse
+2Y4	urethral catheter placement
+2Y5	cleaning out nasal passage
+2Y5	earwax removal procedure
+2Y5	packing material extraction
+2Y5	anorectal cleansing
+2Y5	genital tract debridement
+302	transfusion of hematopoietic stem cells into a vein
+302	transfusion of cryoprecipitated fibrinogen complex into a vein
+302	transfusion of bone marrow into a vein
+302	transfusion of allogeneic bone marrow into a vein
+3C1	device cleaning procedure
+3C1	fluid replacement therapy
+3C1	catheter maintenance routine
+3C1	saline flush of indwelling device
+3E0	delivery of therapeutic substance into skin and mucous membranes
+3E0	infusion of diagnostic substance into skin and mucous membranes
+3E0	intradermal introduction of nutritional substance
+3E0	subcutaneous injection of electrolytic and water balance substance
+3E0	peripheral vein administration of antineoplastic
+3E1	nasal cleansing with irrigating solution
+3E1	ear cleaning with ear drops
+3E1	eye bath with saline solution
+3E1	gastrointestinal tract flushing with sodium bicarbonate solution
+3E1	urinary tract flushing with preservative-free saline
+3E1	peritoneal cavity irrigation for dialysis
+4A0	brain function test results are normal
+4A0	electroencephalogram shows no abnormalities
+4A0	pressure in the brain is within range
+4A0	heart rate and rhythm are stable
+4A0	respiratory system function is intact
+4A1	monitoring of nervous system activity
+4A1	brain wave monitoring during surgery
+4A1	nerve conductivity monitoring
+4A1	cardiac function monitoring during procedure
+4A1	arterial flow monitoring in peripheral areas
+4A1	venous pressure monitoring in central veins
+4A1	lymphatic flow monitoring
+4B0	nervous system monitoring
+4B0	stimulator activity reading
+4B0	pulse monitoring device
+4B0	heart rate and rhythm check
+4B0	breathing pattern assessment
+5A0	cardiac support
+5A0	oxygen therapy assistance
+5A0	ventilation aid
+5A0	respiratory support system
+5A0	heart-lung machine use
+5A1	cardiac output monitoring
+5A1	pacing rate adjustment
+5A1	cardiac pacing support
+5A1	oxygen therapy management
+5A1	ventilatory support
+5A1	bile filtration assistance
+5A1	urinary diversion management
+5A1	respiratory support needs
+5A2	pacemaker adjustment
+5A2	cardiac rhythm monitoring
+5A2	single-lead pacing therapy
+5A2	cardiac rhythm optimization
+6A0	patient's blood gases are being monitored closely
+6A0	oxygen levels are being maintained within normal range
+6A0	patient's respiratory status is being closely observed
+6A0	atmospheric conditions are being carefully managed
+6A0	systemic medications are being administered
+6A1	patient underwent treatment for circulatory issues
+6A1	physiological response monitored and adjusted
+6A1	circulatory status improved with treatment
+6A1	treatment administered to improve circulation
+6A1	patient's condition responded to therapy
+6A2	electromagnetic therapy was used
+6A2	the patient received an electromagnetic treatment
+6A2	electromagnetic stimulation of the urinary tract
+6A2	electromagnetic therapy for central nervous system disorders
+6A2	electromagnetic treatment applied to multiple sites
+6A3	hyperthermia treatment administered
+6A3	temperature regulation strategy employed
+6A3	body temperature management approach used
+6A3	patient's physiological state evaluated after hyperthermic therapy
+6A3	systemic effects of hyperthermia observed
+6A4	temperature regulation strategy employed
+6A4	hypothermic conditions maintained during surgery
+6A4	urinary temperature management technique used
+6A5	blood component processing for transfusion
+6A5	cell separation procedure
+6A5	coagulation factor replacement therapy
+6A5	plasma volume expansion treatment
+6A5	stem cell collection and cryopreservation
+6A6	patient receiving light therapy
+6A6	circulatory system stimulation with phototherapy
+6A6	multiple site light treatment applied
+6A6	phototherapy used to regulate body temperature
+6A7	single vessel treatment with ultrasound
+6A7	heart rate monitoring with ultrasound
+6A7	peripheral circulation assessment using ultrasound
+6A7	vascular health evaluation with ultrasound
+6A7	multiple vessel treatment with ultrasound
+6A8	patient received phototherapy for various conditions
+6A8	ultraviolet light used in treatment regimen
+6A8	systemic therapy with unknown agent administered intravenously
+6A8	photodynamic therapy performed on skin lesions (no specific details)
+6A8	skin exposure to ultraviolet light as part of overall treatment plan
+6A9	patient received shock wave treatment
+6A9	musculoskeletal issues were addressed with shock wave therapy
+6A9	shock wave therapy was used to treat a musculoskeletal condition
+6A9	the physician administered shock wave therapy for musculoskeletal pain relief
+6A9	multiple shock wave treatments were given
+6AB	donor organ perfusion therapy for critical care
+6AB	circulatory support using donor organ perfusion protocol
+6AB	perfusion of single donor organ system in emergency setting
+6AB	physiological support with donor organ perfusion for critically ill patient
+7W0	head and neck manipulation
+7W0	cervical spine mobilization
+7W0	thoracic region osteopathy
+7W0	lumbar region massage
+7W0	sacrum and pelvis alignment
+8C0	fluid collection procedure
+8C0	blood draw from central line
+8C0	cerebrospinal fluid tap
+8C0	indwelling device access
+8C0	central venous catheter sampling
+8E0	examination of the musculoskeletal system
+8E0	fluorescence guided procedure of the female reproductive system
+8E0	robotic assisted procedure of the trunk region
+8E0	computer assisted procedure of the upper extremity
+8E0	computer assisted procedure of the lower extremity
+9WB	head and neck chiropractic adjustment
+9WB	chiropractic treatment for cervical spine issues
+9WB	manipulation therapy for thoracic pain
+9WB	lower back chiropractic care
+9WB	pelvic chiropractic manipulation
+B00	spine x-ray
+B00	cervical spine radiograph
+B00	lumbar spine imaging
+B00	contrast-enhanced cervical spine radiograph
+B00	cervical spine study
+B01	spine imaging with contrast
+B01	fluoroscopy of spine
+B01	contrast-enhanced cervical spine imaging
+B02	the patient had a ct scan
+B02	ct scan results are as follows
+B02	the scan showed no abnormalities
+B02	the patient received a low osmol contrast
+B02	the doctor ordered a ct scan of the brain
+B03	brain scan for tumor
+B03	mr imaging of brain structures
+B03	contrast-enhanced brain scan
+B03	brain mr imaging for research purposes
+B03	spinal cord imaging for herniated disc
+B03	mr imaging of brain function
+B03	brain scan for stroke
+B04	looked at the brain with a special machine
+B04	checked the spinal cord for abnormalities
+B04	used sound waves to see inside the brain
+B04	examined the spine with high-frequency sound
+B20	chest x-ray
+B20	heart scan
+B20	cardiac imaging study
+B20	vascular imaging
+B20	radiographic evaluation
+B21	coronary angiography
+B21	heart imaging study
+B21	vascular examination
+B21	cardiac catheterization procedure
+B21	arterial imaging test
+B22	coronary artery imaging
+B22	heart ct scan
+B22	cardiovascular imaging study
+B22	chest xray with contrast
+B22	coronary angiogram
+B23	coronary artery imaging study
+B23	heart mr scan with contrast
+B23	cardiac imaging procedure
+B23	vascular imaging test
+B23	heart function evaluation
+B24	coronary ultrasound
+B24	heart echo
+B24	vascular imaging
+B24	pericardial ultrasound
+B24	cardiac ultrasound
+B30	aorta imaging
+B30	arterial imaging
+B30	vascular study
+B30	cervico-cerebral arch imaging
+B30	intracranial artery x-ray
+B30	pulmonary artery x-ray
+B30	chest radiograph
+B31	fluoroscopy of thoracic aorta
+B31	fluoroscopy of upper extremity arteries
+B31	fluoroscopy of common carotid arteries
+B31	fluoroscopy of vertebral arteries
+B31	fluoroscopy of brachiocephalic artery
+B32	i need to review the ct scans for the patient's aorta
+B32	can you check if the ct scan was done on the right or left side?
+B32	the radiologist wants me to look at the ct images of the carotid arteries
+B32	we need to verify the contrast used in the ct scan
+B32	i'm looking for any signs of pulmonary embolism in the ct images
+B33	mri scan of the neck
+B33	artery imaging study
+B33	contrast-enhanced mri
+B33	upper extremity blood flow imaging
+B33	cervical spine imaging
+B34	carotid ultrasound
+B34	artery imaging
+B34	vascular study
+B34	upper extremity ultrasound
+B34	chest aorta scan
+B40	abdominal aorta imaging
+B40	hepatic artery study
+B40	splenic artery examination
+B40	mesenteric artery evaluation
+B40	renal artery assessment
+B41	abdominal aorta imaging
+B41	hepatic artery imaging
+B41	splenic artery imaging
+B41	superior mesenteric artery imaging
+B41	inferior mesenteric artery imaging
+B41	renal artery imaging
+B41	fluoroscopy of abdominal aorta
+B42	patient had a ct scan
+B42	the patient was imaged with a ct scanner
+B42	a ct scan was performed on the patient's abdomen
+B42	the patient received a ct scan
+B42	a ct scan was done on the patient's lower extremities
+B43	abdominal aorta imaging
+B43	magnetic resonance imaging of abdominal aortic aneurysm
+B43	superior mesenteric artery imaging
+B43	renal artery imaging
+B43	pelvic artery imaging
+B44	abdominal aorta ultrasound
+B44	superior mesenteric artery scan
+B44	renal artery imaging
+B44	lower extremity vascular exam
+B44	intra-abdominal artery evaluation
+B50	vein imaging study
+B50	contrast-enhanced venogram
+B50	venous system examination
+B50	radiographic evaluation of veins
+B50	venous structure assessment
+B51	epidural vein study
+B51	cerebral vein imaging
+B51	venous imaging
+B51	intracranial sinus imaging
+B51	jugular vein study
+B52	intracranial sinus imaging
+B52	venous imaging of the brain
+B52	superior vena cava imaging
+B52	inferior vena cava imaging
+B52	pelvic iliac vein imaging
+B52	renal vein imaging
+B52	pulmonary vein imaging
+B52	portal and splanchnic vein imaging
+B53	vein imaging study
+B53	magnetic resonance imaging vascular study
+B53	contrast-enhanced cerebral angiography
+B53	cerebral venous congestion assessment
+B53	venous system evaluation
+B54	vein ultrasound
+B54	jugular vein imaging
+B54	upper extremity vein ultrasound
+B54	lower extremity vein ultrasound
+B54	renal vein ultrasound
+B70	abdominal imaging study
+B70	lymph node assessment using x-ray
+B70	contrast-enhanced neck examination
+B70	upper limb radiograph for lymphatic evaluation
+B70	radiographic survey of the abdomen and pelvis
+B80	x-ray of the eyes
+B80	eye exam with x-ray
+B80	radiographic evaluation of the eyes
+B80	contrast-enhanced x-ray of the lacrimal ducts
+B80	bilateral eye x-ray with contrast
+B82	ct scan of the eye
+B82	eye imaging study
+B82	tomography of the eye
+B82	contrast-enhanced eye scan
+B82	low-osolar eye scan
+B83	mri scan of the eye
+B83	eye imaging study
+B83	bilateral mri scan
+B83	contrast-enhanced eye imaging
+B83	unenhanced eye mri
+B84	eyes ultrasound
+B84	eye exam with ultrasound
+B84	ultrasound of the eye area
+B90	radiation exposure assessment
+B90	contrast agent administration
+B90	imaging studies
+B90	parotid gland evaluation
+B90	oral cavity examination
+B91	examine pharynx and epiglottis
+B91	look at larynx
+B91	fluoroscopic examination of throat
+B92	patient had a ct scan of the ear
+B92	the patient underwent a ct scan
+B92	ct scan of the sinuses
+B92	the patient received a contrast enhanced ct scan
+B92	low osmol contrast ct scan of the throat
+B93	magnetic resonance imaging of the head
+B93	mr imaging of the ear
+B93	contrast-enhanced magnetic resonance imaging
+B93	paranasal sinus imaging
+B93	magnetic resonance imaging of the neck
+B93	head and neck mr imaging
+B93	ear and temporal bone imaging
+BB0	take a look at the x-ray of the right lung
+BB0	contrast radiograph of the bronchi
+BB0	bilateral chest x-ray with contrast
+BB0	airway imaging study
+BB1	looked at the lungs with a special camera
+BB1	used x-ray to check the diaphragm
+BB1	took pictures of the trachea and bronchi
+BB1	examined the chest cavity with fluoroscopy
+BB1	looked at the airways with a fluoroscope
+BB2	patient had a ct scan of the chest
+BB2	the patient underwent a ct scan
+BB2	computerized tomography was used to image the lungs
+BB2	ct scan of the tracheobronchial tree
+BB2	low osmol contrast ct scan of the bilateral lungs
+BB3	respiratory system imaging
+BB3	magnetic resonance imaging of the lungs
+BB3	lung imaging study
+BB3	chest x-ray alternative
+BB4	chest ultrasound
+BB4	lung imaging with ultrasound
+BB4	ultrasound of the thorax
+BB4	abdomen and chest ultrasound
+BD1	look at the esophagus
+BD1	stomach x-ray
+BD1	small bowel examination
+BD1	colonoscopy prep
+BD1	gi series with contrast
+BD2	colon imaging study
+BD2	ct scan of abdomen
+BD2	unenhanced and enhanced abdominal scan
+BD2	contrast-enhanced abdominal scan
+BD2	abdominal scan with low osmol contrast
+BD4	gut ultrasound
+BD4	stomach scan
+BD4	abdominal imaging
+BD4	small intestine imaging
+BD4	colonography
+BF0	radiograph of bile ducts
+BF0	gallbladder imaging
+BF0	hepatobiliary system radiograph
+BF1	bile duct imaging
+BF1	gallbladder study
+BF1	liver scan with contrast
+BF1	pancreatic duct visualization
+BF1	fluoroscopic examination of the biliary system
+BF2	liver scan
+BF2	abdominal ct
+BF2	body scan
+BF2	pancreatic imaging
+BF2	hepatobiliary scan
+BF3	liver scan with contrast
+BF3	abdominal mr imaging
+BF3	spleen imaging with liver
+BF3	mr imaging of the abdomen
+BF3	contrast-enhanced abdominal imaging
+BF4	abdominal ultrasound
+BF4	general liver exam
+BF4	gallbladder evaluation
+BF4	ultrasound of the abdomen
+BF5	fluoroscein imaging of liver
+BF5	indocyanine green dye imaging of gallbladder
+BF5	liver and spleen imaging with fluoroscein
+BG2	bilateral adrenal gland imaging
+BG2	adrenal gland scan
+BG2	parathyroid gland evaluation
+BG2	thyroid gland examination
+BG2	contrast-enhanced ct scan of bilateral adrenal glands
+BG3	look at adrenal glands on mri
+BG3	parathyroid scan results
+BG3	thyroid imaging study
+BG3	magnetic resonance imaging of neck structures
+BG3	contrast-enhanced imaging of parathyroid region
+BG4	adrenal gland imaging
+BG4	thyroid gland scan results
+BG4	parathyroid gland evaluation
+BG4	gland ultrasonography
+BG4	endocrine system assessment
+BH0	x-ray of the breast
+BH0	breast imaging
+BH0	radiographic examination of the breast
+BH0	mammogram with contrast
+BH0	breast radiology
+BH3	breast imaging study
+BH3	contrast-enhanced breast imaging
+BH3	breast imaging with contrast
+BH3	mr imaging of breasts
+BH3	magnetic resonance imaging of body parts
+BH4	breast imaging study
+BH4	extremity ultrasound
+BH4	wall assessment
+BH4	neck evaluation
+BL3	mri of the arm
+BL3	soft tissue assessment with mri
+BL3	connective tissue evaluation on mri
+BL3	mri of the hip joint
+BL4	knee sonogram
+BL4	shoulder ultrasound test
+BL4	connective tissue imaging study
+BN0	radiographic evaluation of facial bones
+BN0	temporomandibular joint imaging
+BN0	skull radiograph for diagnosis
+BN0	bilateral orbit radiography
+BN0	mandible assessment with radiography
+BN0	right orbit x-ray
+BN0	left orbit x-ray
+BN0	facial bone x-ray
+BN1	right side of the jaw x-ray
+BN1	left side of the jaw x-ray
+BN1	both sides of the jaw x-ray
+BN1	fluoroscopic examination of the jaw
+BN1	x-ray of the temporomandibular joint area
+BN2	skull imaging
+BN2	bilateral orbit imaging
+BN2	facial bone imaging
+BN2	mandible imaging
+BN2	temporal bone imaging
+BN3	mri of jaw joint area
+BN3	temporomandibular joint scan details
+BN3	bilateral tmj imaging report
+BP0	radiograph of joint
+BP0	shoulder x-ray with contrast
+BP0	clavicle x-ray
+BP0	scapula x-ray
+BP0	upper arm x-ray
+BP0	elbow x-ray with contrast
+BP0	wrist x-ray with contrast
+BP0	hand and finger x-ray with contrast
+BP1	shoulder x-ray
+BP1	clavicle x-ray
+BP1	scapula x-ray
+BP1	upper arm x-ray
+BP1	elbow x-ray
+BP1	forearm x-ray
+BP1	wrist x-ray
+BP1	finger x-ray
+BP1	rib x-ray
+BP2	upper arm ct scan
+BP2	elbow ct scan
+BP2	forearm ct scan
+BP2	wrist ct scan
+BP2	hand and wrist ct scan
+BP2	finger ct scan
+BP2	upper extremity ct scan
+BP3	shoulder xray
+BP3	hand mri
+BP3	arm scan
+BP3	elbow exam
+BP3	wrist check
+BP4	right shoulder imaging
+BP4	shoulder ultrasound
+BP4	elbow densitometry test
+BP4	hand joint assessment
+BP4	wrist evaluation
+BQ0	hip x-ray
+BQ0	knee x-ray
+BQ0	ankle x-ray
+BQ0	foot x-ray
+BQ0	toe x-ray
+BQ1	right hip x-ray
+BQ1	left hip x-ray
+BQ1	femur x-ray
+BQ1	knee x-ray
+BQ1	lower leg x-ray
+BQ1	ankle x-ray
+BQ1	foot x-ray
+BQ1	toe x-ray
+BQ1	patella x-ray
+BQ2	lower extremity ct scan
+BQ2	tibia and fibula ct scan
+BQ2	foot and toe joint ct scan
+BQ2	patella ct scan
+BQ2	lower leg ct scan
+BQ3	hip mr
+BQ3	femur mr
+BQ3	knee mr
+BQ3	lower leg mr
+BQ3	ankle mr
+BQ4	hip imaging
+BQ4	joint assessment
+BQ4	musculoskeletal ultrasound
+BR0	cervical spine x-ray
+BR0	disc imaging
+BR0	spine x-ray
+BR0	facet joint x-ray
+BR0	thoracic spine x-ray
+BR1	cervical spine imaging
+BR1	disc imaging
+BR1	spine fluoroscopy
+BR1	facet joint examination
+BR1	thoracic spine evaluation
+BR2	cervical spine imaging
+BR2	thoracic spine ct scan
+BR2	lumbar spine ct scan
+BR2	pelvic ct scan
+BR2	ct scan of sacrum and coccyx
+BR3	cervical spine imaging
+BR3	disc mri
+BR3	spine mri
+BR3	magnetic resonance imaging of the thoracic spine
+BR3	lumbar spine evaluation
+BR4	spine imaging procedure
+BR4	sonic examination of the spine
+BR4	ultrasound evaluation of the cervical region
+BR4	cervical spine assessment using sound waves
+BT0	radiograph of the urinary tract
+BT0	bladder imaging study
+BT0	kidney x-ray with contrast
+BT0	urinary system radiograph
+BT0	radiographic evaluation of the genitourinary tract
+BT1	urinary system imaging
+BT1	contrast study
+BT1	kidney function test
+BT1	bladder examination
+BT1	renal scan
+BT2	bladder imaging study
+BT2	kidney scan with contrast
+BT2	ct scan of the urinary tract
+BT2	renal imaging
+BT2	computerized tomography scan of the kidneys
+BT3	contrast-enhanced mri
+BT3	unenhanced mri scan
+BT3	magnetic resonance imaging
+BT3	kidney function test
+BT3	bladder examination
+BT4	kidney imaging study
+BT4	urinary tract ultrasound
+BT4	bladder and kidney exam
+BU0	fallopian tube imaging
+BU0	uterine radiography
+BU0	radiographic examination of female reproductive system
+BU0	contrast-enhanced fallopian tube x-ray
+BU0	low-dose fallopian tube xray
+BU1	fallopian tube examination
+BU1	tube fluoroscopy
+BU1	right side imaging
+BU1	uterus and tubes fluoroscopy
+BU1	fluo of uterus and fallopian tubes
+BU3	magnetic resonance imaging of uterus and ovaries
+BU3	ovarian mr imaging for diagnosis
+BU3	right ovarian mr imaging procedure
+BV0	epididymis imaging
+BV0	corpora cavernosa x-ray
+BV0	testicular ultrasound
+BV0	prostate scan
+BV0	genital tract imaging
+BV1	corpora cavernosa study
+BV1	contrast-enhanced corpora cavernosa imaging
+BV1	imaging of corpora cavernosa
+BV1	vascular imaging using contrast
+BV1	fluoroscopy of vasa vasorum
+BV2	ct scan of the pelvic area
+BV2	abdominal imaging with contrast
+BV2	pelvic ct scan without contrast
+BV2	contrast-enhanced abdominal imaging
+BV3	magnetic resonance scan of the penis
+BV3	mr imaging of the scrotum
+BV3	testicular ultrasound
+BV3	genital imaging with contrast
+BV3	penile or testicular examination using imaging
+BV4	sonogram of scrotum
+BV4	ultrasound test for prostate issues
+BV4	penis examination with sound waves
+BV4	scrotal imaging study
+BW0	imaging of the abdomen
+BW0	chest x-ray
+BW0	bone scan
+BW0	extremity imaging
+BW0	body scan
+BW1	imaging of abdomen and pelvis
+BW1	abdomen imaging
+BW1	pelvic imaging
+BW1	head and neck x-ray
+BW1	lower extremity x-ray
+BW1	upper extremity x-ray
+BW1	contrast enhanced abdominal imaging
+BW1	fluoroscopic examination of abdomen
+BW2	ct scan of abdominal region
+BW2	abdominal imaging study
+BW2	body ct scan
+BW2	head and neck ct scan
+BW2	pelvic region ct scan
+BW3	magnetic resonance scan of abdomen
+BW3	abdominal mri
+BW3	mri of chest
+BW3	head mri
+BW3	neck mri
+BW3	pelvic region mri
+BW3	retroperitoneum mri
+BW3	brachial plexus mri
+BW4	abdominal scan
+BW4	pelvic ultrasound with abdominal component
+BW4	neck and chest ultrasound
+BW4	abdomen and pelvis examination
+BW5	fluorescent imaging of the body
+BW5	autofluorescence study
+BW5	bacterial culture scan
+BY3	magnetic resonance scan
+BY3	mr imaging of fetus
+BY3	fetal anatomy study
+BY3	whole body mr imaging
+BY3	pregnancy ultrasound follow up
+BY4	fetal heart rate monitoring during pregnancy
+BY4	ultrasound scan of the abdomen
+BY4	pregnancy ultrasound checkup
+BY4	gestational age assessment via ultrasound
+BY4	ultrasound evaluation of fetal development
+C01	nuclear medicine brain study
+C01	csf imaging with unknown radionuclide
+C01	brain scan with unknown tracer
+C02	brain imaging study
+C02	nuclear medicine scan results
+C02	tomographic imaging of brain region
+C02	central nervous system imaging procedure
+C02	cerebrospinal fluid analysis
+C03	pet scan brain review
+C03	brain imaging procedure
+C03	c-11 pet scan results
+C05	nuclear medicine test of the brain
+C05	nonimaging probe of the central nervous system
+C05	radionuclide study of the brain
+C21	heart scan
+C21	myocardial imaging
+C21	nuclear heart test
+C21	cardiac imaging study
+C22	imaging of the heart with a new medication
+C22	study of the myocardium with a different tracer
+C22	tomographic imaging of the cardiac chambers
+C22	evaluation of cardiac function with tomo imaging
+C22	imaging of the heart without contrast
+C23	patient had a pet scan for heart issues
+C23	heart pet scan using unknown radionuclide
+C23	myocardial imaging with fluorine 18 used in diagnosis
+C25	nuclear stress test of the heart
+C25	heart scan with radionuclide
+C25	cardiac nuclear medicine study
+C51	vein imaging with radioactive material
+C51	lower extremity scan
+C51	upper extremity scan
+C51	nuclear medicine study of veins
+C71	nuclear scan of bone marrow
+C71	spleen imaging with radioactive material
+C71	blood flow study using indium
+C71	lymph node imaging in head and neck
+C71	pelvic lymph node imaging
+C71	head lymph node imaging
+C71	neck lymph node imaging
+C71	trunk lymph node imaging
+C71	upper extremity lymph node imaging
+C71	lower extremity lymph node imaging
+C72	nuclear medicine study of spleen
+C72	imaging of lymph nodes with technetium
+C72	radionuclide scan of bone marrow
+C72	tomographic imaging of body cavity
+C72	nuclear medicine imaging of soft tissue
+C75	lymphatic system imaging
+C75	nuclear medicine study of lymph nodes
+C75	scan of pelvic area
+C75	nuclear medicine imaging of body
+C75	technetium 99m scan of abdomen
+C76	blood test with radioactive material
+C76	scan of blood sample using a special isotope
+C76	examine blood for nuclear activity
+C76	assess blood with a specific type of radiation
+C81	planar imaging of eye structures
+C81	nuclear medicine imaging of eye
+C81	planar imaging of bilateral eye regions
+C81	technetium 99m scan of eye
+C81	other radionuclide imaging of eyes
+C91	planar nuclear medicine imaging study
+C91	salivary gland imaging procedure
+C91	nuclear medicine scan of ear, nose, mouth and throat
+C91	technetium 99m test of salivary glands
+C91	oral cavity imaging with radionuclide
+CB1	lung scan with radioactive material
+CB1	nuclear imaging of lung tissue
+CB1	bronchial ventilation study with tracer
+CB1	chest x-ray with radioactive dye
+CB2	lung function test results
+CB2	chest x-ray findings
+CB2	pulmonary ventilation assessment
+CB2	airway patency evaluation
+CB2	nuclear medicine scan of unknown origin
+CB3	patient had pet scan for cancer treatment
+CB3	fluorine 18 injection for diagnostic purposes
+CB3	lungs imaged with pet scan for respiratory issues
+CB3	patient's respiratory system scanned with pet imaging
+CB3	pet scan of lung tissue and airways for diagnosis
+CD1	upper gi scan today
+CD1	nuclear medicine imaging of the stomach
+CD1	gut scan with technetium 99m
+CD1	in-111 imaging of the small intestine
+CD1	planar imaging of the upper gi tract for study
+CD2	nuclear medicine scan of the gut
+CD2	imaging of the digestive system with a radioactive tracer
+CD2	gastrointestinal tract imaging with a small amount of radiation
+CF1	planar nuclear medicine imaging of liver and gallbladder
+CF1	tc-99m liver scan
+CF1	hepatobiliary system imaging with tc-99m
+CF1	gallbladder and liver scan
+CF1	nuclear medicine imaging of hepatobiliary system
+CF2	tomo scan of liver
+CF2	gallbladder imaging without contrast
+CF2	liver and spleen imaging
+CF2	abdominal tomo scan
+CF2	hepatic artery imaging
+CG1	nuclear scan of the glands
+CG1	imaging study of the endocrine system
+CG1	parathyroid function test
+CG1	thyroid hormone level check
+CG1	adrenal gland function test
+CG2	parathyroid scan
+CG2	tomo nuclear medicine imaging
+CG2	parathyroid gland imaging
+CG2	endocrine system imaging
+CG2	tomographic imaging
+CG4	thyroid function test results
+CG4	nuclear medicine study of the endocrine system
+CG4	thyroid gland imaging with technetium
+CG4	radiopharmaceutical uptake in thyroid region
+CG4	nonimaging nuclear medicine study of the thyroid
+CH1	breast scan
+CH1	nuclear medicine imaging study
+CH1	breast tissue evaluation
+CH1	mammogram alternative
+CH1	breast imaging procedure
+CH2	tomographic imaging of the breast
+CH2	nuclear medicine scan of the breast
+CH2	breast imaging study
+CH2	tomo scan of the breasts
+CH2	nuclear medicine tomography of the skin and breast
+CP1	nuclear medicine scan of upper body
+CP1	technetium scan of musculoskeletal system
+CP1	radiation imaging of joints
+CP1	nuclear study of limbs
+CP1	planar imaging of torso
+CP2	tomographic imaging of the body
+CP2	nuclear medicine scan of the joints
+CP2	full-body scan with technetium
+CP2	nuclear medicine imaging of the bones
+CP2	musculoskeletal system imaging
+CP5	nuclear medicine test for musculoskeletal issues
+CP5	nonimaging probe of upper extremities
+CP5	musculoskeletal system imaging with radionuclide
+CT1	nuclear medicine study of kidneys
+CT1	imaging of urinary tract
+CT1	bladder imaging with radioactive material
+CT1	planar imaging of abdominal organs
+CT1	urinary system function test
+CT2	tomogram of kidneys, ureters, and bladder
+CT2	imaging of urinary system using different radionuclide
+CT2	study of kidney function with nuclear medicine scan
+CT2	tomo imaging of lower urinary tract
+CT2	nuclear medicine imaging of urinary tract
+CT6	kidney scan
+CT6	urinary system imaging
+CT6	nuclear medicine kidney assessment (results not specified)
+CT6	technetium 99m renal uptake
+CT6	bladder and ureter function test
+CV1	nuclear medicine scan of male reproductive system
+CV1	planar imaging of male reproductive organs
+CV1	testicular imaging with radionuclide
+CV1	male reproductive system imaging study
+CV1	nuclear medicine imaging of male reproductive tissue
+CW1	nuclear scan of abdomen
+CW1	abdominal imaging with radioactive material
+CW1	chest x-ray with radioactive tracer
+CW1	lower extremity imaging with fluorine 18
+CW1	pelvic region imaging with technetium 99m
+CW1	upper extremity imaging with thallium 201
+CW2	abdominal imaging using technetium 99m
+CW2	nuclear medicine scan of chest and abdomen
+CW2	tomographic imaging of abdominal region with various radionuclides
+CW2	lower extremity imaging with indium 111
+CW2	chest and neck imaging using fluorine 18
+CW3	pet scan of the abdomen
+CW3	whole body imaging for cancer detection
+CW3	full body pet study for diagnosis
+CW3	comprehensive whole body imaging modality
+CW3	body wide pet examination for research purposes
+CW5	nuclear probe of abdominal region
+CW5	technetium scan of the body
+CW5	indium imaging of the torso
+CW5	radionuclide study of the lower extremities
+CW5	nuclear medicine examination of the upper limbs
+CW7	nuclear medicine treatment abdominal symptoms
+CW7	chest pain relief medication
+CW7	thyroid hormone replacement therapy
+CW7	whole body scan results
+CW7	radioactive material disposal
+D00	brain radiation treatment
+D00	nervous system radiation therapy
+D00	photon beam radiation of nervous tissue
+D00	electronic radiation of the spine
+D00	radiation of peripheral nerves with photon beams
+D01	brachytherapy of the brain
+D01	low dose rate treatment of the spine
+D01	high dose rate radiation therapy
+D01	treatment of nerve damage with cesium 137
+D01	iridium 192 implantation
+D02	patient had radiation therapy
+D02	brain scan showed radiation exposure
+D02	nerve damage from radiation treatment
+D02	patient underwent photon radiation therapy
+D02	radiation therapy for brain pain relief
+D0Y	brain radiation treatment
+D0Y	nerve hyperthermia procedure
+D0Y	spinal cord irradiation
+D0Y	cerebral radiation therapy session
+D0Y	peripheral nerve ablation
+D22	radiation therapy for the heart
+D22	stereotactic radiation treatment of cardiac structures
+D22	photon radiation therapy to the heart's electrical pathways
+D70	radiation therapy for bone marrow
+D70	photons to thymus
+D70	spleen radiation treatment
+D70	neck lymph node radiation
+D70	axillary lymph node radiation
+D72	radiation therapy for bone health
+D72	treatment of the thymus gland
+D72	spleen radiation treatment for cancer
+D72	neck pain relief through radiation
+D72	axillary swelling treatment with radiation
+D72	thorax radiation therapy for cancer
+D72	abdominal radiation treatment for lymphoma
+D72	pelvis radiation therapy for bone health
+D7Y	heat treatment for bone marrow
+D7Y	radiation therapy for thymus
+D7Y	spleen heating
+D7Y	neck lymph node treatment
+D7Y	axillary lymph node treatment
+D7Y	thorax heat treatment
+D7Y	abdomen radiation
+D7Y	pelvis heat treatment
+D80	photon beam treatment of eye
+D80	eye photon therapy
+D80	low energy photon radiation to eye
+D80	electron therapy of eye
+D81	radiation therapy for eye cancer
+D81	brachytherapy treatment for eye disease
+D81	eye radiation therapy
+D81	low dose rate radiation therapy for eye
+D81	brachytherapy of eye area
+D82	radiosurgery procedure performed on eye
+D82	gamma beam treatment of eye area
+D82	particulate material used in radiosurgery of eye
+D8Y	eye examination results show radiation damage
+D8Y	radiation therapy for eye condition
+D8Y	eye care plan includes radiation treatment
+D8Y	radiation exposure assessment for eye safety
+D8Y	evaluation of radiation effects on eye tissue
+D90	radiation therapy of ear
+D90	photon beam treatment of nose
+D90	electronic radiation therapy of throat
+D90	heavy particle radiation of salivary glands
+D90	neutron capture treatment of sinuses
+D91	brachytherapy of ear
+D91	low dose rate brachytherapy of nose
+D91	brachytherapy of hard palate
+D91	high dose rate brachytherapy of mouth
+D91	brachytherapy of salivary glands
+D91	low dose rate brachytherapy of sinuses
+D92	radiation therapy for ear problems
+D92	targeted radiation treatment of nose cancer
+D92	precision radiation surgery of oral cavity
+D9Y	radiation treatment of ear
+D9Y	heat therapy for nose
+D9Y	treatment with plaque for mouth
+D9Y	therapy for tongue cancer
+D9Y	salivary gland treatment
+D9Y	sinus radiation therapy
+D9Y	hard palate radiation
+D9Y	soft palate treatment
+D9Y	larynx radiation therapy
+DB0	radiation therapy for respiratory issues
+DB0	photon beam treatment
+DB0	electronic radiation therapy
+DB0	lung irradiation
+DB0	tracheal radiation therapy
+DB1	radiation therapy for respiratory issues
+DB1	brachytherapy treatment plan
+DB1	low dose rate radiation therapy
+DB1	cesium 137 implantation
+DB1	iridium 192 radiation source
+DB2	patient had radiation therapy for respiratory issues
+DB2	stereotactic approach used in treatment plan
+DB2	radiation therapy targeting the chest area
+DB2	gamma beam technology used in treatment
+DB2	patient underwent radiosurgery with precise targeting
+DBY	radiation therapy to trachea
+DBY	heat treatment of bronchus
+DBY	wall irradiation of lung
+DBY	chest wall heat application
+DBY	diaphragmatic hyperthermia
+DD0	esophageal radiation therapy
+DD0	stomach radiation treatment
+DD0	duodenal radiation therapy
+DD0	jejunal radiation treatment
+DD0	ileal radiation therapy
+DD1	esophageal brachytherapy
+DD1	gastrointestinal radiation therapy
+DD1	radioactive implant esophagus
+DD1	stomach radiation treatment
+DD1	colon cancer radiation
+DD1	rectal radiation therapy
+DD2	targeted radiation therapy esophagus
+DD2	precision radiation treatment stomach
+DD2	focused radiation delivery duodenum
+DD2	targeted radiation therapy jejunum
+DD2	precise radiation application ileum
+DD2	radiation therapy colon
+DD2	radiation treatment rectum
+DDY	radiation treatment of esophageal cancer
+DDY	heat therapy for stomach pain
+DDY	internal radiation delivery system
+DDY	treatment with radiation source in duodenum
+DDY	radiation application for jejunum inflammation
+DDY	intraoperative radiation therapy for ileal disease
+DF0	liver treatment with radiation
+DF0	electronic stimulation of the abdomen
+DF0	photon therapy for digestive issues
+DF0	radiation therapy of the pancreas and liver
+DF0	treatment of bile ducts with electrons
+DF1	brachytherapy treatment for liver issues
+DF1	radioactive implant for gallbladder problems
+DF1	low dose rate radiation therapy for pancreas
+DF1	brachytherapy of bile ducts with cesium
+DF1	iridium 192 brachytherapy for pancreatic tumor
+DF2	radiosurgery for liver cancer
+DF2	treatment of gallbladder issues
+DF2	irradiation of bile ducts
+DF2	pancreatic tumor treatment options
+DF2	liver lesion treatment approach
+DFY	hepatic ablation
+DFY	liver treatment with heat
+DFY	radiation application to liver tissue
+DFY	gallbladder treatment with heat
+DFY	bile duct treatment with heat
+DFY	pancreatic ablation procedure
+DG0	pituitary gland radiation therapy
+DG0	endocrine system radiation treatment
+DG0	radiation therapy of adrenal glands
+DG0	thyroid gland radiation therapy with photons <1 mev
+DG0	parathyroid gland radiation therapy with photons 1 - 10 mev
+DG1	radiation therapy for pituitary gland
+DG1	brachytherapy procedure
+DG1	high dose radiation treatment
+DG1	low dose radiation therapy
+DG1	internal radiation source used in treatment
+DG2	patient received radiation therapy for thyroid condition
+DG2	stereotactic treatment of adrenal gland performed
+DG2	radiosurgery of parathyroid gland completed
+DG2	gamma beam therapy of pituitary gland initiated
+DG2	patient underwent radiosurgery for pituitary tumor
+DGY	pituitary gland treatment
+DGY	pineal body therapy
+DGY	adrenal gland stimulation
+DGY	thyroid gland irradiation
+DH0	skin radiation therapy
+DH0	beam radiation therapy
+DH0	photon therapy for skin conditions
+DH0	electronic beam therapy for skin lesions
+DH0	radiation treatment for skin cancers
+DHY	radiation therapy for skin cancer
+DHY	skin irradiation treatment
+DHY	external beam radiation therapy
+DHY	interstitial radiation therapy
+DHY	radiation exposure to skin
+DHY	heat treatment for skin conditions
+DHY	skin surface radiation application
+DM0	breast radiation therapy
+DM0	photon beam treatment for breast cancer
+DM0	left breast radiation oncology
+DM0	right breast radiation therapy session
+DM0	electron radiation for breast tumor
+DM1	breast radiation therapy
+DM1	brachytherapy for breast cancer
+DM1	left breast radiation treatment
+DM1	high dose rate breast brachytherapy
+DM1	palladium 103 implant left breast
+DM2	left breast imaging
+DM2	breast cancer treatment
+DM2	radiation therapy for breast cancer
+DM2	right breast examination results
+DM2	mammography of the breast
+DMY	radiation therapy for breast pain
+DMY	heat treatment for breast inflammation
+DMY	irradiation of breast tissue
+DP0	radiation therapy to skull
+DP0	maxilla irradiation
+DP0	mandible radiation treatment
+DP0	sternum photon beam
+DP0	rib radiation therapy
+DP0	humerus radiation
+DP0	radius/ulna radiation
+DP0	pelvic bone irradiation
+DP0	femur photon beam
+DP0	tibia/fibula radiation
+DPY	radiation therapy to skull region
+DPY	heat treatment for maxilla pain
+DPY	skin exposure to radiation
+DPY	treatment with localized heat
+DPY	radiation application to mandible area
+DT0	low dose radiation therapy
+DT0	photon therapy for kidney pain
+DT0	electrical stimulation of kidney muscles
+DT0	radiation treatment of urinary tract using photons
+DT0	neutron beam therapy for bladder cancer
+DT1	brachytherapy for kidney problems
+DT1	kidney treatment with radiation
+DT1	high dose rate therapy for kidney cancer
+DT1	radiation therapy for kidney stones
+DT1	brachytherapy for urinary tract issues
+DT2	kidney cancer treatment
+DT2	radiation therapy for kidney stone
+DT2	bladder cancer treatment options
+DT2	urinary system radiation therapy
+DT2	targeted radiation therapy for prostate (may be related to nearby kidney)
+DTY	radiation therapy for kidney cancer
+DTY	heat treatment of the urinary tract
+DTY	irrigation with radioactive solution
+DTY	tissue heating for bladder cancer
+DTY	urinary system radiation treatment
+DU0	radiation therapy for ovarian cancer
+DU0	ovarian photon treatment protocol
+DU0	photons to the uterus
+DU0	electron beam radiation of the cervix
+DU0	proton therapy for cervical cancer
+DU1	brachytherapy procedure
+DU1	ovary treatment
+DU1	cervical cancer radiation therapy
+DU1	uterine radiation treatment
+DU1	brachytherapy for cervical cancer
+DU2	radiation therapy for ovarian cancer
+DU2	cervical radiosurgery procedure
+DU2	uterine radiation treatment
+DU2	ovarian tumor treatment with radiation
+DU2	stereotactic radiation therapy for cervical cancer
+DU2	particulate radiation for uterine disease
+DUY	radiation therapy for cervical abnormality
+DUY	hyperthermia treatment for uterine disease
+DUY	iort radiation therapy of female reproductive system
+DV0	photon radiation therapy
+DV0	electron radiation treatment
+DV0	radiation therapy for prostate
+DV0	testicular radiation treatment
+DV0	beam radiation therapy
+DV1	prostate radiation therapy
+DV1	brachytherapy prostate procedure
+DV1	testicular implant placement
+DV1	radiation therapy for prostate cancer
+DV1	brachytherapy for testicular cancer
+DV2	prostate radiation therapy
+DV2	testicular radiation treatment
+DV2	radiosurgery for prostate issues
+DV2	gamma beam therapy for testicular problems
+DVY	radiation therapy for prostate issues
+DVY	heat treatment for testicular problems
+DVY	prostate radiation treatment details
+DVY	testicular radiation therapy information
+DW0	radiation therapy for head and neck cancer
+DW0	head and neck radiation treatment
+DW0	chest wall radiation therapy
+DW0	abdominal radiation treatment
+DW0	hemibody radiation therapy
+DW0	whole body radiation treatment
+DW0	pelvic region radiation therapy
+DW1	brachytherapy cranial cavity
+DW1	low dose rate brachytherapy head and neck
+DW1	high dose rate brachytherapy chest
+DW1	brachytherapy pelvic region
+DW1	low dose rate brachytherapy abdomen
+DW2	head and neck pain after radiation therapy
+DW2	chest x-ray shows radiation damage
+DW2	abdominal discomfort during treatment
+DW2	pelvic region pain management discussed
+DW2	radiation therapy side effects listed
+DWY	the patient is undergoing radiation therapy for their cancer
+DWY	the doctor is using a new type of radiation treatment
+DWY	the patient's tumor is being targeted with heat
+DWY	the radiation oncologist is working on a new approach
+DWY	the patient's body is being scanned for cancer
+F00	communication skills evaluation
+F00	speech assessment tool
+F00	auditory evaluation
+F00	language processing test
+F00	cognitive function assessment
+F01	muscle performance test
+F01	neurological system assessment
+F01	evaluation of muscle strength
+F01	functional assessment of head and neck region
+F01	muscle function evaluation
+F02	evaluation of neurological system head and neck function
+F02	assessment of motor development in upper body
+F02	respiratory evaluation of circulatory system
+F02	endurance testing of respiratory system
+F02	evaluation of adaptive abilities using assistive equipment
+F06	speech therapy session
+F06	language development program
+F06	communication skills training
+F06	cognitive rehabilitation program
+F06	neurological system assessment
+F07	range of motion exercises for neck pain
+F07	neurological system assessment head and neck assistive devices
+F07	prosthetic use in range of motion treatment upper back
+F07	muscle strengthening program head and neck
+F07	coordination therapy neurological system upper back
+F08	wound care in the head and neck area
+F08	management of wounds on the upper back and extremities
+F08	electrotherapy for musculoskeletal system pain
+F08	use of assistive devices for bathing and showering
+F08	prosthetic use for dressing and grooming
+F09	hearing test results review
+F09	audiovisual equipment evaluation
+F09	counseling on hearing health
+F09	auditory processing assessment and feedback
+F09	cerumen management treatment
+F0B	rehabilitation after hearing test
+F0B	cochlear implant programming and testing
+F0B	hearing aid fitting and adjustment
+F0B	audiological assessment and evaluation
+F0B	computer-based auditory training program
+F0C	postural control exercises for patients with neurological conditions
+F0C	whole body vibration therapy
+F0C	assistive technology for daily living
+F0C	prosthetic device fitting and training
+F0C	other assistive devices for daily use
+F0D	hearing aid evaluation
+F0D	audiometer testing
+F0D	sound field assessment
+F0D	communication system fitting
+F0D	voice analysis equipment use
+F0F	assistance with bathing/showering
+F0F	dressing assistance for daily living
+F0F	feeding and eating support
+F0F	grooming/personal hygiene aid
+F0F	bed mobility assistance
+F0F	transfer training using prosthetic devices
+F0F	wheelchair mobility training
+F0F	therapeutic exercise guidance
+F0F	airway clearance techniques instruction
+F0F	wound management education
+F13	hearing test
+F13	audiometer assessment
+F13	air conduction hearing assessment
+F13	bone conduction hearing assessment
+F13	pure tone audiometry assessment
+F14	hearing test results review
+F14	audiometric evaluation
+F14	sound field assessment
+F14	electroacoustic equipment check
+F14	hearing aid selection process
+F15	caloric irrigation test performed on patient
+F15	vestibular function assessment conducted on patient
+F15	balance evaluation completed on patient
+F15	dizziness testing done on patient's left ear
+F15	patient underwent rotational assessment to evaluate balance function
+GZ1	used psychological tests to identify behavioral patterns
+GZ1	evaluated patient's personality traits during therapy sessions
+GZ1	administered a range of psychological assessments for educational purposes
+GZ2	person in need of assistance
+GZ2	individual requiring support services
+GZ2	client with mental health concerns
+GZ2	person experiencing a mental health episode
+GZ3	medication management process
+GZ3	patient's medication schedule adjusted
+GZ5	talk to patient about feelings
+GZ5	therapist and patient discussion
+GZ5	psychotherapy approach explained
+GZ5	cognitive skills taught
+GZ5	supportive conversation with individual
+GZ6	counseling session focused on goal setting
+GZ6	patient discussed career options with counselor
+GZ6	counselor helped patient explore personal interests
+GZ7	family meeting
+GZ7	family support group
+GZ7	family bonding activity
+GZ7	psychological assessment of family relationships
+GZB	electroconvulsive therapy procedure
+GZB	seizure induction for mental health evaluation
+GZB	unilateral electroconvulsive therapy approach
+GZB	single seizure bilateral electroconvulsive treatment protocol
+GZC	patient is using biofeedback to cope with stress
+GZC	biofeedback training for emotional regulation
+GZC	patient's mental health treatment includes a biofeedback component
+GZC	biofeedback equipment used in therapy sessions
+GZF	patient felt more relaxed after listening to calming music
+GZF	hypnotic state induced for sleep study purposes only
+GZF	patient's anxiety decreased with deep breathing exercises
+GZF	hypnotherapy used as a complementary therapy for depression treatment
+GZG	patient received narcotic medication
+GZG	narcosis treatment administered to patient
+GZG	patient's narcotic levels monitored closely
+GZG	patient's narcotic dependence assessed regularly
+GZH	group discussion
+GZH	family meeting
+GZH	group support
+GZH	group education
+GZJ	exposure to bright lights
+GZJ	light treatment for seasonal affective disorder
+GZJ	bright light therapy for circadian rhythm regulation
+HZ2	substance abuse counseling session
+HZ2	medical monitoring of substance use
+HZ2	evaluation for substance abuse treatment needs
+HZ3	individual counseling for substance abuse treatment
+HZ3	cognitive-behavioral therapy for substance abuse treatment
+HZ3	12-step program for substance abuse treatment
+HZ3	interpersonal skills training for substance abuse treatment
+HZ3	vocational rehabilitation for substance abuse treatment
+HZ4	group discussion on substance abuse
+HZ4	behavioral group therapy for addiction
+HZ4	cognitive-behavioral approach to recovery
+HZ4	12-step program meeting
+HZ4	interpersonal group counseling
+HZ4	vocational rehabilitation group
+HZ4	psychoeducation session
+HZ4	motivational enhancement therapy
+HZ5	individual therapy for addiction counseling
+HZ5	behavioral modification for substance use disorder
+HZ5	cognitive restructuring for substance abuse issues
+HZ5	12-step program individual support
+HZ5	interpersonal skills training for substance abuse recovery
+HZ6	family therapy sessions
+HZ6	counseling for mental health issues
+HZ6	group therapy for relationships
+HZ6	family dynamics discussion
+HZ8	substance abuse treatment with medication assistance
+HZ8	opioid substitution therapy details
+HZ8	alcohol dependence treatment protocol
+HZ8	opioid addiction management strategy
+HZ8	medication regimen for substance use disorder
+HZ9	patient has opioid use disorder and is being treated with methadone
+HZ9	patient is taking naltrexone for pain management
+HZ9	patient received bupropion as part of their treatment plan
+HZ9	patient is prescribed clonidine for hypertension
+HZ9	patient is on a medication regimen including naloxone for overdose prevention
+X05	nerve ablation procedure
+X05	sympathetic nerve damage
+X05	ablation therapy for pain
+X05	neurological treatment option
+X0H	nerve stimulation procedure performed on vagus nerve
+X0H	neurostimulation device implanted near sphenopalatine ganglion
+X0H	insertion of stimulation lead into vagal nerve area
+X0Z	magnetic stimulation for cognitive enhancement
+X0Z	neurofeedback training session
+X0Z	brain-computer interface testing
+X0Z	cortical mapping procedure
+X0Z	new approach to neurological treatment
+X27	new technology procedure performed on pulmonary arteries
+X27	caval dilation with new technology device
+X27	subclavian vein dilation using new technology
+X27	axillary vein dilation with everolimus-eluting scaffold
+X27	tibial artery dilation for coronary artery disease
+X28	aortic valve treatment with bioprosthesis
+X28	aortic valve division and repair
+X28	existing aortic valve management
+X28	new technology aortic valve procedure
+X28	aortic valve laceration repair
+X2A	carotid artery filtration procedure using new device
+X2A	cerebral embolic protection during surgery
+X2A	new technology filter used for cerebral embolism prevention
+X2C	mechanical removal of debris
+X2C	computer-assisted procedure for vascular issue
+X2C	extraction of unwanted substance from artery or vein
+X2C	removal of material using mechanical means
+X2H	insertion of intraluminal device into inferior vena cava
+X2H	temporary phrenic nerve stimulation electrodes placement in superior vena cava
+X2H	temporary intraluminal device insertion into right femoral vein
+X2H	dual-chamber pacemaker implantation in right atrium
+X2J	echocardiogram evaluation
+X2J	cardiac assessment using computer-aided guidance
+X2J	transthoracic echocardiography for cardiac monitoring
+X2K	patient underwent vascular repair using tissue engineered scaffold
+X2K	conduit placement used in bypass procedure for radial artery
+X2K	thermal energy application during arterial grafting
+X2K	autologous cell seeded tissue used in bypass grafting
+X2K	femoral vein conduit placement as part of bypass procedure
+X2R	upper extremity bypass
+X2R	lower extremity grafting
+X2R	cardiovascular valve repair
+X2R	aortic arch reconstruction
+X2U	coronary artery bypass grafting with new material
+X2U	atrial valve replacement with innovative design
+X2V	coronary sinus procedure
+X2V	aortic restriction device placement
+X2V	new technology aortic stent
+X2V	descending thoracic aorta treatment
+X2V	branched synthetic substitute used in thoracic aorta
+X9H	inner ear device insertion
+X9H	temporary infusion device placement
+X9H	ear infusion procedure
+XD2	oxygen saturation monitoring during endoscopy
+XD2	gi tract oxygen level monitoring with new technology
+XD2	endoscopic placement of oxygen sensor
+XD2	real-time oxygen monitoring in the stomach or small intestine
+XDJ	looked at the intestines
+XDJ	examined the stomach lining
+XDJ	checked for ulcers
+XDJ	reviewed medical history
+XDP	gastrointestinal irrigation procedure
+XDP	endoscopic lower gi tract cleaning
+XDP	irrigation of stomach and duodenum via endoscope
+XDP	gi tract flushing during surgery
+XDP	lower gi tract lavage using single-use oversleeve
+XF5	liver tissue treatment using sound waves
+XF5	ablation procedure for liver tissue
+XF5	destruction of liver cells with ultrasound help
+XF5	right lobe liver tissue removal
+XF5	left lobe liver tissue destruction method
+XFJ	review of the biliary system
+XFJ	pancreatic duct evaluation
+XFJ	hepatobiliary inspection
+XFJ	examination of the ampulla of vater
+XFJ	common bile duct assessment
+XHH	insertion into subcutaneous tissue
+XHH	placement in chest area
+XHH	endocardiac pacing lead implantation
+XHH	chest wall implantation with new technology device
+XHR	autologous cell therapy for skin repair
+XHR	genetically engineered skin treatment
+XHR	new technology skin procedure
+XHR	upper extremity skin graft
+XKU	address upper spine discomfort with posterior approach
+XKU	stabilize lower back area with tethering technique
+XKU	strengthen spinal connections for better alignment
+XNH	insertion of internal fixation device
+XNH	internal fixation device placement
+XNH	tibial extension with motion sensors
+XNH	bone density specific thread and porosity pattern internal fix device
+XNH	right pelvic bone procedure
+XNR	tarsal bone replacement
+XNR	bone replacement procedure
+XNR	orthopedic surgery for bone repair
+XNR	new technology bone implantation
+XNS	lumbar spine stabilization
+XNS	vertebral realignment procedure
+XNS	growth rod insertion
+XNS	distraction device application
+XNS	upper extremity repositioning
+XNU	spinal supplement procedure
+XNU	lumbar vertebrae enhancement
+XNU	new tech spinal device insertion
+XRG	spine fusion procedure
+XRG	cervical spine surgery
+XRG	interbody fusion technique
+XRG	vertebral joint repair
+XRG	fusion of multiple lumbar vertebrae
+XRH	new technology spinal implant placement
+XRH	spinal stabilization procedure cervical area
+XRH	pedicle based carbon/peek device insertion thoracic region
+XRR	knee replacement procedure
+XRR	meniscus repair technique
+XRR	new technology application in knee surgery
+XRR	medial meniscus reconstruction method
+XRR	knee joint revision using new materials
+XT2	fluorescent urine test results
+XT2	renal function evaluation with pyrazine dye
+XT2	kidney monitoring with fluorescent agent
+XT2	pyrazine-based renal function study
+XU7	vaginal dilation with new approach
+XU7	natural opening vaginal expansion
+XU7	innovative vaginal dilation method
+XU7	vaginal widening with new technique
+XW0	new technology treatment administered subcutaneously
+XW0	delivery of new therapy via injection or infusion
+XW0	intradermal administration of new substance
+XW0	subcutaneous delivery of monoclonal antibody
+XW1	peripheral vein transfusion
+XW1	infusion of immunoglobulin product
+XW1	autologous stem cell therapy administration
+XW1	new technology treatment via peripheral vein
+XW1	peripheral vein infusion of immune globulin
+XWH	insertion procedure in the throat
+XWH	nerve stimulation device placement
+XWH	oral cavity intervention
+XWH	mouth-based neurostimulation implantation
+XXA	patient on ticagrelor therapy
+XXA	circulatory filtration device used
+XXA	new technology for blood pathogen removal
+XXE	non-invasive cerebral activity tracking
+XXE	blood flow analysis with computerized feedback
+XXE	electrical brain wave monitoring system
+XXE	cardiac output measurement and assessment
+XXE	pulmonary artery pressure evaluation
+XY0	extraction of vein graft material for analysis
+XY0	infusion of heparin into vein graft
+XY0	delivery of anticoagulant to vein graft site
+XY0	treatment of vein graft with antiseptic solution
+XY0	application of endothelial sealant to vein graft
+00X	nerve transfer procedure
+00X	olfactory nerve implantation
+00X	nerve transfer surgery
+00X	olfactory nerve reconstruction
+031	arterial bypass procedure
+031	upper limb bypass surgery
+031	innominate artery bypass
+031	upper arm bypass graft
+031	lower arm bypass procedure
+071	lymphatic bypass procedure
+071	head lymph node removal
+071	peripheral vein access
+071	central vein catheterization
+071	lymphatic drainage procedure
+0BP	removal of device from tracheobronchial tree
+0BP	removal of element from trachea
+0BP	removal of monitoring device from trachea
+0BP	removal of infusion device from lung
+0BP	removal of autologous tissue substitute from lung
+0PP	surgical removal of bone fragments
+0PP	debridement of sternum
+0PP	extraction of foreign object from ribcage
+0PP	osteotomy of multiple ribs
+0PP	disarticulation of cervical spine
+0SH	lumbar spine procedure
+0SH	vertebral joint injection
+0SH	spinal stabilization device placement
+0SH	lumbosacral joint insertion
+0SH	lower back surgery
+BU4	fallopian tube exam
+BU4	ovary scan
+BU4	ultrasound of pelvic area
+BU4	sonogram of reproductive organs
+BU4	bilateral ovarian ultrasound with contrast
+XX2	brain activity tracking
+XX2	blood flow monitoring system
+XX2	muscle pressure monitoring device
+XX2	glucose level tracking
+XX2	fluid balance monitoring
+08P	eye surgery
+08P	right eye procedure
+08P	drainage device removal
+08P	synthetic substitute removal
+08P	autologous tissue substitute removal
+0WW	head revision procedure
+0WW	cranial cavity repair
+0WW	facial device replacement
+0WW	upper jaw implant revision
+0WW	synthetic material reimplantation in mediastinum
+0WW	pleural cavity drainage system update
+0WW	neck tissue substitute revision
+0BW	tracheobronchial tree revision
+0BW	monitoring device revision
+0BW	infusion device revision
+0BW	autologous tissue substitute revision
+0BW	extraluminal device revision
+0BW	intraluminal device revision
+0BW	synthetic substitute revision
+0BW	nonautologous tissue substitute revision
+0BW	other device revision
+0PW	fixation device revision in sternum
+0PW	tissue substitute revision in rib
+0PW	synthetic material replacement in thoracic vertebra
+0PW	nonautologous graft placement in scapula
+0PW	internal fixation device repair in humeral head

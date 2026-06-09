@@ -1,0 +1,1000 @@
+changing (?A:industries/healthcare/determiners)? bandage on (?A:industries/healthcare/determiners)? upper leg
+changing (?A:industries/healthcare/determiners)? hand
+change (?A:industries/healthcare/determiners)? intermittent pressure device from (?A:industries/healthcare/determiners)? right hand
+resecting (?A:industries/healthcare/determiners)? multiple
+sacra other method treatment
+personality and behavioral defusing
+cochlear implant treatment \- assessment of motor learning
+tibia/fibulas stereotactic particulate radiosurgery
+remove (?A:industries/healthcare/determiners)? bandage from (?A:industries/healthcare/determiners)? right feet
+replacing (?A:industries/healthcare/determiners)? left hand tendon
+removed (?A:industries/healthcare/determiners)? hand
+monitoring (?A:industries/healthcare/determiners)? sleep
+brain stem stereotactic other photon radiosurgery
+repositioning (?A:industries/healthcare/prepositional_phrases) ?brachytherapy seeds
+removing (?A:industries/healthcare/determiners)? bandage on (?A:industries/healthcare/determiners)? left foot
+baroreflex activation therapy(r) (bat(r)) revision
+hearing aid assessment \- allows motion through transfer of movement from other body parts or by use of outside forces
+removing (?A:industries/healthcare/determiners)? pressure dressing on (?A:industries/healthcare/determiners)? upper leg
+percutaneous endoscopic creation
+ear dilation
+changing (?A:industries/healthcare/determiners)? finger
+remove (?A:industries/healthcare/determiners)? retained products of conception
+change (?A:industries/healthcare/determiners)? left inguinal region
+interactive individual counseling
+lower extremity extra articular manipulation
+activa pc neurostimulator inspection
+biliary and pancreatic tracts monoclonal antibody irrigation
+ligate (?A:industries/healthcare/determiners)? two to seven thoracic vertebral joints
+extraction via natural opening with percutaneous endoscopic
+nasal packing
+extirpate (?A:industries/healthcare/determiners)? right knee joints
+percutaneous biopsy
+removing (?A:industries/healthcare/determiners)? packing material on (?A:industries/healthcare/determiners)? anorectal
+right posterior tibial arteries fusion
+removing (?A:industries/healthcare/determiners)? traction apparatus on (?A:industries/healthcare/determiners)? hand
+introduced (?A:industries/healthcare/determiners)? anti-infective envelope into (?A:industries/healthcare/determiners)? ear
+rib cage alignment
+cranial cavity stereotactic other photon radiosurgery
+abdomen mechanically assisted manipulation
+supportive appropriate sedation and other preparation of the individual
+mandibles iort
+monitor (?A:industries/healthcare/determiners)? arterial
+cervical region high velocity low amplitude treatment
+bilateral vas deferen endoscopic
+activities of daily living assessment \- word recognition
+genitourinary tracts fibrinogen introduction
+monitored (?A:industries/healthcare/determiners)? metabolism
+sacroiliac joints destruction
+change (?A:industries/healthcare/determiners)? splint on (?A:industries/healthcare/determiners)? left lower legs
+cerebral embolic filtration assistance
+removal via natural or artificial opening with percutaneous endoscopic
+treat (?A:industries/healthcare/determiners)? pelvises
+musculoskeletal system systemic nuclear medicine therapy
+superficial inferior epigastric artery flap supplement
+repositioned (?A:industries/healthcare/determiners)? temporary intraluminal device
+respiratory systems pet imaging
+physiological systems performance
+percutaneous release
+changed (?A:industries/healthcare/determiners)? female genital tract
+family counseling for psychoeducation disorder
+change (?A:industries/healthcare/determiners)? right lower arms
+resect (?A:industries/healthcare/determiners)? products of conception
+individual counseling for spiritual disorder
+motor or nerve function assessment \- alternative communication system
+removed (?A:industries/healthcare/determiners)? left upper extremities
+drained (?A:industries/healthcare/determiners)? ectopic products of conception
+monitoring (?A:industries/healthcare/determiners)? respiratories
+lumbar articulatory raising treatment
+motor and/or nerve function assessment \- communicative integration skills assessment
+bypass saphenous
+left lower arms dressing
+monitoring (?A:industries/healthcare/determiners)? sampling and pressure
+compressing (?A:industries/healthcare/determiners)? brace from (?A:industries/healthcare/determiners)? back
+bronchus iort
+inebilizumab-cdon dilation
+insertion, ?dorsal metacarpal vein
+reconstruction via natural opening with percutaneous endoscopic
+heart planar nuclear medicine imaging
+oropharynx stereotactic other photon radiosurgery
+hearing treatment \- coordination/dexterity treatment
+cauterization, ?artificial anal sphincter
+colectomy via artificial opening
+duragraft endothelial damage inhibitor fusion
+central nervous system pet imaging
+reattaching (?A:industries/healthcare/determiners)? deep circumflex iliac artery
+fragment (?A:industries/healthcare/determiners)? coccyxes
+repair via artificial opening endoscopic
+zevtera(tm) bypass
+monitored (?A:industries/healthcare/determiners)? output
+changed (?A:industries/healthcare/determiners)? female genital tracts
+hepatobiliary system and pancreas ct scan
+removed (?A:industries/healthcare/determiners)? packing material on (?A:industries/healthcare/determiners)? upper arm
+inserting (?A:industries/healthcare/determiners)? retained products of conception
+auditory tubes anastomosis
+eluvia drug-eluting vascular stent system replacement
+cervical region lymphatic pump treatment
+other procedures right eyes
+right temporomandibular joints restriction
+eyes magnetic resonance imaging (mri)
+removing (?A:industries/healthcare/determiners)? fingers
+remove (?A:industries/healthcare/determiners)? left finger
+repair (?A:industries/healthcare/determiners)? ectopic products of conception
+hearing aid assessment \- alternative communication system
+detachment via artificial opening
+external reposition
+endocrine systems ultrasonography
+fusion axillary veins
+physiological system performance
+irrigation, ?renal sympathetic nerve(s)s
+behavioral appropriate sedation and other preparation of the individual
+left foot intermittent pressure device traction
+repair (?A:industries/healthcare/determiners)? right tibia
+irrigating (?A:industries/healthcare/determiners)? lower gi
+hypnosis positive reinforcement of target behaviors therapy
+dilation greater occipital nerves
+pressures monitoring
+fusion phrenic nerve
+use of therapy relationship and behavior change techniques counseling
+sacrum low velocity-high amplitude treatment
+skin temperature or peripheral blood flow intellectual and psychoeducational therapy
+irrigation radius
+measured (?A:industries/healthcare/determiners)? motility
+ziihera division
+monitoring (?A:industries/healthcare/determiners)? cerebrospinal fluid shunts
+single via natural opening with percutaneous endoscopic
+transplant (?A:industries/healthcare/determiners)? products of conception
+upper backs fusion
+changed (?A:industries/healthcare/determiners)? pressure dressing from (?A:industries/healthcare/determiners)? left feet
+external repair
+face packing material packing
+division tarsals
+dilation (?A:industries/healthcare/prepositional_phrases) ?unicondylar medial synthetic substitute
+cholecystectomy (?A:industries/healthcare/prepositional_phrases) ?patellofemoral synthetic substitute
+introduced (?A:industries/healthcare/determiners)? otl-101 into (?A:industries/healthcare/determiners)? central veins
+device fitting \- cough and sputum
+remove (?A:industries/healthcare/determiners)? right lower extremities
+non-axial lower bones computerized tomography ct scan
+upper extremity indirect visceral manipulation
+visual measurement
+open drainage
+titanium sternal fixation system (tsfs) augmentation
+changing (?A:industries/healthcare/determiners)? packing material from (?A:industries/healthcare/determiners)? anorectal
+hands change
+eye systemic nuclear medicine therapy
+release via artificial opening
+greater tuberosities percutaneous endoscopic
+open detachment
+retained products of conception delivery
+monitoring (?A:industries/healthcare/determiners)? lymphatic
+removed (?A:industries/healthcare/determiners)? heads
+removed (?A:industries/healthcare/determiners)? mouth and pharynx
+transfusing (?A:industries/healthcare/determiners)? kcentra
+bypass (?A:industries/healthcare/determiners)? deep femoral profunda femoris veins
+bile ducts intraoperative radiation therapy iort
+gastric vein bypass
+pelvis lymphatic stereotactic gamma beam radiosurgery
+manipulating (?A:industries/healthcare/determiners)? cervicals
+fusion superior vena cava
+changing (?A:industries/healthcare/determiners)? packing material from (?A:industries/healthcare/determiners)? finger
+transfusing (?A:industries/healthcare/determiners)? bones
+manipulate (?A:industries/healthcare/determiners)? anatomical region
+repaired (?A:industries/healthcare/determiners)? retained products of conception
+left tunica vaginali supplement
+cervical lymph node endoscopic
+ceftobiprole medocaril anti infective bypass
+extracted (?A:industries/healthcare/determiners)? right first toe
+left lower extremity removal
+left posterior tibial artery insertion
+individual counseling for confrontational use disorder
+tibia/fibula stereotactic gamma beam radiosurgery
+upper intestinal tracts reposition
+percutaneous left upper leg
+reposition via natural or artificial opening
+heads manipulation
+genitourinary tract stereotactic particulate radiosurgery
+assisting (?A:industries/healthcare/determiners)? respiratory
+vt-x7 (irrigation system) (spacer) restriction
+extracting (?A:industries/healthcare/determiners)? retained products of conception
+insert (?A:industries/healthcare/determiners)? retained products of conception
+reposition, ?products of conception
+transfuse (?A:industries/healthcare/determiners)? pradaxa(dabigatran) reversal agent into (?A:industries/healthcare/determiners)? spinal canals
+mediastina stereotactic radiosurgery
+resection
+urinary system positron emission tomographic pet imaging
+performing (?A:industries/healthcare/determiners)? pacing
+remove (?A:industries/healthcare/determiners)? brace on (?A:industries/healthcare/determiners)? lower arm
+vocational ecg
+biliary assistance
+removed (?A:industries/healthcare/determiners)? bandage from (?A:industries/healthcare/determiners)? nasal
+percutaneous endoscopic reposition
+skull and facial bone fluoroscopy
+removing (?A:industries/healthcare/determiners)? thumbs
+non-axial upper bones ct scan
+thoracic regions fascial release treatment
+measure (?A:industries/healthcare/determiners)? secretions
+hepatobiliary system and pancreas positron emission tomographic (pet) imaging
+musculoskeletal systems positron emission tomographic pet imaging
+extirpating (?A:industries/healthcare/determiners)? fibula
+biopsying (?A:industries/healthcare/determiners)? vagina and cul de sacs
+introduced (?A:industries/healthcare/determiners)? in existing conduits
+left anterior tibial artery destruction
+remove (?A:industries/healthcare/determiners)? packing material from (?A:industries/healthcare/determiners)? left thumbs
+extirpate (?A:industries/healthcare/determiners)? muscle
+eluvia drug-eluting vascular stent system release
+remove (?A:industries/healthcare/determiners)? intermittent pressure device on (?A:industries/healthcare/determiners)? foot
+right wrist joints fragmentation
+removing (?A:industries/healthcare/determiners)? packing material from (?A:industries/healthcare/determiners)? abdominal walls
+reposition via artificial opening with percutaneous endoscopic
+changed (?A:industries/healthcare/determiners)? cast on (?A:industries/healthcare/determiners)? upper extremity
+noses intraoperative radiation therapy
+division, ?internal mammary artery
+change (?A:industries/healthcare/determiners)? traction apparatus on (?A:industries/healthcare/determiners)? upper extremity
+percutaneous endoscopic map
+hearing aid assessment \- self management (coping skills, time management, self control)
+central nervous system other imaging
+other bone intraoperative radiation therapy iort
+percutaneous reposition
+ablated (?A:industries/healthcare/determiners)? bicuspid valves
+endoscopic reposition
+removed (?A:industries/healthcare/determiners)? right lower leg
+resecting (?A:industries/healthcare/determiners)? ectopic products of conception
+upper extremities short lever specific contact manipulation
+control via natural or artificial opening with percutaneous endoscopic
+fosfomycin anti-infective inspection
+transplant (?A:industries/healthcare/determiners)? retained products of conception
+resected (?A:industries/healthcare/determiners)? retained products of conception
+lower extremities chiropractic alignment
+thymectomy
+removing (?A:industries/healthcare/determiners)? pressure dressing on (?A:industries/healthcare/determiners)? hand
+fragmentation (?A:industries/healthcare/prepositional_phrases) ?acuity steerable lead
+removed (?A:industries/healthcare/determiners)? left lower legs
+change (?A:industries/healthcare/determiners)? pressure dressing on (?A:industries/healthcare/determiners)? hand
+respiratory system computerized tomography
+eyes nonimaging nuclear medicine uptake
+fragmented (?A:industries/healthcare/determiners)? left subclavian artery
+right upper extremity skin fusion
+change (?A:industries/healthcare/determiners)? brace on (?A:industries/healthcare/determiners)? right lower legs
+restored (?A:industries/healthcare/determiners)? rhythm
+right lower extremity arteries supplement
+dilation lower arm and wrist muscle
+left upper legs supplement
+monitor (?A:industries/healthcare/determiners)? skin and breasts
+individual counseling for interactive abuse
+remove (?A:industries/healthcare/determiners)? packing material on (?A:industries/healthcare/determiners)? left fingers
+change (?A:industries/healthcare/determiners)? traction apparatus from (?A:industries/healthcare/determiners)? left hands
+back cast packing
+electrical muscle stimulation lead supplement
+left shoulder regions percutaneous
+thoracic fascial release treatment
+replacement ascending colons
+female reproductive systems division
+drainage via artificial opening endoscopic
+individual counseling for confrontational dependence
+endoscopic repair
+family counseling for confrontational use disorder
+gastrointestinal systems nonimaging nuclear medicine assay
+remove (?A:industries/healthcare/determiners)? pressure dressing on (?A:industries/healthcare/determiners)? right lower extremities
+skin, subcutaneous tissue and breast tomographic (tomo) nuclear medicine imaging
+external inspection
+section (?A:industries/healthcare/prepositional_phrases) ?gastric electrical stimulation (ges) lead
+lumbar vertebral joint endoscopy
+replaced (?A:industries/healthcare/determiners)? pulmonary veins
+remove (?A:industries/healthcare/determiners)? ectopic products of conception
+family counseling for 12 step abuse
+measured (?A:industries/healthcare/determiners)? capacities
+lumbars indirect visceral manipulation
+dilation, ?left elbow bursa and ligaments
+insertion, ?retained products of conception
+destroyed (?A:industries/healthcare/determiners)? coronary vein
+monitoring lower extremity veins
+percutaneous endoscopic chordae tendineaes
+anatomical region lymphatic pump treatment
+monitor (?A:industries/healthcare/determiners)? musculoskeletal
+left finger phalanx bypass
+dilating (?A:industries/healthcare/determiners)? rybrevant into (?A:industries/healthcare/determiners)? pulmonary valves
+resecting (?A:industries/healthcare/determiners)? products of conception
+inspection ventricular septum
+cervicals short lever specific contact manipulation
+musculoskeletal systems tomographic (tomo) nuclear medicine imaging
+repositioned (?A:industries/healthcare/determiners)? retained products of conception
+monitored (?A:industries/healthcare/determiners)? defibrillator
+dilated (?A:industries/healthcare/determiners)? tazobactam anti-infective into (?A:industries/healthcare/determiners)? descending thoracic aorta and abdominal aortas
+restriction thoracic region
+tissue expander fragmentation
+perineometry to monitor bowel activity positive reinforcement of target behaviors therapy
+hepatobiliary system and pancrea computerized tomography ct scan
+cervicals adjustment
+hearing treatment \- bed mobility assessment
+retained products of conception reposition
+crisis intervention \- enhancing work related adjustment and pursuing viable options in training education or preparation
+uterus and cervices bypass
+destruction, ?right 3rd toes
+inspection (?A:industries/healthcare/prepositional_phrases) ?rectosigmoid junction
+reposition (?A:industries/healthcare/prepositional_phrases) ?hearing device
+division left palatine bones
+motor treatment \- protective devices
+adenoidectomy
+removed (?A:industries/healthcare/determiners)? left toes
+abdominal walls revision
+cervical long lever specific contact manipulation
+head low velocity-high amplitude treatment
+central veins lysis
+dilate (?A:industries/healthcare/determiners)? third cranial nerves
+percutaneous lower joint
+total ankle talar replacement dilation
+necks packing
+family counseling for alcohol use disorder
+bypass (?A:industries/healthcare/determiners)? tagraxofusp-erzs antineoplastic
+repair via natural opening with percutaneous endoscopic
+changed (?A:industries/healthcare/determiners)? left upper arms
+atrioventricular valve endoscopic
+replacement plantar fascia aponeurosis
+removed (?A:industries/healthcare/determiners)? wire from (?A:industries/healthcare/determiners)? left foot
+removing (?A:industries/healthcare/determiners)? pressure dressing from (?A:industries/healthcare/determiners)? fingers
+manipulated (?A:industries/healthcare/determiners)? lumbars
+performed (?A:industries/healthcare/determiners)? respiratories
+destruction brains
+cauterization, ?s icd(tm) lead
+vein computerized tomography ct scan
+lower arm immobilization
+change (?A:industries/healthcare/determiners)? packing material from (?A:industries/healthcare/determiners)? left upper leg
+central nervous system nonimaging nuclear medicine probe
+changing (?A:industries/healthcare/determiners)? right lower extremities
+reposition (?A:industries/healthcare/prepositional_phrases) ?postcava
+transfused (?A:industries/healthcare/determiners)? thrombolytic
+anus dilation
+right sphenoid sinuses insertion
+grafted (?A:industries/healthcare/determiners)? left inferior pulmonary vein
+intrauterine device iud insertion
+left upper leg tendons dissection
+removal (?A:industries/healthcare/prepositional_phrases) ?products of conception
+appendectomy, ?titanium sternal fixation system tsfs
+amputate (?A:industries/healthcare/determiners)? right atrium
+change (?A:industries/healthcare/determiners)? left hands
+neck compression
+implanted (?A:industries/healthcare/determiners)? carpometacarpal ligaments
+change (?A:industries/healthcare/determiners)? splint on (?A:industries/healthcare/determiners)? right upper arm
+changing (?A:industries/healthcare/determiners)? wire on (?A:industries/healthcare/determiners)? foot
+fusion thoracic aorta, ascending
+hearing assessment \- motor assessment scales
+extraction via artificial opening with percutaneous endoscopic
+ablate (?A:industries/healthcare/determiners)? lumbar ganglion
+restoring (?A:industries/healthcare/determiners)? oxygenations
+augmentation, ?external oblique aponeuroses
+transfused (?A:industries/healthcare/determiners)? human b type natriuretic peptide into (?A:industries/healthcare/determiners)? peritoneal cavities
+performing (?A:industries/healthcare/determiners)? oxygenations
+restoring (?A:industries/healthcare/determiners)? rhythms
+extirpate (?A:industries/healthcare/determiners)? factor xa inhibitor reversal agent
+irrigating (?A:industries/healthcare/determiners)? recombinant bone morphogenetic protein into (?A:industries/healthcare/determiners)? mouth and pharynx
+posterior (dynamic) distraction device other procedures
+treat (?A:industries/healthcare/determiners)? lumbar regions
+compressing (?A:industries/healthcare/determiners)? left toes
+transplanting (?A:industries/healthcare/determiners)? retained products of conception
+anastomosing (?A:industries/healthcare/determiners)? mouth and throat
+changing (?A:industries/healthcare/determiners)? cast from (?A:industries/healthcare/determiners)? right finger
+right upper lung lobe cauterization
+measure (?A:industries/healthcare/determiners)? cardiac
+destruction right radiuses
+chest walls contact radiation
+bypass (?A:industries/healthcare/determiners)? chordae tendineaes
+colectomy via natural or artificial opening with percutaneous endoscopic
+inspection right tarsal
+hybrid external fixation device repositioning
+resect (?A:industries/healthcare/determiners)? fibulas
+left tarsal measurement
+genitourinary tracts intraoperative radiation therapy (iort)
+cytarabine and daunorubicin liposome antineoplastic reposition
+gsr/edr intervention
+assistance chest wall
+prostatic artery grafting
+mastoid process placement
+irrigating (?A:industries/healthcare/determiners)? physiological systems and anatomical region
+resecting (?A:industries/healthcare/determiners)? left anterior chamber
+removed (?A:industries/healthcare/determiners)? products of conception
+changing (?A:industries/healthcare/determiners)? traction apparatus on (?A:industries/healthcare/determiners)? abdominal walls
+joints platelet inhibitor irrigation
+cervical mechanically assisted manipulation
+monitored (?A:industries/healthcare/determiners)? volume
+measurement prefrontal cortex
+changing (?A:industries/healthcare/determiners)? brace from (?A:industries/healthcare/determiners)? right lower arm
+knee bursa and ligament fusion
+removing (?A:industries/healthcare/determiners)? ectopic products of conception
+dorsal root ganglia dilation
+replacement, ?anatomical region
+insertion via natural or artificial opening with percutaneous endoscopic
+biopsying (?A:industries/healthcare/determiners)? right toe phalanxes
+circumflex iliac arteries destruction
+ear avycaz(r) (ceftazidime-avibactam) introduction
+removed (?A:industries/healthcare/determiners)? left lower arms
+foot bursa and ligament dilation
+reposition (?A:industries/healthcare/determiners)? ectopic products of conception
+greater occipital nerves insertion
+third toes supplement
+remove (?A:industries/healthcare/determiners)? brace on (?A:industries/healthcare/determiners)? right lower legs
+upper extremities muscle energy-isotonic treatment
+hypothermia
+electrogastrogram to monitor gastric motility encouragement of affective expression therapy
+central nervous systems computerized tomography (ct scan)
+bypassing (?A:industries/healthcare/determiners)? lower gingiva
+extirpate (?A:industries/healthcare/determiners)? nusurface(r) meniscus implant into (?A:industries/healthcare/determiners)? mtp joints
+left lower extremity insertion
+ears anti-inflammatory irrigation
+repair (?A:industries/healthcare/determiners)? products of conception
+right humeral shafts insertion
+dilation thoracic aortas
+output performance
+lymphadenectomy
+pathogen reduced cryoprecipitated fibrinogen complex skin and mucous membrane irrigation
+hearing treatment \- soaping
+changed (?A:industries/healthcare/determiners)? packing material on (?A:industries/healthcare/determiners)? upper arm
+repositioning (?A:industries/healthcare/determiners)? ectopic products of conception
+extraction via natural opening with percutaneous endoscopic assistance
+performance performance
+reposition via natural or artificial opening with percutaneous endoscopic assistance
+treat (?A:industries/healthcare/determiners)? lumbars
+cervical region low velocity-high amplitude treatment
+rhythm restoration
+inspect (?A:industries/healthcare/determiners)? ectopic products of conception
+introducing (?A:industries/healthcare/determiners)? talvey(tm) into (?A:industries/healthcare/determiners)? hymens
+urinary systems positron emission tomographic imaging
+hearing assessment \- childcare
+clipping, ?kidney
+inspection (?A:industries/healthcare/prepositional_phrases) ?right eyes
+debriefing interactive therapy
+manipulating (?A:industries/healthcare/determiners)? lower extremity
+division right knee tendon
+insert (?A:industries/healthcare/determiners)? ectopic products of conception
+thoracic region muscle energy isotonic treatment
+drainage via natural or artificial opening with percutaneous endoscopic assistance
+insertion, ?ectopic products of conception
+transfused (?A:industries/healthcare/determiners)? gas
+percutaneous endoscopic popliteal arteries
+excise (?A:industries/healthcare/determiners)? bilateral spermatic cord
+cognitive-behavioral edr
+extirpating (?A:industries/healthcare/determiners)? skin and breast
+pelvic bone other radiation
+extraction, ?ectopic products of conception
+inserting (?A:industries/healthcare/determiners)? ectopic products of conception
+changing (?A:industries/healthcare/determiners)? right lower arms
+replacement lower bones
+irrigate (?A:industries/healthcare/determiners)? coronary arteries
+treating (?A:industries/healthcare/determiners)? abdomen
+percutaneous right ring finger
+treat (?A:industries/healthcare/determiners)? abdomens
+changing (?A:industries/healthcare/determiners)? brace from (?A:industries/healthcare/determiners)? female genital tracts
+reposition (?A:industries/healthcare/determiners)? internal mammary artery
+right sphenoid sinuses fusion
+removed (?A:industries/healthcare/determiners)? packing material from (?A:industries/healthcare/determiners)? left lower extremities
+change (?A:industries/healthcare/determiners)? ectopic products of conception
+extraction via natural opening endoscopic
+upper arteries computerized tomography
+pelvises high velocity low amplitude treatment
+na one nerinitide nose introduction
+monitored (?A:industries/healthcare/determiners)? secretions
+removed (?A:industries/healthcare/determiners)? intermittent pressure device on (?A:industries/healthcare/determiners)? right upper extremities
+cauterized (?A:industries/healthcare/determiners)? intestine
+hearts nonimaging nuclear medicine probe
+group counseling for continuing care disorder
+hypnosis therapy
+non-axial lower bone ultrasonography
+transposition via artificial opening with percutaneous endoscopic assistance
+decompression, ?brains
+facial bone inspection
+group counseling for supportive use disorder
+ascending colons open
+vertebral artery via artificial opening with percutaneous endoscopic
+veins fluoroscopy
+hypopharynx contact radiation
+change (?A:industries/healthcare/determiners)? inguinal region
+packed (?A:industries/healthcare/determiners)? upper arms
+decompression (?A:industries/healthcare/prepositional_phrases) ?antebrachial fascia
+division great vessels
+hand immobilization
+restoration support
+reconstruction via natural or artificial opening with percutaneous endoscopic assistance
+enhancing work related adjustment and pursuing viable options in training education or preparation ecg
+destroying (?A:industries/healthcare/determiners)? right femoral shaft
+thorax tendons endoscopic
+resecting
+release (?A:industries/healthcare/prepositional_phrases) ?liner
+abdomens chiropractic mobilization
+pack (?A:industries/healthcare/determiners)? wire from (?A:industries/healthcare/determiners)? left thumb
+ablating (?A:industries/healthcare/determiners)? subcutaneous tissues
+carotid sinus nerve decompression
+packed (?A:industries/healthcare/determiners)? urethra
+mouth intraoperative radiation therapy
+release via natural opening endoscopic
+remove (?A:industries/healthcare/determiners)? finger
+changing (?A:industries/healthcare/determiners)? cast on (?A:industries/healthcare/determiners)? chest walls
+left prostatic arteries external
+transplanting (?A:industries/healthcare/determiners)? products of conception
+lumbar vertebral joint exploration
+reposition via artificial opening with percutaneous endoscopic assistance
+bone screw (interlocking)(lag)(pedicle)(recessed) thrombosis
+deliver (?A:industries/healthcare/determiners)? ectopic products of conception
+assisted (?A:industries/healthcare/determiners)? respiratory
+livers grafting
+motor and nerve function assessment \- sharp/dull
+removed (?A:industries/healthcare/determiners)? left thumb
+cerebral ventricles replacement
+anatomical regions chiropractic mobilization
+treat (?A:industries/healthcare/determiners)? cervical regions
+change (?A:industries/healthcare/determiners)? right lower legs
+perineometry to regulate bowel activity enhancing work related adjustment and/or pursuing viable options in training education or preparation therapy
+supplement (?A:industries/healthcare/determiners)? ceftolozane anti infective
+manipulate (?A:industries/healthcare/determiners)? head
+appendectomy, ?in existing conduits
+compress (?A:industries/healthcare/determiners)? bandage from (?A:industries/healthcare/determiners)? lower extremities
+change (?A:industries/healthcare/determiners)? bandage on (?A:industries/healthcare/determiners)? anorectals
+removing (?A:industries/healthcare/determiners)? right upper arms
+sacra articulatory raising treatment
+group counseling for spiritual dependence
+extraction via natural or artificial opening with percutaneous endoscopic
+apifix minimally invasive deformity correction (mid c) system reposition
+hearts magnetic resonance imaging (mri)
+section (?A:industries/healthcare/prepositional_phrases) ?external auditory canal
+irrigated (?A:industries/healthcare/determiners)? nutritional substance into (?A:industries/healthcare/determiners)? eyes
+destruction ganglion impar (ganglion of walther)
+anatomical region planar nuclear medicine imaging
+pelvis long lever specific contact manipulation
+vestibular treatment \- limb prosthesis
+insertion right sacroiliac joint
+rystiggo(r) measurement
+control (?A:industries/healthcare/prepositional_phrases) ?perineum skin
+restore (?A:industries/healthcare/determiners)? oxygenations
+tracheoplasty
+removed (?A:industries/healthcare/determiners)? wire from (?A:industries/healthcare/determiners)? lower arm
+lower extremity other procedures?
+motor or nerve function assessment \- dressings
+endoscopic left lobe liver
+left ankle regions dilation
+external appendectomy
+imdelltra(tm) fusion
+repositioning (?A:industries/healthcare/determiners)? apifix minimally invasive deformity correction (mid-c) system into (?A:industries/healthcare/determiners)? descending thoracic aorta and abdominal aortas
+changed (?A:industries/healthcare/determiners)? bandage from (?A:industries/healthcare/determiners)? urethra
+dressing (?A:industries/healthcare/determiners)? abdominal walls
+changing (?A:industries/healthcare/determiners)? left lower extremity
+changed (?A:industries/healthcare/determiners)? cast from (?A:industries/healthcare/determiners)? right lower leg
+remove (?A:industries/healthcare/determiners)? pressure dressing on (?A:industries/healthcare/determiners)? right feet
+group counseling for psychodynamic disorder
+changed (?A:industries/healthcare/determiners)? pressure dressing from (?A:industries/healthcare/determiners)? lower leg
+hepatobiliary system and pancreas fluoroscopy
+cervical lymph node supplement
+endocrine system pet imaging
+right tibia open
+changed (?A:industries/healthcare/determiners)? left upper arm
+upj percutaneous endoscopic
+changed (?A:industries/healthcare/determiners)? bandage from (?A:industries/healthcare/determiners)? chest walls
+ct scan
+changing (?A:industries/healthcare/determiners)? packing material on (?A:industries/healthcare/determiners)? foot
+fusion coronary vein
+abdomen lymphatic pump treatment
+release via artificial opening with percutaneous endoscopic assistance
+removed (?A:industries/healthcare/determiners)? left upper arm
+change (?A:industries/healthcare/determiners)? lower leg
+non axial upper bone computerized tomography
+s icd lead stenting
+humeral shafts monitoring
+repositioning (?A:industries/healthcare/determiners)? magec(r) spinal bracing and distraction system into (?A:industries/healthcare/determiners)? deep cervical veins
+restriction transverse colon
+replacement inferior vena cava and iliocaval confluences
+insertion internal mammary artery
+nusurface meniscus implant replacement
+filtrations restoration
+removing (?A:industries/healthcare/determiners)? products of conception
+hearing aid assessment \- orofacial myofunctional (assessment)
+monitor (?A:industries/healthcare/determiners)? urinary
+transfusing (?A:industries/healthcare/determiners)? tissue plasminogen activator tpa r tpa
+lumbar indirect visceral manipulation
+repositioning (?A:industries/healthcare/determiners)? retained products of conception
+removing (?A:industries/healthcare/determiners)? left hands
+lower extremity osteopathic treatment
+inspection, ?products of conception
+removed (?A:industries/healthcare/determiners)? left hands
+cervical general mobilization treatment
+map (?A:industries/healthcare/determiners)? right femoral shaft
+tibia plaque radiation
+activities of daily living treatment \- nonspoken language treatment
+inspect (?A:industries/healthcare/determiners)? products of conception
+cervical high velocity low amplitude treatment
+left knee joints reposition
+removing (?A:industries/healthcare/determiners)? face
+monitored (?A:industries/healthcare/determiners)? defibrillators
+removed (?A:industries/healthcare/determiners)? traction apparatus from (?A:industries/healthcare/determiners)? right finger
+insertion (?A:industries/healthcare/prepositional_phrases) ?superficial inferior epigastric artery flap
+reposition posterior tibial arteries
+left elbow regions colectomy
+measure (?A:industries/healthcare/determiners)? central nervous
+male reproductive system magnetic resonance imaging mri
+lower extremity direct visceral manipulation
+cervical regions articulatory raising treatment
+rib cages non manual manipulation
+amputating (?A:industries/healthcare/determiners)? right hand skins
+drainage, ?ectopic products of conception
+nephrectomy via natural opening
+implantation via artificial opening
+endoscopic drainage
+drainage, ?retained products of conception
+measure (?A:industries/healthcare/determiners)? cerebrospinal fluid shunts
+training of self-management skills respirometry or capnometry
+acuity measurement
+remove (?A:industries/healthcare/determiners)? mouth and pharynx
+transfuse (?A:industries/healthcare/determiners)? omniasecure mri surescan defibrillation lead
+dressing (?A:industries/healthcare/determiners)? upper arms
+family counseling for psychoanalysis disorder
+rapid deployment techniques restriction
+right superior parathyroid glands other procedures
+replacement metatarsophalangeal mtp joints
+thoracic non manual manipulation
+lumbar short lever specific contact manipulation
+lumbars high velocity low amplitude treatment
+endocrine system mri
+change (?A:industries/healthcare/determiners)? splint on (?A:industries/healthcare/determiners)? left inguinal region
+lymphatic systems ct scan
+vein computerized tomography (ct scan)
+extirpating (?A:industries/healthcare/determiners)? subclavian arteries
+transplanted (?A:industries/healthcare/determiners)? retained products of conception
+removing (?A:industries/healthcare/determiners)? traction apparatus from (?A:industries/healthcare/determiners)? right inguinal regions
+high dose intravenous immune globulin bypass
+appendectomy via natural opening
+family psychotherapy \- training of self management skills
+inspection livers
+cannulation (?A:industries/healthcare/prepositional_phrases) ?saphenous
+vestibular assessment \- spatial relations
+pharynxes stereotactic particulate radiosurgery
+treating (?A:industries/healthcare/determiners)? pelvis
+changed (?A:industries/healthcare/determiners)? wire from (?A:industries/healthcare/determiners)? lower legs
+conserve plus total resurfacing hip system section
+assisted (?A:industries/healthcare/determiners)? physiological system
+change (?A:industries/healthcare/determiners)? brace on (?A:industries/healthcare/determiners)? right feet
+cranial cavity stereotactic gamma beam radiosurgery
+monitoring (?A:industries/healthcare/determiners)? skin and breasts
+repair via natural opening with percutaneous endoscopic assistance
+sinuses stereotactic radiosurgery
+percutaneous greater occipital nerves
+inspection via natural or artificial opening
+female reproductive systems other procedures?
+use of therapy relationship and behavior change techniques electrogastrogram to regulate gastric motility
+right cephalic veins fusion
+cranial cavity and brains anti infective introduction
+right thyroid gland lobes section
+removed (?A:industries/healthcare/determiners)? cast from (?A:industries/healthcare/determiners)? left thumbs
+removed (?A:industries/healthcare/determiners)? head
+placement, ?subscapularis-sparing techniques
+changed (?A:industries/healthcare/determiners)? traction apparatus from (?A:industries/healthcare/determiners)? necks
+supplement bilateral lower leg arteries
+eyes stem cells irrigation
+tongue other radiation
+pelvises muscle energy isometric treatment
+extirpated (?A:industries/healthcare/determiners)? upj
+upper extremities muscle energy isotonic treatment
+perform (?A:industries/healthcare/determiners)? biliary
+snm lead inspection
+assisting (?A:industries/healthcare/determiners)? right thyroid gland lobes
+percutaneous stenting
+ligation of inferior vena cava
+vestibular treatment \- communicative/cognitive integration skills assessment
+training of self management skills respirometry or capnometry
+tibia/fibulas intraoperative radiation therapy
+extirpate (?A:industries/healthcare/determiners)? ganglion impar (ganglion of walther)
+urinary systems positron emission tomographic (pet) imaging
+removed (?A:industries/healthcare/determiners)? traction apparatus from (?A:industries/healthcare/determiners)? right upper arm
+alteration (?A:industries/healthcare/prepositional_phrases) ?implanted venous access port
+assist (?A:industries/healthcare/determiners)? biliaries
+male reproductive systems planar nuclear medicine imaging
+control (?A:industries/healthcare/prepositional_phrases) ?nasal turbinates
+family counseling for psychodynamic dependence
+sacra indirect treatment
+ears change
+fusing (?A:industries/healthcare/determiners)? neovasc reducer(tm)
+neurobehavioral and cognitive status perineometry to monitor/regulate bowel/bladder activity
+family counseling for vocational use disorder
+aeropace(r) system supplement
+monitoring (?A:industries/healthcare/determiners)? volumes
+percutaneous extraction
+removing (?A:industries/healthcare/determiners)? bandage on (?A:industries/healthcare/determiners)? left upper legs
+monitoring (?A:industries/healthcare/determiners)? sleeps
+change (?A:industries/healthcare/determiners)? products of conception
+cervical chiropractic alignment
+delivery via natural or artificial opening endoscopic
+heads indirect treatment
+other procedures left subclavian vein
+removed (?A:industries/healthcare/determiners)? cast from (?A:industries/healthcare/determiners)? left lower extremities
+remove (?A:industries/healthcare/determiners)? pressure dressing from (?A:industries/healthcare/determiners)? urethras
+lower eyelid cannulation
+insertion (?A:industries/healthcare/prepositional_phrases) ?retained products of conception
+sacral nerve modulation lead replacement
+change (?A:industries/healthcare/determiners)? female genital tracts
+tracheostomy tube fusion
+anatomical regions computerized tomography (ct scan)
+individual counseling for psychoanalysis abuse
+extraction via artificial opening
+arm skin plaque radiation
+ihm revision
+dorsal metacarpal vein open
+activities of daily living treatment \- applying and removing personal devices
+clipping (?A:industries/healthcare/prepositional_phrases) ?left thorax tendon
+extraction via natural or artificial opening
+delivery via artificial opening
+left abdomen bursa and ligament division
+drainage (?A:industries/healthcare/prepositional_phrases) ?products of conception
+sacra chiropractic mobilization
+cervical manipulation
+artificial sphincter nephrectomy
+bypass coronary vein
+lumbar extra articular manipulation
+anastomosed (?A:industries/healthcare/determiners)? lower bones
+change (?A:industries/healthcare/determiners)? lower arms
+lumbars chiropractic manipulation
+speech assessment \- feeding/eating
+transfuse (?A:industries/healthcare/determiners)? tissue plasminogen activator tpa r-tpa into (?A:industries/healthcare/determiners)? genitourinary tract
+measured (?A:industries/healthcare/determiners)? central nervous
+rectum plaque radiation
+changed (?A:industries/healthcare/determiners)? pressure dressing from (?A:industries/healthcare/determiners)? thumb
+remove (?A:industries/healthcare/determiners)? upper legs
+remove (?A:industries/healthcare/determiners)? urethras
+hepatobiliary system and pancrea supplement
+ablation via natural or artificial opening with percutaneous endoscopic
+bile duct stereotactic particulate radiosurgery
+removed (?A:industries/healthcare/determiners)? traction apparatus from (?A:industries/healthcare/determiners)? mouth and pharynx
+external oblique aponeuroses percutaneous endoscopic
+removing (?A:industries/healthcare/determiners)? wire on (?A:industries/healthcare/determiners)? foot
+measured (?A:industries/healthcare/determiners)? conductivities
+packed (?A:industries/healthcare/determiners)? cast on (?A:industries/healthcare/determiners)? left thumb
+renal artery supplement
+introduced (?A:industries/healthcare/determiners)? respiratory tracts
+removal, ?right metacarpals
+motor or nerve function assessment \- feeding/eating
+vein nonimaging nuclear medicine uptake
+thoracic regions indirect treatment
+electrogastrogram to monitor/regulate gastric motility positive reinforcement of target behaviors therapy
+dilation, ?joints
+repositioned (?A:industries/healthcare/determiners)? products of conception
+abdominal walls release
+nephrectomy (?A:industries/healthcare/prepositional_phrases) ?iris
+magnetic resonance imaging
+reposition subgaleal space
+cord blood stem cells female reproductive irrigation
+changed (?A:industries/healthcare/determiners)? traction apparatus from (?A:industries/healthcare/determiners)? left lower arms
+hearing treatment \- form constancy
+nephrectomy, ?joint spacer
+restrict (?A:industries/healthcare/determiners)? ethmoidal air cell
+percutaneous endoscopic left anterior chamber
+immobilized (?A:industries/healthcare/determiners)? left foot
+respiratories performance
+perform (?A:industries/healthcare/determiners)? ventilation
+remove (?A:industries/healthcare/determiners)? packing material from (?A:industries/healthcare/determiners)? left lower arm
+resected (?A:industries/healthcare/determiners)? products of conception
+appendiceal orifice via natural opening with percutaneous endoscopic
+bilateral external iliac arteries percutaneous
+cranial cavities stereotactic other photon radiosurgery
+extraction via artificial opening with percutaneous endoscopic assistance
+axial skeleton, except skull and facial bones magnetic resonance imaging mri
+division left ovaries
+irrigated (?A:industries/healthcare/determiners)? frozen red cells into (?A:industries/healthcare/determiners)? peripheral nerves and plexi
+measured (?A:industries/healthcare/determiners)? products of conception
+left axillary vein fusion
+endocrine system computerized tomography (ct scan)
+transfuse (?A:industries/healthcare/determiners)? otl 101
+measurement sacroiliac joint
+left femoral veins measurement
+monitoring (?A:industries/healthcare/determiners)? saturations
+removing (?A:industries/healthcare/determiners)? intermittent pressure device on (?A:industries/healthcare/determiners)? left upper arms
+psychotherapy and/or coordination of care with other providers or agencies interpersonal therapy
+ceftolozane/tazobactam anti-infective irrigation
+retained products of conception drainage
+rebyota(r) inspection
+activities of daily living treatment \- coughing
+reposition right posterior tibial arteries
+retained products of conception extraction
+non-axial upper bones computerized tomography
+respiratory systems supplement
+anatomical region short lever specific contact manipulation
+pelvis non-manual manipulation
+removing (?A:industries/healthcare/determiners)? pressure dressing on (?A:industries/healthcare/determiners)? ears
+removing (?A:industries/healthcare/determiners)? left upper legs
+repair, ?products of conception
+cervicals low velocity high amplitude treatment
+transfuse (?A:industries/healthcare/determiners)? stem cells into (?A:industries/healthcare/determiners)? lower gis
+immobilize (?A:industries/healthcare/determiners)? cast on (?A:industries/healthcare/determiners)? left toe
+occluded (?A:industries/healthcare/determiners)? jugular body
+thorax lymphatics iort
+changing (?A:industries/healthcare/determiners)? intermittent pressure device from (?A:industries/healthcare/determiners)? left foot
+tarlatamab dlle antineoplastic reposition
+vestibular assessment \- setting up food
+repair, ?ectopic products of conception
+measure (?A:industries/healthcare/determiners)? metabolism
+family counseling for substance abuse
+percutaneous endoscopic left epididymises
+removed (?A:industries/healthcare/determiners)? right lower arm
+psychotherapy and coordination of care with other providers or agencies intervention
+lymphatic systems mri
+change (?A:industries/healthcare/determiners)? upper legs
+removed (?A:industries/healthcare/determiners)? brace from (?A:industries/healthcare/determiners)? left upper extremities
+excising (?A:industries/healthcare/determiners)? right upper leg tendon
+lateral plantar nerve nephrectomy
+abdomen stereotactic particulate radiosurgery
+repair via natural or artificial opening endoscopic
+chests stereotactic radiosurgery
+anastomosing (?A:industries/healthcare/determiners)? azygos vein
+hearing aid assessment \- ear canal probe microphone
+thoracic region high velocity low amplitude treatment
+division right metacarpals
+thoracic alignment
+change via natural opening endoscopic
+changed (?A:industries/healthcare/determiners)? traction apparatus from (?A:industries/healthcare/determiners)? toe
+central nervous system nonimaging nuclear medicine assay
+extraction via artificial opening endoscopic
+cannulation, ?deep cervical veins
+removed (?A:industries/healthcare/determiners)? traction apparatus on (?A:industries/healthcare/determiners)? abdominal wall
+indwelling device irrigation
+removal via natural or artificial opening with percutaneous endoscopic assistance
+abdomens treatment
+monitor (?A:industries/healthcare/determiners)? sleeps
+berlin heart ventricular assist device transfer
+intubation via artificial opening
+motor and/or nerve function assessment \- expressive language treatment
+changed (?A:industries/healthcare/determiners)? right lower extremity
+reposition via natural opening with percutaneous endoscopic assistance
+upper extremities articulatory raising treatment
+measuring (?A:industries/healthcare/determiners)? saturations
+left foot muscle open
+intramedullary limb lengthening internal fixation device fragmentation
+insertion via natural opening endoscopic
+response cost hypnosis
+changing (?A:industries/healthcare/determiners)? splint on (?A:industries/healthcare/determiners)? female genital tracts
+central vein replacement
+repositioning, ?forequarter
+ligation via natural opening with percutaneous endoscopic
+eyes pet imaging
+measured (?A:industries/healthcare/determiners)? flow
+change (?A:industries/healthcare/determiners)? pressure dressing from (?A:industries/healthcare/determiners)? right upper arms
+hairs dilation
+non-axial lower bone plain radiography
+musculoskeletal systems positron emission tomographic imaging
+monitoring (?A:industries/healthcare/determiners)? electrical activity
+left posterior tibial artery supplement
+hearts computerized tomography ct scan
+external bilateral epididymises
+upper extremities chiropractic mobilization
+endoscopic insertion
+revascularization via artificial opening
+removed (?A:industries/healthcare/determiners)? wire on (?A:industries/healthcare/determiners)? right finger
+manipulating (?A:industries/healthcare/determiners)? sacrum
+restored (?A:industries/healthcare/determiners)? respiratories
+open delivery
+anatomical region ultrasonography
+remove (?A:industries/healthcare/determiners)? brace on (?A:industries/healthcare/determiners)? lower leg
+destruction, ?right parietal bone
+abdomen iort
+abdomen stereotactic other photon radiosurgery
+division cerebral ventricle
+change (?A:industries/healthcare/determiners)? neck
+urinary systems other imaging
+remove (?A:industries/healthcare/determiners)? pressure dressing on (?A:industries/healthcare/determiners)? inguinal regions
+insertion via natural or artificial opening endoscopic
+repositioned (?A:industries/healthcare/determiners)? ectopic products of conception
+changing (?A:industries/healthcare/determiners)? products of conception
+remove (?A:industries/healthcare/determiners)? wire from (?A:industries/healthcare/determiners)? toe
+behavioral perineometry to regulate bladder activity
+head mechanically assisted manipulation
+head and facial bone inspection
+ethmoidal air cell destruction
+resect
+insertion thoracolumbar vertebral joint
+transfer (?A:industries/healthcare/determiners)? left eustachian tubes
+aprevo(tm) division
+cervicals high velocity-low amplitude treatment
+urinary system magnetic resonance imaging mri
+changing (?A:industries/healthcare/determiners)? left finger
+division left tarsal
+monitoring (?A:industries/healthcare/determiners)? saturation
+changing (?A:industries/healthcare/determiners)? left thumb
+left axillary vein anastomosis
+upper artery magnetic resonance imaging (mri)
+excising (?A:industries/healthcare/determiners)? popliteal fossas
+restored (?A:industries/healthcare/determiners)? physiological systems
+left ventricles appendectomy
+reconstruction via natural or artificial opening with percutaneous endoscopic
+blood vessels division
+decompression via artificial opening with percutaneous endoscopic assistance
+left shoulder regions supplement
+introduced (?A:industries/healthcare/determiners)? skin and mucous membrane
+pineal body iort
+irrigate (?A:industries/healthcare/determiners)? cranial nerves
+lysis (?A:industries/healthcare/prepositional_phrases) ?mediastinal cavities
+changed (?A:industries/healthcare/determiners)? bandage from (?A:industries/healthcare/determiners)? fingers
+skin, subcutaneous tissue and breast pet imaging
+skin, subcutaneous tissue and breast computerized tomography ct scan
+vein pet imaging
+percutaneous endoscopic insertion
+removing (?A:industries/healthcare/determiners)? anorectals
+veins tomographic nuclear medicine imaging
+family counseling for drug use disorder
+removing (?A:industries/healthcare/determiners)? chest wall
+dressed (?A:industries/healthcare/determiners)? cast from (?A:industries/healthcare/determiners)? upper arms
+abdomens direct visceral manipulation
+group counseling for spiritual disorder
+lower leg traction apparatus dressing
+gastrointestinal system positron emission tomographic pet imaging
+extracted (?A:industries/healthcare/determiners)? tarsals
+jejuna plaque radiation
+group counseling for interpersonal dependence
+removed (?A:industries/healthcare/determiners)? pressure dressing from (?A:industries/healthcare/determiners)? thumb
+cognitive behavioral perineometry to regulate bladder activity
+biliary and pancreatic tracts bone morphogenetic protein two (bmp two) irrigation
+remove (?A:industries/healthcare/determiners)? splint on (?A:industries/healthcare/determiners)? mouth and pharynx
+removing (?A:industries/healthcare/determiners)? back
+monitoring (?A:industries/healthcare/determiners)? outputs
+changed (?A:industries/healthcare/determiners)? upper arms
+rib cages non-manual manipulation
+bypassing (?A:industries/healthcare/determiners)? aucatzyl(r) into (?A:industries/healthcare/determiners)? right upper femur
+changing (?A:industries/healthcare/determiners)? bandage from (?A:industries/healthcare/determiners)? right lower legs
+individual psychotherapy \- use of therapy relationship and behavior change techniques
+restriction (?A:industries/healthcare/prepositional_phrases) ?absolute pro vascular self-expanding stent system
+destruction skulls
+implanted port bypass
+olecranon process open
+assisting (?A:industries/healthcare/determiners)? oxygenation
+dissection, ?multiple channel (electrode)
+action current monitoring
+change (?A:industries/healthcare/determiners)? thumb
+mandibles stereotactic particulate radiosurgery
+reconstruction via natural or artificial opening endoscopic
+lysis (?A:industries/healthcare/prepositional_phrases) ?alfapump system
+changing (?A:industries/healthcare/determiners)? cast from (?A:industries/healthcare/determiners)? ears
+changed (?A:industries/healthcare/determiners)? hand
+change (?A:industries/healthcare/determiners)? bandage on (?A:industries/healthcare/determiners)? left upper leg
+bypassed (?A:industries/healthcare/determiners)? carbon spinal stabilization device, pedicle based into (?A:industries/healthcare/determiners)? left hand tendon
+repositioning (?A:industries/healthcare/prepositional_phrases) ?xt (s)(dr/vr)
+insert (?A:industries/healthcare/determiners)? products of conception
+assistance support
+removed (?A:industries/healthcare/determiners)? upper arm
+sacra high velocity-low amplitude treatment
+endoscopic left internal iliac arteries
+endoscopic removal
+perineometry to monitor bladder activity intervention
+section (?A:industries/healthcare/prepositional_phrases) ?right atrium
+motor and/or nerve function assessment \- speech recognition
+remove (?A:industries/healthcare/determiners)? left toes
+neurostimulator lead with paired stimulation system introduction
+hearts planar nuclear medicine imaging
+inspected (?A:industries/healthcare/determiners)? imdelltra into (?A:industries/healthcare/determiners)? inferior vena cava
+restored (?A:industries/healthcare/determiners)? ventilation
+extraction (?A:industries/healthcare/prepositional_phrases) ?retained products of conception
+removed (?A:industries/healthcare/determiners)? right lower arms
+ligate (?A:industries/healthcare/determiners)? right nipple
+gastrointestinal systems mri
+removed (?A:industries/healthcare/determiners)? cast on (?A:industries/healthcare/determiners)? right thumb
+cervicals fascial release treatment
+cervicals chiropractic adjustment
+changing (?A:industries/healthcare/determiners)? brace on (?A:industries/healthcare/determiners)? left thumb
+stomach plaque radiation
+monitoring (?A:industries/healthcare/determiners)? total activities
+irrigated (?A:industries/healthcare/determiners)? coronary artery
+personality and behavioral perineometry to monitor bowel activity
+anterior cruciate ligaments revision
+division carotid glomus
+fetus and obstetrical other imaging
+mastoids external
+right neck subcutaneous tissue and fascias dilation
+removed (?A:industries/healthcare/determiners)? bandage from (?A:industries/healthcare/determiners)? left toes
+measure (?A:industries/healthcare/determiners)? resistance
+assistance minor salivary glands
+female reproductive system ultrasonography
+change (?A:industries/healthcare/determiners)? bandage on (?A:industries/healthcare/determiners)? left toes
+insertion axillary artery
+change (?A:industries/healthcare/determiners)? faces
+bypass via natural or artificial opening
+physiological system atmospheric control
+pars flaccida monitoring
+monitoring (?A:industries/healthcare/determiners)? physiological devices
+inspect (?A:industries/healthcare/determiners)? cobenfy
+removing (?A:industries/healthcare/determiners)? intermittent pressure device on (?A:industries/healthcare/determiners)? right upper arms
+excising (?A:industries/healthcare/determiners)? pituitary glands
+cognitive-behavioral perineometry to regulate bladder activity
+bones reposition
+monitor (?A:industries/healthcare/determiners)? sounds
+respiratory systems positron emission tomographic (pet) imaging
+monitored (?A:industries/healthcare/determiners)? flow
+family counseling for psychoanalysis dependence
+assisted (?A:industries/healthcare/determiners)? ventilations
+extirpated (?A:industries/healthcare/determiners)? fovea
+left subclavian arteries cauterization
+transfused (?A:industries/healthcare/determiners)? destructive agent into (?A:industries/healthcare/determiners)? physiological systems and anatomical regions
+compress (?A:industries/healthcare/determiners)? right lower leg
+cannulation via natural opening with percutaneous endoscopic assistance
+pelvises low velocity-high amplitude treatment
+controlled (?A:industries/healthcare/determiners)? right toe phalanxes
+frontal bone insertion
+eoa supplementation
+bypassing (?A:industries/healthcare/determiners)? uterine supporting structures
+mediastina intraoperative radiation therapy iort
+bilateral lung irrigation
+training of self management skills debriefing
+cervicals chiropractic alignment
+tah extraction
+supportive perineometry to regulate bladder activity
+ischemic stroke system iss500 replacement
+compressed (?A:industries/healthcare/determiners)? brace on (?A:industries/healthcare/determiners)? left lower legs

@@ -1,0 +1,32 @@
+open wound
+open fracture
+removal of sutures
+removal of staples
+examination under anesthesia
+surgical consultation
+surgical planning
+surgical approach
+surgical technique
+surgical outcome
+procedure room
+procedure note
+procedure complications
+procedure time
+bypass graft occlusion
+bypass graft stenosis
+implant failure
+implant rejection
+transplant rejection
+graft versus host
+stent thrombosis
+stent restenosis
+prosthetic valve endocarditis
+joint prosthesis infection
+surgical wound dehiscence
+anastomotic leak
+incisional hernia
+adhesive bowel obstruction
+post-surgical pain
+phantom limb pain
+surgical menopause
+surgical castration

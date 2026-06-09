@@ -1,0 +1,88 @@
+# FP-2.a probe — vessel + dissection / occlusion anatomy-pathology blocklist
+#
+# All lines below are ICD-10-CM diagnosis titles whose surface form collides
+# with the compositional `<body_part> <op>` pattern for ops like `dissection`
+# and `occlusion`. They are pure pathology, NOT procedures.
+#
+# Acceptance: zero matches against
+#   industries/healthcare/medical_procedures/eng/surgical
+# and
+#   industries/healthcare/medical_classifications/px_titles/icd10pcs
+#
+# Mechanism: pattern score="0" lines added to the public aggregator (alongside
+# FP-4). Score=0 spans are dropped before extraction output.
+#
+# Companion regression: tests/regression/regressed_2026_05_28.txt (appended).
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Section A — Vessel + dissection (arterial dissection diagnoses)
+# ─────────────────────────────────────────────────────────────────────────────
+acute aortic dissection
+aortic dissection type A
+aortic dissection type B
+chronic aortic dissection
+carotid artery dissection
+coronary artery dissection
+femoral artery dissection
+iliac artery dissection
+internal carotid artery dissection
+mesenteric artery dissection
+renal artery dissection
+splenic artery dissection
+spontaneous coronary artery dissection
+vertebral artery dissection
+
+# Bare/undirected forms observed at the inner-span level
+aortic dissection
+artery dissection
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Section B — Vessel + occlusion (arterial / venous occlusion diagnoses)
+# ─────────────────────────────────────────────────────────────────────────────
+Occlusion and stenosis of anterior cerebral artery
+Occlusion and stenosis of bilateral anterior cerebral arteries
+Occlusion and stenosis of carotid artery
+Occlusion and stenosis of left vertebral artery
+Occlusion and stenosis of unspecified precerebral artery
+Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries
+Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery
+Tributary (branch) retinal vein occlusion, bilateral, stable
+Tributary (branch) retinal vein occlusion, left eye
+Tributary (branch) retinal vein occlusion, unspecified eye, with macular edema
+Partial retinal artery occlusion
+branch retinal vein occlusion
+central retinal vein occlusion
+retinal artery occlusion
+basilar artery occlusion
+iliac artery occlusion
+mesenteric artery occlusion
+superior mesenteric artery occlusion
+arterial occlusion
+venous occlusion
+
+# Bare/undirected forms (inner-span leaks)
+vein occlusion
+artery occlusion
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Section C — FP-4 detachment leaks (surface variants not caught by FP-4 v1)
+# ─────────────────────────────────────────────────────────────────────────────
+detachment, left eye
+detachment, right eye
+detachment involving the macula
+detachment of retinal pigment epithelium
+Hemorrhagic detachment of retinal pigment epithelium, unspecified eye
+Hemorrhagic choroidal detachment, right eye
+Serous choroidal detachment, unspecified eye
+Unspecified choroidal detachment
+Unspecified choroidal detachment, bilateral
+Unspecified retinal detachment with retinal break, left eye
+Traction detachment of retina
+Horseshoe tear of retina without detachment
+Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment involving the macula
+Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, left eye
+Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula
+Other specified diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, bilateral
+Other specified diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, unspecified eye
+Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, bilateral

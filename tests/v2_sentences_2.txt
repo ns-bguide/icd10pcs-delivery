@@ -1,0 +1,1025 @@
+2W00X0Z	We conducted a change of the head.
+2W00X0Z	We conducted a change of the head with a traction apparatus.
+2W00X1Z	We conducted a change of the head with a splint.
+2W00X2Z	We conducted a change of the head with a cast.
+2W00X3Z	We conducted a change of the head with a brace.
+2W00X4Z	We conducted a change of the head with a bandage.
+2W00X5Z	We conducted a change of the head with a packing material.
+2W00X6Z	We conducted a change of the head with pressure dressing.
+2W00X7Z	We conducted a change of the head with an intermittent pressure device.
+2W00XYZ	We conducted a change of the head with another device.
+2W01X0Z	We conducted a change of the face.
+2W01X0Z	We conducted a change of the face with a traction apparatus.
+2W01X1Z	We conducted a change of the face with a splint.
+2W01X2Z	We conducted a change of the face with a cast.
+2W01X3Z	We conducted a change of the face with a brace.
+2W01X4Z	We conducted a change of the face with a bandage.
+2W01X5Z	We conducted a change of the face with a packing material.
+2W01X6Z	We conducted a change of the face with pressure dressing.
+2W01X7Z	We conducted a change of the face with an intermittent pressure device.
+2W01X9Z	We conducted a change of the face with a wire.
+2W01XYZ	We conducted a change of the face with another device.
+2W02X0Z	We conducted a change of the neck.
+2W02X0Z	We conducted a change of the neck with a traction apparatus.
+2W02X1Z	We conducted a change of the neck with a splint.
+2W02X2Z	We conducted a change of the neck with a cast.
+2W02X3Z	We conducted a change of the neck with a brace.
+2W02X4Z	We conducted a change of the neck with a bandage.
+2W02X5Z	We conducted a change of the neck with a packing material.
+2W02X6Z	We conducted a change of the neck with pressure dressing.
+2W02X7Z	We conducted a change of the neck with an intermittent pressure device.
+2W02XYZ	We conducted a change of the neck with another device.
+2W03X0Z	We conducted a change of the abdominal wall.
+2W03X0Z	We conducted a change of the abdominal wall with a traction apparatus.
+2W03X1Z	We conducted a change of the abdominal wall with a splint.
+2W03X2Z	We conducted a change of the abdominal wall with a cast.
+2W03X3Z	We conducted a change of the abdominal wall with a brace.
+2W03X4Z	We conducted a change of the abdominal wall with a bandage.
+2W03X5Z	We conducted a change of the abdominal wall with a packing material.
+2W03X6Z	We conducted a change of the abdominal wall with pressure dressing.
+2W03X7Z	We conducted a change of the abdominal wall with an intermittent pressure device.
+2W03XYZ	We conducted a change of the abdominal wall with another device.
+2W04X0Z	We conducted a change of the chest wall.
+2W04X0Z	We conducted a change of the chest wall with a traction apparatus.
+2W04X1Z	We conducted a change of the chest wall with a splint.
+2W04X2Z	We conducted a change of the chest wall with a cast.
+2W04X3Z	We conducted a change of the chest wall with a brace.
+2W04X4Z	We conducted a change of the chest wall with a bandage.
+2W04X5Z	We conducted a change of the chest wall with a packing material.
+2W04X6Z	We conducted a change of the chest wall with pressure dressing.
+2W04X7Z	We conducted a change of the chest wall with an intermittent pressure device.
+2W04XYZ	We conducted a change of the chest wall with another device.
+2W05X0Z	We conducted a change of the back.
+2W05X0Z	We conducted a change of the back with a traction apparatus.
+2W05X1Z	We conducted a change of the back with a splint.
+2W05X2Z	We conducted a change of the back with a cast.
+2W05X3Z	We conducted a change of the back with a brace.
+2W05X4Z	We conducted a change of the back with a bandage.
+2W05X5Z	We conducted a change of the back with a packing material.
+2W05X6Z	We conducted a change of the back with pressure dressing.
+2W05X7Z	We conducted a change of the back with an intermittent pressure device.
+2W05XYZ	We conducted a change of the back with another device.
+2W06X0Z	We conducted a change of the right inguinal region.
+2W06X0Z	We conducted a change of the right inguinal region with a traction apparatus.
+2W06X1Z	We conducted a change of the right inguinal region with a splint.
+2W06X2Z	We conducted a change of the right inguinal region with a cast.
+2W06X3Z	We conducted a change of the right inguinal region with a brace.
+2W06X4Z	We conducted a change of the right inguinal region with a bandage.
+2W06X5Z	We conducted a change of the right inguinal region with a packing material.
+2W06X6Z	We conducted a change of the right inguinal region with pressure dressing.
+2W06X7Z	We conducted a change of the right inguinal region with an intermittent pressure device.
+2W06XYZ	We conducted a change of the right inguinal region with another device.
+2W07X0Z	We conducted a change of the left inguinal region.
+2W07X0Z	We conducted a change of the left inguinal region with a traction apparatus.
+2W07X1Z	We conducted a change of the left inguinal region with a splint.
+2W07X2Z	We conducted a change of the left inguinal region with a cast.
+2W07X3Z	We conducted a change of the left inguinal region with a brace.
+2W07X4Z	We conducted a change of the left inguinal region with a bandage.
+2W07X5Z	We conducted a change of the left inguinal region with a packing material.
+2W07X6Z	We conducted a change of the left inguinal region with pressure dressing.
+2W07X7Z	We conducted a change of the left inguinal region with an intermittent pressure device.
+2W07XYZ	We conducted a change of the left inguinal region with another device.
+2W08X0Z	We conducted a change of the right upper extremity.
+2W08X0Z	We conducted a change of the right upper extremity with a traction apparatus.
+2W08X1Z	We conducted a change of the right upper extremity with a splint.
+2W08X2Z	We conducted a change of the right upper extremity with a cast.
+2W08X3Z	We conducted a change of the right upper extremity with a brace.
+2W08X4Z	We conducted a change of the right upper extremity with a bandage.
+2W08X5Z	We conducted a change of the right upper extremity with a packing material.
+2W08X6Z	We conducted a change of the right upper extremity with pressure dressing.
+2W08X7Z	We conducted a change of the right upper extremity with an intermittent pressure device.
+2W08XYZ	We conducted a change of the right upper extremity with another device.
+2W09X0Z	We conducted a change of the left upper extremity.
+2W09X0Z	We conducted a change of the left upper extremity with a traction apparatus.
+2W09X1Z	We conducted a change of the left upper extremity with a splint.
+2W09X2Z	We conducted a change of the left upper extremity with a cast.
+2W09X3Z	We conducted a change of the left upper extremity with a brace.
+2W09X4Z	We conducted a change of the left upper extremity with a bandage.
+2W09X5Z	We conducted a change of the left upper extremity with a packing material.
+2W09X6Z	We conducted a change of the left upper extremity with pressure dressing.
+2W09X7Z	We conducted a change of the left upper extremity with an intermittent pressure device.
+2W09XYZ	We conducted a change of the left upper extremity with another device.
+2W0AX0Z	We conducted a change of the right upper arm.
+2W0AX0Z	We conducted a change of the right upper arm with a traction apparatus.
+2W0AX1Z	We conducted a change of the right upper arm with a splint.
+2W0AX2Z	We conducted a change of the right upper arm with a cast.
+2W0AX3Z	We conducted a change of the right upper arm with a brace.
+2W0AX4Z	We conducted a change of the right upper arm with a bandage.
+2W0AX5Z	We conducted a change of the right upper arm with a packing material.
+2W0AX6Z	We conducted a change of the right upper arm with pressure dressing.
+2W0AX7Z	We conducted a change of the right upper arm with an intermittent pressure device.
+2W0AXYZ	We conducted a change of the right upper arm with another device.
+2W0BX0Z	We conducted a change of the left upper arm.
+2W0BX0Z	We conducted a change of the left upper arm with a traction apparatus.
+2W0BX1Z	We conducted a change of the left upper arm with a splint.
+2W0BX2Z	We conducted a change of the left upper arm with a cast.
+2W0BX3Z	We conducted a change of the left upper arm with a brace.
+2W0BX4Z	We conducted a change of the left upper arm with a bandage.
+2W0BX5Z	We conducted a change of the left upper arm with a packing material.
+2W0BX6Z	We conducted a change of the left upper arm with pressure dressing.
+2W0BX7Z	We conducted a change of the left upper arm with an intermittent pressure device.
+2W0BXYZ	We conducted a change of the left upper arm with another device.
+2W0CX0Z	We conducted a change of the right lower arm.
+2W0CX0Z	We conducted a change of the right lower arm with a traction apparatus.
+2W0CX1Z	We conducted a change of the right lower arm with a splint.
+2W0CX2Z	We conducted a change of the right lower arm with a cast.
+2W0CX3Z	We conducted a change of the right lower arm with a brace.
+2W0CX4Z	We conducted a change of the right lower arm with a bandage.
+2W0CX5Z	We conducted a change of the right lower arm with a packing material.
+2W0CX6Z	We conducted a change of the right lower arm with pressure dressing.
+2W0CX7Z	We conducted a change of the right lower arm with an intermittent pressure device.
+2W0CXYZ	We conducted a change of the right lower arm with another device.
+2W0DX0Z	We conducted a change of the left lower arm.
+2W0DX0Z	We conducted a change of the left lower arm with a traction apparatus.
+2W0DX1Z	We conducted a change of the left lower arm with a splint.
+2W0DX2Z	We conducted a change of the left lower arm with a cast.
+2W0DX3Z	We conducted a change of the left lower arm with a brace.
+2W0DX4Z	We conducted a change of the left lower arm with a bandage.
+2W0DX5Z	We conducted a change of the left lower arm with a packing material.
+2W0DX6Z	We conducted a change of the left lower arm with pressure dressing.
+2W0DX7Z	We conducted a change of the left lower arm with an intermittent pressure device.
+2W0DXYZ	We conducted a change of the left lower arm with another device.
+2W0EX0Z	We conducted a change of the right hand.
+2W0EX0Z	We conducted a change of the right hand with a traction apparatus.
+2W0EX1Z	We conducted a change of the right hand with a splint.
+2W0EX2Z	We conducted a change of the right hand with a cast.
+2W0EX3Z	We conducted a change of the right hand with a brace.
+2W0EX4Z	We conducted a change of the right hand with a bandage.
+2W0EX5Z	We conducted a change of the right hand with a packing material.
+2W0EX6Z	We conducted a change of the right hand with pressure dressing.
+2W0EX7Z	We conducted a change of the right hand with an intermittent pressure device.
+2W0EXYZ	We conducted a change of the right hand with another device.
+2W0FX0Z	We conducted a change of the left hand.
+2W0FX0Z	We conducted a change of the left hand with a traction apparatus.
+2W0FX1Z	We conducted a change of the left hand with a splint.
+2W0FX2Z	We conducted a change of the left hand with a cast.
+2W0FX3Z	We conducted a change of the left hand with a brace.
+2W0FX4Z	We conducted a change of the left hand with a bandage.
+2W0FX5Z	We conducted a change of the left hand with a packing material.
+2W0FX6Z	We conducted a change of the left hand with pressure dressing.
+2W0FX7Z	We conducted a change of the left hand with an intermittent pressure device.
+2W0FXYZ	We conducted a change of the left hand with another device.
+2W0GX0Z	We conducted a change of the right thumb.
+2W0GX0Z	We conducted a change of the right thumb with a traction apparatus.
+2W0GX1Z	We conducted a change of the right thumb with a splint.
+2W0GX2Z	We conducted a change of the right thumb with a cast.
+2W0GX3Z	We conducted a change of the right thumb with a brace.
+2W0GX4Z	We conducted a change of the right thumb with a bandage.
+2W0GX5Z	We conducted a change of the right thumb with a packing material.
+2W0GX6Z	We conducted a change of the right thumb with pressure dressing.
+2W0GX7Z	We conducted a change of the right thumb with an intermittent pressure device.
+2W0GXYZ	We conducted a change of the right thumb with another device.
+2W0HX0Z	We conducted a change of the left thumb.
+2W0HX0Z	We conducted a change of the left thumb with a traction apparatus.
+2W0HX1Z	We conducted a change of the left thumb with a splint.
+2W0HX2Z	We conducted a change of the left thumb with a cast.
+2W0HX3Z	We conducted a change of the left thumb with a brace.
+2W0HX4Z	We conducted a change of the left thumb with a bandage.
+2W0HX5Z	We conducted a change of the left thumb with a packing material.
+2W0HX6Z	We conducted a change of the left thumb with pressure dressing.
+2W0HX7Z	We conducted a change of the left thumb with an intermittent pressure device.
+2W0HXYZ	We conducted a change of the left thumb with another device.
+2W0JX0Z	We conducted a change of the right finger.
+2W0JX0Z	We conducted a change of the right finger with a traction apparatus.
+2W0JX1Z	We conducted a change of the right finger with a splint.
+2W0JX2Z	We conducted a change of the right finger with a cast.
+2W0JX3Z	We conducted a change of the right finger with a brace.
+2W0JX4Z	We conducted a change of the right finger with a bandage.
+2W0JX5Z	We conducted a change of the right finger with a packing material.
+2W0JX6Z	We conducted a change of the right finger with pressure dressing.
+2W0JX7Z	We conducted a change of the right finger with an intermittent pressure device.
+2W0JXYZ	We conducted a change of the right finger with another device.
+2W0KX0Z	We conducted a change of the left finger.
+2W0KX0Z	We conducted a change of the left finger with a traction apparatus.
+2W0KX1Z	We conducted a change of the left finger with a splint.
+2W0KX2Z	We conducted a change of the left finger with a cast.
+2W0KX3Z	We conducted a change of the left finger with a brace.
+2W0KX4Z	We conducted a change of the left finger with a bandage.
+2W0KX5Z	We conducted a change of the left finger with a packing material.
+2W0KX6Z	We conducted a change of the left finger with pressure dressing.
+2W0KX7Z	We conducted a change of the left finger with an intermittent pressure device.
+2W0KXYZ	We conducted a change of the left finger with another device.
+2W0MX0Z	We conducted a change of the left lower extremity.
+2W0MX0Z	We conducted a change of the left lower extremity with a traction apparatus.
+2W0MX1Z	We conducted a change of the left lower extremity with a splint.
+2W0MX2Z	We conducted a change of the left lower extremity with a cast.
+2W0MX3Z	We conducted a change of the left lower extremity with a brace.
+2W0MX4Z	We conducted a change of the left lower extremity with a bandage.
+2W0MX5Z	We conducted a change of the left lower extremity with a packing material.
+2W0MX6Z	We conducted a change of the left lower extremity with pressure dressing.
+2W0MX7Z	We conducted a change of the left lower extremity with an intermittent pressure device.
+2W0MXYZ	We conducted a change of the left lower extremity with another device.
+2W0NX0Z	We conducted a change of the right upper leg.
+2W0NX0Z	We conducted a change of the right upper leg with a traction apparatus.
+2W0NX1Z	We conducted a change of the right upper leg with a splint.
+2W0NX2Z	We conducted a change of the right upper leg with a cast.
+2W0NX3Z	We conducted a change of the right upper leg with a brace.
+2W0NX4Z	We conducted a change of the right upper leg with a bandage.
+2W0NX5Z	We conducted a change of the right upper leg with a packing material.
+2W0NX6Z	We conducted a change of the right upper leg with pressure dressing.
+2W0NX7Z	We conducted a change of the right upper leg with an intermittent pressure device.
+2W0NXYZ	We conducted a change of the right upper leg with another device.
+2W0PX0Z	We conducted a change of the left upper leg.
+2W0PX0Z	We conducted a change of the left upper leg with a traction apparatus.
+2W0PX1Z	We conducted a change of the left upper leg with a splint.
+2W0PX2Z	We conducted a change of the left upper leg with a cast.
+2W0PX3Z	We conducted a change of the left upper leg with a brace.
+2W0PX4Z	We conducted a change of the left upper leg with a bandage.
+2W0PX5Z	We conducted a change of the left upper leg with a packing material.
+2W0PX6Z	We conducted a change of the left upper leg with pressure dressing.
+2W0PX7Z	We conducted a change of the left upper leg with an intermittent pressure device.
+2W0PXYZ	We conducted a change of the left upper leg with another device.
+2W0QX0Z	We conducted a change of the right lower leg.
+2W0QX0Z	We conducted a change of the right lower leg with a traction apparatus.
+2W0QX1Z	We conducted a change of the right lower leg with a splint.
+2W0QX2Z	We conducted a change of the right lower leg with a cast.
+2W0QX3Z	We conducted a change of the right lower leg with a brace.
+2W0QX4Z	We conducted a change of the right lower leg with a bandage.
+2W0QX5Z	We conducted a change of the right lower leg with a packing material.
+2W0QX6Z	We conducted a change of the right lower leg with pressure dressing.
+2W0QX7Z	We conducted a change of the right lower leg with an intermittent pressure device.
+2W0QXYZ	We conducted a change of the right lower leg with another device.
+2W0RX0Z	We conducted a change of the left lower leg.
+2W0RX0Z	We conducted a change of the left lower leg with a traction apparatus.
+2W0RX1Z	We conducted a change of the left lower leg with a splint.
+2W0RX2Z	We conducted a change of the left lower leg with a cast.
+2W0RX3Z	We conducted a change of the left lower leg with a brace.
+2W0RX4Z	We conducted a change of the left lower leg with a bandage.
+2W0RX5Z	We conducted a change of the left lower leg with a packing material.
+2W0RX6Z	We conducted a change of the left lower leg with pressure dressing.
+2W0RX7Z	We conducted a change of the left lower leg with an intermittent pressure device.
+2W0RXYZ	We conducted a change of the left lower leg with another device.
+2W0SX0Z	We conducted a change of the right foot.
+2W0SX0Z	We conducted a change of the right foot with a traction apparatus.
+2W0SX1Z	We conducted a change of the right foot with a splint.
+2W0SX2Z	We conducted a change of the right foot with a cast.
+2W0SX3Z	We conducted a change of the right foot with a brace.
+2W0SX4Z	We conducted a change of the right foot with a bandage.
+2W0SX5Z	We conducted a change of the right foot with a packing material.
+2W0SX6Z	We conducted a change of the right foot with pressure dressing.
+2W0SX7Z	We conducted a change of the right foot with an intermittent pressure device.
+2W0SXYZ	We conducted a change of the right foot with another device.
+2W0TX0Z	We conducted a change of the left foot.
+2W0TX0Z	We conducted a change of the left foot with a traction apparatus.
+2W0TX1Z	We conducted a change of the left foot with a splint.
+2W0TX2Z	We conducted a change of the left foot with a cast.
+2W0TX3Z	We conducted a change of the left foot with a brace.
+2W0TX4Z	We conducted a change of the left foot with a bandage.
+2W0TX5Z	We conducted a change of the left foot with a packing material.
+2W0TX6Z	We conducted a change of the left foot with pressure dressing.
+2W0TX7Z	We conducted a change of the left foot with an intermittent pressure device.
+2W0TXYZ	We conducted a change of the left foot with another device.
+2W0UX0Z	We conducted a change of the right toe.
+2W0UX0Z	We conducted a change of the right toe with a traction apparatus.
+2W0UX1Z	We conducted a change of the right toe with a splint.
+2W0UX2Z	We conducted a change of the right toe with a cast.
+2W0UX3Z	We conducted a change of the right toe with a brace.
+2W0UX4Z	We conducted a change of the right toe with a bandage.
+2W0UX5Z	We conducted a change of the right toe with a packing material.
+2W0UX6Z	We conducted a change of the right toe with pressure dressing.
+2W0UX7Z	We conducted a change of the right toe with an intermittent pressure device.
+2W0UXYZ	We conducted a change of the right toe with another device.
+2W0VX0Z	We conducted a change of the left toe.
+2W0VX0Z	We conducted a change of the left toe with a traction apparatus.
+2W0VX1Z	We conducted a change of the left toe with a splint.
+2W0VX2Z	We conducted a change of the left toe with a cast.
+2W0VX3Z	We conducted a change of the left toe with a brace.
+2W0VX4Z	We conducted a change of the left toe with a bandage.
+2W0VX5Z	We conducted a change of the left toe with a packing material.
+2W0VX6Z	We conducted a change of the left toe with pressure dressing.
+2W0VX7Z	We conducted a change of the left toe with an intermittent pressure device.
+2W0VXYZ	We conducted a change of the left toe with another device.
+2W10X6Z	We conducted a compression of the head.
+2W10X6Z	We conducted a compression of the head with pressure dressing.
+2W10X7Z	We conducted a compression of the head with an intermittent pressure device.
+2W11X6Z	We conducted a compression of the face.
+2W11X6Z	We conducted a compression of the face with pressure dressing.
+2W11X7Z	We conducted a compression of the face with an intermittent pressure device.
+2W12X6Z	We conducted a compression of the neck.
+2W12X6Z	We conducted a compression of the neck with pressure dressing.
+2W12X7Z	We conducted a compression of the neck with an intermittent pressure device.
+2W13X6Z	We conducted a compression of the abdominal wall.
+2W13X6Z	We conducted a compression of the abdominal wall with pressure dressing.
+2W13X7Z	We conducted a compression of the abdominal wall with an intermittent pressure device.
+2W14X6Z	We conducted a compression of the chest wall.
+2W14X6Z	We conducted a compression of the chest wall with pressure dressing.
+2W14X7Z	We conducted a compression of the chest wall with an intermittent pressure device.
+2W15X6Z	We conducted a compression of the back.
+2W15X6Z	We conducted a compression of the back with pressure dressing.
+2W15X7Z	We conducted a compression of the back with an intermittent pressure device.
+2W16X6Z	We conducted a compression of the right inguinal region.
+2W16X6Z	We conducted a compression of the right inguinal region with pressure dressing.
+2W16X7Z	We conducted a compression of the right inguinal region with an intermittent pressure device.
+2W17X6Z	We conducted a compression of the left inguinal region.
+2W17X6Z	We conducted a compression of the left inguinal region with pressure dressing.
+2W17X7Z	We conducted a compression of the left inguinal region with an intermittent pressure device.
+2W18X6Z	We conducted a compression of the right upper extremity.
+2W18X6Z	We conducted a compression of the right upper extremity with pressure dressing.
+2W18X7Z	We conducted a compression of the right upper extremity with an intermittent pressure device.
+2W19X6Z	We conducted a compression of the left upper extremity.
+2W19X6Z	We conducted a compression of the left upper extremity with pressure dressing.
+2W19X7Z	We conducted a compression of the left upper extremity with an intermittent pressure device.
+2W1AX6Z	We conducted a compression of the right upper arm.
+2W1AX6Z	We conducted a compression of the right upper arm with pressure dressing.
+2W1AX7Z	We conducted a compression of the right upper arm with an intermittent pressure device.
+2W1BX6Z	We conducted a compression of the left upper arm.
+2W1BX6Z	We conducted a compression of the left upper arm with pressure dressing.
+2W1BX7Z	We conducted a compression of the left upper arm with an intermittent pressure device.
+2W1CX6Z	We conducted a compression of the right lower arm.
+2W1CX6Z	We conducted a compression of the right lower arm with pressure dressing.
+2W1CX7Z	We conducted a compression of the right lower arm with an intermittent pressure device.
+2W1DX6Z	We conducted a compression of the left lower arm.
+2W1DX6Z	We conducted a compression of the left lower arm with pressure dressing.
+2W1DX7Z	We conducted a compression of the left lower arm with an intermittent pressure device.
+2W1EX6Z	We conducted a compression of the right hand.
+2W1EX6Z	We conducted a compression of the right hand with pressure dressing.
+2W1EX7Z	We conducted a compression of the right hand with an intermittent pressure device.
+2W1FX6Z	We conducted a compression of the left hand.
+2W1FX6Z	We conducted a compression of the left hand with pressure dressing.
+2W1FX7Z	We conducted a compression of the left hand with an intermittent pressure device.
+2W1GX6Z	We conducted a compression of the right thumb.
+2W1GX6Z	We conducted a compression of the right thumb with pressure dressing.
+2W1GX7Z	We conducted a compression of the right thumb with an intermittent pressure device.
+2W1HX6Z	We conducted a compression of the left thumb.
+2W1HX6Z	We conducted a compression of the left thumb with pressure dressing.
+2W1HX7Z	We conducted a compression of the left thumb with an intermittent pressure device.
+2W1JX6Z	We conducted a compression of the right finger.
+2W1JX6Z	We conducted a compression of the right finger with pressure dressing.
+2W1JX7Z	We conducted a compression of the right finger with an intermittent pressure device.
+2W1KX6Z	We conducted a compression of the left finger.
+2W1KX6Z	We conducted a compression of the left finger with pressure dressing.
+2W1KX7Z	We conducted a compression of the left finger with an intermittent pressure device.
+2W1MX6Z	We conducted a compression of the left lower extremity.
+2W1MX6Z	We conducted a compression of the left lower extremity with pressure dressing.
+2W1MX7Z	We conducted a compression of the left lower extremity with an intermittent pressure device.
+2W1NX6Z	We conducted a compression of the right upper leg.
+2W1NX6Z	We conducted a compression of the right upper leg with pressure dressing.
+2W1NX7Z	We conducted a compression of the right upper leg with an intermittent pressure device.
+2W1PX6Z	We conducted a compression of the left upper leg.
+2W1PX6Z	We conducted a compression of the left upper leg with pressure dressing.
+2W1PX7Z	We conducted a compression of the left upper leg with an intermittent pressure device.
+2W1QX6Z	We conducted a compression of the right lower leg.
+2W1QX6Z	We conducted a compression of the right lower leg with pressure dressing.
+2W1QX7Z	We conducted a compression of the right lower leg with an intermittent pressure device.
+2W1RX6Z	We conducted a compression of the left lower leg.
+2W1RX6Z	We conducted a compression of the left lower leg with pressure dressing.
+2W1RX7Z	We conducted a compression of the left lower leg with an intermittent pressure device.
+2W1SX6Z	We conducted a compression of the right foot.
+2W1SX6Z	We conducted a compression of the right foot with pressure dressing.
+2W1SX7Z	We conducted a compression of the right foot with an intermittent pressure device.
+2W1TX6Z	We conducted a compression of the left foot.
+2W1TX6Z	We conducted a compression of the left foot with pressure dressing.
+2W1TX7Z	We conducted a compression of the left foot with an intermittent pressure device.
+2W1UX6Z	We conducted a compression of the right toe.
+2W1UX6Z	We conducted a compression of the right toe with pressure dressing.
+2W1UX7Z	We conducted a compression of the right toe with an intermittent pressure device.
+2W1VX6Z	We conducted a compression of the left toe.
+2W1VX6Z	We conducted a compression of the left toe with pressure dressing.
+2W1VX7Z	We conducted a compression of the left toe with an intermittent pressure device.
+2W20X4Z	We conducted a dressing of the head.
+2W20X4Z	We conducted a dressing of the head with a bandage.
+2W21X4Z	We conducted a dressing of the face.
+2W21X4Z	We conducted a dressing of the face with a bandage.
+2W22X4Z	We conducted a dressing of the neck.
+2W22X4Z	We conducted a dressing of the neck with a bandage.
+2W23X4Z	We conducted a dressing of the abdominal wall.
+2W23X4Z	We conducted a dressing of the abdominal wall with a bandage.
+2W24X4Z	We conducted a dressing of the chest wall.
+2W24X4Z	We conducted a dressing of the chest wall with a bandage.
+2W25X4Z	We conducted a dressing of the back.
+2W25X4Z	We conducted a dressing of the back with a bandage.
+2W26X4Z	We conducted a dressing of the right inguinal region.
+2W26X4Z	We conducted a dressing of the right inguinal region with a bandage.
+2W27X4Z	We conducted a dressing of the left inguinal region.
+2W27X4Z	We conducted a dressing of the left inguinal region with a bandage.
+2W28X4Z	We conducted a dressing of the right upper extremity.
+2W28X4Z	We conducted a dressing of the right upper extremity with a bandage.
+2W29X4Z	We conducted a dressing of the left upper extremity.
+2W29X4Z	We conducted a dressing of the left upper extremity with a bandage.
+2W2AX4Z	We conducted a dressing of the right upper arm.
+2W2AX4Z	We conducted a dressing of the right upper arm with a bandage.
+2W2BX4Z	We conducted a dressing of the left upper arm.
+2W2BX4Z	We conducted a dressing of the left upper arm with a bandage.
+2W2CX4Z	We conducted a dressing of the right lower arm.
+2W2CX4Z	We conducted a dressing of the right lower arm with a bandage.
+2W2DX4Z	We conducted a dressing of the left lower arm.
+2W2DX4Z	We conducted a dressing of the left lower arm with a bandage.
+2W2EX4Z	We conducted a dressing of the right hand.
+2W2EX4Z	We conducted a dressing of the right hand with a bandage.
+2W2FX4Z	We conducted a dressing of the left hand.
+2W2FX4Z	We conducted a dressing of the left hand with a bandage.
+2W2GX4Z	We conducted a dressing of the right thumb.
+2W2GX4Z	We conducted a dressing of the right thumb with a bandage.
+2W2HX4Z	We conducted a dressing of the left thumb.
+2W2HX4Z	We conducted a dressing of the left thumb with a bandage.
+2W2JX4Z	We conducted a dressing of the right finger.
+2W2JX4Z	We conducted a dressing of the right finger with a bandage.
+2W2KX4Z	We conducted a dressing of the left finger.
+2W2KX4Z	We conducted a dressing of the left finger with a bandage.
+2W2MX4Z	We conducted a dressing of the left lower extremity.
+2W2MX4Z	We conducted a dressing of the left lower extremity with a bandage.
+2W2NX4Z	We conducted a dressing of the right upper leg.
+2W2NX4Z	We conducted a dressing of the right upper leg with a bandage.
+2W2PX4Z	We conducted a dressing of the left upper leg.
+2W2PX4Z	We conducted a dressing of the left upper leg with a bandage.
+2W2QX4Z	We conducted a dressing of the right lower leg.
+2W2QX4Z	We conducted a dressing of the right lower leg with a bandage.
+2W2RX4Z	We conducted a dressing of the left lower leg.
+2W2RX4Z	We conducted a dressing of the left lower leg with a bandage.
+2W2SX4Z	We conducted a dressing of the right foot.
+2W2SX4Z	We conducted a dressing of the right foot with a bandage.
+2W2TX4Z	We conducted a dressing of the left foot.
+2W2TX4Z	We conducted a dressing of the left foot with a bandage.
+2W2UX4Z	We conducted a dressing of the right toe.
+2W2UX4Z	We conducted a dressing of the right toe with a bandage.
+2W2VX4Z	We conducted a dressing of the left toe.
+2W2VX4Z	We conducted a dressing of the left toe with a bandage.
+2W30X1Z	We conducted an immobilization of the head.
+2W30X1Z	We conducted an immobilization of the head with a splint.
+2W30X2Z	We conducted an immobilization of the head with a cast.
+2W30X3Z	We conducted an immobilization of the head with a brace.
+2W30XYZ	We conducted an immobilization of the head with another device.
+2W31X1Z	We conducted an immobilization of the face.
+2W31X1Z	We conducted an immobilization of the face with a splint.
+2W31X2Z	We conducted an immobilization of the face with a cast.
+2W31X3Z	We conducted an immobilization of the face with a brace.
+2W31X9Z	We conducted an immobilization of the face with a wire.
+2W31XYZ	We conducted an immobilization of the face with another device.
+2W32X1Z	We conducted an immobilization of the neck.
+2W32X1Z	We conducted an immobilization of the neck with a splint.
+2W32X2Z	We conducted an immobilization of the neck with a cast.
+2W32X3Z	We conducted an immobilization of the neck with a brace.
+2W32XYZ	We conducted an immobilization of the neck with another device.
+2W33X1Z	We conducted an immobilization of the abdominal wall.
+2W33X1Z	We conducted an immobilization of the abdominal wall with a splint.
+2W33X2Z	We conducted an immobilization of the abdominal wall with a cast.
+2W33X3Z	We conducted an immobilization of the abdominal wall with a brace.
+2W33XYZ	We conducted an immobilization of the abdominal wall with another device.
+2W34X1Z	We conducted an immobilization of the chest wall.
+2W34X1Z	We conducted an immobilization of the chest wall with a splint.
+2W34X2Z	We conducted an immobilization of the chest wall with a cast.
+2W34X3Z	We conducted an immobilization of the chest wall with a brace.
+2W34XYZ	We conducted an immobilization of the chest wall with another device.
+2W35X1Z	We conducted an immobilization of the back.
+2W35X1Z	We conducted an immobilization of the back with a splint.
+2W35X2Z	We conducted an immobilization of the back with a cast.
+2W35X3Z	We conducted an immobilization of the back with a brace.
+2W35XYZ	We conducted an immobilization of the back with another device.
+2W36X1Z	We conducted an immobilization of the right inguinal region.
+2W36X1Z	We conducted an immobilization of the right inguinal region with a splint.
+2W36X2Z	We conducted an immobilization of the right inguinal region with a cast.
+2W36X3Z	We conducted an immobilization of the right inguinal region with a brace.
+2W36XYZ	We conducted an immobilization of the right inguinal region with another device.
+2W37X1Z	We conducted an immobilization of the left inguinal region.
+2W37X1Z	We conducted an immobilization of the left inguinal region with a splint.
+2W37X2Z	We conducted an immobilization of the left inguinal region with a cast.
+2W37X3Z	We conducted an immobilization of the left inguinal region with a brace.
+2W37XYZ	We conducted an immobilization of the left inguinal region with another device.
+2W38X1Z	We conducted an immobilization of the right upper extremity.
+2W38X1Z	We conducted an immobilization of the right upper extremity with a splint.
+2W38X2Z	We conducted an immobilization of the right upper extremity with a cast.
+2W38X3Z	We conducted an immobilization of the right upper extremity with a brace.
+2W38XYZ	We conducted an immobilization of the right upper extremity with another device.
+2W39X1Z	We conducted an immobilization of the left upper extremity.
+2W39X1Z	We conducted an immobilization of the left upper extremity with a splint.
+2W39X2Z	We conducted an immobilization of the left upper extremity with a cast.
+2W39X3Z	We conducted an immobilization of the left upper extremity with a brace.
+2W39XYZ	We conducted an immobilization of the left upper extremity with another device.
+2W3AX1Z	We conducted an immobilization of the right upper arm.
+2W3AX1Z	We conducted an immobilization of the right upper arm with a splint.
+2W3AX2Z	We conducted an immobilization of the right upper arm with a cast.
+2W3AX3Z	We conducted an immobilization of the right upper arm with a brace.
+2W3AXYZ	We conducted an immobilization of the right upper arm with another device.
+2W3BX1Z	We conducted an immobilization of the left upper arm.
+2W3BX1Z	We conducted an immobilization of the left upper arm with a splint.
+2W3BX2Z	We conducted an immobilization of the left upper arm with a cast.
+2W3BX3Z	We conducted an immobilization of the left upper arm with a brace.
+2W3BXYZ	We conducted an immobilization of the left upper arm with another device.
+2W3CX1Z	We conducted an immobilization of the right lower arm.
+2W3CX1Z	We conducted an immobilization of the right lower arm with a splint.
+2W3CX2Z	We conducted an immobilization of the right lower arm with a cast.
+2W3CX3Z	We conducted an immobilization of the right lower arm with a brace.
+2W3CXYZ	We conducted an immobilization of the right lower arm with another device.
+2W3DX1Z	We conducted an immobilization of the left lower arm.
+2W3DX1Z	We conducted an immobilization of the left lower arm with a splint.
+2W3DX2Z	We conducted an immobilization of the left lower arm with a cast.
+2W3DX3Z	We conducted an immobilization of the left lower arm with a brace.
+2W3DXYZ	We conducted an immobilization of the left lower arm with another device.
+2W3EX1Z	We conducted an immobilization of the right hand.
+2W3EX1Z	We conducted an immobilization of the right hand with a splint.
+2W3EX2Z	We conducted an immobilization of the right hand with a cast.
+2W3EX3Z	We conducted an immobilization of the right hand with a brace.
+2W3EXYZ	We conducted an immobilization of the right hand with another device.
+2W3FX1Z	We conducted an immobilization of the left hand.
+2W3FX1Z	We conducted an immobilization of the left hand with a splint.
+2W3FX2Z	We conducted an immobilization of the left hand with a cast.
+2W3FX3Z	We conducted an immobilization of the left hand with a brace.
+2W3FXYZ	We conducted an immobilization of the left hand with another device.
+2W3GX1Z	We conducted an immobilization of the right thumb.
+2W3GX1Z	We conducted an immobilization of the right thumb with a splint.
+2W3GX2Z	We conducted an immobilization of the right thumb with a cast.
+2W3GX3Z	We conducted an immobilization of the right thumb with a brace.
+2W3GXYZ	We conducted an immobilization of the right thumb with another device.
+2W3HX1Z	We conducted an immobilization of the left thumb.
+2W3HX1Z	We conducted an immobilization of the left thumb with a splint.
+2W3HX2Z	We conducted an immobilization of the left thumb with a cast.
+2W3HX3Z	We conducted an immobilization of the left thumb with a brace.
+2W3HXYZ	We conducted an immobilization of the left thumb with another device.
+2W3JX1Z	We conducted an immobilization of the right finger.
+2W3JX1Z	We conducted an immobilization of the right finger with a splint.
+2W3JX2Z	We conducted an immobilization of the right finger with a cast.
+2W3JX3Z	We conducted an immobilization of the right finger with a brace.
+2W3JXYZ	We conducted an immobilization of the right finger with another device.
+2W3KX1Z	We conducted an immobilization of the left finger.
+2W3KX1Z	We conducted an immobilization of the left finger with a splint.
+2W3KX2Z	We conducted an immobilization of the left finger with a cast.
+2W3KX3Z	We conducted an immobilization of the left finger with a brace.
+2W3KXYZ	We conducted an immobilization of the left finger with another device.
+2W3MX1Z	We conducted an immobilization of the left lower extremity.
+2W3MX1Z	We conducted an immobilization of the left lower extremity with a splint.
+2W3MX2Z	We conducted an immobilization of the left lower extremity with a cast.
+2W3MX3Z	We conducted an immobilization of the left lower extremity with a brace.
+2W3MXYZ	We conducted an immobilization of the left lower extremity with another device.
+2W3NX1Z	We conducted an immobilization of the right upper leg.
+2W3NX1Z	We conducted an immobilization of the right upper leg with a splint.
+2W3NX2Z	We conducted an immobilization of the right upper leg with a cast.
+2W3NX3Z	We conducted an immobilization of the right upper leg with a brace.
+2W3NXYZ	We conducted an immobilization of the right upper leg with another device.
+2W3PX1Z	We conducted an immobilization of the left upper leg.
+2W3PX1Z	We conducted an immobilization of the left upper leg with a splint.
+2W3PX2Z	We conducted an immobilization of the left upper leg with a cast.
+2W3PX3Z	We conducted an immobilization of the left upper leg with a brace.
+2W3PXYZ	We conducted an immobilization of the left upper leg with another device.
+2W3QX1Z	We conducted an immobilization of the right lower leg.
+2W3QX1Z	We conducted an immobilization of the right lower leg with a splint.
+2W3QX2Z	We conducted an immobilization of the right lower leg with a cast.
+2W3QX3Z	We conducted an immobilization of the right lower leg with a brace.
+2W3QXYZ	We conducted an immobilization of the right lower leg with another device.
+2W3RX1Z	We conducted an immobilization of the left lower leg.
+2W3RX1Z	We conducted an immobilization of the left lower leg with a splint.
+2W3RX2Z	We conducted an immobilization of the left lower leg with a cast.
+2W3RX3Z	We conducted an immobilization of the left lower leg with a brace.
+2W3RXYZ	We conducted an immobilization of the left lower leg with another device.
+2W3SX1Z	We conducted an immobilization of the right foot.
+2W3SX1Z	We conducted an immobilization of the right foot with a splint.
+2W3SX2Z	We conducted an immobilization of the right foot with a cast.
+2W3SX3Z	We conducted an immobilization of the right foot with a brace.
+2W3SXYZ	We conducted an immobilization of the right foot with another device.
+2W3TX1Z	We conducted an immobilization of the left foot.
+2W3TX1Z	We conducted an immobilization of the left foot with a splint.
+2W3TX2Z	We conducted an immobilization of the left foot with a cast.
+2W3TX3Z	We conducted an immobilization of the left foot with a brace.
+2W3TXYZ	We conducted an immobilization of the left foot with another device.
+2W3UX1Z	We conducted an immobilization of the right toe.
+2W3UX1Z	We conducted an immobilization of the right toe with a splint.
+2W3UX2Z	We conducted an immobilization of the right toe with a cast.
+2W3UX3Z	We conducted an immobilization of the right toe with a brace.
+2W3UXYZ	We conducted an immobilization of the right toe with another device.
+2W3VX1Z	We conducted an immobilization of the left toe.
+2W3VX1Z	We conducted an immobilization of the left toe with a splint.
+2W3VX2Z	We conducted an immobilization of the left toe with a cast.
+2W3VX3Z	We conducted an immobilization of the left toe with a brace.
+2W3VXYZ	We conducted an immobilization of the left toe with another device.
+2W40X5Z	We conducted a packing of the head.
+2W40X5Z	We conducted a packing of the head with a packing material.
+2W41X5Z	We conducted a packing of the face.
+2W41X5Z	We conducted a packing of the face with a packing material.
+2W42X5Z	We conducted a packing of the neck.
+2W42X5Z	We conducted a packing of the neck with a packing material.
+2W43X5Z	We conducted a packing of the abdominal wall.
+2W43X5Z	We conducted a packing of the abdominal wall with a packing material.
+2W44X5Z	We conducted a packing of the chest wall.
+2W44X5Z	We conducted a packing of the chest wall with a packing material.
+2W45X5Z	We conducted a packing of the back.
+2W45X5Z	We conducted a packing of the back with a packing material.
+2W46X5Z	We conducted a packing of the right inguinal region.
+2W46X5Z	We conducted a packing of the right inguinal region with a packing material.
+2W47X5Z	We conducted a packing of the left inguinal region.
+2W47X5Z	We conducted a packing of the left inguinal region with a packing material.
+2W48X5Z	We conducted a packing of the right upper extremity.
+2W48X5Z	We conducted a packing of the right upper extremity with a packing material.
+2W49X5Z	We conducted a packing of the left upper extremity.
+2W49X5Z	We conducted a packing of the left upper extremity with a packing material.
+2W4AX5Z	We conducted a packing of the right upper arm.
+2W4AX5Z	We conducted a packing of the right upper arm with a packing material.
+2W4BX5Z	We conducted a packing of the left upper arm.
+2W4BX5Z	We conducted a packing of the left upper arm with a packing material.
+2W4CX5Z	We conducted a packing of the right lower arm.
+2W4CX5Z	We conducted a packing of the right lower arm with a packing material.
+2W4DX5Z	We conducted a packing of the left lower arm.
+2W4DX5Z	We conducted a packing of the left lower arm with a packing material.
+2W4EX5Z	We conducted a packing of the right hand.
+2W4EX5Z	We conducted a packing of the right hand with a packing material.
+2W4FX5Z	We conducted a packing of the left hand.
+2W4FX5Z	We conducted a packing of the left hand with a packing material.
+2W4GX5Z	We conducted a packing of the right thumb.
+2W4GX5Z	We conducted a packing of the right thumb with a packing material.
+2W4HX5Z	We conducted a packing of the left thumb.
+2W4HX5Z	We conducted a packing of the left thumb with a packing material.
+2W4JX5Z	We conducted a packing of the right finger.
+2W4JX5Z	We conducted a packing of the right finger with a packing material.
+2W4KX5Z	We conducted a packing of the left finger.
+2W4KX5Z	We conducted a packing of the left finger with a packing material.
+2W4MX5Z	We conducted a packing of the left lower extremity.
+2W4MX5Z	We conducted a packing of the left lower extremity with a packing material.
+2W4NX5Z	We conducted a packing of the right upper leg.
+2W4NX5Z	We conducted a packing of the right upper leg with a packing material.
+2W4PX5Z	We conducted a packing of the left upper leg.
+2W4PX5Z	We conducted a packing of the left upper leg with a packing material.
+2W4QX5Z	We conducted a packing of the right lower leg.
+2W4QX5Z	We conducted a packing of the right lower leg with a packing material.
+2W4RX5Z	We conducted a packing of the left lower leg.
+2W4RX5Z	We conducted a packing of the left lower leg with a packing material.
+2W4SX5Z	We conducted a packing of the right foot.
+2W4SX5Z	We conducted a packing of the right foot with a packing material.
+2W4TX5Z	We conducted a packing of the left foot.
+2W4TX5Z	We conducted a packing of the left foot with a packing material.
+2W4UX5Z	We conducted a packing of the right toe.
+2W4UX5Z	We conducted a packing of the right toe with a packing material.
+2W4VX5Z	We conducted a packing of the left toe.
+2W4VX5Z	We conducted a packing of the left toe with a packing material.
+2W50X0Z	We conducted a removal of the head.
+2W50X0Z	We conducted a removal of the head with a traction apparatus.
+2W50X1Z	We conducted a removal of the head with a splint.
+2W50X2Z	We conducted a removal of the head with a cast.
+2W50X3Z	We conducted a removal of the head with a brace.
+2W50X4Z	We conducted a removal of the head with a bandage.
+2W50X5Z	We conducted a removal of the head with a packing material.
+2W50X6Z	We conducted a removal of the head with pressure dressing.
+2W50X7Z	We conducted a removal of the head with an intermittent pressure device.
+2W50XYZ	We conducted a removal of the head with another device.
+2W51X0Z	We conducted a removal of the face.
+2W51X0Z	We conducted a removal of the face with a traction apparatus.
+2W51X1Z	We conducted a removal of the face with a splint.
+2W51X2Z	We conducted a removal of the face with a cast.
+2W51X3Z	We conducted a removal of the face with a brace.
+2W51X4Z	We conducted a removal of the face with a bandage.
+2W51X5Z	We conducted a removal of the face with a packing material.
+2W51X6Z	We conducted a removal of the face with pressure dressing.
+2W51X7Z	We conducted a removal of the face with an intermittent pressure device.
+2W51X9Z	We conducted a removal of the face with a wire.
+2W51XYZ	We conducted a removal of the face with another device.
+2W52X0Z	We conducted a removal of the neck.
+2W52X0Z	We conducted a removal of the neck with a traction apparatus.
+2W52X1Z	We conducted a removal of the neck with a splint.
+2W52X2Z	We conducted a removal of the neck with a cast.
+2W52X3Z	We conducted a removal of the neck with a brace.
+2W52X4Z	We conducted a removal of the neck with a bandage.
+2W52X5Z	We conducted a removal of the neck with a packing material.
+2W52X6Z	We conducted a removal of the neck with pressure dressing.
+2W52X7Z	We conducted a removal of the neck with an intermittent pressure device.
+2W52XYZ	We conducted a removal of the neck with another device.
+2W53X0Z	We conducted a removal of the abdominal wall.
+2W53X0Z	We conducted a removal of the abdominal wall with a traction apparatus.
+2W53X1Z	We conducted a removal of the abdominal wall with a splint.
+2W53X2Z	We conducted a removal of the abdominal wall with a cast.
+2W53X3Z	We conducted a removal of the abdominal wall with a brace.
+2W53X4Z	We conducted a removal of the abdominal wall with a bandage.
+2W53X5Z	We conducted a removal of the abdominal wall with a packing material.
+2W53X6Z	We conducted a removal of the abdominal wall with pressure dressing.
+2W53X7Z	We conducted a removal of the abdominal wall with an intermittent pressure device.
+2W53XYZ	We conducted a removal of the abdominal wall with another device.
+2W54X0Z	We conducted a removal of the chest wall.
+2W54X0Z	We conducted a removal of the chest wall with a traction apparatus.
+2W54X1Z	We conducted a removal of the chest wall with a splint.
+2W54X2Z	We conducted a removal of the chest wall with a cast.
+2W54X3Z	We conducted a removal of the chest wall with a brace.
+2W54X4Z	We conducted a removal of the chest wall with a bandage.
+2W54X5Z	We conducted a removal of the chest wall with a packing material.
+2W54X6Z	We conducted a removal of the chest wall with pressure dressing.
+2W54X7Z	We conducted a removal of the chest wall with an intermittent pressure device.
+2W54XYZ	We conducted a removal of the chest wall with another device.
+2W55X0Z	We conducted a removal of the back.
+2W55X0Z	We conducted a removal of the back with a traction apparatus.
+2W55X1Z	We conducted a removal of the back with a splint.
+2W55X2Z	We conducted a removal of the back with a cast.
+2W55X3Z	We conducted a removal of the back with a brace.
+2W55X4Z	We conducted a removal of the back with a bandage.
+2W55X5Z	We conducted a removal of the back with a packing material.
+2W55X6Z	We conducted a removal of the back with pressure dressing.
+2W55X7Z	We conducted a removal of the back with an intermittent pressure device.
+2W55XYZ	We conducted a removal of the back with another device.
+2W56X0Z	We conducted a removal of the right inguinal region.
+2W56X0Z	We conducted a removal of the right inguinal region with a traction apparatus.
+2W56X1Z	We conducted a removal of the right inguinal region with a splint.
+2W56X2Z	We conducted a removal of the right inguinal region with a cast.
+2W56X3Z	We conducted a removal of the right inguinal region with a brace.
+2W56X4Z	We conducted a removal of the right inguinal region with a bandage.
+2W56X5Z	We conducted a removal of the right inguinal region with a packing material.
+2W56X6Z	We conducted a removal of the right inguinal region with pressure dressing.
+2W56X7Z	We conducted a removal of the right inguinal region with an intermittent pressure device.
+2W56XYZ	We conducted a removal of the right inguinal region with another device.
+2W57X0Z	We conducted a removal of the left inguinal region.
+2W57X0Z	We conducted a removal of the left inguinal region with a traction apparatus.
+2W57X1Z	We conducted a removal of the left inguinal region with a splint.
+2W57X2Z	We conducted a removal of the left inguinal region with a cast.
+2W57X3Z	We conducted a removal of the left inguinal region with a brace.
+2W57X4Z	We conducted a removal of the left inguinal region with a bandage.
+2W57X5Z	We conducted a removal of the left inguinal region with a packing material.
+2W57X6Z	We conducted a removal of the left inguinal region with pressure dressing.
+2W57X7Z	We conducted a removal of the left inguinal region with an intermittent pressure device.
+2W57XYZ	We conducted a removal of the left inguinal region with another device.
+2W58X0Z	We conducted a removal of the right upper extremity.
+2W58X0Z	We conducted a removal of the right upper extremity with a traction apparatus.
+2W58X1Z	We conducted a removal of the right upper extremity with a splint.
+2W58X2Z	We conducted a removal of the right upper extremity with a cast.
+2W58X3Z	We conducted a removal of the right upper extremity with a brace.
+2W58X4Z	We conducted a removal of the right upper extremity with a bandage.
+2W58X5Z	We conducted a removal of the right upper extremity with a packing material.
+2W58X6Z	We conducted a removal of the right upper extremity with pressure dressing.
+2W58X7Z	We conducted a removal of the right upper extremity with an intermittent pressure device.
+2W58XYZ	We conducted a removal of the right upper extremity with another device.
+2W59X0Z	We conducted a removal of the left upper extremity.
+2W59X0Z	We conducted a removal of the left upper extremity with a traction apparatus.
+2W59X1Z	We conducted a removal of the left upper extremity with a splint.
+2W59X2Z	We conducted a removal of the left upper extremity with a cast.
+2W59X3Z	We conducted a removal of the left upper extremity with a brace.
+2W59X4Z	We conducted a removal of the left upper extremity with a bandage.
+2W59X5Z	We conducted a removal of the left upper extremity with a packing material.
+2W59X6Z	We conducted a removal of the left upper extremity with pressure dressing.
+2W59X7Z	We conducted a removal of the left upper extremity with an intermittent pressure device.
+2W59XYZ	We conducted a removal of the left upper extremity with another device.
+2W5AX0Z	We conducted a removal of the right upper arm.
+2W5AX0Z	We conducted a removal of the right upper arm with a traction apparatus.
+2W5AX1Z	We conducted a removal of the right upper arm with a splint.
+2W5AX2Z	We conducted a removal of the right upper arm with a cast.
+2W5AX3Z	We conducted a removal of the right upper arm with a brace.
+2W5AX4Z	We conducted a removal of the right upper arm with a bandage.
+2W5AX5Z	We conducted a removal of the right upper arm with a packing material.
+2W5AX6Z	We conducted a removal of the right upper arm with pressure dressing.
+2W5AX7Z	We conducted a removal of the right upper arm with an intermittent pressure device.
+2W5AXYZ	We conducted a removal of the right upper arm with another device.
+2W5BX0Z	We conducted a removal of the left upper arm.
+2W5BX0Z	We conducted a removal of the left upper arm with a traction apparatus.
+2W5BX1Z	We conducted a removal of the left upper arm with a splint.
+2W5BX2Z	We conducted a removal of the left upper arm with a cast.
+2W5BX3Z	We conducted a removal of the left upper arm with a brace.
+2W5BX4Z	We conducted a removal of the left upper arm with a bandage.
+2W5BX5Z	We conducted a removal of the left upper arm with a packing material.
+2W5BX6Z	We conducted a removal of the left upper arm with pressure dressing.
+2W5BX7Z	We conducted a removal of the left upper arm with an intermittent pressure device.
+2W5BXYZ	We conducted a removal of the left upper arm with another device.
+2W5CX0Z	We conducted a removal of the right lower arm.
+2W5CX0Z	We conducted a removal of the right lower arm with a traction apparatus.
+2W5CX1Z	We conducted a removal of the right lower arm with a splint.
+2W5CX2Z	We conducted a removal of the right lower arm with a cast.
+2W5CX3Z	We conducted a removal of the right lower arm with a brace.
+2W5CX4Z	We conducted a removal of the right lower arm with a bandage.
+2W5CX5Z	We conducted a removal of the right lower arm with a packing material.
+2W5CX6Z	We conducted a removal of the right lower arm with pressure dressing.
+2W5CX7Z	We conducted a removal of the right lower arm with an intermittent pressure device.
+2W5CXYZ	We conducted a removal of the right lower arm with another device.
+2W5DX0Z	We conducted a removal of the left lower arm.
+2W5DX0Z	We conducted a removal of the left lower arm with a traction apparatus.
+2W5DX1Z	We conducted a removal of the left lower arm with a splint.
+2W5DX2Z	We conducted a removal of the left lower arm with a cast.
+2W5DX3Z	We conducted a removal of the left lower arm with a brace.
+2W5DX4Z	We conducted a removal of the left lower arm with a bandage.
+2W5DX5Z	We conducted a removal of the left lower arm with a packing material.
+2W5DX6Z	We conducted a removal of the left lower arm with pressure dressing.
+2W5DX7Z	We conducted a removal of the left lower arm with an intermittent pressure device.
+2W5DXYZ	We conducted a removal of the left lower arm with another device.
+2W5EX0Z	We conducted a removal of the right hand.
+2W5EX0Z	We conducted a removal of the right hand with a traction apparatus.
+2W5EX1Z	We conducted a removal of the right hand with a splint.
+2W5EX2Z	We conducted a removal of the right hand with a cast.
+2W5EX3Z	We conducted a removal of the right hand with a brace.
+2W5EX4Z	We conducted a removal of the right hand with a bandage.
+2W5EX5Z	We conducted a removal of the right hand with a packing material.
+2W5EX6Z	We conducted a removal of the right hand with pressure dressing.
+2W5EX7Z	We conducted a removal of the right hand with an intermittent pressure device.
+2W5EXYZ	We conducted a removal of the right hand with another device.
+2W5FX0Z	We conducted a removal of the left hand.
+2W5FX0Z	We conducted a removal of the left hand with a traction apparatus.
+2W5FX1Z	We conducted a removal of the left hand with a splint.
+2W5FX2Z	We conducted a removal of the left hand with a cast.
+2W5FX3Z	We conducted a removal of the left hand with a brace.
+2W5FX4Z	We conducted a removal of the left hand with a bandage.
+2W5FX5Z	We conducted a removal of the left hand with a packing material.
+2W5FX6Z	We conducted a removal of the left hand with pressure dressing.
+2W5FX7Z	We conducted a removal of the left hand with an intermittent pressure device.
+2W5FXYZ	We conducted a removal of the left hand with another device.
+2W5GX0Z	We conducted a removal of the right thumb.
+2W5GX0Z	We conducted a removal of the right thumb with a traction apparatus.
+2W5GX1Z	We conducted a removal of the right thumb with a splint.
+2W5GX2Z	We conducted a removal of the right thumb with a cast.
+2W5GX3Z	We conducted a removal of the right thumb with a brace.
+2W5GX4Z	We conducted a removal of the right thumb with a bandage.
+2W5GX5Z	We conducted a removal of the right thumb with a packing material.
+2W5GX6Z	We conducted a removal of the right thumb with pressure dressing.
+2W5GX7Z	We conducted a removal of the right thumb with an intermittent pressure device.
+2W5GXYZ	We conducted a removal of the right thumb with another device.
+2W5HX0Z	We conducted a removal of the left thumb.
+2W5HX0Z	We conducted a removal of the left thumb with a traction apparatus.
+2W5HX1Z	We conducted a removal of the left thumb with a splint.
+2W5HX2Z	We conducted a removal of the left thumb with a cast.
+2W5HX3Z	We conducted a removal of the left thumb with a brace.
+2W5HX4Z	We conducted a removal of the left thumb with a bandage.
+2W5HX5Z	We conducted a removal of the left thumb with a packing material.
+2W5HX6Z	We conducted a removal of the left thumb with pressure dressing.
+2W5HX7Z	We conducted a removal of the left thumb with an intermittent pressure device.
+2W5HXYZ	We conducted a removal of the left thumb with another device.
+2W5JX0Z	We conducted a removal of the right finger.
+2W5JX0Z	We conducted a removal of the right finger with a traction apparatus.
+2W5JX1Z	We conducted a removal of the right finger with a splint.
+2W5JX2Z	We conducted a removal of the right finger with a cast.
+2W5JX3Z	We conducted a removal of the right finger with a brace.
+2W5JX4Z	We conducted a removal of the right finger with a bandage.
+2W5JX5Z	We conducted a removal of the right finger with a packing material.
+2W5JX6Z	We conducted a removal of the right finger with pressure dressing.
+2W5JX7Z	We conducted a removal of the right finger with an intermittent pressure device.
+2W5JXYZ	We conducted a removal of the right finger with another device.
+2W5KX0Z	We conducted a removal of the left finger.
+2W5KX0Z	We conducted a removal of the left finger with a traction apparatus.
+2W5KX1Z	We conducted a removal of the left finger with a splint.
+2W5KX2Z	We conducted a removal of the left finger with a cast.
+2W5KX3Z	We conducted a removal of the left finger with a brace.
+2W5KX4Z	We conducted a removal of the left finger with a bandage.
+2W5KX5Z	We conducted a removal of the left finger with a packing material.
+2W5KX6Z	We conducted a removal of the left finger with pressure dressing.
+2W5KX7Z	We conducted a removal of the left finger with an intermittent pressure device.
+2W5KXYZ	We conducted a removal of the left finger with another device.
+2W5MX0Z	We conducted a removal of the left lower extremity.
+2W5MX0Z	We conducted a removal of the left lower extremity with a traction apparatus.
+2W5MX1Z	We conducted a removal of the left lower extremity with a splint.
+2W5MX2Z	We conducted a removal of the left lower extremity with a cast.
+2W5MX3Z	We conducted a removal of the left lower extremity with a brace.
+2W5MX4Z	We conducted a removal of the left lower extremity with a bandage.
+2W5MX5Z	We conducted a removal of the left lower extremity with a packing material.
+2W5MX6Z	We conducted a removal of the left lower extremity with pressure dressing.
+2W5MX7Z	We conducted a removal of the left lower extremity with an intermittent pressure device.
+2W5MXYZ	We conducted a removal of the left lower extremity with another device.
+2W5NX0Z	We conducted a removal of the right upper leg.
+2W5NX0Z	We conducted a removal of the right upper leg with a traction apparatus.
+2W5NX1Z	We conducted a removal of the right upper leg with a splint.
+2W5NX2Z	We conducted a removal of the right upper leg with a cast.
+2W5NX3Z	We conducted a removal of the right upper leg with a brace.
+2W5NX4Z	We conducted a removal of the right upper leg with a bandage.
+2W5NX5Z	We conducted a removal of the right upper leg with a packing material.
+2W5NX6Z	We conducted a removal of the right upper leg with pressure dressing.
+2W5NX7Z	We conducted a removal of the right upper leg with an intermittent pressure device.
+2W5NXYZ	We conducted a removal of the right upper leg with another device.
+2W5PX0Z	We conducted a removal of the left upper leg.
+2W5PX0Z	We conducted a removal of the left upper leg with a traction apparatus.
+2W5PX1Z	We conducted a removal of the left upper leg with a splint.
+2W5PX2Z	We conducted a removal of the left upper leg with a cast.
+2W5PX3Z	We conducted a removal of the left upper leg with a brace.
+2W5PX4Z	We conducted a removal of the left upper leg with a bandage.
+2W5PX5Z	We conducted a removal of the left upper leg with a packing material.
+2W5PX6Z	We conducted a removal of the left upper leg with pressure dressing.
+2W5PX7Z	We conducted a removal of the left upper leg with an intermittent pressure device.
+2W5PXYZ	We conducted a removal of the left upper leg with another device.
+2W5QX0Z	We conducted a removal of the right lower leg.
+2W5QX0Z	We conducted a removal of the right lower leg with a traction apparatus.
+2W5QX1Z	We conducted a removal of the right lower leg with a splint.
+2W5QX2Z	We conducted a removal of the right lower leg with a cast.
+2W5QX3Z	We conducted a removal of the right lower leg with a brace.
+2W5QX4Z	We conducted a removal of the right lower leg with a bandage.
+2W5QX5Z	We conducted a removal of the right lower leg with a packing material.
+2W5QX6Z	We conducted a removal of the right lower leg with pressure dressing.
+2W5QX7Z	We conducted a removal of the right lower leg with an intermittent pressure device.
+2W5QXYZ	We conducted a removal of the right lower leg with another device.
+2W5RX0Z	We conducted a removal of the left lower leg.
+2W5RX0Z	We conducted a removal of the left lower leg with a traction apparatus.
+2W5RX1Z	We conducted a removal of the left lower leg with a splint.
+2W5RX2Z	We conducted a removal of the left lower leg with a cast.
+2W5RX3Z	We conducted a removal of the left lower leg with a brace.
+2W5RX4Z	We conducted a removal of the left lower leg with a bandage.
+2W5RX5Z	We conducted a removal of the left lower leg with a packing material.
+2W5RX6Z	We conducted a removal of the left lower leg with pressure dressing.
+2W5RX7Z	We conducted a removal of the left lower leg with an intermittent pressure device.
+2W5RXYZ	We conducted a removal of the left lower leg with another device.
+2W5SX0Z	We conducted a removal of the right foot.
+2W5SX0Z	We conducted a removal of the right foot with a traction apparatus.
+2W5SX1Z	We conducted a removal of the right foot with a splint.
+2W5SX2Z	We conducted a removal of the right foot with a cast.
+2W5SX3Z	We conducted a removal of the right foot with a brace.
+2W5SX4Z	We conducted a removal of the right foot with a bandage.
+2W5SX5Z	We conducted a removal of the right foot with a packing material.
+2W5SX6Z	We conducted a removal of the right foot with pressure dressing.
+2W5SX7Z	We conducted a removal of the right foot with an intermittent pressure device.
+2W5SXYZ	We conducted a removal of the right foot with another device.
+2W5TX0Z	We conducted a removal of the left foot.
+2W5TX0Z	We conducted a removal of the left foot with a traction apparatus.
+2W5TX1Z	We conducted a removal of the left foot with a splint.
+2W5TX2Z	We conducted a removal of the left foot with a cast.
+2W5TX3Z	We conducted a removal of the left foot with a brace.
+2W5TX4Z	We conducted a removal of the left foot with a bandage.
+2W5TX5Z	We conducted a removal of the left foot with a packing material.
+2W5TX6Z	We conducted a removal of the left foot with pressure dressing.
+2W5TX7Z	We conducted a removal of the left foot with an intermittent pressure device.
+2W5TXYZ	We conducted a removal of the left foot with another device.
+2W5UX0Z	We conducted a removal of the right toe.
+2W5UX0Z	We conducted a removal of the right toe with a traction apparatus.
+2W5UX1Z	We conducted a removal of the right toe with a splint.
+2W5UX2Z	We conducted a removal of the right toe with a cast.
+2W5UX3Z	We conducted a removal of the right toe with a brace.
+2W5UX4Z	We conducted a removal of the right toe with a bandage.
+2W5UX5Z	We conducted a removal of the right toe with a packing material.
+2W5UX6Z	We conducted a removal of the right toe with pressure dressing.
+2W5UX7Z	We conducted a removal of the right toe with an intermittent pressure device.
+2W5UXYZ	We conducted a removal of the right toe with another device.
+2W5VX0Z	We conducted a removal of the left toe.
+2W5VX0Z	We conducted a removal of the left toe with a traction apparatus.
+2W5VX1Z	We conducted a removal of the left toe with a splint.
+2W5VX2Z	We conducted a removal of the left toe with a cast.
+2W5VX3Z	We conducted a removal of the left toe with a brace.
+2W5VX4Z	We conducted a removal of the left toe with a bandage.
+2W5VX5Z	We conducted a removal of the left toe with a packing material.
+2W5VX6Z	We conducted a removal of the left toe with pressure dressing.
+2W5VX7Z	We conducted a removal of the left toe with an intermittent pressure device.
+2W5VXYZ	We conducted a removal of the left toe with another device.
+2W60X0Z	We conducted a traction of the head.
+2W60X0Z	We conducted a traction of the head with a traction apparatus.
+2W61X0Z	We conducted a traction of the face.
+2W61X0Z	We conducted a traction of the face with a traction apparatus.
+2W62X0Z	We conducted a traction of the neck.
+2W62X0Z	We conducted a traction of the neck with a traction apparatus.
+2W63X0Z	We conducted a traction of the abdominal wall.
+2W63X0Z	We conducted a traction of the abdominal wall with a traction apparatus.
+2W64X0Z	We conducted a traction of the chest wall.
+2W64X0Z	We conducted a traction of the chest wall with a traction apparatus.
+2W65X0Z	We conducted a traction of the back.
+2W65X0Z	We conducted a traction of the back with a traction apparatus.
+2W66X0Z	We conducted a traction of the right inguinal region.
+2W66X0Z	We conducted a traction of the right inguinal region with a traction apparatus.
+2W67X0Z	We conducted a traction of the left inguinal region.
+2W67X0Z	We conducted a traction of the left inguinal region with a traction apparatus.
+2W68X0Z	We conducted a traction of the right upper extremity.
+2W68X0Z	We conducted a traction of the right upper extremity with a traction apparatus.
+2W69X0Z	We conducted a traction of the left upper extremity.
+2W69X0Z	We conducted a traction of the left upper extremity with a traction apparatus.
+2W6AX0Z	We conducted a traction of the right upper arm.
+2W6AX0Z	We conducted a traction of the right upper arm with a traction apparatus.
+2W6BX0Z	We conducted a traction of the left upper arm.
+2W6BX0Z	We conducted a traction of the left upper arm with a traction apparatus.
+2W6CX0Z	We conducted a traction of the right lower arm.
+2W6CX0Z	We conducted a traction of the right lower arm with a traction apparatus.
+2W6DX0Z	We conducted a traction of the left lower arm.
+2W6DX0Z	We conducted a traction of the left lower arm with a traction apparatus.
+2W6EX0Z	We conducted a traction of the right hand.
+2W6EX0Z	We conducted a traction of the right hand with a traction apparatus.
+2W6FX0Z	We conducted a traction of the left hand.
+2W6FX0Z	We conducted a traction of the left hand with a traction apparatus.
+2W6GX0Z	We conducted a traction of the right thumb.
+2W6GX0Z	We conducted a traction of the right thumb with a traction apparatus.
+2W6HX0Z	We conducted a traction of the left thumb.
+2W6HX0Z	We conducted a traction of the left thumb with a traction apparatus.
+2W6JX0Z	We conducted a traction of the right finger.
+2W6JX0Z	We conducted a traction of the right finger with a traction apparatus.
+2W6KX0Z	We conducted a traction of the left finger.
+2W6KX0Z	We conducted a traction of the left finger with a traction apparatus.
+2W6MX0Z	We conducted a traction of the left lower extremity.
+2W6MX0Z	We conducted a traction of the left lower extremity with a traction apparatus.
+2W6NX0Z	We conducted a traction of the right upper leg.
+2W6NX0Z	We conducted a traction of the right upper leg with a traction apparatus.
+2W6PX0Z	We conducted a traction of the left upper leg.
+2W6PX0Z	We conducted a traction of the left upper leg with a traction apparatus.
+2W6QX0Z	We conducted a traction of the right lower leg.
+2W6QX0Z	We conducted a traction of the right lower leg with a traction apparatus.
+2W6RX0Z	We conducted a traction of the left lower leg.
+2W6RX0Z	We conducted a traction of the left lower leg with a traction apparatus.
+2W6SX0Z	We conducted a traction of the right foot.
+2W6SX0Z	We conducted a traction of the right foot with a traction apparatus.
+2W6TX0Z	We conducted a traction of the left foot.
+2W6TX0Z	We conducted a traction of the left foot with a traction apparatus.
+2W6UX0Z	We conducted a traction of the right toe.
+2W6UX0Z	We conducted a traction of the right toe with a traction apparatus.
+2W6VX0Z	We conducted a traction of the left toe.
+2W6VX0Z	We conducted a traction of the left toe with a traction apparatus.
+2Y00X5Z	We conducted a change of the mouth and pharynx.
+2Y00X5Z	We conducted a change of the mouth and pharynx with a packing material.
+2Y01X5Z	We conducted a change of the nasal.
+2Y01X5Z	We conducted a change of the nasal with a packing material.
+2Y02X5Z	We conducted a change of the ear.
+2Y02X5Z	We conducted a change of the ear with a packing material.
+2Y03X5Z	We conducted a change of the anorectal.
+2Y03X5Z	We conducted a change of the anorectal with a packing material.
+2Y04X5Z	We conducted a change of the female genital tract.
+2Y04X5Z	We conducted a change of the female genital tract with a packing material.
+2Y05X5Z	We conducted a change of the urethra.
+2Y05X5Z	We conducted a change of the urethra with a packing material.
+2Y40X5Z	We conducted a packing of the mouth and pharynx.
+2Y40X5Z	We conducted a packing of the mouth and pharynx with a packing material.
+2Y41X5Z	We conducted a packing of the nasal.
+2Y41X5Z	We conducted a packing of the nasal with a packing material.
+2Y42X5Z	We conducted a packing of the ear.
+2Y42X5Z	We conducted a packing of the ear with a packing material.
+2Y43X5Z	We conducted a packing of the anorectal.
+2Y43X5Z	We conducted a packing of the anorectal with a packing material.
+2Y44X5Z	We conducted a packing of the female genital tract.
+2Y44X5Z	We conducted a packing of the female genital tract with a packing material.
+2Y45X5Z	We conducted a packing of the urethra.
+2Y45X5Z	We conducted a packing of the urethra with a packing material.
+2Y50X5Z	We conducted a removal of the mouth and pharynx.
+2Y50X5Z	We conducted a removal of the mouth and pharynx with a packing material.
+2Y51X5Z	We conducted a removal of the nasal.
+2Y51X5Z	We conducted a removal of the nasal with a packing material.
+2Y52X5Z	We conducted a removal of the ear.
+2Y52X5Z	We conducted a removal of the ear with a packing material.
+2Y53X5Z	We conducted a removal of the anorectal.
+2Y53X5Z	We conducted a removal of the anorectal with a packing material.
+2Y54X5Z	We conducted a removal of the female genital tract.
+2Y54X5Z	We conducted a removal of the female genital tract with a packing material.
+2Y55X5Z	We conducted a removal of the urethra.
+2Y55X5Z	We conducted a removal of the urethra with a packing material.

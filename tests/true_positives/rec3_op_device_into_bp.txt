@@ -1,0 +1,92 @@
+# REC-3 probe — `<op> of <device-placeholder> <prep> <bp>` form (2026-05-28)
+#
+# Madeleine has 52 misses of the form
+#   insertion of <DEV> into <BP>           (38 lines, 3 distinct DEV)
+#   removal   of <DEV> from <BP>           (12 lines, 2 distinct DEV)
+#   revision  of <DEV> in   <BP>           (2  lines, 1 distinct DEV)
+#
+# All misses use one of three "placeholder" device noun-phrases that are
+# stripped by SKIP_EMPTY_PLACEHOLDERS in v3_generate_icd10pcs_grammar.py:
+#   - other device
+#   - inflatable device
+#   - totally implantable access device
+# (also 'endotracheal airway' is missing entirely from devices entity.)
+#
+# These placeholders are intentionally NOT in `devices` standalone because
+# they are too generic to safely match alone. REC-3 makes them safe by
+# requiring the surrounding `<op> of … <prep> <bp>` triple-anchor: the
+# preposition+body_part suffix is what binds the match to a procedure.
+#
+# A trailing approach phrase (`open approach`, `, percutaneous approach`,
+# `via natural or artificial opening`) is optional CMS suffix and should
+# also match.
+#
+# ─────────────────────────────────────────────────────────────────────────────
+# Section A — Insertion + into  (canonical CMS code titles)
+# ─────────────────────────────────────────────────────────────────────────────
+insertion of other device into stomach
+insertion of other device into stomach, open approach
+insertion of other device into stomach, percutaneous endoscopic approach
+insertion of other device into ileum
+insertion of other device into ileum, open approach
+insertion of other device into ileum, percutaneous endoscopic approach
+insertion of other device into large intestine
+insertion of other device into large intestine, open approach
+insertion of other device into large intestine, percutaneous endoscopic approach
+insertion of other device into esophagus
+insertion of other device into esophagus, via natural or artificial opening
+insertion of other device into larynx
+insertion of other device into larynx, open approach
+insertion of other device into left pleural cavity
+insertion of other device into left pleural cavity, percutaneous approach
+insertion of other device into right pleural cavity
+insertion of other device into right pleural cavity, open approach
+insertion of other device into left vocal cord
+insertion of other device into left vocal cord, open approach
+insertion of other device into right vocal cord
+insertion of other device into right vocal cord, open approach
+insertion of other device into thoracic duct
+insertion of other device into thoracic duct, open approach
+insertion of other device into tongue
+insertion of other device into tongue, open approach
+insertion of other device into upper vein
+insertion of other device into upper vein, open approach
+insertion of other device into subcutaneous tissue and fascia, abdomen
+insertion of other device into subcutaneous tissue and fascia, chest
+insertion of inflatable device into penis, open approach
+insertion of endotracheal airway into trachea
+insertion of totally implantable access device into upper vein
+insertion of totally implantable access device into upper vein, percutaneous approach
+insertion of totally implantable access device into lower vein
+insertion of totally implantable access device into lower vein, percutaneous approach
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Section B — Removal + from
+# ─────────────────────────────────────────────────────────────────────────────
+removal of other device from stomach
+removal of other device from stomach, open approach
+removal of other device from large intestine
+removal of other device from large intestine, open approach
+removal of other device from large intestine, percutaneous endoscopic approach
+removal of other device from thoracic duct
+removal of other device from thoracic duct, open approach
+removal of totally implantable access device from upper vein
+removal of totally implantable access device from upper vein, open approach
+removal of totally implantable access device from upper vein, percutaneous approach
+removal of totally implantable access device from lower vein
+removal of totally implantable access device from lower vein, percutaneous approach
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Section C — Revision + in
+# ─────────────────────────────────────────────────────────────────────────────
+revision of other device in stomach
+revision of other device in large intestine
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Section D — Sanity TPs that already match (regression check; should stay HIT)
+# ─────────────────────────────────────────────────────────────────────────────
+insertion of pacemaker into right atrium
+insertion of cardiac lead into coronary vein
+insertion of synthetic substitute into right atrium
+removal of cardiac lead from heart
+revision of pacemaker in chest

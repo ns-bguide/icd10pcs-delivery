@@ -1,0 +1,36 @@
+# REC-3 control FPs (2026-05-28)
+#
+# These probe the FP risk of widening to `<op> of <placeholder-device>
+# <prep> <bp>`. The pattern is anchored on three positions
+# (op, prep, body_part), which should keep these short:
+#
+#  - bare placeholder device-noun-phrase ('other device', 'inflatable device')
+#    must NOT match alone — they are filtered by SKIP_EMPTY_PLACEHOLDERS, so
+#    must remain absent from the public devices entity.
+#  - English noun-phrase + `into` + body part without an op anchor must NOT
+#    match (e.g., "blood flow into stomach", "bleeding into pleural cavity").
+#  - Diagnosis sentences containing `insertion`/`removal` as nouns in a
+#    non-procedural sense must NOT match.
+
+# Bare placeholders — must NOT fire (would mean placeholder leaked to public)
+other device
+inflatable device
+totally implantable access device
+endotracheal airway
+
+# Noun-phrase + into <bp> without op anchor — must NOT fire
+blood flow into stomach
+bleeding into pleural cavity
+food into trachea
+spread into liver
+extension of tumor into bladder
+
+# Status / history descriptions containing "insertion of <placeholder>" — must NOT fire
+# (FP-1 territory; this control is to confirm REC-3 doesn't OPEN this surface)
+history of other device insertion
+prior insertion of other device
+status post insertion of other device
+
+# Aspiration / leak narrative — pre-existing FP-control regression
+aspiration of food into airway
+leakage of contents into peritoneal cavity

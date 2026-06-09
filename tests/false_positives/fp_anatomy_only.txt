@@ -1,0 +1,67 @@
+left ventricle
+right atrium
+mitral valve
+aortic valve
+coronary artery
+femoral artery
+carotid artery
+jugular vein
+subclavian vein
+portal vein
+hepatic artery
+renal artery
+iliac artery
+popliteal artery
+radial artery
+brachial plexus
+sciatic nerve
+vagus nerve
+phrenic nerve
+recurrent laryngeal nerve
+thoracic spine
+lumbar spine
+cervical spine
+sacral vertebra
+intervertebral disc
+anterior cruciate ligament
+medial meniscus
+rotator cuff
+achilles tendon
+plantar fascia
+pericardium
+pleura
+peritoneum
+mesentery
+omentum
+diaphragm
+mediastinum
+cerebral cortex
+cerebellum
+brainstem
+thalamus
+hypothalamus
+pituitary gland
+thyroid gland
+parathyroid gland
+adrenal gland
+pancreas
+spleen
+gallbladder
+appendix
+duodenum
+jejunum
+ileum
+cecum
+ascending colon
+transverse colon
+sigmoid colon
+rectum
+anal canal
+ureter
+urethra
+bladder neck
+prostate
+seminal vesicle
+fallopian tube
+uterine fundus
+cervix

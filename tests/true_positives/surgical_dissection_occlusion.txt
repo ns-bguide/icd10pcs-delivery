@@ -1,0 +1,20 @@
+# Surgical TP — organ dissection / occlusion / perforation procedures
+#
+# Moved from the FP fixtures (false_positives_all.txt + fp_diagnostic_phrases.txt)
+# to should-match on 2026-06-09, per David (surgical entity owner, ENG-772518):
+# these are within scope of industries/healthcare/medical_procedures/eng/surgical.
+#
+# These terms are genuinely ambiguous — the same surface form names both a
+# surgical procedure (dissect the stomach, occlude a ureter) and a diagnosis
+# (iatrogenic perforation, pathological occlusion). Decision: treat as in-scope
+# procedure mentions. They are NOT in fp_vessel_pathology.txt (the FP-2.a
+# aortic/carotid/iliac vessel-diagnosis suppression set), so this does not
+# conflict with that precision work.
+#
+# NOTE: 'tibial perforation' did NOT match as of 2026-06-09 — it is a recall
+# gap / failing TP, kept here intentionally to track that miss.
+gastric dissection
+pancreatic dissection
+urethral dissection
+ureteral occlusion
+tibial perforation

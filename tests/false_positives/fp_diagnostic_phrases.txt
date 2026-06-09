@@ -1,0 +1,295 @@
+esophageal abscess
+femoral abscess
+aortic hematoma
+rectal stricture
+celiac prolapse
+mesenteric fistula
+splenic ischemia
+iliac inflammation
+rectal aneurysm
+femoral neoplasm
+duodenal thrombosis
+rectal obstruction
+radial ischemia
+carotid nonunion
+brachial aneurysm
+subclavian hernia
+coronary thrombosis
+coronary stenosis
+femoral dissection
+splenic adhesion
+splenic malunion
+brachial fibrosis
+aortic dehiscence
+ulnar aneurysm
+hepatic infection
+colonic adhesion
+duodenal malunion
+pancreatic necrosis
+subclavian stricture
+splenic calcification
+axillary stricture
+brachial embolism
+celiac neoplasm
+urethral ischemia
+aortic rupture
+rectal dehiscence
+urethral calcification
+renal adhesion
+duodenal abscess
+pancreatic neoplasm
+cerebral ischemia
+biliary hematoma
+renal stricture
+splenic fistula
+cerebral neoplasm
+pancreatic effusion
+femoral aneurysm
+vertebral nonunion
+femoral stricture
+vertebral perforation
+cerebral inflammation
+brachial ischemia
+celiac stenosis
+urethral fibrosis
+coronary neoplasm
+colonic dehiscence
+axillary effusion
+radial stricture
+iliac perforation
+vertebral dehiscence
+carotid effusion
+radial hematoma
+pulmonary stenosis
+esophageal adhesion
+esophageal embolism
+vertebral fistula
+ulnar edema
+hepatic fibrosis
+colonic occlusion
+carotid prolapse
+coronary fibrosis
+gastric necrosis
+splenic infection
+ureteral prolapse
+celiac seroma
+carotid edema
+pancreatic stricture
+femoral adhesion
+biliary stricture
+biliary fibrosis
+axillary neoplasm
+esophageal effusion
+vertebral adhesion
+renal fibrosis
+vertebral hemorrhage
+vertebral embolism
+splenic aneurysm
+gastric seroma
+celiac embolism
+pancreatic occlusion
+duodenal stricture
+gastric embolism
+carotid adhesion
+brachial infection
+renal hematoma
+radial rupture
+colonic seroma
+pancreatic abscess
+renal necrosis
+axillary infection
+vertebral malunion
+celiac rupture
+esophageal hematoma
+duodenal neoplasm
+ulnar stenosis
+splenic neoplasm
+duodenal prolapse
+cerebral thrombosis
+ureteral rupture
+coronary dehiscence
+splenic abscess
+pancreatic adhesion
+pulmonary infection
+basilar effusion
+celiac aneurysm
+carotid perforation
+splenic rupture
+ulnar fistula
+colonic calcification
+pulmonary inflammation
+splenic perforation
+gastric prolapse
+tibial occlusion
+basilar calcification
+esophageal malunion
+axillary hemorrhage
+iliac seroma
+celiac occlusion
+pancreatic inflammation
+mesenteric hernia
+rectal hernia
+radial prolapse
+mesenteric nonunion
+ulnar malunion
+subclavian ischemia
+ulnar dehiscence
+basilar ischemia
+urethral edema
+ureteral fistula
+iliac edema
+tibial prolapse
+popliteal hematoma
+femoral embolism
+coronary ischemia
+femoral inflammation
+renal rupture
+esophageal hernia
+biliary effusion
+duodenal rupture
+biliary ischemia
+brachial fistula
+carotid dissection
+basilar aneurysm
+basilar stenosis
+colonic abscess
+axillary nonunion
+radial occlusion
+mesenteric necrosis
+radial seroma
+aortic prolapse
+ureteral hemorrhage
+femoral dehiscence
+duodenal obstruction
+urethral nonunion
+ureteral malunion
+esophageal seroma
+biliary necrosis
+pancreatic malunion
+urethral abscess
+subclavian hematoma
+renal prolapse
+urethral rupture
+aortic embolism
+rectal calcification
+tibial thrombosis
+hepatic thrombosis
+tibial stricture
+femoral ischemia
+esophageal fistula
+pulmonary dissection
+pancreatic nonunion
+ureteral dehiscence
+ureteral infection
+pancreatic aneurysm
+colonic nonunion
+vertebral inflammation
+renal calcification
+radial hernia
+radial embolism
+aortic stenosis
+brachial adhesion
+cerebral occlusion
+popliteal effusion
+aortic hemorrhage
+colonic perforation
+mild radial perforation
+severe tibial malunion
+unilateral pulmonary infection
+chronic coronary hemorrhage
+unilateral cerebral fibrosis
+post-operative celiac hematoma
+chronic basilar stenosis
+chronic popliteal infection
+congenital celiac edema
+progressive rectal hernia
+chronic splenic infection
+congenital rectal prolapse
+stable brachial dehiscence
+congenital biliary perforation
+recurrent mesenteric effusion
+recurrent pulmonary embolism
+acquired aortic stricture
+progressive ulnar necrosis
+post-operative aortic perforation
+bilateral aortic dissection
+unilateral colonic inflammation
+stable radial dissection
+pre-existing coronary obstruction
+moderate esophageal thrombosis
+bilateral rectal effusion
+stable colonic calcification
+congenital gastric neoplasm
+congenital mesenteric hemorrhage
+acquired popliteal inflammation
+bilateral ulnar hematoma
+acquired pancreatic fistula
+severe brachial perforation
+moderate splenic dehiscence
+acquired hepatic abscess
+pre-existing colonic dehiscence
+mild duodenal malunion
+moderate pancreatic perforation
+stable vertebral hemorrhage
+progressive hepatic necrosis
+recurrent hepatic thrombosis
+unilateral axillary prolapse
+unilateral carotid edema
+chronic iliac nonunion
+mild iliac hemorrhage
+acute cerebral neoplasm
+post-operative esophageal obstruction
+post-operative carotid calcification
+unilateral renal effusion
+post-operative esophageal prolapse
+unilateral aortic obstruction
+acute femoral dehiscence
+chronic mesenteric infection
+acquired ureteral necrosis
+pre-existing subclavian hemorrhage
+chronic carotid aneurysm
+unilateral renal stenosis
+chronic hepatic abscess
+acute tibial aneurysm
+mild aortic adhesion
+chronic mesenteric effusion
+stable pulmonary infection
+unilateral celiac nonunion
+severe carotid thrombosis
+acquired renal fistula
+progressive rectal embolism
+bilateral urethral stenosis
+stable colonic neoplasm
+recurrent vertebral perforation
+congenital renal occlusion
+post-operative cerebral hematoma
+post-operative subclavian effusion
+progressive radial aneurysm
+unilateral vertebral edema
+progressive radial stricture
+moderate vertebral stricture
+bilateral basilar nonunion
+chronic esophageal calcification
+chronic gastric malunion
+pre-existing pancreatic seroma
+moderate rectal hernia
+mild basilar neoplasm
+moderate esophageal stricture
+moderate subclavian calcification
+progressive axillary occlusion
+congenital mesenteric dissection
+acute pancreatic necrosis
+acquired splenic inflammation
+pre-existing ureteral seroma
+pre-existing gastric dehiscence
+chronic duodenal inflammation
+chronic femoral embolism
+moderate celiac seroma
+congenital splenic edema
+mild renal stricture
+chronic pancreatic effusion
+unilateral axillary infection
+bilateral subclavian hemorrhage
+bilateral basilar seroma
+stable gastric seroma
+progressive renal stenosis

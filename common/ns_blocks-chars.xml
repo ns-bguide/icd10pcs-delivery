@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grammars version="1.0.0">
+
+    <grammar name="chars">
+
+        <!-- DASHES (and HYPHENS) -->
+
+        <!-- Explaining my usage thoughts is kinda tricky.
+
+             Both hyphens and dashes are punctuation marks, and "dashes" appears to be an acceptable
+             aggregate term since Unicode standards allow a "dash" attribute for punctuation-type
+             characters, regardless whether they are hyphens or dashes. At a high level, hyphens are
+             functionally used to break up single words, join separate words, or connect numbers and
+             words. Dashes are more commonly used outside words, or to delineate ranges of values.
+             What most people call a "dash" (found on their keyboards) is actually the
+             "hyphen-minus", an accessible hyphen character that doubles as a minus sign.
+
+             All that said, from a building-block standpoint, I need to support multiple categories
+             in different groups in multiple ways:
+
+               1. ("-") The "hyphen-minus" is often used on its own, without need for additional
+                  types. This is represented in a regex as "\-" or within a term simply as "-".
+                  Nothing special needs to be to support this character on its own.
+
+               2. ("hyphens" and "hyphens_cjk") I need finite sets of common hyphens when only one
+                  separator is needed, e.g. within a single, cohesive item such as "Guinea-Bissau".
+                  While "figure dash" is intended for use with numbers, I believe it is acceptable
+                  to include within this category. I think it would also be acceptable to include
+                  the standard "hyphen-minus"; obviously, a "hyphen-minus" is a hyphen, but it's
+                  more a question as to whether adding it into this set increases duplicate matches
+                  due to EDK.
+
+               3. When multiple separators are needed, a finite subset of more common typographical
+                  hyphens should be properly "paired" with the same characters, e.g. "132-54-6798"
+                  (hyphen-minuses) or "132‑54‑6798" (non-breaking hyphens) and not "132-54‑6798"
+                  (both). While these would likely be the equivalent of the "hyphens" set above, the
+                  set would NOT be used in a class of their own for this purpose.
+
+               4. ("dashes_ah") Yet other separators may be mixed (without requiring pairings) for
+                  simplicity and due to expected rarity. At some point, it becomes a simple matter
+                  of intentional obfuscation, and a line needs to be drawn somewhere. That, and a
+                  fairly simple 210-character pattern already turns into 425 characters with the
+                  recommended pairings, but would be nearly 800 characters with all of the current
+                  alternatives as pairs, with no facility for reuse or consistency.
+
+               5. ("dashes") Finally, an aggregate to encompass all available hyphens/dashes when
+                  support for only one separator is needed.
+              -->
+
+        <!-- Most legitimate interpunctuation hyphens/dashes. Best used for "normal" compounding,
+             such as in "Guinea-Bissau". -->
+        <entity name="hyphens" type="private" case="insensitive">
+            <pattern>\-</pattern>               <!-- hyphen-minus -->
+            <!-- Unicode general punctuation, dashes -->
+            <pattern>\x{2010}</pattern>         <!-- ("‐") hyphen -->
+            <pattern>\x{2011}</pattern>         <!-- ("‑") non-breaking hyphen -->
+            <pattern>\x{2012}</pattern>         <!-- ("‒") figure dash -->
+            <pattern>\x{2013}</pattern>         <!-- ("–") en dash -->
+        </entity>
+
+        <!-- Most legitimate interpunctuation hyphens/dashes, including common CJK variants -->
+        <entity name="hyphens_cjk" type="private" case="insensitive">
+            <pattern>\-</pattern>               <!-- hyphen-minus -->
+            <!-- Unicode general punctuation, dashes -->
+            <pattern>\x{2010}</pattern>         <!-- ("‐") hyphen -->
+            <pattern>\x{2011}</pattern>         <!-- ("‑") non-breaking hyphen -->
+            <pattern>\x{2012}</pattern>         <!-- ("‒") figure dash -->
+            <pattern>\x{2013}</pattern>         <!-- ("–") en dash -->
+            <!-- Unicode variants -->
+            <pattern>\x{FE63}</pattern>         <!-- ("﹣") small hyphen-minus -->
+            <pattern>\x{FF0D}</pattern>         <!-- ("－") full-width hyphen-minus -->
+        </entity>
+
+        <!-- Less common variants (alternate hyphens). Best used in conjunction with pairings. -->
+        <entity name="dashes_ah" type="private" case="insensitive">
+            <!-- Unicode mathematical operators -->
+            <pattern>\x{2212}</pattern>         <!-- ("−") minus sign -->
+            <!-- Unicode modifier letter -->
+            <pattern>\x{30FC}</pattern>         <!-- ("ー") not actual punctuation -->
+            <!-- Unicode small form variants -->
+            <pattern>\x{FE58}</pattern>         <!-- ("﹘") small em dash -->
+            <pattern>\x{FE63}</pattern>         <!-- ("﹣") small hyphen-minus -->
+            <!-- Unicode fullwidth ASCII variants -->
+            <pattern>\x{FF0D}</pattern>         <!-- ("－") full-width hyphen-minus -->
+        </entity>
+
+        <!-- The hyphens/dashes all-inclusive aggregate, best used when the ambiguity doesn't
+             matter. The separators specifically included within this Entity are the same that are
+             manually used as pairs as mentioned in item #3 above. -->
+        <entity name="dashes" type="private" case="insensitive">
+            <pattern>(?A:chars/dashes_ah)</pattern>
+            <pattern>\-</pattern>               <!-- hyphen-minus -->
+            <!-- Unicode general punctuation, dashes -->
+            <pattern>\x{2010}</pattern>         <!-- ("‐") hyphen -->
+            <pattern>\x{2011}</pattern>         <!-- ("‑") non-breaking hyphen -->
+            <pattern>\x{2012}</pattern>         <!-- ("‒") figure dash -->
+            <pattern>\x{2013}</pattern>         <!-- ("–") en dash -->
+            <pattern>\x{2014}</pattern>         <!-- ("—") em dash -->
+            <pattern>\x{2015}</pattern>         <!-- ("―") horizontal bar -->
+        </entity>
+
+
+        <!-- OTHER INDIVIDUAL CHAR TYPES -->
+
+        <entity name="s_quotes" type="private" case="sensitive">
+            <pattern>[\'\x{2018}\x{2019}\x{FF07}]</pattern>
+        </entity>
+
+        <entity name="d_quotes" type="private" case="sensitive">
+            <pattern>[\"\x{201C}\x{201D}\x{FF02}]</pattern>
+        </entity>
+
+        <entity name="quotes" type="private" case="sensitive">
+            <pattern>[\"\'\x{2018}\x{2019}\x{201C}\x{201D}\x{FF02}\x{FF07}]</pattern>
+        </entity>
+
+        <entity name="spaces" type="private" case="sensitive">
+            <pattern>[\ \t\n\xA0\x{2000}-\x{200B}\x{2028}\x{202F}\x{205F}\x{3000}\x{FEFF}]</pattern>
+        </entity>
+
+
+        <!-- SINGLE CHARACTER SETS (NON-SOLELY-NUMERIC) -->
+
+        <!-- Having several of the patterns as case insensitive seems a bit odd because there's no
+             way to distinguish all uppercase and all lowercase in a single charset, i.e. there
+             wouldn't be rational cases with mixed case letters. (Applies mainly to those Entities
+             with up to medium-size bases, e.g. "32" and below.) -->
+
+        <entity name="b32" type="private" case="insensitive"> <!-- RFC 4648.6 -->
+            <pattern>[2-7A-Z]</pattern>
+        </entity>
+
+        <entity name="b32c" type="private" case="insensitive"> <!-- aka "Crockford's Base32" -->
+            <pattern>[0-9A-TV-Z]</pattern>
+        </entity>
+
+        <entity name="b32h" type="private" case="insensitive"> <!-- RFC 4648.7 -->
+            <pattern>[0-9A-V]</pattern>
+        </entity>
+
+        <entity name="b32w" type="private" case="sensitive"> <!-- aka "word-safe Base32" -->
+            <pattern>[2-9CF-HJMP-RV-Xcf-hjmp-rv-x]</pattern>
+        </entity>
+
+        <entity name="b32z" type="private" case="insensitive"> <!-- aka "z-base-32" -->
+            <pattern>[13-9A-KM-UW-Z]</pattern>
+        </entity>
+
+        <entity name="b58" type="private" case="sensitive"> <!-- aka "Base58Check" -->
+            <pattern>[1-9A-HJ-NP-Za-km-z]</pattern>
+        </entity>
+
+        <entity name="b64" type="private" case="sensitive">
+            <pattern>[0-9A-Fa-f\/\+]</pattern>
+        </entity>
+
+        <entity name="b64_safe" type="private" case="sensitive">
+            <pattern>[0-9A-Fa-f_\-]</pattern>
+        </entity>
+
+
+        <!-- MINIMUM PERMUTATIONS FOR CHARACTER SETS -->
+
+        <entity name="permutations/alnum" type="private" case="sensitive">
+            <pattern>([0-9]+([A-Z][0-9A-Z]*[a-z]|[a-z][0-9a-z]*[A-Z])|[A-Z]+([0-9][0-9A-Z]*[a-z]|[a-z][A-Za-z]*[0-9])|[a-z]+([0-9][0-9a-z]*[A-Z]|[A-Z][a-zA-Z]*[0-9]))</pattern>
+        </entity>
+
+
+    </grammar>
+
+</grammars>
+

@@ -1,0 +1,2325 @@
+2W00X0Z	We changed the traction apparatus on the head.
+2W00X0Z	We are changing the traction apparatus on the head.
+2W00X0Z	We will change the traction apparatus on the head.
+2W00X1Z	We changed the splint on the head.
+2W00X1Z	We are changing the splint on the head.
+2W00X1Z	We will change the splint on the head.
+2W00X2Z	We changed the cast on the head.
+2W00X2Z	We are changing the cast on the head.
+2W00X2Z	We will change the cast on the head.
+2W00X3Z	We changed the brace on the head.
+2W00X3Z	We are changing the brace on the head.
+2W00X3Z	We will change the brace on the head.
+2W00X4Z	We changed the bandage on the head.
+2W00X4Z	We are changing the bandage on the head.
+2W00X4Z	We will change the bandage on the head.
+2W00X5Z	We changed the packing material on the head.
+2W00X5Z	We are changing the packing material on the head.
+2W00X5Z	We will change the packing material on the head.
+2W00X6Z	We changed the pressure dressing on the head.
+2W00X6Z	We are changing the pressure dressing on the head.
+2W00X6Z	We will change the pressure dressing on the head.
+2W00X7Z	We changed the intermittent pressure device on the head.
+2W00X7Z	We are changing the intermittent pressure device on the head.
+2W00X7Z	We will change the intermittent pressure device on the head.
+2W00XYZ	We changed the other device on the head.
+2W00XYZ	We are changing the other device on the head.
+2W00XYZ	We will change the other device on the head.
+2W01X0Z	We changed the traction apparatus on the face.
+2W01X0Z	We are changing the traction apparatus on the face.
+2W01X0Z	We will change the traction apparatus on the face.
+2W01X1Z	We changed the splint on the face.
+2W01X1Z	We are changing the splint on the face.
+2W01X1Z	We will change the splint on the face.
+2W01X2Z	We changed the cast on the face.
+2W01X2Z	We are changing the cast on the face.
+2W01X2Z	We will change the cast on the face.
+2W01X3Z	We changed the brace on the face.
+2W01X3Z	We are changing the brace on the face.
+2W01X3Z	We will change the brace on the face.
+2W01X4Z	We changed the bandage on the face.
+2W01X4Z	We are changing the bandage on the face.
+2W01X4Z	We will change the bandage on the face.
+2W01X5Z	We changed the packing material on the face.
+2W01X5Z	We are changing the packing material on the face.
+2W01X5Z	We will change the packing material on the face.
+2W01X6Z	We changed the pressure dressing on the face.
+2W01X6Z	We are changing the pressure dressing on the face.
+2W01X6Z	We will change the pressure dressing on the face.
+2W01X7Z	We changed the intermittent pressure device on the face.
+2W01X7Z	We are changing the intermittent pressure device on the face.
+2W01X7Z	We will change the intermittent pressure device on the face.
+2W01X9Z	We changed the wire on the face.
+2W01X9Z	We are changing the wire on the face.
+2W01X9Z	We will change the wire on the face.
+2W01XYZ	We changed the other device on the face.
+2W01XYZ	We are changing the other device on the face.
+2W01XYZ	We will change the other device on the face.
+2W02X0Z	We changed the traction apparatus on the neck.
+2W02X0Z	We are changing the traction apparatus on the neck.
+2W02X0Z	We will change the traction apparatus on the neck.
+2W02X1Z	We changed the splint on the neck.
+2W02X1Z	We are changing the splint on the neck.
+2W02X1Z	We will change the splint on the neck.
+2W02X2Z	We changed the cast on the neck.
+2W02X2Z	We are changing the cast on the neck.
+2W02X2Z	We will change the cast on the neck.
+2W02X3Z	We changed the brace on the neck.
+2W02X3Z	We are changing the brace on the neck.
+2W02X3Z	We will change the brace on the neck.
+2W02X4Z	We changed the bandage on the neck.
+2W02X4Z	We are changing the bandage on the neck.
+2W02X4Z	We will change the bandage on the neck.
+2W02X5Z	We changed the packing material on the neck.
+2W02X5Z	We are changing the packing material on the neck.
+2W02X5Z	We will change the packing material on the neck.
+2W02X6Z	We changed the pressure dressing on the neck.
+2W02X6Z	We are changing the pressure dressing on the neck.
+2W02X6Z	We will change the pressure dressing on the neck.
+2W02X7Z	We changed the intermittent pressure device on the neck.
+2W02X7Z	We are changing the intermittent pressure device on the neck.
+2W02X7Z	We will change the intermittent pressure device on the neck.
+2W02XYZ	We changed the other device on the neck.
+2W02XYZ	We are changing the other device on the neck.
+2W02XYZ	We will change the other device on the neck.
+2W03X0Z	We changed the traction apparatus on the abdominal wall.
+2W03X0Z	We are changing the traction apparatus on the abdominal wall.
+2W03X0Z	We will change the traction apparatus on the abdominal wall.
+2W03X1Z	We changed the splint on the abdominal wall.
+2W03X1Z	We are changing the splint on the abdominal wall.
+2W03X1Z	We will change the splint on the abdominal wall.
+2W03X2Z	We changed the cast on the abdominal wall.
+2W03X2Z	We are changing the cast on the abdominal wall.
+2W03X2Z	We will change the cast on the abdominal wall.
+2W03X3Z	We changed the brace on the abdominal wall.
+2W03X3Z	We are changing the brace on the abdominal wall.
+2W03X3Z	We will change the brace on the abdominal wall.
+2W03X4Z	We changed the bandage on the abdominal wall.
+2W03X4Z	We are changing the bandage on the abdominal wall.
+2W03X4Z	We will change the bandage on the abdominal wall.
+2W03X5Z	We changed the packing material on the abdominal wall.
+2W03X5Z	We are changing the packing material on the abdominal wall.
+2W03X5Z	We will change the packing material on the abdominal wall.
+2W03X6Z	We changed the pressure dressing on the abdominal wall.
+2W03X6Z	We are changing the pressure dressing on the abdominal wall.
+2W03X6Z	We will change the pressure dressing on the abdominal wall.
+2W03X7Z	We changed the intermittent pressure device on the abdominal wall.
+2W03X7Z	We are changing the intermittent pressure device on the abdominal wall.
+2W03X7Z	We will change the intermittent pressure device on the abdominal wall.
+2W03XYZ	We changed the other device on the abdominal wall.
+2W03XYZ	We are changing the other device on the abdominal wall.
+2W03XYZ	We will change the other device on the abdominal wall.
+2W04X0Z	We changed the traction apparatus on the chest wall.
+2W04X0Z	We are changing the traction apparatus on the chest wall.
+2W04X0Z	We will change the traction apparatus on the chest wall.
+2W04X1Z	We changed the splint on the chest wall.
+2W04X1Z	We are changing the splint on the chest wall.
+2W04X1Z	We will change the splint on the chest wall.
+2W04X2Z	We changed the cast on the chest wall.
+2W04X2Z	We are changing the cast on the chest wall.
+2W04X2Z	We will change the cast on the chest wall.
+2W04X3Z	We changed the brace on the chest wall.
+2W04X3Z	We are changing the brace on the chest wall.
+2W04X3Z	We will change the brace on the chest wall.
+2W04X4Z	We changed the bandage on the chest wall.
+2W04X4Z	We are changing the bandage on the chest wall.
+2W04X4Z	We will change the bandage on the chest wall.
+2W04X5Z	We changed the packing material on the chest wall.
+2W04X5Z	We are changing the packing material on the chest wall.
+2W04X5Z	We will change the packing material on the chest wall.
+2W04X6Z	We changed the pressure dressing on the chest wall.
+2W04X6Z	We are changing the pressure dressing on the chest wall.
+2W04X6Z	We will change the pressure dressing on the chest wall.
+2W04X7Z	We changed the intermittent pressure device on the chest wall.
+2W04X7Z	We are changing the intermittent pressure device on the chest wall.
+2W04X7Z	We will change the intermittent pressure device on the chest wall.
+2W04XYZ	We changed the other device on the chest wall.
+2W04XYZ	We are changing the other device on the chest wall.
+2W04XYZ	We will change the other device on the chest wall.
+2W05X0Z	We changed the traction apparatus on the back.
+2W05X0Z	We are changing the traction apparatus on the back.
+2W05X0Z	We will change the traction apparatus on the back.
+2W05X1Z	We changed the splint on the back.
+2W05X1Z	We are changing the splint on the back.
+2W05X1Z	We will change the splint on the back.
+2W05X2Z	We changed the cast on the back.
+2W05X2Z	We are changing the cast on the back.
+2W05X2Z	We will change the cast on the back.
+2W05X3Z	We changed the brace on the back.
+2W05X3Z	We are changing the brace on the back.
+2W05X3Z	We will change the brace on the back.
+2W05X4Z	We changed the bandage on the back.
+2W05X4Z	We are changing the bandage on the back.
+2W05X4Z	We will change the bandage on the back.
+2W05X5Z	We changed the packing material on the back.
+2W05X5Z	We are changing the packing material on the back.
+2W05X5Z	We will change the packing material on the back.
+2W05X6Z	We changed the pressure dressing on the back.
+2W05X6Z	We are changing the pressure dressing on the back.
+2W05X6Z	We will change the pressure dressing on the back.
+2W05X7Z	We changed the intermittent pressure device on the back.
+2W05X7Z	We are changing the intermittent pressure device on the back.
+2W05X7Z	We will change the intermittent pressure device on the back.
+2W05XYZ	We changed the other device on the back.
+2W05XYZ	We are changing the other device on the back.
+2W05XYZ	We will change the other device on the back.
+2W06X0Z	We changed the traction apparatus on the right inguinal region.
+2W06X0Z	We are changing the traction apparatus on the right inguinal region.
+2W06X0Z	We will change the traction apparatus on the right inguinal region.
+2W06X1Z	We changed the splint on the right inguinal region.
+2W06X1Z	We are changing the splint on the right inguinal region.
+2W06X1Z	We will change the splint on the right inguinal region.
+2W06X2Z	We changed the cast on the right inguinal region.
+2W06X2Z	We are changing the cast on the right inguinal region.
+2W06X2Z	We will change the cast on the right inguinal region.
+2W06X3Z	We changed the brace on the right inguinal region.
+2W06X3Z	We are changing the brace on the right inguinal region.
+2W06X3Z	We will change the brace on the right inguinal region.
+2W06X4Z	We changed the bandage on the right inguinal region.
+2W06X4Z	We are changing the bandage on the right inguinal region.
+2W06X4Z	We will change the bandage on the right inguinal region.
+2W06X5Z	We changed the packing material on the right inguinal region.
+2W06X5Z	We are changing the packing material on the right inguinal region.
+2W06X5Z	We will change the packing material on the right inguinal region.
+2W06X6Z	We changed the pressure dressing on the right inguinal region.
+2W06X6Z	We are changing the pressure dressing on the right inguinal region.
+2W06X6Z	We will change the pressure dressing on the right inguinal region.
+2W06X7Z	We changed the intermittent pressure device on the right inguinal region.
+2W06X7Z	We are changing the intermittent pressure device on the right inguinal region.
+2W06X7Z	We will change the intermittent pressure device on the right inguinal region.
+2W06XYZ	We changed the other device on the right inguinal region.
+2W06XYZ	We are changing the other device on the right inguinal region.
+2W06XYZ	We will change the other device on the right inguinal region.
+2W07X0Z	We changed the traction apparatus on the left inguinal region.
+2W07X0Z	We are changing the traction apparatus on the left inguinal region.
+2W07X0Z	We will change the traction apparatus on the left inguinal region.
+2W07X1Z	We changed the splint on the left inguinal region.
+2W07X1Z	We are changing the splint on the left inguinal region.
+2W07X1Z	We will change the splint on the left inguinal region.
+2W07X2Z	We changed the cast on the left inguinal region.
+2W07X2Z	We are changing the cast on the left inguinal region.
+2W07X2Z	We will change the cast on the left inguinal region.
+2W07X3Z	We changed the brace on the left inguinal region.
+2W07X3Z	We are changing the brace on the left inguinal region.
+2W07X3Z	We will change the brace on the left inguinal region.
+2W07X4Z	We changed the bandage on the left inguinal region.
+2W07X4Z	We are changing the bandage on the left inguinal region.
+2W07X4Z	We will change the bandage on the left inguinal region.
+2W07X5Z	We changed the packing material on the left inguinal region.
+2W07X5Z	We are changing the packing material on the left inguinal region.
+2W07X5Z	We will change the packing material on the left inguinal region.
+2W07X6Z	We changed the pressure dressing on the left inguinal region.
+2W07X6Z	We are changing the pressure dressing on the left inguinal region.
+2W07X6Z	We will change the pressure dressing on the left inguinal region.
+2W07X7Z	We changed the intermittent pressure device on the left inguinal region.
+2W07X7Z	We are changing the intermittent pressure device on the left inguinal region.
+2W07X7Z	We will change the intermittent pressure device on the left inguinal region.
+2W07XYZ	We changed the other device on the left inguinal region.
+2W07XYZ	We are changing the other device on the left inguinal region.
+2W07XYZ	We will change the other device on the left inguinal region.
+2W08X0Z	We changed the traction apparatus on the right upper extremity.
+2W08X0Z	We are changing the traction apparatus on the right upper extremity.
+2W08X0Z	We will change the traction apparatus on the right upper extremity.
+2W08X1Z	We changed the splint on the right upper extremity.
+2W08X1Z	We are changing the splint on the right upper extremity.
+2W08X1Z	We will change the splint on the right upper extremity.
+2W08X2Z	We changed the cast on the right upper extremity.
+2W08X2Z	We are changing the cast on the right upper extremity.
+2W08X2Z	We will change the cast on the right upper extremity.
+2W08X3Z	We changed the brace on the right upper extremity.
+2W08X3Z	We are changing the brace on the right upper extremity.
+2W08X3Z	We will change the brace on the right upper extremity.
+2W08X4Z	We changed the bandage on the right upper extremity.
+2W08X4Z	We are changing the bandage on the right upper extremity.
+2W08X4Z	We will change the bandage on the right upper extremity.
+2W08X5Z	We changed the packing material on the right upper extremity.
+2W08X5Z	We are changing the packing material on the right upper extremity.
+2W08X5Z	We will change the packing material on the right upper extremity.
+2W08X6Z	We changed the pressure dressing on the right upper extremity.
+2W08X6Z	We are changing the pressure dressing on the right upper extremity.
+2W08X6Z	We will change the pressure dressing on the right upper extremity.
+2W08X7Z	We changed the intermittent pressure device on the right upper extremity.
+2W08X7Z	We are changing the intermittent pressure device on the right upper extremity.
+2W08X7Z	We will change the intermittent pressure device on the right upper extremity.
+2W08XYZ	We changed the other device on the right upper extremity.
+2W08XYZ	We are changing the other device on the right upper extremity.
+2W08XYZ	We will change the other device on the right upper extremity.
+2W09X0Z	We changed the traction apparatus on the left upper extremity.
+2W09X0Z	We are changing the traction apparatus on the left upper extremity.
+2W09X0Z	We will change the traction apparatus on the left upper extremity.
+2W09X1Z	We changed the splint on the left upper extremity.
+2W09X1Z	We are changing the splint on the left upper extremity.
+2W09X1Z	We will change the splint on the left upper extremity.
+2W09X2Z	We changed the cast on the left upper extremity.
+2W09X2Z	We are changing the cast on the left upper extremity.
+2W09X2Z	We will change the cast on the left upper extremity.
+2W09X3Z	We changed the brace on the left upper extremity.
+2W09X3Z	We are changing the brace on the left upper extremity.
+2W09X3Z	We will change the brace on the left upper extremity.
+2W09X4Z	We changed the bandage on the left upper extremity.
+2W09X4Z	We are changing the bandage on the left upper extremity.
+2W09X4Z	We will change the bandage on the left upper extremity.
+2W09X5Z	We changed the packing material on the left upper extremity.
+2W09X5Z	We are changing the packing material on the left upper extremity.
+2W09X5Z	We will change the packing material on the left upper extremity.
+2W09X6Z	We changed the pressure dressing on the left upper extremity.
+2W09X6Z	We are changing the pressure dressing on the left upper extremity.
+2W09X6Z	We will change the pressure dressing on the left upper extremity.
+2W09X7Z	We changed the intermittent pressure device on the left upper extremity.
+2W09X7Z	We are changing the intermittent pressure device on the left upper extremity.
+2W09X7Z	We will change the intermittent pressure device on the left upper extremity.
+2W09XYZ	We changed the other device on the left upper extremity.
+2W09XYZ	We are changing the other device on the left upper extremity.
+2W09XYZ	We will change the other device on the left upper extremity.
+2W0AX0Z	We changed the traction apparatus on the right upper arm.
+2W0AX0Z	We are changing the traction apparatus on the right upper arm.
+2W0AX0Z	We will change the traction apparatus on the right upper arm.
+2W0AX1Z	We changed the splint on the right upper arm.
+2W0AX1Z	We are changing the splint on the right upper arm.
+2W0AX1Z	We will change the splint on the right upper arm.
+2W0AX2Z	We changed the cast on the right upper arm.
+2W0AX2Z	We are changing the cast on the right upper arm.
+2W0AX2Z	We will change the cast on the right upper arm.
+2W0AX3Z	We changed the brace on the right upper arm.
+2W0AX3Z	We are changing the brace on the right upper arm.
+2W0AX3Z	We will change the brace on the right upper arm.
+2W0AX4Z	We changed the bandage on the right upper arm.
+2W0AX4Z	We are changing the bandage on the right upper arm.
+2W0AX4Z	We will change the bandage on the right upper arm.
+2W0AX5Z	We changed the packing material on the right upper arm.
+2W0AX5Z	We are changing the packing material on the right upper arm.
+2W0AX5Z	We will change the packing material on the right upper arm.
+2W0AX6Z	We changed the pressure dressing on the right upper arm.
+2W0AX6Z	We are changing the pressure dressing on the right upper arm.
+2W0AX6Z	We will change the pressure dressing on the right upper arm.
+2W0AX7Z	We changed the intermittent pressure device on the right upper arm.
+2W0AX7Z	We are changing the intermittent pressure device on the right upper arm.
+2W0AX7Z	We will change the intermittent pressure device on the right upper arm.
+2W0AXYZ	We changed the other device on the right upper arm.
+2W0AXYZ	We are changing the other device on the right upper arm.
+2W0AXYZ	We will change the other device on the right upper arm.
+2W0BX0Z	We changed the traction apparatus on the left upper arm.
+2W0BX0Z	We are changing the traction apparatus on the left upper arm.
+2W0BX0Z	We will change the traction apparatus on the left upper arm.
+2W0BX1Z	We changed the splint on the left upper arm.
+2W0BX1Z	We are changing the splint on the left upper arm.
+2W0BX1Z	We will change the splint on the left upper arm.
+2W0BX2Z	We changed the cast on the left upper arm.
+2W0BX2Z	We are changing the cast on the left upper arm.
+2W0BX2Z	We will change the cast on the left upper arm.
+2W0BX3Z	We changed the brace on the left upper arm.
+2W0BX3Z	We are changing the brace on the left upper arm.
+2W0BX3Z	We will change the brace on the left upper arm.
+2W0BX4Z	We changed the bandage on the left upper arm.
+2W0BX4Z	We are changing the bandage on the left upper arm.
+2W0BX4Z	We will change the bandage on the left upper arm.
+2W0BX5Z	We changed the packing material on the left upper arm.
+2W0BX5Z	We are changing the packing material on the left upper arm.
+2W0BX5Z	We will change the packing material on the left upper arm.
+2W0BX6Z	We changed the pressure dressing on the left upper arm.
+2W0BX6Z	We are changing the pressure dressing on the left upper arm.
+2W0BX6Z	We will change the pressure dressing on the left upper arm.
+2W0BX7Z	We changed the intermittent pressure device on the left upper arm.
+2W0BX7Z	We are changing the intermittent pressure device on the left upper arm.
+2W0BX7Z	We will change the intermittent pressure device on the left upper arm.
+2W0BXYZ	We changed the other device on the left upper arm.
+2W0BXYZ	We are changing the other device on the left upper arm.
+2W0BXYZ	We will change the other device on the left upper arm.
+2W0CX0Z	We changed the traction apparatus on the right lower arm.
+2W0CX0Z	We are changing the traction apparatus on the right lower arm.
+2W0CX0Z	We will change the traction apparatus on the right lower arm.
+2W0CX1Z	We changed the splint on the right lower arm.
+2W0CX1Z	We are changing the splint on the right lower arm.
+2W0CX1Z	We will change the splint on the right lower arm.
+2W0CX2Z	We changed the cast on the right lower arm.
+2W0CX2Z	We are changing the cast on the right lower arm.
+2W0CX2Z	We will change the cast on the right lower arm.
+2W0CX3Z	We changed the brace on the right lower arm.
+2W0CX3Z	We are changing the brace on the right lower arm.
+2W0CX3Z	We will change the brace on the right lower arm.
+2W0CX4Z	We changed the bandage on the right lower arm.
+2W0CX4Z	We are changing the bandage on the right lower arm.
+2W0CX4Z	We will change the bandage on the right lower arm.
+2W0CX5Z	We changed the packing material on the right lower arm.
+2W0CX5Z	We are changing the packing material on the right lower arm.
+2W0CX5Z	We will change the packing material on the right lower arm.
+2W0CX6Z	We changed the pressure dressing on the right lower arm.
+2W0CX6Z	We are changing the pressure dressing on the right lower arm.
+2W0CX6Z	We will change the pressure dressing on the right lower arm.
+2W0CX7Z	We changed the intermittent pressure device on the right lower arm.
+2W0CX7Z	We are changing the intermittent pressure device on the right lower arm.
+2W0CX7Z	We will change the intermittent pressure device on the right lower arm.
+2W0CXYZ	We changed the other device on the right lower arm.
+2W0CXYZ	We are changing the other device on the right lower arm.
+2W0CXYZ	We will change the other device on the right lower arm.
+2W0DX0Z	We changed the traction apparatus on the left lower arm.
+2W0DX0Z	We are changing the traction apparatus on the left lower arm.
+2W0DX0Z	We will change the traction apparatus on the left lower arm.
+2W0DX1Z	We changed the splint on the left lower arm.
+2W0DX1Z	We are changing the splint on the left lower arm.
+2W0DX1Z	We will change the splint on the left lower arm.
+2W0DX2Z	We changed the cast on the left lower arm.
+2W0DX2Z	We are changing the cast on the left lower arm.
+2W0DX2Z	We will change the cast on the left lower arm.
+2W0DX3Z	We changed the brace on the left lower arm.
+2W0DX3Z	We are changing the brace on the left lower arm.
+2W0DX3Z	We will change the brace on the left lower arm.
+2W0DX4Z	We changed the bandage on the left lower arm.
+2W0DX4Z	We are changing the bandage on the left lower arm.
+2W0DX4Z	We will change the bandage on the left lower arm.
+2W0DX5Z	We changed the packing material on the left lower arm.
+2W0DX5Z	We are changing the packing material on the left lower arm.
+2W0DX5Z	We will change the packing material on the left lower arm.
+2W0DX6Z	We changed the pressure dressing on the left lower arm.
+2W0DX6Z	We are changing the pressure dressing on the left lower arm.
+2W0DX6Z	We will change the pressure dressing on the left lower arm.
+2W0DX7Z	We changed the intermittent pressure device on the left lower arm.
+2W0DX7Z	We are changing the intermittent pressure device on the left lower arm.
+2W0DX7Z	We will change the intermittent pressure device on the left lower arm.
+2W0DXYZ	We changed the other device on the left lower arm.
+2W0DXYZ	We are changing the other device on the left lower arm.
+2W0DXYZ	We will change the other device on the left lower arm.
+2W0EX0Z	We changed the traction apparatus on the right hand.
+2W0EX0Z	We are changing the traction apparatus on the right hand.
+2W0EX0Z	We will change the traction apparatus on the right hand.
+2W0EX1Z	We changed the splint on the right hand.
+2W0EX1Z	We are changing the splint on the right hand.
+2W0EX1Z	We will change the splint on the right hand.
+2W0EX2Z	We changed the cast on the right hand.
+2W0EX2Z	We are changing the cast on the right hand.
+2W0EX2Z	We will change the cast on the right hand.
+2W0EX3Z	We changed the brace on the right hand.
+2W0EX3Z	We are changing the brace on the right hand.
+2W0EX3Z	We will change the brace on the right hand.
+2W0EX4Z	We changed the bandage on the right hand.
+2W0EX4Z	We are changing the bandage on the right hand.
+2W0EX4Z	We will change the bandage on the right hand.
+2W0EX5Z	We changed the packing material on the right hand.
+2W0EX5Z	We are changing the packing material on the right hand.
+2W0EX5Z	We will change the packing material on the right hand.
+2W0EX6Z	We changed the pressure dressing on the right hand.
+2W0EX6Z	We are changing the pressure dressing on the right hand.
+2W0EX6Z	We will change the pressure dressing on the right hand.
+2W0EX7Z	We changed the intermittent pressure device on the right hand.
+2W0EX7Z	We are changing the intermittent pressure device on the right hand.
+2W0EX7Z	We will change the intermittent pressure device on the right hand.
+2W0EXYZ	We changed the other device on the right hand.
+2W0EXYZ	We are changing the other device on the right hand.
+2W0EXYZ	We will change the other device on the right hand.
+2W0FX0Z	We changed the traction apparatus on the left hand.
+2W0FX0Z	We are changing the traction apparatus on the left hand.
+2W0FX0Z	We will change the traction apparatus on the left hand.
+2W0FX1Z	We changed the splint on the left hand.
+2W0FX1Z	We are changing the splint on the left hand.
+2W0FX1Z	We will change the splint on the left hand.
+2W0FX2Z	We changed the cast on the left hand.
+2W0FX2Z	We are changing the cast on the left hand.
+2W0FX2Z	We will change the cast on the left hand.
+2W0FX3Z	We changed the brace on the left hand.
+2W0FX3Z	We are changing the brace on the left hand.
+2W0FX3Z	We will change the brace on the left hand.
+2W0FX4Z	We changed the bandage on the left hand.
+2W0FX4Z	We are changing the bandage on the left hand.
+2W0FX4Z	We will change the bandage on the left hand.
+2W0FX5Z	We changed the packing material on the left hand.
+2W0FX5Z	We are changing the packing material on the left hand.
+2W0FX5Z	We will change the packing material on the left hand.
+2W0FX6Z	We changed the pressure dressing on the left hand.
+2W0FX6Z	We are changing the pressure dressing on the left hand.
+2W0FX6Z	We will change the pressure dressing on the left hand.
+2W0FX7Z	We changed the intermittent pressure device on the left hand.
+2W0FX7Z	We are changing the intermittent pressure device on the left hand.
+2W0FX7Z	We will change the intermittent pressure device on the left hand.
+2W0FXYZ	We changed the other device on the left hand.
+2W0FXYZ	We are changing the other device on the left hand.
+2W0FXYZ	We will change the other device on the left hand.
+2W0GX0Z	We changed the traction apparatus on the right thumb.
+2W0GX0Z	We are changing the traction apparatus on the right thumb.
+2W0GX0Z	We will change the traction apparatus on the right thumb.
+2W0GX1Z	We changed the splint on the right thumb.
+2W0GX1Z	We are changing the splint on the right thumb.
+2W0GX1Z	We will change the splint on the right thumb.
+2W0GX2Z	We changed the cast on the right thumb.
+2W0GX2Z	We are changing the cast on the right thumb.
+2W0GX2Z	We will change the cast on the right thumb.
+2W0GX3Z	We changed the brace on the right thumb.
+2W0GX3Z	We are changing the brace on the right thumb.
+2W0GX3Z	We will change the brace on the right thumb.
+2W0GX4Z	We changed the bandage on the right thumb.
+2W0GX4Z	We are changing the bandage on the right thumb.
+2W0GX4Z	We will change the bandage on the right thumb.
+2W0GX5Z	We changed the packing material on the right thumb.
+2W0GX5Z	We are changing the packing material on the right thumb.
+2W0GX5Z	We will change the packing material on the right thumb.
+2W0GX6Z	We changed the pressure dressing on the right thumb.
+2W0GX6Z	We are changing the pressure dressing on the right thumb.
+2W0GX6Z	We will change the pressure dressing on the right thumb.
+2W0GX7Z	We changed the intermittent pressure device on the right thumb.
+2W0GX7Z	We are changing the intermittent pressure device on the right thumb.
+2W0GX7Z	We will change the intermittent pressure device on the right thumb.
+2W0GXYZ	We changed the other device on the right thumb.
+2W0GXYZ	We are changing the other device on the right thumb.
+2W0GXYZ	We will change the other device on the right thumb.
+2W0HX0Z	We changed the traction apparatus on the left thumb.
+2W0HX0Z	We are changing the traction apparatus on the left thumb.
+2W0HX0Z	We will change the traction apparatus on the left thumb.
+2W0HX1Z	We changed the splint on the left thumb.
+2W0HX1Z	We are changing the splint on the left thumb.
+2W0HX1Z	We will change the splint on the left thumb.
+2W0HX2Z	We changed the cast on the left thumb.
+2W0HX2Z	We are changing the cast on the left thumb.
+2W0HX2Z	We will change the cast on the left thumb.
+2W0HX3Z	We changed the brace on the left thumb.
+2W0HX3Z	We are changing the brace on the left thumb.
+2W0HX3Z	We will change the brace on the left thumb.
+2W0HX4Z	We changed the bandage on the left thumb.
+2W0HX4Z	We are changing the bandage on the left thumb.
+2W0HX4Z	We will change the bandage on the left thumb.
+2W0HX5Z	We changed the packing material on the left thumb.
+2W0HX5Z	We are changing the packing material on the left thumb.
+2W0HX5Z	We will change the packing material on the left thumb.
+2W0HX6Z	We changed the pressure dressing on the left thumb.
+2W0HX6Z	We are changing the pressure dressing on the left thumb.
+2W0HX6Z	We will change the pressure dressing on the left thumb.
+2W0HX7Z	We changed the intermittent pressure device on the left thumb.
+2W0HX7Z	We are changing the intermittent pressure device on the left thumb.
+2W0HX7Z	We will change the intermittent pressure device on the left thumb.
+2W0HXYZ	We changed the other device on the left thumb.
+2W0HXYZ	We are changing the other device on the left thumb.
+2W0HXYZ	We will change the other device on the left thumb.
+2W0JX0Z	We changed the traction apparatus on the right finger.
+2W0JX0Z	We are changing the traction apparatus on the right finger.
+2W0JX0Z	We will change the traction apparatus on the right finger.
+2W0JX1Z	We changed the splint on the right finger.
+2W0JX1Z	We are changing the splint on the right finger.
+2W0JX1Z	We will change the splint on the right finger.
+2W0JX2Z	We changed the cast on the right finger.
+2W0JX2Z	We are changing the cast on the right finger.
+2W0JX2Z	We will change the cast on the right finger.
+2W0JX3Z	We changed the brace on the right finger.
+2W0JX3Z	We are changing the brace on the right finger.
+2W0JX3Z	We will change the brace on the right finger.
+2W0JX4Z	We changed the bandage on the right finger.
+2W0JX4Z	We are changing the bandage on the right finger.
+2W0JX4Z	We will change the bandage on the right finger.
+2W0JX5Z	We changed the packing material on the right finger.
+2W0JX5Z	We are changing the packing material on the right finger.
+2W0JX5Z	We will change the packing material on the right finger.
+2W0JX6Z	We changed the pressure dressing on the right finger.
+2W0JX6Z	We are changing the pressure dressing on the right finger.
+2W0JX6Z	We will change the pressure dressing on the right finger.
+2W0JX7Z	We changed the intermittent pressure device on the right finger.
+2W0JX7Z	We are changing the intermittent pressure device on the right finger.
+2W0JX7Z	We will change the intermittent pressure device on the right finger.
+2W0JXYZ	We changed the other device on the right finger.
+2W0JXYZ	We are changing the other device on the right finger.
+2W0JXYZ	We will change the other device on the right finger.
+2W0KX0Z	We changed the traction apparatus on the left finger.
+2W0KX0Z	We are changing the traction apparatus on the left finger.
+2W0KX0Z	We will change the traction apparatus on the left finger.
+2W0KX1Z	We changed the splint on the left finger.
+2W0KX1Z	We are changing the splint on the left finger.
+2W0KX1Z	We will change the splint on the left finger.
+2W0KX2Z	We changed the cast on the left finger.
+2W0KX2Z	We are changing the cast on the left finger.
+2W0KX2Z	We will change the cast on the left finger.
+2W0KX3Z	We changed the brace on the left finger.
+2W0KX3Z	We are changing the brace on the left finger.
+2W0KX3Z	We will change the brace on the left finger.
+2W0KX4Z	We changed the bandage on the left finger.
+2W0KX4Z	We are changing the bandage on the left finger.
+2W0KX4Z	We will change the bandage on the left finger.
+2W0KX5Z	We changed the packing material on the left finger.
+2W0KX5Z	We are changing the packing material on the left finger.
+2W0KX5Z	We will change the packing material on the left finger.
+2W0KX6Z	We changed the pressure dressing on the left finger.
+2W0KX6Z	We are changing the pressure dressing on the left finger.
+2W0KX6Z	We will change the pressure dressing on the left finger.
+2W0KX7Z	We changed the intermittent pressure device on the left finger.
+2W0KX7Z	We are changing the intermittent pressure device on the left finger.
+2W0KX7Z	We will change the intermittent pressure device on the left finger.
+2W0KXYZ	We changed the other device on the left finger.
+2W0KXYZ	We are changing the other device on the left finger.
+2W0KXYZ	We will change the other device on the left finger.
+2W0MX0Z	We changed the traction apparatus on the left lower extremity.
+2W0MX0Z	We are changing the traction apparatus on the left lower extremity.
+2W0MX0Z	We will change the traction apparatus on the left lower extremity.
+2W0MX1Z	We changed the splint on the left lower extremity.
+2W0MX1Z	We are changing the splint on the left lower extremity.
+2W0MX1Z	We will change the splint on the left lower extremity.
+2W0MX2Z	We changed the cast on the left lower extremity.
+2W0MX2Z	We are changing the cast on the left lower extremity.
+2W0MX2Z	We will change the cast on the left lower extremity.
+2W0MX3Z	We changed the brace on the left lower extremity.
+2W0MX3Z	We are changing the brace on the left lower extremity.
+2W0MX3Z	We will change the brace on the left lower extremity.
+2W0MX4Z	We changed the bandage on the left lower extremity.
+2W0MX4Z	We are changing the bandage on the left lower extremity.
+2W0MX4Z	We will change the bandage on the left lower extremity.
+2W0MX5Z	We changed the packing material on the left lower extremity.
+2W0MX5Z	We are changing the packing material on the left lower extremity.
+2W0MX5Z	We will change the packing material on the left lower extremity.
+2W0MX6Z	We changed the pressure dressing on the left lower extremity.
+2W0MX6Z	We are changing the pressure dressing on the left lower extremity.
+2W0MX6Z	We will change the pressure dressing on the left lower extremity.
+2W0MX7Z	We changed the intermittent pressure device on the left lower extremity.
+2W0MX7Z	We are changing the intermittent pressure device on the left lower extremity.
+2W0MX7Z	We will change the intermittent pressure device on the left lower extremity.
+2W0MXYZ	We changed the other device on the left lower extremity.
+2W0MXYZ	We are changing the other device on the left lower extremity.
+2W0MXYZ	We will change the other device on the left lower extremity.
+2W0NX0Z	We changed the traction apparatus on the right upper leg.
+2W0NX0Z	We are changing the traction apparatus on the right upper leg.
+2W0NX0Z	We will change the traction apparatus on the right upper leg.
+2W0NX1Z	We changed the splint on the right upper leg.
+2W0NX1Z	We are changing the splint on the right upper leg.
+2W0NX1Z	We will change the splint on the right upper leg.
+2W0NX2Z	We changed the cast on the right upper leg.
+2W0NX2Z	We are changing the cast on the right upper leg.
+2W0NX2Z	We will change the cast on the right upper leg.
+2W0NX3Z	We changed the brace on the right upper leg.
+2W0NX3Z	We are changing the brace on the right upper leg.
+2W0NX3Z	We will change the brace on the right upper leg.
+2W0NX4Z	We changed the bandage on the right upper leg.
+2W0NX4Z	We are changing the bandage on the right upper leg.
+2W0NX4Z	We will change the bandage on the right upper leg.
+2W0NX5Z	We changed the packing material on the right upper leg.
+2W0NX5Z	We are changing the packing material on the right upper leg.
+2W0NX5Z	We will change the packing material on the right upper leg.
+2W0NX6Z	We changed the pressure dressing on the right upper leg.
+2W0NX6Z	We are changing the pressure dressing on the right upper leg.
+2W0NX6Z	We will change the pressure dressing on the right upper leg.
+2W0NX7Z	We changed the intermittent pressure device on the right upper leg.
+2W0NX7Z	We are changing the intermittent pressure device on the right upper leg.
+2W0NX7Z	We will change the intermittent pressure device on the right upper leg.
+2W0NXYZ	We changed the other device on the right upper leg.
+2W0NXYZ	We are changing the other device on the right upper leg.
+2W0NXYZ	We will change the other device on the right upper leg.
+2W0PX0Z	We changed the traction apparatus on the left upper leg.
+2W0PX0Z	We are changing the traction apparatus on the left upper leg.
+2W0PX0Z	We will change the traction apparatus on the left upper leg.
+2W0PX1Z	We changed the splint on the left upper leg.
+2W0PX1Z	We are changing the splint on the left upper leg.
+2W0PX1Z	We will change the splint on the left upper leg.
+2W0PX2Z	We changed the cast on the left upper leg.
+2W0PX2Z	We are changing the cast on the left upper leg.
+2W0PX2Z	We will change the cast on the left upper leg.
+2W0PX3Z	We changed the brace on the left upper leg.
+2W0PX3Z	We are changing the brace on the left upper leg.
+2W0PX3Z	We will change the brace on the left upper leg.
+2W0PX4Z	We changed the bandage on the left upper leg.
+2W0PX4Z	We are changing the bandage on the left upper leg.
+2W0PX4Z	We will change the bandage on the left upper leg.
+2W0PX5Z	We changed the packing material on the left upper leg.
+2W0PX5Z	We are changing the packing material on the left upper leg.
+2W0PX5Z	We will change the packing material on the left upper leg.
+2W0PX6Z	We changed the pressure dressing on the left upper leg.
+2W0PX6Z	We are changing the pressure dressing on the left upper leg.
+2W0PX6Z	We will change the pressure dressing on the left upper leg.
+2W0PX7Z	We changed the intermittent pressure device on the left upper leg.
+2W0PX7Z	We are changing the intermittent pressure device on the left upper leg.
+2W0PX7Z	We will change the intermittent pressure device on the left upper leg.
+2W0PXYZ	We changed the other device on the left upper leg.
+2W0PXYZ	We are changing the other device on the left upper leg.
+2W0PXYZ	We will change the other device on the left upper leg.
+2W0QX0Z	We changed the traction apparatus on the right lower leg.
+2W0QX0Z	We are changing the traction apparatus on the right lower leg.
+2W0QX0Z	We will change the traction apparatus on the right lower leg.
+2W0QX1Z	We changed the splint on the right lower leg.
+2W0QX1Z	We are changing the splint on the right lower leg.
+2W0QX1Z	We will change the splint on the right lower leg.
+2W0QX2Z	We changed the cast on the right lower leg.
+2W0QX2Z	We are changing the cast on the right lower leg.
+2W0QX2Z	We will change the cast on the right lower leg.
+2W0QX3Z	We changed the brace on the right lower leg.
+2W0QX3Z	We are changing the brace on the right lower leg.
+2W0QX3Z	We will change the brace on the right lower leg.
+2W0QX4Z	We changed the bandage on the right lower leg.
+2W0QX4Z	We are changing the bandage on the right lower leg.
+2W0QX4Z	We will change the bandage on the right lower leg.
+2W0QX5Z	We changed the packing material on the right lower leg.
+2W0QX5Z	We are changing the packing material on the right lower leg.
+2W0QX5Z	We will change the packing material on the right lower leg.
+2W0QX6Z	We changed the pressure dressing on the right lower leg.
+2W0QX6Z	We are changing the pressure dressing on the right lower leg.
+2W0QX6Z	We will change the pressure dressing on the right lower leg.
+2W0QX7Z	We changed the intermittent pressure device on the right lower leg.
+2W0QX7Z	We are changing the intermittent pressure device on the right lower leg.
+2W0QX7Z	We will change the intermittent pressure device on the right lower leg.
+2W0QXYZ	We changed the other device on the right lower leg.
+2W0QXYZ	We are changing the other device on the right lower leg.
+2W0QXYZ	We will change the other device on the right lower leg.
+2W0RX0Z	We changed the traction apparatus on the left lower leg.
+2W0RX0Z	We are changing the traction apparatus on the left lower leg.
+2W0RX0Z	We will change the traction apparatus on the left lower leg.
+2W0RX1Z	We changed the splint on the left lower leg.
+2W0RX1Z	We are changing the splint on the left lower leg.
+2W0RX1Z	We will change the splint on the left lower leg.
+2W0RX2Z	We changed the cast on the left lower leg.
+2W0RX2Z	We are changing the cast on the left lower leg.
+2W0RX2Z	We will change the cast on the left lower leg.
+2W0RX3Z	We changed the brace on the left lower leg.
+2W0RX3Z	We are changing the brace on the left lower leg.
+2W0RX3Z	We will change the brace on the left lower leg.
+2W0RX4Z	We changed the bandage on the left lower leg.
+2W0RX4Z	We are changing the bandage on the left lower leg.
+2W0RX4Z	We will change the bandage on the left lower leg.
+2W0RX5Z	We changed the packing material on the left lower leg.
+2W0RX5Z	We are changing the packing material on the left lower leg.
+2W0RX5Z	We will change the packing material on the left lower leg.
+2W0RX6Z	We changed the pressure dressing on the left lower leg.
+2W0RX6Z	We are changing the pressure dressing on the left lower leg.
+2W0RX6Z	We will change the pressure dressing on the left lower leg.
+2W0RX7Z	We changed the intermittent pressure device on the left lower leg.
+2W0RX7Z	We are changing the intermittent pressure device on the left lower leg.
+2W0RX7Z	We will change the intermittent pressure device on the left lower leg.
+2W0RXYZ	We changed the other device on the left lower leg.
+2W0RXYZ	We are changing the other device on the left lower leg.
+2W0RXYZ	We will change the other device on the left lower leg.
+2W0SX0Z	We changed the traction apparatus on the right foot.
+2W0SX0Z	We are changing the traction apparatus on the right foot.
+2W0SX0Z	We will change the traction apparatus on the right foot.
+2W0SX1Z	We changed the splint on the right foot.
+2W0SX1Z	We are changing the splint on the right foot.
+2W0SX1Z	We will change the splint on the right foot.
+2W0SX2Z	We changed the cast on the right foot.
+2W0SX2Z	We are changing the cast on the right foot.
+2W0SX2Z	We will change the cast on the right foot.
+2W0SX3Z	We changed the brace on the right foot.
+2W0SX3Z	We are changing the brace on the right foot.
+2W0SX3Z	We will change the brace on the right foot.
+2W0SX4Z	We changed the bandage on the right foot.
+2W0SX4Z	We are changing the bandage on the right foot.
+2W0SX4Z	We will change the bandage on the right foot.
+2W0SX5Z	We changed the packing material on the right foot.
+2W0SX5Z	We are changing the packing material on the right foot.
+2W0SX5Z	We will change the packing material on the right foot.
+2W0SX6Z	We changed the pressure dressing on the right foot.
+2W0SX6Z	We are changing the pressure dressing on the right foot.
+2W0SX6Z	We will change the pressure dressing on the right foot.
+2W0SX7Z	We changed the intermittent pressure device on the right foot.
+2W0SX7Z	We are changing the intermittent pressure device on the right foot.
+2W0SX7Z	We will change the intermittent pressure device on the right foot.
+2W0SXYZ	We changed the other device on the right foot.
+2W0SXYZ	We are changing the other device on the right foot.
+2W0SXYZ	We will change the other device on the right foot.
+2W0TX0Z	We changed the traction apparatus on the left foot.
+2W0TX0Z	We are changing the traction apparatus on the left foot.
+2W0TX0Z	We will change the traction apparatus on the left foot.
+2W0TX1Z	We changed the splint on the left foot.
+2W0TX1Z	We are changing the splint on the left foot.
+2W0TX1Z	We will change the splint on the left foot.
+2W0TX2Z	We changed the cast on the left foot.
+2W0TX2Z	We are changing the cast on the left foot.
+2W0TX2Z	We will change the cast on the left foot.
+2W0TX3Z	We changed the brace on the left foot.
+2W0TX3Z	We are changing the brace on the left foot.
+2W0TX3Z	We will change the brace on the left foot.
+2W0TX4Z	We changed the bandage on the left foot.
+2W0TX4Z	We are changing the bandage on the left foot.
+2W0TX4Z	We will change the bandage on the left foot.
+2W0TX5Z	We changed the packing material on the left foot.
+2W0TX5Z	We are changing the packing material on the left foot.
+2W0TX5Z	We will change the packing material on the left foot.
+2W0TX6Z	We changed the pressure dressing on the left foot.
+2W0TX6Z	We are changing the pressure dressing on the left foot.
+2W0TX6Z	We will change the pressure dressing on the left foot.
+2W0TX7Z	We changed the intermittent pressure device on the left foot.
+2W0TX7Z	We are changing the intermittent pressure device on the left foot.
+2W0TX7Z	We will change the intermittent pressure device on the left foot.
+2W0TXYZ	We changed the other device on the left foot.
+2W0TXYZ	We are changing the other device on the left foot.
+2W0TXYZ	We will change the other device on the left foot.
+2W0UX0Z	We changed the traction apparatus on the right toe.
+2W0UX0Z	We are changing the traction apparatus on the right toe.
+2W0UX0Z	We will change the traction apparatus on the right toe.
+2W0UX1Z	We changed the splint on the right toe.
+2W0UX1Z	We are changing the splint on the right toe.
+2W0UX1Z	We will change the splint on the right toe.
+2W0UX2Z	We changed the cast on the right toe.
+2W0UX2Z	We are changing the cast on the right toe.
+2W0UX2Z	We will change the cast on the right toe.
+2W0UX3Z	We changed the brace on the right toe.
+2W0UX3Z	We are changing the brace on the right toe.
+2W0UX3Z	We will change the brace on the right toe.
+2W0UX4Z	We changed the bandage on the right toe.
+2W0UX4Z	We are changing the bandage on the right toe.
+2W0UX4Z	We will change the bandage on the right toe.
+2W0UX5Z	We changed the packing material on the right toe.
+2W0UX5Z	We are changing the packing material on the right toe.
+2W0UX5Z	We will change the packing material on the right toe.
+2W0UX6Z	We changed the pressure dressing on the right toe.
+2W0UX6Z	We are changing the pressure dressing on the right toe.
+2W0UX6Z	We will change the pressure dressing on the right toe.
+2W0UX7Z	We changed the intermittent pressure device on the right toe.
+2W0UX7Z	We are changing the intermittent pressure device on the right toe.
+2W0UX7Z	We will change the intermittent pressure device on the right toe.
+2W0UXYZ	We changed the other device on the right toe.
+2W0UXYZ	We are changing the other device on the right toe.
+2W0UXYZ	We will change the other device on the right toe.
+2W0VX0Z	We changed the traction apparatus on the left toe.
+2W0VX0Z	We are changing the traction apparatus on the left toe.
+2W0VX0Z	We will change the traction apparatus on the left toe.
+2W0VX1Z	We changed the splint on the left toe.
+2W0VX1Z	We are changing the splint on the left toe.
+2W0VX1Z	We will change the splint on the left toe.
+2W0VX2Z	We changed the cast on the left toe.
+2W0VX2Z	We are changing the cast on the left toe.
+2W0VX2Z	We will change the cast on the left toe.
+2W0VX3Z	We changed the brace on the left toe.
+2W0VX3Z	We are changing the brace on the left toe.
+2W0VX3Z	We will change the brace on the left toe.
+2W0VX4Z	We changed the bandage on the left toe.
+2W0VX4Z	We are changing the bandage on the left toe.
+2W0VX4Z	We will change the bandage on the left toe.
+2W0VX5Z	We changed the packing material on the left toe.
+2W0VX5Z	We are changing the packing material on the left toe.
+2W0VX5Z	We will change the packing material on the left toe.
+2W0VX6Z	We changed the pressure dressing on the left toe.
+2W0VX6Z	We are changing the pressure dressing on the left toe.
+2W0VX6Z	We will change the pressure dressing on the left toe.
+2W0VX7Z	We changed the intermittent pressure device on the left toe.
+2W0VX7Z	We are changing the intermittent pressure device on the left toe.
+2W0VX7Z	We will change the intermittent pressure device on the left toe.
+2W0VXYZ	We changed the other device on the left toe.
+2W0VXYZ	We are changing the other device on the left toe.
+2W0VXYZ	We will change the other device on the left toe.
+2W10X6Z	We compressed the head with pressure dressing.
+2W10X6Z	We are compressing the head with pressure dressing.
+2W10X6Z	We will compress the head with pressure dressing.
+2W10X7Z	We compressed the head with an intermittent pressure device.
+2W10X7Z	We are compressing the head with an intermittent pressure device.
+2W10X7Z	We will compress the head with an intermittent pressure device.
+2W11X6Z	We compressed the face with pressure dressing.
+2W11X6Z	We are compressing the face with pressure dressing.
+2W11X6Z	We will compress the face with pressure dressing.
+2W11X7Z	We compressed the face with an intermittent pressure device.
+2W11X7Z	We are compressing the face with an intermittent pressure device.
+2W11X7Z	We will compress the face with an intermittent pressure device.
+2W12X6Z	We compressed the neck with pressure dressing.
+2W12X6Z	We are compressing the neck with pressure dressing.
+2W12X6Z	We will compress the neck with pressure dressing.
+2W12X7Z	We compressed the neck with an intermittent pressure device.
+2W12X7Z	We are compressing the neck with an intermittent pressure device.
+2W12X7Z	We will compress the neck with an intermittent pressure device.
+2W13X6Z	We compressed the abdominal wall with pressure dressing.
+2W13X6Z	We are compressing the abdominal wall with pressure dressing.
+2W13X6Z	We will compress the abdominal wall with pressure dressing.
+2W13X7Z	We compressed the abdominal wall with an intermittent pressure device.
+2W13X7Z	We are compressing the abdominal wall with an intermittent pressure device.
+2W13X7Z	We will compress the abdominal wall with an intermittent pressure device.
+2W14X6Z	We compressed the chest wall with pressure dressing.
+2W14X6Z	We are compressing the chest wall with pressure dressing.
+2W14X6Z	We will compress the chest wall with pressure dressing.
+2W14X7Z	We compressed the chest wall with an intermittent pressure device.
+2W14X7Z	We are compressing the chest wall with an intermittent pressure device.
+2W14X7Z	We will compress the chest wall with an intermittent pressure device.
+2W15X6Z	We compressed the back with pressure dressing.
+2W15X6Z	We are compressing the back with pressure dressing.
+2W15X6Z	We will compress the back with pressure dressing.
+2W15X7Z	We compressed the back with an intermittent pressure device.
+2W15X7Z	We are compressing the back with an intermittent pressure device.
+2W15X7Z	We will compress the back with an intermittent pressure device.
+2W16X6Z	We compressed the right inguinal region with pressure dressing.
+2W16X6Z	We are compressing the right inguinal region with pressure dressing.
+2W16X6Z	We will compress the right inguinal region with pressure dressing.
+2W16X7Z	We compressed the right inguinal region with an intermittent pressure device.
+2W16X7Z	We are compressing the right inguinal region with an intermittent pressure device.
+2W16X7Z	We will compress the right inguinal region with an intermittent pressure device.
+2W17X6Z	We compressed the left inguinal region with pressure dressing.
+2W17X6Z	We are compressing the left inguinal region with pressure dressing.
+2W17X6Z	We will compress the left inguinal region with pressure dressing.
+2W17X7Z	We compressed the left inguinal region with an intermittent pressure device.
+2W17X7Z	We are compressing the left inguinal region with an intermittent pressure device.
+2W17X7Z	We will compress the left inguinal region with an intermittent pressure device.
+2W18X6Z	We compressed the right upper extremity with pressure dressing.
+2W18X6Z	We are compressing the right upper extremity with pressure dressing.
+2W18X6Z	We will compress the right upper extremity with pressure dressing.
+2W18X7Z	We compressed the right upper extremity with an intermittent pressure device.
+2W18X7Z	We are compressing the right upper extremity with an intermittent pressure device.
+2W18X7Z	We will compress the right upper extremity with an intermittent pressure device.
+2W19X6Z	We compressed the left upper extremity with pressure dressing.
+2W19X6Z	We are compressing the left upper extremity with pressure dressing.
+2W19X6Z	We will compress the left upper extremity with pressure dressing.
+2W19X7Z	We compressed the left upper extremity with an intermittent pressure device.
+2W19X7Z	We are compressing the left upper extremity with an intermittent pressure device.
+2W19X7Z	We will compress the left upper extremity with an intermittent pressure device.
+2W1AX6Z	We compressed the right upper arm with pressure dressing.
+2W1AX6Z	We are compressing the right upper arm with pressure dressing.
+2W1AX6Z	We will compress the right upper arm with pressure dressing.
+2W1AX7Z	We compressed the right upper arm with an intermittent pressure device.
+2W1AX7Z	We are compressing the right upper arm with an intermittent pressure device.
+2W1AX7Z	We will compress the right upper arm with an intermittent pressure device.
+2W1BX6Z	We compressed the left upper arm with pressure dressing.
+2W1BX6Z	We are compressing the left upper arm with pressure dressing.
+2W1BX6Z	We will compress the left upper arm with pressure dressing.
+2W1BX7Z	We compressed the left upper arm with an intermittent pressure device.
+2W1BX7Z	We are compressing the left upper arm with an intermittent pressure device.
+2W1BX7Z	We will compress the left upper arm with an intermittent pressure device.
+2W1CX6Z	We compressed the right lower arm with pressure dressing.
+2W1CX6Z	We are compressing the right lower arm with pressure dressing.
+2W1CX6Z	We will compress the right lower arm with pressure dressing.
+2W1CX7Z	We compressed the right lower arm with an intermittent pressure device.
+2W1CX7Z	We are compressing the right lower arm with an intermittent pressure device.
+2W1CX7Z	We will compress the right lower arm with an intermittent pressure device.
+2W1DX6Z	We compressed the left lower arm with pressure dressing.
+2W1DX6Z	We are compressing the left lower arm with pressure dressing.
+2W1DX6Z	We will compress the left lower arm with pressure dressing.
+2W1DX7Z	We compressed the left lower arm with an intermittent pressure device.
+2W1DX7Z	We are compressing the left lower arm with an intermittent pressure device.
+2W1DX7Z	We will compress the left lower arm with an intermittent pressure device.
+2W1EX6Z	We compressed the right hand with pressure dressing.
+2W1EX6Z	We are compressing the right hand with pressure dressing.
+2W1EX6Z	We will compress the right hand with pressure dressing.
+2W1EX7Z	We compressed the right hand with an intermittent pressure device.
+2W1EX7Z	We are compressing the right hand with an intermittent pressure device.
+2W1EX7Z	We will compress the right hand with an intermittent pressure device.
+2W1FX6Z	We compressed the left hand with pressure dressing.
+2W1FX6Z	We are compressing the left hand with pressure dressing.
+2W1FX6Z	We will compress the left hand with pressure dressing.
+2W1FX7Z	We compressed the left hand with an intermittent pressure device.
+2W1FX7Z	We are compressing the left hand with an intermittent pressure device.
+2W1FX7Z	We will compress the left hand with an intermittent pressure device.
+2W1GX6Z	We compressed the right thumb with pressure dressing.
+2W1GX6Z	We are compressing the right thumb with pressure dressing.
+2W1GX6Z	We will compress the right thumb with pressure dressing.
+2W1GX7Z	We compressed the right thumb with an intermittent pressure device.
+2W1GX7Z	We are compressing the right thumb with an intermittent pressure device.
+2W1GX7Z	We will compress the right thumb with an intermittent pressure device.
+2W1HX6Z	We compressed the left thumb with pressure dressing.
+2W1HX6Z	We are compressing the left thumb with pressure dressing.
+2W1HX6Z	We will compress the left thumb with pressure dressing.
+2W1HX7Z	We compressed the left thumb with an intermittent pressure device.
+2W1HX7Z	We are compressing the left thumb with an intermittent pressure device.
+2W1HX7Z	We will compress the left thumb with an intermittent pressure device.
+2W1JX6Z	We compressed the right finger with pressure dressing.
+2W1JX6Z	We are compressing the right finger with pressure dressing.
+2W1JX6Z	We will compress the right finger with pressure dressing.
+2W1JX7Z	We compressed the right finger with an intermittent pressure device.
+2W1JX7Z	We are compressing the right finger with an intermittent pressure device.
+2W1JX7Z	We will compress the right finger with an intermittent pressure device.
+2W1KX6Z	We compressed the left finger with pressure dressing.
+2W1KX6Z	We are compressing the left finger with pressure dressing.
+2W1KX6Z	We will compress the left finger with pressure dressing.
+2W1KX7Z	We compressed the left finger with an intermittent pressure device.
+2W1KX7Z	We are compressing the left finger with an intermittent pressure device.
+2W1KX7Z	We will compress the left finger with an intermittent pressure device.
+2W1MX6Z	We compressed the left lower extremity with pressure dressing.
+2W1MX6Z	We are compressing the left lower extremity with pressure dressing.
+2W1MX6Z	We will compress the left lower extremity with pressure dressing.
+2W1MX7Z	We compressed the left lower extremity with an intermittent pressure device.
+2W1MX7Z	We are compressing the left lower extremity with an intermittent pressure device.
+2W1MX7Z	We will compress the left lower extremity with an intermittent pressure device.
+2W1NX6Z	We compressed the right upper leg with pressure dressing.
+2W1NX6Z	We are compressing the right upper leg with pressure dressing.
+2W1NX6Z	We will compress the right upper leg with pressure dressing.
+2W1NX7Z	We compressed the right upper leg with an intermittent pressure device.
+2W1NX7Z	We are compressing the right upper leg with an intermittent pressure device.
+2W1NX7Z	We will compress the right upper leg with an intermittent pressure device.
+2W1PX6Z	We compressed the left upper leg with pressure dressing.
+2W1PX6Z	We are compressing the left upper leg with pressure dressing.
+2W1PX6Z	We will compress the left upper leg with pressure dressing.
+2W1PX7Z	We compressed the left upper leg with an intermittent pressure device.
+2W1PX7Z	We are compressing the left upper leg with an intermittent pressure device.
+2W1PX7Z	We will compress the left upper leg with an intermittent pressure device.
+2W1QX6Z	We compressed the right lower leg with pressure dressing.
+2W1QX6Z	We are compressing the right lower leg with pressure dressing.
+2W1QX6Z	We will compress the right lower leg with pressure dressing.
+2W1QX7Z	We compressed the right lower leg with an intermittent pressure device.
+2W1QX7Z	We are compressing the right lower leg with an intermittent pressure device.
+2W1QX7Z	We will compress the right lower leg with an intermittent pressure device.
+2W1RX6Z	We compressed the left lower leg with pressure dressing.
+2W1RX6Z	We are compressing the left lower leg with pressure dressing.
+2W1RX6Z	We will compress the left lower leg with pressure dressing.
+2W1RX7Z	We compressed the left lower leg with an intermittent pressure device.
+2W1RX7Z	We are compressing the left lower leg with an intermittent pressure device.
+2W1RX7Z	We will compress the left lower leg with an intermittent pressure device.
+2W1SX6Z	We compressed the right foot with pressure dressing.
+2W1SX6Z	We are compressing the right foot with pressure dressing.
+2W1SX6Z	We will compress the right foot with pressure dressing.
+2W1SX7Z	We compressed the right foot with an intermittent pressure device.
+2W1SX7Z	We are compressing the right foot with an intermittent pressure device.
+2W1SX7Z	We will compress the right foot with an intermittent pressure device.
+2W1TX6Z	We compressed the left foot with pressure dressing.
+2W1TX6Z	We are compressing the left foot with pressure dressing.
+2W1TX6Z	We will compress the left foot with pressure dressing.
+2W1TX7Z	We compressed the left foot with an intermittent pressure device.
+2W1TX7Z	We are compressing the left foot with an intermittent pressure device.
+2W1TX7Z	We will compress the left foot with an intermittent pressure device.
+2W1UX6Z	We compressed the right toe with pressure dressing.
+2W1UX6Z	We are compressing the right toe with pressure dressing.
+2W1UX6Z	We will compress the right toe with pressure dressing.
+2W1UX7Z	We compressed the right toe with an intermittent pressure device.
+2W1UX7Z	We are compressing the right toe with an intermittent pressure device.
+2W1UX7Z	We will compress the right toe with an intermittent pressure device.
+2W1VX6Z	We compressed the left toe with pressure dressing.
+2W1VX6Z	We are compressing the left toe with pressure dressing.
+2W1VX6Z	We will compress the left toe with pressure dressing.
+2W1VX7Z	We compressed the left toe with an intermittent pressure device.
+2W1VX7Z	We are compressing the left toe with an intermittent pressure device.
+2W1VX7Z	We will compress the left toe with an intermittent pressure device.
+2W20X4Z	We dressed the head with a bandage.
+2W20X4Z	We are dressing the head with a bandage.
+2W20X4Z	We will dress the head with a bandage.
+2W21X4Z	We dressed the face with a bandage.
+2W21X4Z	We are dressing the face with a bandage.
+2W21X4Z	We will dress the face with a bandage.
+2W22X4Z	We dressed the neck with a bandage.
+2W22X4Z	We are dressing the neck with a bandage.
+2W22X4Z	We will dress the neck with a bandage.
+2W23X4Z	We dressed the abdominal wall with a bandage.
+2W23X4Z	We are dressing the abdominal wall with a bandage.
+2W23X4Z	We will dress the abdominal wall with a bandage.
+2W24X4Z	We dressed the chest wall with a bandage.
+2W24X4Z	We are dressing the chest wall with a bandage.
+2W24X4Z	We will dress the chest wall with a bandage.
+2W25X4Z	We dressed the back with a bandage.
+2W25X4Z	We are dressing the back with a bandage.
+2W25X4Z	We will dress the back with a bandage.
+2W26X4Z	We dressed the right inguinal region with a bandage.
+2W26X4Z	We are dressing the right inguinal region with a bandage.
+2W26X4Z	We will dress the right inguinal region with a bandage.
+2W27X4Z	We dressed the left inguinal region with a bandage.
+2W27X4Z	We are dressing the left inguinal region with a bandage.
+2W27X4Z	We will dress the left inguinal region with a bandage.
+2W28X4Z	We dressed the right upper extremity with a bandage.
+2W28X4Z	We are dressing the right upper extremity with a bandage.
+2W28X4Z	We will dress the right upper extremity with a bandage.
+2W29X4Z	We dressed the left upper extremity with a bandage.
+2W29X4Z	We are dressing the left upper extremity with a bandage.
+2W29X4Z	We will dress the left upper extremity with a bandage.
+2W2AX4Z	We dressed the right upper arm with a bandage.
+2W2AX4Z	We are dressing the right upper arm with a bandage.
+2W2AX4Z	We will dress the right upper arm with a bandage.
+2W2BX4Z	We dressed the left upper arm with a bandage.
+2W2BX4Z	We are dressing the left upper arm with a bandage.
+2W2BX4Z	We will dress the left upper arm with a bandage.
+2W2CX4Z	We dressed the right lower arm with a bandage.
+2W2CX4Z	We are dressing the right lower arm with a bandage.
+2W2CX4Z	We will dress the right lower arm with a bandage.
+2W2DX4Z	We dressed the left lower arm with a bandage.
+2W2DX4Z	We are dressing the left lower arm with a bandage.
+2W2DX4Z	We will dress the left lower arm with a bandage.
+2W2EX4Z	We dressed the right hand with a bandage.
+2W2EX4Z	We are dressing the right hand with a bandage.
+2W2EX4Z	We will dress the right hand with a bandage.
+2W2FX4Z	We dressed the left hand with a bandage.
+2W2FX4Z	We are dressing the left hand with a bandage.
+2W2FX4Z	We will dress the left hand with a bandage.
+2W2GX4Z	We dressed the right thumb with a bandage.
+2W2GX4Z	We are dressing the right thumb with a bandage.
+2W2GX4Z	We will dress the right thumb with a bandage.
+2W2HX4Z	We dressed the left thumb with a bandage.
+2W2HX4Z	We are dressing the left thumb with a bandage.
+2W2HX4Z	We will dress the left thumb with a bandage.
+2W2JX4Z	We dressed the right finger with a bandage.
+2W2JX4Z	We are dressing the right finger with a bandage.
+2W2JX4Z	We will dress the right finger with a bandage.
+2W2KX4Z	We dressed the left finger with a bandage.
+2W2KX4Z	We are dressing the left finger with a bandage.
+2W2KX4Z	We will dress the left finger with a bandage.
+2W2MX4Z	We dressed the left lower extremity with a bandage.
+2W2MX4Z	We are dressing the left lower extremity with a bandage.
+2W2MX4Z	We will dress the left lower extremity with a bandage.
+2W2NX4Z	We dressed the right upper leg with a bandage.
+2W2NX4Z	We are dressing the right upper leg with a bandage.
+2W2NX4Z	We will dress the right upper leg with a bandage.
+2W2PX4Z	We dressed the left upper leg with a bandage.
+2W2PX4Z	We are dressing the left upper leg with a bandage.
+2W2PX4Z	We will dress the left upper leg with a bandage.
+2W2QX4Z	We dressed the right lower leg with a bandage.
+2W2QX4Z	We are dressing the right lower leg with a bandage.
+2W2QX4Z	We will dress the right lower leg with a bandage.
+2W2RX4Z	We dressed the left lower leg with a bandage.
+2W2RX4Z	We are dressing the left lower leg with a bandage.
+2W2RX4Z	We will dress the left lower leg with a bandage.
+2W2SX4Z	We dressed the right foot with a bandage.
+2W2SX4Z	We are dressing the right foot with a bandage.
+2W2SX4Z	We will dress the right foot with a bandage.
+2W2TX4Z	We dressed the left foot with a bandage.
+2W2TX4Z	We are dressing the left foot with a bandage.
+2W2TX4Z	We will dress the left foot with a bandage.
+2W2UX4Z	We dressed the right toe with a bandage.
+2W2UX4Z	We are dressing the right toe with a bandage.
+2W2UX4Z	We will dress the right toe with a bandage.
+2W2VX4Z	We dressed the left toe with a bandage.
+2W2VX4Z	We are dressing the left toe with a bandage.
+2W2VX4Z	We will dress the left toe with a bandage.
+2W30X1Z	We immobilized the head with a splint.
+2W30X1Z	We are immobilizing the head with a splint.
+2W30X1Z	We will immobilize the head with a splint.
+2W30X2Z	We immobilized the head with a cast.
+2W30X2Z	We are immobilizing the head with a cast.
+2W30X2Z	We will immobilize the head with a cast.
+2W30X3Z	We immobilized the head with a brace.
+2W30X3Z	We are immobilizing the head with a brace.
+2W30X3Z	We will immobilize the head with a brace.
+2W30XYZ	We immobilized the head with another device.
+2W30XYZ	We are immobilizing the head with another device.
+2W30XYZ	We will immobilize the head with another device.
+2W31X1Z	We immobilized the face with a splint.
+2W31X1Z	We are immobilizing the face with a splint.
+2W31X1Z	We will immobilize the face with a splint.
+2W31X2Z	We immobilized the face with a cast.
+2W31X2Z	We are immobilizing the face with a cast.
+2W31X2Z	We will immobilize the face with a cast.
+2W31X3Z	We immobilized the face with a brace.
+2W31X3Z	We are immobilizing the face with a brace.
+2W31X3Z	We will immobilize the face with a brace.
+2W31X9Z	We immobilized the face with a wire.
+2W31X9Z	We are immobilizing the face with a wire.
+2W31X9Z	We will immobilize the face with a wire.
+2W31XYZ	We immobilized the face with another device.
+2W31XYZ	We are immobilizing the face with another device.
+2W31XYZ	We will immobilize the face with another device.
+2W32X1Z	We immobilized the neck with a splint.
+2W32X1Z	We are immobilizing the neck with a splint.
+2W32X1Z	We will immobilize the neck with a splint.
+2W32X2Z	We immobilized the neck with a cast.
+2W32X2Z	We are immobilizing the neck with a cast.
+2W32X2Z	We will immobilize the neck with a cast.
+2W32X3Z	We immobilized the neck with a brace.
+2W32X3Z	We are immobilizing the neck with a brace.
+2W32X3Z	We will immobilize the neck with a brace.
+2W32XYZ	We immobilized the neck with another device.
+2W32XYZ	We are immobilizing the neck with another device.
+2W32XYZ	We will immobilize the neck with another device.
+2W33X1Z	We immobilized the abdominal wall with a splint.
+2W33X1Z	We are immobilizing the abdominal wall with a splint.
+2W33X1Z	We will immobilize the abdominal wall with a splint.
+2W33X2Z	We immobilized the abdominal wall with a cast.
+2W33X2Z	We are immobilizing the abdominal wall with a cast.
+2W33X2Z	We will immobilize the abdominal wall with a cast.
+2W33X3Z	We immobilized the abdominal wall with a brace.
+2W33X3Z	We are immobilizing the abdominal wall with a brace.
+2W33X3Z	We will immobilize the abdominal wall with a brace.
+2W33XYZ	We immobilized the abdominal wall with another device.
+2W33XYZ	We are immobilizing the abdominal wall with another device.
+2W33XYZ	We will immobilize the abdominal wall with another device.
+2W34X1Z	We immobilized the chest wall with a splint.
+2W34X1Z	We are immobilizing the chest wall with a splint.
+2W34X1Z	We will immobilize the chest wall with a splint.
+2W34X2Z	We immobilized the chest wall with a cast.
+2W34X2Z	We are immobilizing the chest wall with a cast.
+2W34X2Z	We will immobilize the chest wall with a cast.
+2W34X3Z	We immobilized the chest wall with a brace.
+2W34X3Z	We are immobilizing the chest wall with a brace.
+2W34X3Z	We will immobilize the chest wall with a brace.
+2W34XYZ	We immobilized the chest wall with another device.
+2W34XYZ	We are immobilizing the chest wall with another device.
+2W34XYZ	We will immobilize the chest wall with another device.
+2W35X1Z	We immobilized the back with a splint.
+2W35X1Z	We are immobilizing the back with a splint.
+2W35X1Z	We will immobilize the back with a splint.
+2W35X2Z	We immobilized the back with a cast.
+2W35X2Z	We are immobilizing the back with a cast.
+2W35X2Z	We will immobilize the back with a cast.
+2W35X3Z	We immobilized the back with a brace.
+2W35X3Z	We are immobilizing the back with a brace.
+2W35X3Z	We will immobilize the back with a brace.
+2W35XYZ	We immobilized the back with another device.
+2W35XYZ	We are immobilizing the back with another device.
+2W35XYZ	We will immobilize the back with another device.
+2W36X1Z	We immobilized the right inguinal region with a splint.
+2W36X1Z	We are immobilizing the right inguinal region with a splint.
+2W36X1Z	We will immobilize the right inguinal region with a splint.
+2W36X2Z	We immobilized the right inguinal region with a cast.
+2W36X2Z	We are immobilizing the right inguinal region with a cast.
+2W36X2Z	We will immobilize the right inguinal region with a cast.
+2W36X3Z	We immobilized the right inguinal region with a brace.
+2W36X3Z	We are immobilizing the right inguinal region with a brace.
+2W36X3Z	We will immobilize the right inguinal region with a brace.
+2W36XYZ	We immobilized the right inguinal region with another device.
+2W36XYZ	We are immobilizing the right inguinal region with another device.
+2W36XYZ	We will immobilize the right inguinal region with another device.
+2W37X1Z	We immobilized the left inguinal region with a splint.
+2W37X1Z	We are immobilizing the left inguinal region with a splint.
+2W37X1Z	We will immobilize the left inguinal region with a splint.
+2W37X2Z	We immobilized the left inguinal region with a cast.
+2W37X2Z	We are immobilizing the left inguinal region with a cast.
+2W37X2Z	We will immobilize the left inguinal region with a cast.
+2W37X3Z	We immobilized the left inguinal region with a brace.
+2W37X3Z	We are immobilizing the left inguinal region with a brace.
+2W37X3Z	We will immobilize the left inguinal region with a brace.
+2W37XYZ	We immobilized the left inguinal region with another device.
+2W37XYZ	We are immobilizing the left inguinal region with another device.
+2W37XYZ	We will immobilize the left inguinal region with another device.
+2W38X1Z	We immobilized the right upper extremity with a splint.
+2W38X1Z	We are immobilizing the right upper extremity with a splint.
+2W38X1Z	We will immobilize the right upper extremity with a splint.
+2W38X2Z	We immobilized the right upper extremity with a cast.
+2W38X2Z	We are immobilizing the right upper extremity with a cast.
+2W38X2Z	We will immobilize the right upper extremity with a cast.
+2W38X3Z	We immobilized the right upper extremity with a brace.
+2W38X3Z	We are immobilizing the right upper extremity with a brace.
+2W38X3Z	We will immobilize the right upper extremity with a brace.
+2W38XYZ	We immobilized the right upper extremity with another device.
+2W38XYZ	We are immobilizing the right upper extremity with another device.
+2W38XYZ	We will immobilize the right upper extremity with another device.
+2W39X1Z	We immobilized the left upper extremity with a splint.
+2W39X1Z	We are immobilizing the left upper extremity with a splint.
+2W39X1Z	We will immobilize the left upper extremity with a splint.
+2W39X2Z	We immobilized the left upper extremity with a cast.
+2W39X2Z	We are immobilizing the left upper extremity with a cast.
+2W39X2Z	We will immobilize the left upper extremity with a cast.
+2W39X3Z	We immobilized the left upper extremity with a brace.
+2W39X3Z	We are immobilizing the left upper extremity with a brace.
+2W39X3Z	We will immobilize the left upper extremity with a brace.
+2W39XYZ	We immobilized the left upper extremity with another device.
+2W39XYZ	We are immobilizing the left upper extremity with another device.
+2W39XYZ	We will immobilize the left upper extremity with another device.
+2W3AX1Z	We immobilized the right upper arm with a splint.
+2W3AX1Z	We are immobilizing the right upper arm with a splint.
+2W3AX1Z	We will immobilize the right upper arm with a splint.
+2W3AX2Z	We immobilized the right upper arm with a cast.
+2W3AX2Z	We are immobilizing the right upper arm with a cast.
+2W3AX2Z	We will immobilize the right upper arm with a cast.
+2W3AX3Z	We immobilized the right upper arm with a brace.
+2W3AX3Z	We are immobilizing the right upper arm with a brace.
+2W3AX3Z	We will immobilize the right upper arm with a brace.
+2W3AXYZ	We immobilized the right upper arm with another device.
+2W3AXYZ	We are immobilizing the right upper arm with another device.
+2W3AXYZ	We will immobilize the right upper arm with another device.
+2W3BX1Z	We immobilized the left upper arm with a splint.
+2W3BX1Z	We are immobilizing the left upper arm with a splint.
+2W3BX1Z	We will immobilize the left upper arm with a splint.
+2W3BX2Z	We immobilized the left upper arm with a cast.
+2W3BX2Z	We are immobilizing the left upper arm with a cast.
+2W3BX2Z	We will immobilize the left upper arm with a cast.
+2W3BX3Z	We immobilized the left upper arm with a brace.
+2W3BX3Z	We are immobilizing the left upper arm with a brace.
+2W3BX3Z	We will immobilize the left upper arm with a brace.
+2W3BXYZ	We immobilized the left upper arm with another device.
+2W3BXYZ	We are immobilizing the left upper arm with another device.
+2W3BXYZ	We will immobilize the left upper arm with another device.
+2W3CX1Z	We immobilized the right lower arm with a splint.
+2W3CX1Z	We are immobilizing the right lower arm with a splint.
+2W3CX1Z	We will immobilize the right lower arm with a splint.
+2W3CX2Z	We immobilized the right lower arm with a cast.
+2W3CX2Z	We are immobilizing the right lower arm with a cast.
+2W3CX2Z	We will immobilize the right lower arm with a cast.
+2W3CX3Z	We immobilized the right lower arm with a brace.
+2W3CX3Z	We are immobilizing the right lower arm with a brace.
+2W3CX3Z	We will immobilize the right lower arm with a brace.
+2W3CXYZ	We immobilized the right lower arm with another device.
+2W3CXYZ	We are immobilizing the right lower arm with another device.
+2W3CXYZ	We will immobilize the right lower arm with another device.
+2W3DX1Z	We immobilized the left lower arm with a splint.
+2W3DX1Z	We are immobilizing the left lower arm with a splint.
+2W3DX1Z	We will immobilize the left lower arm with a splint.
+2W3DX2Z	We immobilized the left lower arm with a cast.
+2W3DX2Z	We are immobilizing the left lower arm with a cast.
+2W3DX2Z	We will immobilize the left lower arm with a cast.
+2W3DX3Z	We immobilized the left lower arm with a brace.
+2W3DX3Z	We are immobilizing the left lower arm with a brace.
+2W3DX3Z	We will immobilize the left lower arm with a brace.
+2W3DXYZ	We immobilized the left lower arm with another device.
+2W3DXYZ	We are immobilizing the left lower arm with another device.
+2W3DXYZ	We will immobilize the left lower arm with another device.
+2W3EX1Z	We immobilized the right hand with a splint.
+2W3EX1Z	We are immobilizing the right hand with a splint.
+2W3EX1Z	We will immobilize the right hand with a splint.
+2W3EX2Z	We immobilized the right hand with a cast.
+2W3EX2Z	We are immobilizing the right hand with a cast.
+2W3EX2Z	We will immobilize the right hand with a cast.
+2W3EX3Z	We immobilized the right hand with a brace.
+2W3EX3Z	We are immobilizing the right hand with a brace.
+2W3EX3Z	We will immobilize the right hand with a brace.
+2W3EXYZ	We immobilized the right hand with another device.
+2W3EXYZ	We are immobilizing the right hand with another device.
+2W3EXYZ	We will immobilize the right hand with another device.
+2W3FX1Z	We immobilized the left hand with a splint.
+2W3FX1Z	We are immobilizing the left hand with a splint.
+2W3FX1Z	We will immobilize the left hand with a splint.
+2W3FX2Z	We immobilized the left hand with a cast.
+2W3FX2Z	We are immobilizing the left hand with a cast.
+2W3FX2Z	We will immobilize the left hand with a cast.
+2W3FX3Z	We immobilized the left hand with a brace.
+2W3FX3Z	We are immobilizing the left hand with a brace.
+2W3FX3Z	We will immobilize the left hand with a brace.
+2W3FXYZ	We immobilized the left hand with another device.
+2W3FXYZ	We are immobilizing the left hand with another device.
+2W3FXYZ	We will immobilize the left hand with another device.
+2W3GX1Z	We immobilized the right thumb with a splint.
+2W3GX1Z	We are immobilizing the right thumb with a splint.
+2W3GX1Z	We will immobilize the right thumb with a splint.
+2W3GX2Z	We immobilized the right thumb with a cast.
+2W3GX2Z	We are immobilizing the right thumb with a cast.
+2W3GX2Z	We will immobilize the right thumb with a cast.
+2W3GX3Z	We immobilized the right thumb with a brace.
+2W3GX3Z	We are immobilizing the right thumb with a brace.
+2W3GX3Z	We will immobilize the right thumb with a brace.
+2W3GXYZ	We immobilized the right thumb with another device.
+2W3GXYZ	We are immobilizing the right thumb with another device.
+2W3GXYZ	We will immobilize the right thumb with another device.
+2W3HX1Z	We immobilized the left thumb with a splint.
+2W3HX1Z	We are immobilizing the left thumb with a splint.
+2W3HX1Z	We will immobilize the left thumb with a splint.
+2W3HX2Z	We immobilized the left thumb with a cast.
+2W3HX2Z	We are immobilizing the left thumb with a cast.
+2W3HX2Z	We will immobilize the left thumb with a cast.
+2W3HX3Z	We immobilized the left thumb with a brace.
+2W3HX3Z	We are immobilizing the left thumb with a brace.
+2W3HX3Z	We will immobilize the left thumb with a brace.
+2W3HXYZ	We immobilized the left thumb with another device.
+2W3HXYZ	We are immobilizing the left thumb with another device.
+2W3HXYZ	We will immobilize the left thumb with another device.
+2W3JX1Z	We immobilized the right finger with a splint.
+2W3JX1Z	We are immobilizing the right finger with a splint.
+2W3JX1Z	We will immobilize the right finger with a splint.
+2W3JX2Z	We immobilized the right finger with a cast.
+2W3JX2Z	We are immobilizing the right finger with a cast.
+2W3JX2Z	We will immobilize the right finger with a cast.
+2W3JX3Z	We immobilized the right finger with a brace.
+2W3JX3Z	We are immobilizing the right finger with a brace.
+2W3JX3Z	We will immobilize the right finger with a brace.
+2W3JXYZ	We immobilized the right finger with another device.
+2W3JXYZ	We are immobilizing the right finger with another device.
+2W3JXYZ	We will immobilize the right finger with another device.
+2W3KX1Z	We immobilized the left finger with a splint.
+2W3KX1Z	We are immobilizing the left finger with a splint.
+2W3KX1Z	We will immobilize the left finger with a splint.
+2W3KX2Z	We immobilized the left finger with a cast.
+2W3KX2Z	We are immobilizing the left finger with a cast.
+2W3KX2Z	We will immobilize the left finger with a cast.
+2W3KX3Z	We immobilized the left finger with a brace.
+2W3KX3Z	We are immobilizing the left finger with a brace.
+2W3KX3Z	We will immobilize the left finger with a brace.
+2W3KXYZ	We immobilized the left finger with another device.
+2W3KXYZ	We are immobilizing the left finger with another device.
+2W3KXYZ	We will immobilize the left finger with another device.
+2W3MX1Z	We immobilized the left lower extremity with a splint.
+2W3MX1Z	We are immobilizing the left lower extremity with a splint.
+2W3MX1Z	We will immobilize the left lower extremity with a splint.
+2W3MX2Z	We immobilized the left lower extremity with a cast.
+2W3MX2Z	We are immobilizing the left lower extremity with a cast.
+2W3MX2Z	We will immobilize the left lower extremity with a cast.
+2W3MX3Z	We immobilized the left lower extremity with a brace.
+2W3MX3Z	We are immobilizing the left lower extremity with a brace.
+2W3MX3Z	We will immobilize the left lower extremity with a brace.
+2W3MXYZ	We immobilized the left lower extremity with another device.
+2W3MXYZ	We are immobilizing the left lower extremity with another device.
+2W3MXYZ	We will immobilize the left lower extremity with another device.
+2W3NX1Z	We immobilized the right upper leg with a splint.
+2W3NX1Z	We are immobilizing the right upper leg with a splint.
+2W3NX1Z	We will immobilize the right upper leg with a splint.
+2W3NX2Z	We immobilized the right upper leg with a cast.
+2W3NX2Z	We are immobilizing the right upper leg with a cast.
+2W3NX2Z	We will immobilize the right upper leg with a cast.
+2W3NX3Z	We immobilized the right upper leg with a brace.
+2W3NX3Z	We are immobilizing the right upper leg with a brace.
+2W3NX3Z	We will immobilize the right upper leg with a brace.
+2W3NXYZ	We immobilized the right upper leg with another device.
+2W3NXYZ	We are immobilizing the right upper leg with another device.
+2W3NXYZ	We will immobilize the right upper leg with another device.
+2W3PX1Z	We immobilized the left upper leg with a splint.
+2W3PX1Z	We are immobilizing the left upper leg with a splint.
+2W3PX1Z	We will immobilize the left upper leg with a splint.
+2W3PX2Z	We immobilized the left upper leg with a cast.
+2W3PX2Z	We are immobilizing the left upper leg with a cast.
+2W3PX2Z	We will immobilize the left upper leg with a cast.
+2W3PX3Z	We immobilized the left upper leg with a brace.
+2W3PX3Z	We are immobilizing the left upper leg with a brace.
+2W3PX3Z	We will immobilize the left upper leg with a brace.
+2W3PXYZ	We immobilized the left upper leg with another device.
+2W3PXYZ	We are immobilizing the left upper leg with another device.
+2W3PXYZ	We will immobilize the left upper leg with another device.
+2W3QX1Z	We immobilized the right lower leg with a splint.
+2W3QX1Z	We are immobilizing the right lower leg with a splint.
+2W3QX1Z	We will immobilize the right lower leg with a splint.
+2W3QX2Z	We immobilized the right lower leg with a cast.
+2W3QX2Z	We are immobilizing the right lower leg with a cast.
+2W3QX2Z	We will immobilize the right lower leg with a cast.
+2W3QX3Z	We immobilized the right lower leg with a brace.
+2W3QX3Z	We are immobilizing the right lower leg with a brace.
+2W3QX3Z	We will immobilize the right lower leg with a brace.
+2W3QXYZ	We immobilized the right lower leg with another device.
+2W3QXYZ	We are immobilizing the right lower leg with another device.
+2W3QXYZ	We will immobilize the right lower leg with another device.
+2W3RX1Z	We immobilized the left lower leg with a splint.
+2W3RX1Z	We are immobilizing the left lower leg with a splint.
+2W3RX1Z	We will immobilize the left lower leg with a splint.
+2W3RX2Z	We immobilized the left lower leg with a cast.
+2W3RX2Z	We are immobilizing the left lower leg with a cast.
+2W3RX2Z	We will immobilize the left lower leg with a cast.
+2W3RX3Z	We immobilized the left lower leg with a brace.
+2W3RX3Z	We are immobilizing the left lower leg with a brace.
+2W3RX3Z	We will immobilize the left lower leg with a brace.
+2W3RXYZ	We immobilized the left lower leg with another device.
+2W3RXYZ	We are immobilizing the left lower leg with another device.
+2W3RXYZ	We will immobilize the left lower leg with another device.
+2W3SX1Z	We immobilized the right foot with a splint.
+2W3SX1Z	We are immobilizing the right foot with a splint.
+2W3SX1Z	We will immobilize the right foot with a splint.
+2W3SX2Z	We immobilized the right foot with a cast.
+2W3SX2Z	We are immobilizing the right foot with a cast.
+2W3SX2Z	We will immobilize the right foot with a cast.
+2W3SX3Z	We immobilized the right foot with a brace.
+2W3SX3Z	We are immobilizing the right foot with a brace.
+2W3SX3Z	We will immobilize the right foot with a brace.
+2W3SXYZ	We immobilized the right foot with another device.
+2W3SXYZ	We are immobilizing the right foot with another device.
+2W3SXYZ	We will immobilize the right foot with another device.
+2W3TX1Z	We immobilized the left foot with a splint.
+2W3TX1Z	We are immobilizing the left foot with a splint.
+2W3TX1Z	We will immobilize the left foot with a splint.
+2W3TX2Z	We immobilized the left foot with a cast.
+2W3TX2Z	We are immobilizing the left foot with a cast.
+2W3TX2Z	We will immobilize the left foot with a cast.
+2W3TX3Z	We immobilized the left foot with a brace.
+2W3TX3Z	We are immobilizing the left foot with a brace.
+2W3TX3Z	We will immobilize the left foot with a brace.
+2W3TXYZ	We immobilized the left foot with another device.
+2W3TXYZ	We are immobilizing the left foot with another device.
+2W3TXYZ	We will immobilize the left foot with another device.
+2W3UX1Z	We immobilized the right toe with a splint.
+2W3UX1Z	We are immobilizing the right toe with a splint.
+2W3UX1Z	We will immobilize the right toe with a splint.
+2W3UX2Z	We immobilized the right toe with a cast.
+2W3UX2Z	We are immobilizing the right toe with a cast.
+2W3UX2Z	We will immobilize the right toe with a cast.
+2W3UX3Z	We immobilized the right toe with a brace.
+2W3UX3Z	We are immobilizing the right toe with a brace.
+2W3UX3Z	We will immobilize the right toe with a brace.
+2W3UXYZ	We immobilized the right toe with another device.
+2W3UXYZ	We are immobilizing the right toe with another device.
+2W3UXYZ	We will immobilize the right toe with another device.
+2W3VX1Z	We immobilized the left toe with a splint.
+2W3VX1Z	We are immobilizing the left toe with a splint.
+2W3VX1Z	We will immobilize the left toe with a splint.
+2W3VX2Z	We immobilized the left toe with a cast.
+2W3VX2Z	We are immobilizing the left toe with a cast.
+2W3VX2Z	We will immobilize the left toe with a cast.
+2W3VX3Z	We immobilized the left toe with a brace.
+2W3VX3Z	We are immobilizing the left toe with a brace.
+2W3VX3Z	We will immobilize the left toe with a brace.
+2W3VXYZ	We immobilized the left toe with another device.
+2W3VXYZ	We are immobilizing the left toe with another device.
+2W3VXYZ	We will immobilize the left toe with another device.
+2W40X5Z	We packed the head with a packing material.
+2W40X5Z	We are packing the head with a packing material.
+2W40X5Z	We will pack the head with a packing material.
+2W41X5Z	We packed the face with a packing material.
+2W41X5Z	We are packing the face with a packing material.
+2W41X5Z	We will pack the face with a packing material.
+2W42X5Z	We packed the neck with a packing material.
+2W42X5Z	We are packing the neck with a packing material.
+2W42X5Z	We will pack the neck with a packing material.
+2W43X5Z	We packed the abdominal wall with a packing material.
+2W43X5Z	We are packing the abdominal wall with a packing material.
+2W43X5Z	We will pack the abdominal wall with a packing material.
+2W44X5Z	We packed the chest wall with a packing material.
+2W44X5Z	We are packing the chest wall with a packing material.
+2W44X5Z	We will pack the chest wall with a packing material.
+2W45X5Z	We packed the back with a packing material.
+2W45X5Z	We are packing the back with a packing material.
+2W45X5Z	We will pack the back with a packing material.
+2W46X5Z	We packed the right inguinal region with a packing material.
+2W46X5Z	We are packing the right inguinal region with a packing material.
+2W46X5Z	We will pack the right inguinal region with a packing material.
+2W47X5Z	We packed the left inguinal region with a packing material.
+2W47X5Z	We are packing the left inguinal region with a packing material.
+2W47X5Z	We will pack the left inguinal region with a packing material.
+2W48X5Z	We packed the right upper extremity with a packing material.
+2W48X5Z	We are packing the right upper extremity with a packing material.
+2W48X5Z	We will pack the right upper extremity with a packing material.
+2W49X5Z	We packed the left upper extremity with a packing material.
+2W49X5Z	We are packing the left upper extremity with a packing material.
+2W49X5Z	We will pack the left upper extremity with a packing material.
+2W4AX5Z	We packed the right upper arm with a packing material.
+2W4AX5Z	We are packing the right upper arm with a packing material.
+2W4AX5Z	We will pack the right upper arm with a packing material.
+2W4BX5Z	We packed the left upper arm with a packing material.
+2W4BX5Z	We are packing the left upper arm with a packing material.
+2W4BX5Z	We will pack the left upper arm with a packing material.
+2W4CX5Z	We packed the right lower arm with a packing material.
+2W4CX5Z	We are packing the right lower arm with a packing material.
+2W4CX5Z	We will pack the right lower arm with a packing material.
+2W4DX5Z	We packed the left lower arm with a packing material.
+2W4DX5Z	We are packing the left lower arm with a packing material.
+2W4DX5Z	We will pack the left lower arm with a packing material.
+2W4EX5Z	We packed the right hand with a packing material.
+2W4EX5Z	We are packing the right hand with a packing material.
+2W4EX5Z	We will pack the right hand with a packing material.
+2W4FX5Z	We packed the left hand with a packing material.
+2W4FX5Z	We are packing the left hand with a packing material.
+2W4FX5Z	We will pack the left hand with a packing material.
+2W4GX5Z	We packed the right thumb with a packing material.
+2W4GX5Z	We are packing the right thumb with a packing material.
+2W4GX5Z	We will pack the right thumb with a packing material.
+2W4HX5Z	We packed the left thumb with a packing material.
+2W4HX5Z	We are packing the left thumb with a packing material.
+2W4HX5Z	We will pack the left thumb with a packing material.
+2W4JX5Z	We packed the right finger with a packing material.
+2W4JX5Z	We are packing the right finger with a packing material.
+2W4JX5Z	We will pack the right finger with a packing material.
+2W4KX5Z	We packed the left finger with a packing material.
+2W4KX5Z	We are packing the left finger with a packing material.
+2W4KX5Z	We will pack the left finger with a packing material.
+2W4MX5Z	We packed the left lower extremity with a packing material.
+2W4MX5Z	We are packing the left lower extremity with a packing material.
+2W4MX5Z	We will pack the left lower extremity with a packing material.
+2W4NX5Z	We packed the right upper leg with a packing material.
+2W4NX5Z	We are packing the right upper leg with a packing material.
+2W4NX5Z	We will pack the right upper leg with a packing material.
+2W4PX5Z	We packed the left upper leg with a packing material.
+2W4PX5Z	We are packing the left upper leg with a packing material.
+2W4PX5Z	We will pack the left upper leg with a packing material.
+2W4QX5Z	We packed the right lower leg with a packing material.
+2W4QX5Z	We are packing the right lower leg with a packing material.
+2W4QX5Z	We will pack the right lower leg with a packing material.
+2W4RX5Z	We packed the left lower leg with a packing material.
+2W4RX5Z	We are packing the left lower leg with a packing material.
+2W4RX5Z	We will pack the left lower leg with a packing material.
+2W4SX5Z	We packed the right foot with a packing material.
+2W4SX5Z	We are packing the right foot with a packing material.
+2W4SX5Z	We will pack the right foot with a packing material.
+2W4TX5Z	We packed the left foot with a packing material.
+2W4TX5Z	We are packing the left foot with a packing material.
+2W4TX5Z	We will pack the left foot with a packing material.
+2W4UX5Z	We packed the right toe with a packing material.
+2W4UX5Z	We are packing the right toe with a packing material.
+2W4UX5Z	We will pack the right toe with a packing material.
+2W4VX5Z	We packed the left toe with a packing material.
+2W4VX5Z	We are packing the left toe with a packing material.
+2W4VX5Z	We will pack the left toe with a packing material.
+2W50X0Z	We removed the traction apparatus from the head.
+2W50X0Z	We are removing the traction apparatus from the head.
+2W50X0Z	We will remove the traction apparatus from the head.
+2W50X1Z	We removed the splint from the head.
+2W50X1Z	We are removing the splint from the head.
+2W50X1Z	We will remove the splint from the head.
+2W50X2Z	We removed the cast from the head.
+2W50X2Z	We are removing the cast from the head.
+2W50X2Z	We will remove the cast from the head.
+2W50X3Z	We removed the brace from the head.
+2W50X3Z	We are removing the brace from the head.
+2W50X3Z	We will remove the brace from the head.
+2W50X4Z	We removed the bandage from the head.
+2W50X4Z	We are removing the bandage from the head.
+2W50X4Z	We will remove the bandage from the head.
+2W50X5Z	We removed the packing material from the head.
+2W50X5Z	We are removing the packing material from the head.
+2W50X5Z	We will remove the packing material from the head.
+2W50X6Z	We removed the pressure dressing from the head.
+2W50X6Z	We are removing the pressure dressing from the head.
+2W50X6Z	We will remove the pressure dressing from the head.
+2W50X7Z	We removed the intermittent pressure device from the head.
+2W50X7Z	We are removing the intermittent pressure device from the head.
+2W50X7Z	We will remove the intermittent pressure device from the head.
+2W50XYZ	We removed the other device from the head.
+2W50XYZ	We are removing the other device from the head.
+2W50XYZ	We will remove the other device from the head.
+2W51X0Z	We removed the traction apparatus from the face.
+2W51X0Z	We are removing the traction apparatus from the face.
+2W51X0Z	We will remove the traction apparatus from the face.
+2W51X1Z	We removed the splint from the face.
+2W51X1Z	We are removing the splint from the face.
+2W51X1Z	We will remove the splint from the face.
+2W51X2Z	We removed the cast from the face.
+2W51X2Z	We are removing the cast from the face.
+2W51X2Z	We will remove the cast from the face.
+2W51X3Z	We removed the brace from the face.
+2W51X3Z	We are removing the brace from the face.
+2W51X3Z	We will remove the brace from the face.
+2W51X4Z	We removed the bandage from the face.
+2W51X4Z	We are removing the bandage from the face.
+2W51X4Z	We will remove the bandage from the face.
+2W51X5Z	We removed the packing material from the face.
+2W51X5Z	We are removing the packing material from the face.
+2W51X5Z	We will remove the packing material from the face.
+2W51X6Z	We removed the pressure dressing from the face.
+2W51X6Z	We are removing the pressure dressing from the face.
+2W51X6Z	We will remove the pressure dressing from the face.
+2W51X7Z	We removed the intermittent pressure device from the face.
+2W51X7Z	We are removing the intermittent pressure device from the face.
+2W51X7Z	We will remove the intermittent pressure device from the face.
+2W51X9Z	We removed the wire from the face.
+2W51X9Z	We are removing the wire from the face.
+2W51X9Z	We will remove the wire from the face.
+2W51XYZ	We removed the other device from the face.
+2W51XYZ	We are removing the other device from the face.
+2W51XYZ	We will remove the other device from the face.
+2W52X0Z	We removed the traction apparatus from the neck.
+2W52X0Z	We are removing the traction apparatus from the neck.
+2W52X0Z	We will remove the traction apparatus from the neck.
+2W52X1Z	We removed the splint from the neck.
+2W52X1Z	We are removing the splint from the neck.
+2W52X1Z	We will remove the splint from the neck.
+2W52X2Z	We removed the cast from the neck.
+2W52X2Z	We are removing the cast from the neck.
+2W52X2Z	We will remove the cast from the neck.
+2W52X3Z	We removed the brace from the neck.
+2W52X3Z	We are removing the brace from the neck.
+2W52X3Z	We will remove the brace from the neck.
+2W52X4Z	We removed the bandage from the neck.
+2W52X4Z	We are removing the bandage from the neck.
+2W52X4Z	We will remove the bandage from the neck.
+2W52X5Z	We removed the packing material from the neck.
+2W52X5Z	We are removing the packing material from the neck.
+2W52X5Z	We will remove the packing material from the neck.
+2W52X6Z	We removed the pressure dressing from the neck.
+2W52X6Z	We are removing the pressure dressing from the neck.
+2W52X6Z	We will remove the pressure dressing from the neck.
+2W52X7Z	We removed the intermittent pressure device from the neck.
+2W52X7Z	We are removing the intermittent pressure device from the neck.
+2W52X7Z	We will remove the intermittent pressure device from the neck.
+2W52XYZ	We removed the other device from the neck.
+2W52XYZ	We are removing the other device from the neck.
+2W52XYZ	We will remove the other device from the neck.
+2W53X0Z	We removed the traction apparatus from the abdominal wall.
+2W53X0Z	We are removing the traction apparatus from the abdominal wall.
+2W53X0Z	We will remove the traction apparatus from the abdominal wall.
+2W53X1Z	We removed the splint from the abdominal wall.
+2W53X1Z	We are removing the splint from the abdominal wall.
+2W53X1Z	We will remove the splint from the abdominal wall.
+2W53X2Z	We removed the cast from the abdominal wall.
+2W53X2Z	We are removing the cast from the abdominal wall.
+2W53X2Z	We will remove the cast from the abdominal wall.
+2W53X3Z	We removed the brace from the abdominal wall.
+2W53X3Z	We are removing the brace from the abdominal wall.
+2W53X3Z	We will remove the brace from the abdominal wall.
+2W53X4Z	We removed the bandage from the abdominal wall.
+2W53X4Z	We are removing the bandage from the abdominal wall.
+2W53X4Z	We will remove the bandage from the abdominal wall.
+2W53X5Z	We removed the packing material from the abdominal wall.
+2W53X5Z	We are removing the packing material from the abdominal wall.
+2W53X5Z	We will remove the packing material from the abdominal wall.
+2W53X6Z	We removed the pressure dressing from the abdominal wall.
+2W53X6Z	We are removing the pressure dressing from the abdominal wall.
+2W53X6Z	We will remove the pressure dressing from the abdominal wall.
+2W53X7Z	We removed the intermittent pressure device from the abdominal wall.
+2W53X7Z	We are removing the intermittent pressure device from the abdominal wall.
+2W53X7Z	We will remove the intermittent pressure device from the abdominal wall.
+2W53XYZ	We removed the other device from the abdominal wall.
+2W53XYZ	We are removing the other device from the abdominal wall.
+2W53XYZ	We will remove the other device from the abdominal wall.
+2W54X0Z	We removed the traction apparatus from the chest wall.
+2W54X0Z	We are removing the traction apparatus from the chest wall.
+2W54X0Z	We will remove the traction apparatus from the chest wall.
+2W54X1Z	We removed the splint from the chest wall.
+2W54X1Z	We are removing the splint from the chest wall.
+2W54X1Z	We will remove the splint from the chest wall.
+2W54X2Z	We removed the cast from the chest wall.
+2W54X2Z	We are removing the cast from the chest wall.
+2W54X2Z	We will remove the cast from the chest wall.
+2W54X3Z	We removed the brace from the chest wall.
+2W54X3Z	We are removing the brace from the chest wall.
+2W54X3Z	We will remove the brace from the chest wall.
+2W54X4Z	We removed the bandage from the chest wall.
+2W54X4Z	We are removing the bandage from the chest wall.
+2W54X4Z	We will remove the bandage from the chest wall.
+2W54X5Z	We removed the packing material from the chest wall.
+2W54X5Z	We are removing the packing material from the chest wall.
+2W54X5Z	We will remove the packing material from the chest wall.
+2W54X6Z	We removed the pressure dressing from the chest wall.
+2W54X6Z	We are removing the pressure dressing from the chest wall.
+2W54X6Z	We will remove the pressure dressing from the chest wall.
+2W54X7Z	We removed the intermittent pressure device from the chest wall.
+2W54X7Z	We are removing the intermittent pressure device from the chest wall.
+2W54X7Z	We will remove the intermittent pressure device from the chest wall.
+2W54XYZ	We removed the other device from the chest wall.
+2W54XYZ	We are removing the other device from the chest wall.
+2W54XYZ	We will remove the other device from the chest wall.
+2W55X0Z	We removed the traction apparatus from the back.
+2W55X0Z	We are removing the traction apparatus from the back.
+2W55X0Z	We will remove the traction apparatus from the back.
+2W55X1Z	We removed the splint from the back.
+2W55X1Z	We are removing the splint from the back.
+2W55X1Z	We will remove the splint from the back.
+2W55X2Z	We removed the cast from the back.
+2W55X2Z	We are removing the cast from the back.
+2W55X2Z	We will remove the cast from the back.
+2W55X3Z	We removed the brace from the back.
+2W55X3Z	We are removing the brace from the back.
+2W55X3Z	We will remove the brace from the back.
+2W55X4Z	We removed the bandage from the back.
+2W55X4Z	We are removing the bandage from the back.
+2W55X4Z	We will remove the bandage from the back.
+2W55X5Z	We removed the packing material from the back.
+2W55X5Z	We are removing the packing material from the back.
+2W55X5Z	We will remove the packing material from the back.
+2W55X6Z	We removed the pressure dressing from the back.
+2W55X6Z	We are removing the pressure dressing from the back.
+2W55X6Z	We will remove the pressure dressing from the back.
+2W55X7Z	We removed the intermittent pressure device from the back.
+2W55X7Z	We are removing the intermittent pressure device from the back.
+2W55X7Z	We will remove the intermittent pressure device from the back.
+2W55XYZ	We removed the other device from the back.
+2W55XYZ	We are removing the other device from the back.
+2W55XYZ	We will remove the other device from the back.
+2W56X0Z	We removed the traction apparatus from the right inguinal region.
+2W56X0Z	We are removing the traction apparatus from the right inguinal region.
+2W56X0Z	We will remove the traction apparatus from the right inguinal region.
+2W56X1Z	We removed the splint from the right inguinal region.
+2W56X1Z	We are removing the splint from the right inguinal region.
+2W56X1Z	We will remove the splint from the right inguinal region.
+2W56X2Z	We removed the cast from the right inguinal region.
+2W56X2Z	We are removing the cast from the right inguinal region.
+2W56X2Z	We will remove the cast from the right inguinal region.
+2W56X3Z	We removed the brace from the right inguinal region.
+2W56X3Z	We are removing the brace from the right inguinal region.
+2W56X3Z	We will remove the brace from the right inguinal region.
+2W56X4Z	We removed the bandage from the right inguinal region.
+2W56X4Z	We are removing the bandage from the right inguinal region.
+2W56X4Z	We will remove the bandage from the right inguinal region.
+2W56X5Z	We removed the packing material from the right inguinal region.
+2W56X5Z	We are removing the packing material from the right inguinal region.
+2W56X5Z	We will remove the packing material from the right inguinal region.
+2W56X6Z	We removed the pressure dressing from the right inguinal region.
+2W56X6Z	We are removing the pressure dressing from the right inguinal region.
+2W56X6Z	We will remove the pressure dressing from the right inguinal region.
+2W56X7Z	We removed the intermittent pressure device from the right inguinal region.
+2W56X7Z	We are removing the intermittent pressure device from the right inguinal region.
+2W56X7Z	We will remove the intermittent pressure device from the right inguinal region.
+2W56XYZ	We removed the other device from the right inguinal region.
+2W56XYZ	We are removing the other device from the right inguinal region.
+2W56XYZ	We will remove the other device from the right inguinal region.
+2W57X0Z	We removed the traction apparatus from the left inguinal region.
+2W57X0Z	We are removing the traction apparatus from the left inguinal region.
+2W57X0Z	We will remove the traction apparatus from the left inguinal region.
+2W57X1Z	We removed the splint from the left inguinal region.
+2W57X1Z	We are removing the splint from the left inguinal region.
+2W57X1Z	We will remove the splint from the left inguinal region.
+2W57X2Z	We removed the cast from the left inguinal region.
+2W57X2Z	We are removing the cast from the left inguinal region.
+2W57X2Z	We will remove the cast from the left inguinal region.
+2W57X3Z	We removed the brace from the left inguinal region.
+2W57X3Z	We are removing the brace from the left inguinal region.
+2W57X3Z	We will remove the brace from the left inguinal region.
+2W57X4Z	We removed the bandage from the left inguinal region.
+2W57X4Z	We are removing the bandage from the left inguinal region.
+2W57X4Z	We will remove the bandage from the left inguinal region.
+2W57X5Z	We removed the packing material from the left inguinal region.
+2W57X5Z	We are removing the packing material from the left inguinal region.
+2W57X5Z	We will remove the packing material from the left inguinal region.
+2W57X6Z	We removed the pressure dressing from the left inguinal region.
+2W57X6Z	We are removing the pressure dressing from the left inguinal region.
+2W57X6Z	We will remove the pressure dressing from the left inguinal region.
+2W57X7Z	We removed the intermittent pressure device from the left inguinal region.
+2W57X7Z	We are removing the intermittent pressure device from the left inguinal region.
+2W57X7Z	We will remove the intermittent pressure device from the left inguinal region.
+2W57XYZ	We removed the other device from the left inguinal region.
+2W57XYZ	We are removing the other device from the left inguinal region.
+2W57XYZ	We will remove the other device from the left inguinal region.
+2W58X0Z	We removed the traction apparatus from the right upper extremity.
+2W58X0Z	We are removing the traction apparatus from the right upper extremity.
+2W58X0Z	We will remove the traction apparatus from the right upper extremity.
+2W58X1Z	We removed the splint from the right upper extremity.
+2W58X1Z	We are removing the splint from the right upper extremity.
+2W58X1Z	We will remove the splint from the right upper extremity.
+2W58X2Z	We removed the cast from the right upper extremity.
+2W58X2Z	We are removing the cast from the right upper extremity.
+2W58X2Z	We will remove the cast from the right upper extremity.
+2W58X3Z	We removed the brace from the right upper extremity.
+2W58X3Z	We are removing the brace from the right upper extremity.
+2W58X3Z	We will remove the brace from the right upper extremity.
+2W58X4Z	We removed the bandage from the right upper extremity.
+2W58X4Z	We are removing the bandage from the right upper extremity.
+2W58X4Z	We will remove the bandage from the right upper extremity.
+2W58X5Z	We removed the packing material from the right upper extremity.
+2W58X5Z	We are removing the packing material from the right upper extremity.
+2W58X5Z	We will remove the packing material from the right upper extremity.
+2W58X6Z	We removed the pressure dressing from the right upper extremity.
+2W58X6Z	We are removing the pressure dressing from the right upper extremity.
+2W58X6Z	We will remove the pressure dressing from the right upper extremity.
+2W58X7Z	We removed the intermittent pressure device from the right upper extremity.
+2W58X7Z	We are removing the intermittent pressure device from the right upper extremity.
+2W58X7Z	We will remove the intermittent pressure device from the right upper extremity.
+2W58XYZ	We removed the other device from the right upper extremity.
+2W58XYZ	We are removing the other device from the right upper extremity.
+2W58XYZ	We will remove the other device from the right upper extremity.
+2W59X0Z	We removed the traction apparatus from the left upper extremity.
+2W59X0Z	We are removing the traction apparatus from the left upper extremity.
+2W59X0Z	We will remove the traction apparatus from the left upper extremity.
+2W59X1Z	We removed the splint from the left upper extremity.
+2W59X1Z	We are removing the splint from the left upper extremity.
+2W59X1Z	We will remove the splint from the left upper extremity.
+2W59X2Z	We removed the cast from the left upper extremity.
+2W59X2Z	We are removing the cast from the left upper extremity.
+2W59X2Z	We will remove the cast from the left upper extremity.
+2W59X3Z	We removed the brace from the left upper extremity.
+2W59X3Z	We are removing the brace from the left upper extremity.
+2W59X3Z	We will remove the brace from the left upper extremity.
+2W59X4Z	We removed the bandage from the left upper extremity.
+2W59X4Z	We are removing the bandage from the left upper extremity.
+2W59X4Z	We will remove the bandage from the left upper extremity.
+2W59X5Z	We removed the packing material from the left upper extremity.
+2W59X5Z	We are removing the packing material from the left upper extremity.
+2W59X5Z	We will remove the packing material from the left upper extremity.
+2W59X6Z	We removed the pressure dressing from the left upper extremity.
+2W59X6Z	We are removing the pressure dressing from the left upper extremity.
+2W59X6Z	We will remove the pressure dressing from the left upper extremity.
+2W59X7Z	We removed the intermittent pressure device from the left upper extremity.
+2W59X7Z	We are removing the intermittent pressure device from the left upper extremity.
+2W59X7Z	We will remove the intermittent pressure device from the left upper extremity.
+2W59XYZ	We removed the other device from the left upper extremity.
+2W59XYZ	We are removing the other device from the left upper extremity.
+2W59XYZ	We will remove the other device from the left upper extremity.
+2W5AX0Z	We removed the traction apparatus from the right upper arm.
+2W5AX0Z	We are removing the traction apparatus from the right upper arm.
+2W5AX0Z	We will remove the traction apparatus from the right upper arm.
+2W5AX1Z	We removed the splint from the right upper arm.
+2W5AX1Z	We are removing the splint from the right upper arm.
+2W5AX1Z	We will remove the splint from the right upper arm.
+2W5AX2Z	We removed the cast from the right upper arm.
+2W5AX2Z	We are removing the cast from the right upper arm.
+2W5AX2Z	We will remove the cast from the right upper arm.
+2W5AX3Z	We removed the brace from the right upper arm.
+2W5AX3Z	We are removing the brace from the right upper arm.
+2W5AX3Z	We will remove the brace from the right upper arm.
+2W5AX4Z	We removed the bandage from the right upper arm.
+2W5AX4Z	We are removing the bandage from the right upper arm.
+2W5AX4Z	We will remove the bandage from the right upper arm.
+2W5AX5Z	We removed the packing material from the right upper arm.
+2W5AX5Z	We are removing the packing material from the right upper arm.
+2W5AX5Z	We will remove the packing material from the right upper arm.
+2W5AX6Z	We removed the pressure dressing from the right upper arm.
+2W5AX6Z	We are removing the pressure dressing from the right upper arm.
+2W5AX6Z	We will remove the pressure dressing from the right upper arm.
+2W5AX7Z	We removed the intermittent pressure device from the right upper arm.
+2W5AX7Z	We are removing the intermittent pressure device from the right upper arm.
+2W5AX7Z	We will remove the intermittent pressure device from the right upper arm.
+2W5AXYZ	We removed the other device from the right upper arm.
+2W5AXYZ	We are removing the other device from the right upper arm.
+2W5AXYZ	We will remove the other device from the right upper arm.
+2W5BX0Z	We removed the traction apparatus from the left upper arm.
+2W5BX0Z	We are removing the traction apparatus from the left upper arm.
+2W5BX0Z	We will remove the traction apparatus from the left upper arm.
+2W5BX1Z	We removed the splint from the left upper arm.
+2W5BX1Z	We are removing the splint from the left upper arm.
+2W5BX1Z	We will remove the splint from the left upper arm.
+2W5BX2Z	We removed the cast from the left upper arm.
+2W5BX2Z	We are removing the cast from the left upper arm.
+2W5BX2Z	We will remove the cast from the left upper arm.
+2W5BX3Z	We removed the brace from the left upper arm.
+2W5BX3Z	We are removing the brace from the left upper arm.
+2W5BX3Z	We will remove the brace from the left upper arm.
+2W5BX4Z	We removed the bandage from the left upper arm.
+2W5BX4Z	We are removing the bandage from the left upper arm.
+2W5BX4Z	We will remove the bandage from the left upper arm.
+2W5BX5Z	We removed the packing material from the left upper arm.
+2W5BX5Z	We are removing the packing material from the left upper arm.
+2W5BX5Z	We will remove the packing material from the left upper arm.
+2W5BX6Z	We removed the pressure dressing from the left upper arm.
+2W5BX6Z	We are removing the pressure dressing from the left upper arm.
+2W5BX6Z	We will remove the pressure dressing from the left upper arm.
+2W5BX7Z	We removed the intermittent pressure device from the left upper arm.
+2W5BX7Z	We are removing the intermittent pressure device from the left upper arm.
+2W5BX7Z	We will remove the intermittent pressure device from the left upper arm.
+2W5BXYZ	We removed the other device from the left upper arm.
+2W5BXYZ	We are removing the other device from the left upper arm.
+2W5BXYZ	We will remove the other device from the left upper arm.
+2W5CX0Z	We removed the traction apparatus from the right lower arm.
+2W5CX0Z	We are removing the traction apparatus from the right lower arm.
+2W5CX0Z	We will remove the traction apparatus from the right lower arm.
+2W5CX1Z	We removed the splint from the right lower arm.
+2W5CX1Z	We are removing the splint from the right lower arm.
+2W5CX1Z	We will remove the splint from the right lower arm.
+2W5CX2Z	We removed the cast from the right lower arm.
+2W5CX2Z	We are removing the cast from the right lower arm.
+2W5CX2Z	We will remove the cast from the right lower arm.
+2W5CX3Z	We removed the brace from the right lower arm.
+2W5CX3Z	We are removing the brace from the right lower arm.
+2W5CX3Z	We will remove the brace from the right lower arm.
+2W5CX4Z	We removed the bandage from the right lower arm.
+2W5CX4Z	We are removing the bandage from the right lower arm.
+2W5CX4Z	We will remove the bandage from the right lower arm.
+2W5CX5Z	We removed the packing material from the right lower arm.
+2W5CX5Z	We are removing the packing material from the right lower arm.
+2W5CX5Z	We will remove the packing material from the right lower arm.
+2W5CX6Z	We removed the pressure dressing from the right lower arm.
+2W5CX6Z	We are removing the pressure dressing from the right lower arm.
+2W5CX6Z	We will remove the pressure dressing from the right lower arm.
+2W5CX7Z	We removed the intermittent pressure device from the right lower arm.
+2W5CX7Z	We are removing the intermittent pressure device from the right lower arm.
+2W5CX7Z	We will remove the intermittent pressure device from the right lower arm.
+2W5CXYZ	We removed the other device from the right lower arm.
+2W5CXYZ	We are removing the other device from the right lower arm.
+2W5CXYZ	We will remove the other device from the right lower arm.
+2W5DX0Z	We removed the traction apparatus from the left lower arm.
+2W5DX0Z	We are removing the traction apparatus from the left lower arm.
+2W5DX0Z	We will remove the traction apparatus from the left lower arm.
+2W5DX1Z	We removed the splint from the left lower arm.
+2W5DX1Z	We are removing the splint from the left lower arm.
+2W5DX1Z	We will remove the splint from the left lower arm.
+2W5DX2Z	We removed the cast from the left lower arm.
+2W5DX2Z	We are removing the cast from the left lower arm.
+2W5DX2Z	We will remove the cast from the left lower arm.
+2W5DX3Z	We removed the brace from the left lower arm.
+2W5DX3Z	We are removing the brace from the left lower arm.
+2W5DX3Z	We will remove the brace from the left lower arm.
+2W5DX4Z	We removed the bandage from the left lower arm.
+2W5DX4Z	We are removing the bandage from the left lower arm.
+2W5DX4Z	We will remove the bandage from the left lower arm.
+2W5DX5Z	We removed the packing material from the left lower arm.
+2W5DX5Z	We are removing the packing material from the left lower arm.
+2W5DX5Z	We will remove the packing material from the left lower arm.
+2W5DX6Z	We removed the pressure dressing from the left lower arm.
+2W5DX6Z	We are removing the pressure dressing from the left lower arm.
+2W5DX6Z	We will remove the pressure dressing from the left lower arm.
+2W5DX7Z	We removed the intermittent pressure device from the left lower arm.
+2W5DX7Z	We are removing the intermittent pressure device from the left lower arm.
+2W5DX7Z	We will remove the intermittent pressure device from the left lower arm.
+2W5DXYZ	We removed the other device from the left lower arm.
+2W5DXYZ	We are removing the other device from the left lower arm.
+2W5DXYZ	We will remove the other device from the left lower arm.
+2W5EX0Z	We removed the traction apparatus from the right hand.
+2W5EX0Z	We are removing the traction apparatus from the right hand.
+2W5EX0Z	We will remove the traction apparatus from the right hand.
+2W5EX1Z	We removed the splint from the right hand.
+2W5EX1Z	We are removing the splint from the right hand.
+2W5EX1Z	We will remove the splint from the right hand.
+2W5EX2Z	We removed the cast from the right hand.
+2W5EX2Z	We are removing the cast from the right hand.
+2W5EX2Z	We will remove the cast from the right hand.
+2W5EX3Z	We removed the brace from the right hand.
+2W5EX3Z	We are removing the brace from the right hand.
+2W5EX3Z	We will remove the brace from the right hand.
+2W5EX4Z	We removed the bandage from the right hand.
+2W5EX4Z	We are removing the bandage from the right hand.
+2W5EX4Z	We will remove the bandage from the right hand.
+2W5EX5Z	We removed the packing material from the right hand.
+2W5EX5Z	We are removing the packing material from the right hand.
+2W5EX5Z	We will remove the packing material from the right hand.
+2W5EX6Z	We removed the pressure dressing from the right hand.
+2W5EX6Z	We are removing the pressure dressing from the right hand.
+2W5EX6Z	We will remove the pressure dressing from the right hand.
+2W5EX7Z	We removed the intermittent pressure device from the right hand.
+2W5EX7Z	We are removing the intermittent pressure device from the right hand.
+2W5EX7Z	We will remove the intermittent pressure device from the right hand.
+2W5EXYZ	We removed the other device from the right hand.
+2W5EXYZ	We are removing the other device from the right hand.
+2W5EXYZ	We will remove the other device from the right hand.
+2W5FX0Z	We removed the traction apparatus from the left hand.
+2W5FX0Z	We are removing the traction apparatus from the left hand.
+2W5FX0Z	We will remove the traction apparatus from the left hand.
+2W5FX1Z	We removed the splint from the left hand.
+2W5FX1Z	We are removing the splint from the left hand.
+2W5FX1Z	We will remove the splint from the left hand.
+2W5FX2Z	We removed the cast from the left hand.
+2W5FX2Z	We are removing the cast from the left hand.
+2W5FX2Z	We will remove the cast from the left hand.
+2W5FX3Z	We removed the brace from the left hand.
+2W5FX3Z	We are removing the brace from the left hand.
+2W5FX3Z	We will remove the brace from the left hand.
+2W5FX4Z	We removed the bandage from the left hand.
+2W5FX4Z	We are removing the bandage from the left hand.
+2W5FX4Z	We will remove the bandage from the left hand.
+2W5FX5Z	We removed the packing material from the left hand.
+2W5FX5Z	We are removing the packing material from the left hand.
+2W5FX5Z	We will remove the packing material from the left hand.
+2W5FX6Z	We removed the pressure dressing from the left hand.
+2W5FX6Z	We are removing the pressure dressing from the left hand.
+2W5FX6Z	We will remove the pressure dressing from the left hand.
+2W5FX7Z	We removed the intermittent pressure device from the left hand.
+2W5FX7Z	We are removing the intermittent pressure device from the left hand.
+2W5FX7Z	We will remove the intermittent pressure device from the left hand.
+2W5FXYZ	We removed the other device from the left hand.
+2W5FXYZ	We are removing the other device from the left hand.
+2W5FXYZ	We will remove the other device from the left hand.
+2W5GX0Z	We removed the traction apparatus from the right thumb.
+2W5GX0Z	We are removing the traction apparatus from the right thumb.
+2W5GX0Z	We will remove the traction apparatus from the right thumb.
+2W5GX1Z	We removed the splint from the right thumb.
+2W5GX1Z	We are removing the splint from the right thumb.
+2W5GX1Z	We will remove the splint from the right thumb.
+2W5GX2Z	We removed the cast from the right thumb.
+2W5GX2Z	We are removing the cast from the right thumb.
+2W5GX2Z	We will remove the cast from the right thumb.
+2W5GX3Z	We removed the brace from the right thumb.
+2W5GX3Z	We are removing the brace from the right thumb.
+2W5GX3Z	We will remove the brace from the right thumb.
+2W5GX4Z	We removed the bandage from the right thumb.
+2W5GX4Z	We are removing the bandage from the right thumb.
+2W5GX4Z	We will remove the bandage from the right thumb.
+2W5GX5Z	We removed the packing material from the right thumb.
+2W5GX5Z	We are removing the packing material from the right thumb.
+2W5GX5Z	We will remove the packing material from the right thumb.
+2W5GX6Z	We removed the pressure dressing from the right thumb.
+2W5GX6Z	We are removing the pressure dressing from the right thumb.
+2W5GX6Z	We will remove the pressure dressing from the right thumb.
+2W5GX7Z	We removed the intermittent pressure device from the right thumb.
+2W5GX7Z	We are removing the intermittent pressure device from the right thumb.
+2W5GX7Z	We will remove the intermittent pressure device from the right thumb.
+2W5GXYZ	We removed the other device from the right thumb.
+2W5GXYZ	We are removing the other device from the right thumb.
+2W5GXYZ	We will remove the other device from the right thumb.
+2W5HX0Z	We removed the traction apparatus from the left thumb.
+2W5HX0Z	We are removing the traction apparatus from the left thumb.
+2W5HX0Z	We will remove the traction apparatus from the left thumb.
+2W5HX1Z	We removed the splint from the left thumb.
+2W5HX1Z	We are removing the splint from the left thumb.
+2W5HX1Z	We will remove the splint from the left thumb.
+2W5HX2Z	We removed the cast from the left thumb.
+2W5HX2Z	We are removing the cast from the left thumb.
+2W5HX2Z	We will remove the cast from the left thumb.
+2W5HX3Z	We removed the brace from the left thumb.
+2W5HX3Z	We are removing the brace from the left thumb.
+2W5HX3Z	We will remove the brace from the left thumb.
+2W5HX4Z	We removed the bandage from the left thumb.
+2W5HX4Z	We are removing the bandage from the left thumb.
+2W5HX4Z	We will remove the bandage from the left thumb.
+2W5HX5Z	We removed the packing material from the left thumb.
+2W5HX5Z	We are removing the packing material from the left thumb.
+2W5HX5Z	We will remove the packing material from the left thumb.
+2W5HX6Z	We removed the pressure dressing from the left thumb.
+2W5HX6Z	We are removing the pressure dressing from the left thumb.
+2W5HX6Z	We will remove the pressure dressing from the left thumb.
+2W5HX7Z	We removed the intermittent pressure device from the left thumb.
+2W5HX7Z	We are removing the intermittent pressure device from the left thumb.
+2W5HX7Z	We will remove the intermittent pressure device from the left thumb.
+2W5HXYZ	We removed the other device from the left thumb.
+2W5HXYZ	We are removing the other device from the left thumb.
+2W5HXYZ	We will remove the other device from the left thumb.
+2W5JX0Z	We removed the traction apparatus from the right finger.
+2W5JX0Z	We are removing the traction apparatus from the right finger.
+2W5JX0Z	We will remove the traction apparatus from the right finger.
+2W5JX1Z	We removed the splint from the right finger.
+2W5JX1Z	We are removing the splint from the right finger.
+2W5JX1Z	We will remove the splint from the right finger.
+2W5JX2Z	We removed the cast from the right finger.
+2W5JX2Z	We are removing the cast from the right finger.
+2W5JX2Z	We will remove the cast from the right finger.
+2W5JX3Z	We removed the brace from the right finger.
+2W5JX3Z	We are removing the brace from the right finger.
+2W5JX3Z	We will remove the brace from the right finger.
+2W5JX4Z	We removed the bandage from the right finger.
+2W5JX4Z	We are removing the bandage from the right finger.
+2W5JX4Z	We will remove the bandage from the right finger.
+2W5JX5Z	We removed the packing material from the right finger.
+2W5JX5Z	We are removing the packing material from the right finger.
+2W5JX5Z	We will remove the packing material from the right finger.
+2W5JX6Z	We removed the pressure dressing from the right finger.
+2W5JX6Z	We are removing the pressure dressing from the right finger.
+2W5JX6Z	We will remove the pressure dressing from the right finger.
+2W5JX7Z	We removed the intermittent pressure device from the right finger.
+2W5JX7Z	We are removing the intermittent pressure device from the right finger.
+2W5JX7Z	We will remove the intermittent pressure device from the right finger.
+2W5JXYZ	We removed the other device from the right finger.
+2W5JXYZ	We are removing the other device from the right finger.
+2W5JXYZ	We will remove the other device from the right finger.
+2W5KX0Z	We removed the traction apparatus from the left finger.
+2W5KX0Z	We are removing the traction apparatus from the left finger.
+2W5KX0Z	We will remove the traction apparatus from the left finger.
+2W5KX1Z	We removed the splint from the left finger.
+2W5KX1Z	We are removing the splint from the left finger.
+2W5KX1Z	We will remove the splint from the left finger.
+2W5KX2Z	We removed the cast from the left finger.
+2W5KX2Z	We are removing the cast from the left finger.
+2W5KX2Z	We will remove the cast from the left finger.
+2W5KX3Z	We removed the brace from the left finger.
+2W5KX3Z	We are removing the brace from the left finger.
+2W5KX3Z	We will remove the brace from the left finger.
+2W5KX4Z	We removed the bandage from the left finger.
+2W5KX4Z	We are removing the bandage from the left finger.
+2W5KX4Z	We will remove the bandage from the left finger.
+2W5KX5Z	We removed the packing material from the left finger.
+2W5KX5Z	We are removing the packing material from the left finger.
+2W5KX5Z	We will remove the packing material from the left finger.
+2W5KX6Z	We removed the pressure dressing from the left finger.
+2W5KX6Z	We are removing the pressure dressing from the left finger.
+2W5KX6Z	We will remove the pressure dressing from the left finger.
+2W5KX7Z	We removed the intermittent pressure device from the left finger.
+2W5KX7Z	We are removing the intermittent pressure device from the left finger.
+2W5KX7Z	We will remove the intermittent pressure device from the left finger.
+2W5KXYZ	We removed the other device from the left finger.
+2W5KXYZ	We are removing the other device from the left finger.
+2W5KXYZ	We will remove the other device from the left finger.
+2W5MX0Z	We removed the traction apparatus from the left lower extremity.
+2W5MX0Z	We are removing the traction apparatus from the left lower extremity.
+2W5MX0Z	We will remove the traction apparatus from the left lower extremity.
+2W5MX1Z	We removed the splint from the left lower extremity.
+2W5MX1Z	We are removing the splint from the left lower extremity.
+2W5MX1Z	We will remove the splint from the left lower extremity.
+2W5MX2Z	We removed the cast from the left lower extremity.
+2W5MX2Z	We are removing the cast from the left lower extremity.
+2W5MX2Z	We will remove the cast from the left lower extremity.
+2W5MX3Z	We removed the brace from the left lower extremity.
+2W5MX3Z	We are removing the brace from the left lower extremity.
+2W5MX3Z	We will remove the brace from the left lower extremity.
+2W5MX4Z	We removed the bandage from the left lower extremity.
+2W5MX4Z	We are removing the bandage from the left lower extremity.
+2W5MX4Z	We will remove the bandage from the left lower extremity.
+2W5MX5Z	We removed the packing material from the left lower extremity.
+2W5MX5Z	We are removing the packing material from the left lower extremity.
+2W5MX5Z	We will remove the packing material from the left lower extremity.
+2W5MX6Z	We removed the pressure dressing from the left lower extremity.
+2W5MX6Z	We are removing the pressure dressing from the left lower extremity.
+2W5MX6Z	We will remove the pressure dressing from the left lower extremity.
+2W5MX7Z	We removed the intermittent pressure device from the left lower extremity.
+2W5MX7Z	We are removing the intermittent pressure device from the left lower extremity.
+2W5MX7Z	We will remove the intermittent pressure device from the left lower extremity.
+2W5MXYZ	We removed the other device from the left lower extremity.
+2W5MXYZ	We are removing the other device from the left lower extremity.
+2W5MXYZ	We will remove the other device from the left lower extremity.
+2W5NX0Z	We removed the traction apparatus from the right upper leg.
+2W5NX0Z	We are removing the traction apparatus from the right upper leg.
+2W5NX0Z	We will remove the traction apparatus from the right upper leg.
+2W5NX1Z	We removed the splint from the right upper leg.
+2W5NX1Z	We are removing the splint from the right upper leg.
+2W5NX1Z	We will remove the splint from the right upper leg.
+2W5NX2Z	We removed the cast from the right upper leg.
+2W5NX2Z	We are removing the cast from the right upper leg.
+2W5NX2Z	We will remove the cast from the right upper leg.
+2W5NX3Z	We removed the brace from the right upper leg.
+2W5NX3Z	We are removing the brace from the right upper leg.
+2W5NX3Z	We will remove the brace from the right upper leg.
+2W5NX4Z	We removed the bandage from the right upper leg.
+2W5NX4Z	We are removing the bandage from the right upper leg.
+2W5NX4Z	We will remove the bandage from the right upper leg.
+2W5NX5Z	We removed the packing material from the right upper leg.
+2W5NX5Z	We are removing the packing material from the right upper leg.
+2W5NX5Z	We will remove the packing material from the right upper leg.
+2W5NX6Z	We removed the pressure dressing from the right upper leg.
+2W5NX6Z	We are removing the pressure dressing from the right upper leg.
+2W5NX6Z	We will remove the pressure dressing from the right upper leg.
+2W5NX7Z	We removed the intermittent pressure device from the right upper leg.
+2W5NX7Z	We are removing the intermittent pressure device from the right upper leg.
+2W5NX7Z	We will remove the intermittent pressure device from the right upper leg.
+2W5NXYZ	We removed the other device from the right upper leg.
+2W5NXYZ	We are removing the other device from the right upper leg.
+2W5NXYZ	We will remove the other device from the right upper leg.
+2W5PX0Z	We removed the traction apparatus from the left upper leg.
+2W5PX0Z	We are removing the traction apparatus from the left upper leg.
+2W5PX0Z	We will remove the traction apparatus from the left upper leg.
+2W5PX1Z	We removed the splint from the left upper leg.
+2W5PX1Z	We are removing the splint from the left upper leg.
+2W5PX1Z	We will remove the splint from the left upper leg.
+2W5PX2Z	We removed the cast from the left upper leg.
+2W5PX2Z	We are removing the cast from the left upper leg.
+2W5PX2Z	We will remove the cast from the left upper leg.
+2W5PX3Z	We removed the brace from the left upper leg.
+2W5PX3Z	We are removing the brace from the left upper leg.
+2W5PX3Z	We will remove the brace from the left upper leg.
+2W5PX4Z	We removed the bandage from the left upper leg.
+2W5PX4Z	We are removing the bandage from the left upper leg.
+2W5PX4Z	We will remove the bandage from the left upper leg.
+2W5PX5Z	We removed the packing material from the left upper leg.
+2W5PX5Z	We are removing the packing material from the left upper leg.
+2W5PX5Z	We will remove the packing material from the left upper leg.
+2W5PX6Z	We removed the pressure dressing from the left upper leg.
+2W5PX6Z	We are removing the pressure dressing from the left upper leg.
+2W5PX6Z	We will remove the pressure dressing from the left upper leg.
+2W5PX7Z	We removed the intermittent pressure device from the left upper leg.
+2W5PX7Z	We are removing the intermittent pressure device from the left upper leg.
+2W5PX7Z	We will remove the intermittent pressure device from the left upper leg.
+2W5PXYZ	We removed the other device from the left upper leg.
+2W5PXYZ	We are removing the other device from the left upper leg.
+2W5PXYZ	We will remove the other device from the left upper leg.
+2W5QX0Z	We removed the traction apparatus from the right lower leg.
+2W5QX0Z	We are removing the traction apparatus from the right lower leg.
+2W5QX0Z	We will remove the traction apparatus from the right lower leg.
+2W5QX1Z	We removed the splint from the right lower leg.
+2W5QX1Z	We are removing the splint from the right lower leg.
+2W5QX1Z	We will remove the splint from the right lower leg.
+2W5QX2Z	We removed the cast from the right lower leg.
+2W5QX2Z	We are removing the cast from the right lower leg.
+2W5QX2Z	We will remove the cast from the right lower leg.
+2W5QX3Z	We removed the brace from the right lower leg.
+2W5QX3Z	We are removing the brace from the right lower leg.
+2W5QX3Z	We will remove the brace from the right lower leg.
+2W5QX4Z	We removed the bandage from the right lower leg.
+2W5QX4Z	We are removing the bandage from the right lower leg.
+2W5QX4Z	We will remove the bandage from the right lower leg.
+2W5QX5Z	We removed the packing material from the right lower leg.
+2W5QX5Z	We are removing the packing material from the right lower leg.
+2W5QX5Z	We will remove the packing material from the right lower leg.
+2W5QX6Z	We removed the pressure dressing from the right lower leg.
+2W5QX6Z	We are removing the pressure dressing from the right lower leg.
+2W5QX6Z	We will remove the pressure dressing from the right lower leg.
+2W5QX7Z	We removed the intermittent pressure device from the right lower leg.
+2W5QX7Z	We are removing the intermittent pressure device from the right lower leg.
+2W5QX7Z	We will remove the intermittent pressure device from the right lower leg.
+2W5QXYZ	We removed the other device from the right lower leg.
+2W5QXYZ	We are removing the other device from the right lower leg.
+2W5QXYZ	We will remove the other device from the right lower leg.
+2W5RX0Z	We removed the traction apparatus from the left lower leg.
+2W5RX0Z	We are removing the traction apparatus from the left lower leg.
+2W5RX0Z	We will remove the traction apparatus from the left lower leg.
+2W5RX1Z	We removed the splint from the left lower leg.
+2W5RX1Z	We are removing the splint from the left lower leg.
+2W5RX1Z	We will remove the splint from the left lower leg.
+2W5RX2Z	We removed the cast from the left lower leg.
+2W5RX2Z	We are removing the cast from the left lower leg.
+2W5RX2Z	We will remove the cast from the left lower leg.
+2W5RX3Z	We removed the brace from the left lower leg.
+2W5RX3Z	We are removing the brace from the left lower leg.
+2W5RX3Z	We will remove the brace from the left lower leg.
+2W5RX4Z	We removed the bandage from the left lower leg.
+2W5RX4Z	We are removing the bandage from the left lower leg.
+2W5RX4Z	We will remove the bandage from the left lower leg.
+2W5RX5Z	We removed the packing material from the left lower leg.
+2W5RX5Z	We are removing the packing material from the left lower leg.
+2W5RX5Z	We will remove the packing material from the left lower leg.
+2W5RX6Z	We removed the pressure dressing from the left lower leg.
+2W5RX6Z	We are removing the pressure dressing from the left lower leg.
+2W5RX6Z	We will remove the pressure dressing from the left lower leg.
+2W5RX7Z	We removed the intermittent pressure device from the left lower leg.
+2W5RX7Z	We are removing the intermittent pressure device from the left lower leg.
+2W5RX7Z	We will remove the intermittent pressure device from the left lower leg.
+2W5RXYZ	We removed the other device from the left lower leg.
+2W5RXYZ	We are removing the other device from the left lower leg.
+2W5RXYZ	We will remove the other device from the left lower leg.
+2W5SX0Z	We removed the traction apparatus from the right foot.
+2W5SX0Z	We are removing the traction apparatus from the right foot.
+2W5SX0Z	We will remove the traction apparatus from the right foot.
+2W5SX1Z	We removed the splint from the right foot.
+2W5SX1Z	We are removing the splint from the right foot.
+2W5SX1Z	We will remove the splint from the right foot.
+2W5SX2Z	We removed the cast from the right foot.
+2W5SX2Z	We are removing the cast from the right foot.
+2W5SX2Z	We will remove the cast from the right foot.
+2W5SX3Z	We removed the brace from the right foot.
+2W5SX3Z	We are removing the brace from the right foot.
+2W5SX3Z	We will remove the brace from the right foot.
+2W5SX4Z	We removed the bandage from the right foot.
+2W5SX4Z	We are removing the bandage from the right foot.
+2W5SX4Z	We will remove the bandage from the right foot.
+2W5SX5Z	We removed the packing material from the right foot.
+2W5SX5Z	We are removing the packing material from the right foot.
+2W5SX5Z	We will remove the packing material from the right foot.
+2W5SX6Z	We removed the pressure dressing from the right foot.
+2W5SX6Z	We are removing the pressure dressing from the right foot.
+2W5SX6Z	We will remove the pressure dressing from the right foot.
+2W5SX7Z	We removed the intermittent pressure device from the right foot.
+2W5SX7Z	We are removing the intermittent pressure device from the right foot.
+2W5SX7Z	We will remove the intermittent pressure device from the right foot.
+2W5SXYZ	We removed the other device from the right foot.
+2W5SXYZ	We are removing the other device from the right foot.
+2W5SXYZ	We will remove the other device from the right foot.
+2W5TX0Z	We removed the traction apparatus from the left foot.
+2W5TX0Z	We are removing the traction apparatus from the left foot.
+2W5TX0Z	We will remove the traction apparatus from the left foot.
+2W5TX1Z	We removed the splint from the left foot.
+2W5TX1Z	We are removing the splint from the left foot.
+2W5TX1Z	We will remove the splint from the left foot.
+2W5TX2Z	We removed the cast from the left foot.
+2W5TX2Z	We are removing the cast from the left foot.
+2W5TX2Z	We will remove the cast from the left foot.
+2W5TX3Z	We removed the brace from the left foot.
+2W5TX3Z	We are removing the brace from the left foot.
+2W5TX3Z	We will remove the brace from the left foot.
+2W5TX4Z	We removed the bandage from the left foot.
+2W5TX4Z	We are removing the bandage from the left foot.
+2W5TX4Z	We will remove the bandage from the left foot.
+2W5TX5Z	We removed the packing material from the left foot.
+2W5TX5Z	We are removing the packing material from the left foot.
+2W5TX5Z	We will remove the packing material from the left foot.
+2W5TX6Z	We removed the pressure dressing from the left foot.
+2W5TX6Z	We are removing the pressure dressing from the left foot.
+2W5TX6Z	We will remove the pressure dressing from the left foot.
+2W5TX7Z	We removed the intermittent pressure device from the left foot.
+2W5TX7Z	We are removing the intermittent pressure device from the left foot.
+2W5TX7Z	We will remove the intermittent pressure device from the left foot.
+2W5TXYZ	We removed the other device from the left foot.
+2W5TXYZ	We are removing the other device from the left foot.
+2W5TXYZ	We will remove the other device from the left foot.
+2W5UX0Z	We removed the traction apparatus from the right toe.
+2W5UX0Z	We are removing the traction apparatus from the right toe.
+2W5UX0Z	We will remove the traction apparatus from the right toe.
+2W5UX1Z	We removed the splint from the right toe.
+2W5UX1Z	We are removing the splint from the right toe.
+2W5UX1Z	We will remove the splint from the right toe.
+2W5UX2Z	We removed the cast from the right toe.
+2W5UX2Z	We are removing the cast from the right toe.
+2W5UX2Z	We will remove the cast from the right toe.
+2W5UX3Z	We removed the brace from the right toe.
+2W5UX3Z	We are removing the brace from the right toe.
+2W5UX3Z	We will remove the brace from the right toe.
+2W5UX4Z	We removed the bandage from the right toe.
+2W5UX4Z	We are removing the bandage from the right toe.
+2W5UX4Z	We will remove the bandage from the right toe.
+2W5UX5Z	We removed the packing material from the right toe.
+2W5UX5Z	We are removing the packing material from the right toe.
+2W5UX5Z	We will remove the packing material from the right toe.
+2W5UX6Z	We removed the pressure dressing from the right toe.
+2W5UX6Z	We are removing the pressure dressing from the right toe.
+2W5UX6Z	We will remove the pressure dressing from the right toe.
+2W5UX7Z	We removed the intermittent pressure device from the right toe.
+2W5UX7Z	We are removing the intermittent pressure device from the right toe.
+2W5UX7Z	We will remove the intermittent pressure device from the right toe.
+2W5UXYZ	We removed the other device from the right toe.
+2W5UXYZ	We are removing the other device from the right toe.
+2W5UXYZ	We will remove the other device from the right toe.
+2W5VX0Z	We removed the traction apparatus from the left toe.
+2W5VX0Z	We are removing the traction apparatus from the left toe.
+2W5VX0Z	We will remove the traction apparatus from the left toe.
+2W5VX1Z	We removed the splint from the left toe.
+2W5VX1Z	We are removing the splint from the left toe.
+2W5VX1Z	We will remove the splint from the left toe.
+2W5VX2Z	We removed the cast from the left toe.
+2W5VX2Z	We are removing the cast from the left toe.
+2W5VX2Z	We will remove the cast from the left toe.
+2W5VX3Z	We removed the brace from the left toe.
+2W5VX3Z	We are removing the brace from the left toe.
+2W5VX3Z	We will remove the brace from the left toe.
+2W5VX4Z	We removed the bandage from the left toe.
+2W5VX4Z	We are removing the bandage from the left toe.
+2W5VX4Z	We will remove the bandage from the left toe.
+2W5VX5Z	We removed the packing material from the left toe.
+2W5VX5Z	We are removing the packing material from the left toe.
+2W5VX5Z	We will remove the packing material from the left toe.
+2W5VX6Z	We removed the pressure dressing from the left toe.
+2W5VX6Z	We are removing the pressure dressing from the left toe.
+2W5VX6Z	We will remove the pressure dressing from the left toe.
+2W5VX7Z	We removed the intermittent pressure device from the left toe.
+2W5VX7Z	We are removing the intermittent pressure device from the left toe.
+2W5VX7Z	We will remove the intermittent pressure device from the left toe.
+2W5VXYZ	We removed the other device from the left toe.
+2W5VXYZ	We are removing the other device from the left toe.
+2W5VXYZ	We will remove the other device from the left toe.
+2Y00X5Z	We changed the packing material on the mouth and pharynx.
+2Y00X5Z	We are changing the packing material on the mouth and pharynx.
+2Y00X5Z	We will change the packing material on the mouth and pharynx.
+2Y01X5Z	We changed the packing material on the nasal.
+2Y01X5Z	We are changing the packing material on the nasal.
+2Y01X5Z	We will change the packing material on the nasal.
+2Y02X5Z	We changed the packing material on the ear.
+2Y02X5Z	We are changing the packing material on the ear.
+2Y02X5Z	We will change the packing material on the ear.
+2Y03X5Z	We changed the packing material on the anorectal.
+2Y03X5Z	We are changing the packing material on the anorectal.
+2Y03X5Z	We will change the packing material on the anorectal.
+2Y04X5Z	We changed the packing material on the female genital tract.
+2Y04X5Z	We are changing the packing material on the female genital tract.
+2Y04X5Z	We will change the packing material on the female genital tract.
+2Y05X5Z	We changed the packing material on the urethra.
+2Y05X5Z	We are changing the packing material on the urethra.
+2Y05X5Z	We will change the packing material on the urethra.
+2Y40X5Z	We packed the mouth and pharynx with a packing material.
+2Y40X5Z	We are packing the mouth and pharynx with a packing material.
+2Y40X5Z	We will pack the mouth and pharynx with a packing material.
+2Y41X5Z	We packed the nasal with a packing material.
+2Y41X5Z	We are packing the nasal with a packing material.
+2Y41X5Z	We will pack the nasal with a packing material.
+2Y42X5Z	We packed the ear with a packing material.
+2Y42X5Z	We are packing the ear with a packing material.
+2Y42X5Z	We will pack the ear with a packing material.
+2Y43X5Z	We packed the anorectal with a packing material.
+2Y43X5Z	We are packing the anorectal with a packing material.
+2Y43X5Z	We will pack the anorectal with a packing material.
+2Y44X5Z	We packed the female genital tract with a packing material.
+2Y44X5Z	We are packing the female genital tract with a packing material.
+2Y44X5Z	We will pack the female genital tract with a packing material.
+2Y45X5Z	We packed the urethra with a packing material.
+2Y45X5Z	We are packing the urethra with a packing material.
+2Y45X5Z	We will pack the urethra with a packing material.
+2Y50X5Z	We removed the packing material from the mouth and pharynx.
+2Y50X5Z	We are removing the packing material from the mouth and pharynx.
+2Y50X5Z	We will remove the packing material from the mouth and pharynx.
+2Y51X5Z	We removed the packing material from the nasal.
+2Y51X5Z	We are removing the packing material from the nasal.
+2Y51X5Z	We will remove the packing material from the nasal.
+2Y52X5Z	We removed the packing material from the ear.
+2Y52X5Z	We are removing the packing material from the ear.
+2Y52X5Z	We will remove the packing material from the ear.
+2Y53X5Z	We removed the packing material from the anorectal.
+2Y53X5Z	We are removing the packing material from the anorectal.
+2Y53X5Z	We will remove the packing material from the anorectal.
+2Y54X5Z	We removed the packing material from the female genital tract.
+2Y54X5Z	We are removing the packing material from the female genital tract.
+2Y54X5Z	We will remove the packing material from the female genital tract.
+2Y55X5Z	We removed the packing material from the urethra.
+2Y55X5Z	We are removing the packing material from the urethra.
+2Y55X5Z	We will remove the packing material from the urethra.

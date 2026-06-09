@@ -1,0 +1,193 @@
+24-96 consecutive hours
+8-24 consecutive hours
+acoustic reflex decay
+acoustic reflex patterns
+acoustic reflex threshold
+aerobic capacity and endurance
+airway clearance techniques
+alternate binaural or monaural loudness balance
+anthropometric characteristics
+aphasia
+application, proper use and care of devices
+application, proper use and care of orthoses
+application, proper use and care of prosthesis
+articulation/phonology
+assistive listening device
+assistive listening system/device selection
+assistive, adaptive, supportive or protective devices
+auditory processing
+augmentative/alternative communication system
+aural rehabilitation
+aural rehabilitation status
+bathing/showering
+bathing/showering technique
+bathing/showering techniques
+bed mobility
+bedside swallowing and oral function
+bekesy audiometry
+binaural electroacoustic hearing aid check
+binaural hearing aid
+bithermal, binaural caloric irrigation
+bithermal, monaural caloric irrigation
+brief tone stimuli
+carbon 11 (c-11)
+cerumen management
+chromium (cr-51)
+cobalt 57 (co-57)
+cobalt 58 (co-58)
+cochlear implant
+cochlear implant rehabilitation
+communication skills
+communicative/cognitive integration skills
+computerized dynamic posturography
+conditioned play audiometry
+contact radiation
+continuous
+continuous, greater than 18 hours per day
+coordination/dexterity
+cranial nerve integrity
+dichotic stimuli
+distorted speech
+dix-hallpike dynamic
+dressing
+dressing techniques
+dynamic orthosis
+ear canal probe microphone
+ear protector attentuation
+electrocochleography
+electrons
+environmental, home and work barriers
+ergonomics and body mechanics
+eustachian tube function
+evoked otoacoustic emissions, diagnostic
+evoked otoacoustic emissions, screening
+external
+facial nerve function
+feeding and eating
+feeding/eating
+filtered speech
+fluency
+fluorescing agent
+fluorine 18 (f-18)
+gait and/or balance
+gait training/functional ambulation
+greater than 24 consecutive hours
+greater than 96 consecutive hours
+grooming/personal hygiene
+hearing and related disorders counseling
+hearing and related disorders prevention
+hearing screening
+heavy particles (protons,ions)
+high dose rate (hdr)
+high osmolar
+home management
+hyperthermia
+indium 111 (in-111)
+instrumental swallowing and oral function
+integumentary integrity
+intermittent
+intermittent, less than 6 hours per day
+intraoperative
+intraoperative radiation therapy (iort)
+iodine 123 (i-123)
+iodine 125 (i-125)
+iodine 131 (i-131)
+isotope administration
+krypton (kr-81m)
+less than 24 consecutive hours
+less than 8 consecutive hours
+low dose rate (ldr)
+low osmolar
+manual therapy techniques
+masking patterns
+monaural electroacoustic hearing aid check
+monaural hearing aid
+motor function
+motor speech
+multiple
+muscle performance
+natural or artificial opening
+natural or artificial opening endoscopic
+natural or artificial opening with percutaneous endoscopic assistance
+neuromotor development
+neutron capture
+neutrons
+nitrogen 13 (n-13)
+non-invasive instrumental status
+none
+nonspoken language
+open
+oral peripheral mechanism
+orofacial myofunctional
+oscillating tracking
+other contrast
+other radionuclide
+other specified central auditory processing
+other therapy techniques
+oxygen 15 (o-15)
+pain
+perceptual processing
+percutaneous
+percutaneous endoscopic
+performance intensity phonetically balanced speech discrimination
+phosphorus 32 (p-32)
+photons 1 - 10 mev
+photons <1 mev
+photons >10 mev
+plaque radiation
+postural control
+prolonged intermittent, 6-18 hours per day
+prosthesis
+psychosocial skills
+pure tone audiometry, air
+pure tone audiometry, air and bone
+pure tone stenger
+range of motion and joint integrity
+range of motion and joint mobility
+receptive/expressive language
+reflex integrity
+rubidium 82 (rb-82)
+samarium 153 (sm-153)
+select picture audiometry
+sensorineural acuity level
+sensory aids
+sensory awareness/processing/integrity
+short increment sensitivity index
+single
+sinusoidal vertical axis rotational
+somatosensory evoked potentials
+speech and/or language screening
+speech threshold
+speech-language pathology and related disorders counseling
+speech-language pathology and related disorders prevention
+speech/word recognition
+staggered spondaic word
+static orthosis
+stenger
+stereotactic gamma beam radiosurgery
+stereotactic other photon radiosurgery
+stereotactic particulate radiosurgery
+strontium 89 (sr-89)
+swallowing dysfunction
+synthetic sentence identification
+technetium 99m (tc-99m)
+temporal ordering of stimuli
+thallium 201 (tl-201)
+therapeutic exercise
+tinnitus masker
+tone decay
+transfer
+transfer training
+tympanometry
+unithermal binaural screen
+ventilation, respiration and circulation
+vestibular
+visual motor integration
+visual reinforcement audiometry
+vocational activities and functional community or work reintegration skills
+voice
+voice prosthetic
+wheelchair mobility
+wound management
+xenon 127 (xe-127)
+xenon 133 (xe-133)

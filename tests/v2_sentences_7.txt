@@ -1,0 +1,11 @@
+7W0	We performed an osteopathic treatment of the anatomical regions.
+7W00X0Z	We performed an osteopathic treatment of the head.
+7W01X0Z	We performed an osteopathic treatment of the cervical region.
+7W02X0Z	We performed an osteopathic treatment of the thoracic region.
+7W03X0Z	We performed an osteopathic treatment of the lumbar region.
+7W04X0Z	We performed an osteopathic treatment of the sacrum.
+7W05X0Z	We performed an osteopathic treatment of the pelvis.
+7W06X0Z	We performed an osteopathic treatment of the lower extremities.
+7W07X0Z	We performed an osteopathic treatment of the upper extremities.
+7W08X0Z	We performed an osteopathic treatment of the rib cage.
+7W09X0Z	We performed an osteopathic treatment of the abdomen.

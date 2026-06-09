@@ -1,0 +1,1366 @@
+F00	We conducted a speech assessment.
+F003GKZ	We performed a communicative/cognitive integration skills speech assessment of the whole body neurological system.
+F003GKZ	We performed a communicative/cognitive integration skills speech assessment of the whole body neurological system using audiovisual equipment.
+F003GMZ	We performed a communicative/cognitive integration skills speech assessment of the whole body neurological system using augmentative / alternative communication.
+F003GPZ	We performed a communicative/cognitive integration skills speech assessment of the whole body neurological system using computer.
+F003GYZ	We performed a communicative/cognitive integration skills speech assessment of the whole body neurological system using other equipment.
+F00Z01Z	We performed a filtered speech speech assessment.
+F00Z01Z	We performed a filtered speech speech assessment using audiometer.
+F00Z02Z	We performed a filtered speech speech assessment using sound field / booth.
+F00Z0KZ	We performed a filtered speech speech assessment using audiovisual equipment.
+F00Z11Z	We performed a speech threshold speech assessment.
+F00Z11Z	We performed a speech threshold speech assessment using audiometer.
+F00Z12Z	We performed a speech threshold speech assessment using sound field / booth.
+F00Z19Z	We performed a speech threshold speech assessment using cochlear implant.
+F00Z1KZ	We performed a speech threshold speech assessment using audiovisual equipment.
+F00Z21Z	We performed a speech/word recognition speech assessment.
+F00Z21Z	We performed a speech/word recognition speech assessment using audiometer.
+F00Z22Z	We performed a speech/word recognition speech assessment using sound field / booth.
+F00Z29Z	We performed a speech/word recognition speech assessment using cochlear implant.
+F00Z2KZ	We performed a speech/word recognition speech assessment using audiovisual equipment.
+F00Z31Z	We performed a staggered spondaic word speech assessment.
+F00Z31Z	We performed a staggered spondaic word speech assessment using audiometer.
+F00Z32Z	We performed a staggered spondaic word speech assessment using sound field / booth.
+F00Z3KZ	We performed a staggered spondaic word speech assessment using audiovisual equipment.
+F00Z41Z	We performed a sensorineural acuity level speech assessment.
+F00Z41Z	We performed a sensorineural acuity level speech assessment using audiometer.
+F00Z42Z	We performed a sensorineural acuity level speech assessment using sound field / booth.
+F00Z51Z	We performed a synthetic sentence identification speech assessment.
+F00Z51Z	We performed a synthetic sentence identification speech assessment using audiometer.
+F00Z52Z	We performed a synthetic sentence identification speech assessment using sound field / booth.
+F00Z59Z	We performed a synthetic sentence identification speech assessment using cochlear implant.
+F00Z5KZ	We performed a synthetic sentence identification speech assessment using audiovisual equipment.
+F00Z6KZ	We performed speech and/or language screening speech assessment.
+F00Z6KZ	We performed speech and/or language screening speech assessment using audiovisual equipment.
+F00Z6MZ	We performed speech and/or language screening speech assessment using augmentative / alternative communication.
+F00Z6PZ	We performed speech and/or language screening speech assessment using computer.
+F00Z6YZ	We performed speech and/or language screening speech assessment using other equipment.
+F00Z7KZ	We performed a nonspoken language speech assessment.
+F00Z7KZ	We performed a nonspoken language speech assessment using audiovisual equipment.
+F00Z7MZ	We performed a nonspoken language speech assessment using augmentative / alternative communication.
+F00Z7PZ	We performed a nonspoken language speech assessment using computer.
+F00Z7YZ	We performed a nonspoken language speech assessment using other equipment.
+F00Z8KZ	We performed a receptive/expressive language speech assessment.
+F00Z8KZ	We performed a receptive/expressive language speech assessment using audiovisual equipment.
+F00Z8MZ	We performed a receptive/expressive language speech assessment using augmentative / alternative communication.
+F00Z8PZ	We performed a receptive/expressive language speech assessment using computer.
+F00Z8YZ	We performed a receptive/expressive language speech assessment using other equipment.
+F00Z9KZ	We performed an articulation/phonology speech assessment.
+F00Z9KZ	We performed an articulation/phonology speech assessment using audiovisual equipment.
+F00Z9PZ	We performed an articulation/phonology speech assessment using computer.
+F00Z9QZ	We performed an articulation/phonology speech assessment using speech analysis.
+F00Z9YZ	We performed an articulation/phonology speech assessment using other equipment.
+F00ZBKZ	We performed a motor speech speech assessment.
+F00ZBKZ	We performed a motor speech speech assessment using audiovisual equipment.
+F00ZBNZ	We performed a motor speech speech assessment using biosensory feedback.
+F00ZBPZ	We performed a motor speech speech assessment using computer.
+F00ZBQZ	We performed a motor speech speech assessment using speech analysis.
+F00ZBTZ	We performed a motor speech speech assessment using aerodynamic function.
+F00ZBYZ	We performed a motor speech speech assessment using other equipment.
+F00ZCKZ	We performed an aphasia speech assessment.
+F00ZCKZ	We performed an aphasia speech assessment using audiovisual equipment.
+F00ZCMZ	We performed an aphasia speech assessment using augmentative / alternative communication.
+F00ZCPZ	We performed an aphasia speech assessment using computer.
+F00ZCYZ	We performed an aphasia speech assessment using other equipment.
+F00ZDKZ	We performed a fluency speech assessment.
+F00ZDKZ	We performed a fluency speech assessment using audiovisual equipment.
+F00ZDNZ	We performed a fluency speech assessment using biosensory feedback.
+F00ZDPZ	We performed a fluency speech assessment using computer.
+F00ZDQZ	We performed a fluency speech assessment using speech analysis.
+F00ZDSZ	We performed a fluency speech assessment using voice analysis.
+F00ZDTZ	We performed a fluency speech assessment using aerodynamic function.
+F00ZDYZ	We performed a fluency speech assessment using other equipment.
+F00ZFKZ	We performed a voice speech assessment.
+F00ZFKZ	We performed a voice speech assessment using audiovisual equipment.
+F00ZFNZ	We performed a voice speech assessment using biosensory feedback.
+F00ZFPZ	We performed a voice speech assessment using computer.
+F00ZFSZ	We performed a voice speech assessment using voice analysis.
+F00ZFTZ	We performed a voice speech assessment using aerodynamic function.
+F00ZFYZ	We performed a voice speech assessment using other equipment.
+F00ZGKZ	We performed a communicative/cognitive integration skills speech assessment.
+F00ZGKZ	We performed a communicative/cognitive integration skills speech assessment using audiovisual equipment.
+F00ZGMZ	We performed a communicative/cognitive integration skills speech assessment using augmentative / alternative communication.
+F00ZGPZ	We performed a communicative/cognitive integration skills speech assessment using computer.
+F00ZGYZ	We performed a communicative/cognitive integration skills speech assessment using other equipment.
+F00ZHYZ	We performed bedside swallowing and oral function speech assessment.
+F00ZHYZ	We performed bedside swallowing and oral function speech assessment using other equipment.
+F00ZJTZ	We performed instrumental swallowing and oral function speech assessment.
+F00ZJTZ	We performed instrumental swallowing and oral function speech assessment using aerodynamic function.
+F00ZJWZ	We performed instrumental swallowing and oral function speech assessment using swallowing.
+F00ZJYZ	We performed instrumental swallowing and oral function speech assessment using other equipment.
+F00ZKKZ	We performed an orofacial myofunctional speech assessment.
+F00ZKKZ	We performed an orofacial myofunctional speech assessment using audiovisual equipment.
+F00ZKPZ	We performed an orofacial myofunctional speech assessment using computer.
+F00ZKYZ	We performed an orofacial myofunctional speech assessment using other equipment.
+F00ZMKZ	We performed a voice prosthetic speech assessment.
+F00ZMKZ	We performed a voice prosthetic speech assessment using audiovisual equipment.
+F00ZMPZ	We performed a voice prosthetic speech assessment using computer.
+F00ZMSZ	We performed a voice prosthetic speech assessment using voice analysis.
+F00ZMVZ	We performed a voice prosthetic speech assessment using speech prosthesis.
+F00ZMYZ	We performed a voice prosthetic speech assessment using other equipment.
+F00ZNNZ	We performed non-invasive instrumental status speech assessment.
+F00ZNNZ	We performed non-invasive instrumental status speech assessment using biosensory feedback.
+F00ZNPZ	We performed non-invasive instrumental status speech assessment using computer.
+F00ZNQZ	We performed non-invasive instrumental status speech assessment using speech analysis.
+F00ZNSZ	We performed non-invasive instrumental status speech assessment using voice analysis.
+F00ZNTZ	We performed non-invasive instrumental status speech assessment using aerodynamic function.
+F00ZNYZ	We performed non-invasive instrumental status speech assessment using other equipment.
+F00ZPYZ	We performed an oral peripheral mechanism speech assessment.
+F00ZPYZ	We performed an oral peripheral mechanism speech assessment using other equipment.
+F00ZQ1Z	We performed a performance intensity phonetically balanced speech discrimination speech assessment.
+F00ZQ1Z	We performed a performance intensity phonetically balanced speech discrimination speech assessment using audiometer.
+F00ZQ2Z	We performed a performance intensity phonetically balanced speech discrimination speech assessment using sound field / booth.
+F00ZQKZ	We performed a performance intensity phonetically balanced speech discrimination speech assessment using audiovisual equipment.
+F00ZR1Z	We performed a brief tone stimuli speech assessment.
+F00ZR1Z	We performed a brief tone stimuli speech assessment using audiometer.
+F00ZR2Z	We performed a brief tone stimuli speech assessment using sound field / booth.
+F00ZRKZ	We performed a brief tone stimuli speech assessment using audiovisual equipment.
+F00ZS1Z	We performed a distorted speech speech assessment.
+F00ZS1Z	We performed a distorted speech speech assessment using audiometer.
+F00ZS2Z	We performed a distorted speech speech assessment using sound field / booth.
+F00ZSKZ	We performed a distorted speech speech assessment using audiovisual equipment.
+F00ZT1Z	We performed a dichotic stimuli speech assessment.
+F00ZT1Z	We performed a dichotic stimuli speech assessment using audiometer.
+F00ZT2Z	We performed a dichotic stimuli speech assessment using sound field / booth.
+F00ZTKZ	We performed a dichotic stimuli speech assessment using audiovisual equipment.
+F00ZV1Z	We performed a temporal ordering of stimuli speech assessment.
+F00ZV1Z	We performed a temporal ordering of stimuli speech assessment using audiometer.
+F00ZV2Z	We performed a temporal ordering of stimuli speech assessment using sound field / booth.
+F00ZVKZ	We performed a temporal ordering of stimuli speech assessment using audiovisual equipment.
+F00ZW1Z	We performed a masking patterns speech assessment.
+F00ZW1Z	We performed a masking patterns speech assessment using audiometer.
+F00ZW2Z	We performed a masking patterns speech assessment using sound field / booth.
+F00ZWKZ	We performed a masking patterns speech assessment using audiovisual equipment.
+F00ZXZZ	We performed an other specified central auditory processing speech assessment.
+F01	We conducted a motor and/or nerve function assessment.
+F0100EZ	We performed a muscle performance motor and/or nerve function assessment of the head and neck neurological system.
+F0100EZ	We performed a muscle performance motor and/or nerve function assessment of the head and neck neurological system using orthosis.
+F0100FZ	We performed a muscle performance motor and/or nerve function assessment of the head and neck neurological system using assistive, adaptive, supportive or protective equipment.
+F0100UZ	We performed a muscle performance motor and/or nerve function assessment of the head and neck neurological system using prosthesis.
+F0100YZ	We performed a muscle performance motor and/or nerve function assessment of the head and neck neurological system using other equipment.
+F0101ZZ	We performed an integumentary integrity motor and/or nerve function assessment of the head and neck neurological system.
+F0103ZZ	We performed a coordination/dexterity motor and/or nerve function assessment of the head and neck neurological system.
+F0104ZZ	We performed motor function motor and/or nerve function assessment of the head and neck neurological system.
+F0105YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the head and neck neurological system.
+F0105YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the head and neck neurological system using other equipment.
+F0106YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the head and neck neurological system.
+F0106YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the head and neck neurological system using other equipment.
+F010GZZ	We performed a reflex integrity motor and/or nerve function assessment of the head and neck neurological system.
+F0110EZ	We performed a muscle performance motor and/or nerve function assessment of the upper back / upper extremity neurological system.
+F0110EZ	We performed a muscle performance motor and/or nerve function assessment of the upper back / upper extremity neurological system using orthosis.
+F0110FZ	We performed a muscle performance motor and/or nerve function assessment of the upper back / upper extremity neurological system using assistive, adaptive, supportive or protective equipment.
+F0110UZ	We performed a muscle performance motor and/or nerve function assessment of the upper back / upper extremity neurological system using prosthesis.
+F0110YZ	We performed a muscle performance motor and/or nerve function assessment of the upper back / upper extremity neurological system using other equipment.
+F0111ZZ	We performed an integumentary integrity motor and/or nerve function assessment of the upper back / upper extremity neurological system.
+F0113ZZ	We performed a coordination/dexterity motor and/or nerve function assessment of the upper back / upper extremity neurological system.
+F0114ZZ	We performed motor function motor and/or nerve function assessment of the upper back / upper extremity neurological system.
+F0115YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the upper back / upper extremity neurological system.
+F0115YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the upper back / upper extremity neurological system using other equipment.
+F0116YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the upper back / upper extremity neurological system.
+F0116YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the upper back / upper extremity neurological system using other equipment.
+F011GZZ	We performed a reflex integrity motor and/or nerve function assessment of the upper back / upper extremity neurological system.
+F0120EZ	We performed a muscle performance motor and/or nerve function assessment of the lower back / lower extremity neurological system.
+F0120EZ	We performed a muscle performance motor and/or nerve function assessment of the lower back / lower extremity neurological system using orthosis.
+F0120FZ	We performed a muscle performance motor and/or nerve function assessment of the lower back / lower extremity neurological system using assistive, adaptive, supportive or protective equipment.
+F0120UZ	We performed a muscle performance motor and/or nerve function assessment of the lower back / lower extremity neurological system using prosthesis.
+F0120YZ	We performed a muscle performance motor and/or nerve function assessment of the lower back / lower extremity neurological system using other equipment.
+F0121ZZ	We performed an integumentary integrity motor and/or nerve function assessment of the lower back / lower extremity neurological system.
+F0123ZZ	We performed a coordination/dexterity motor and/or nerve function assessment of the lower back / lower extremity neurological system.
+F0124ZZ	We performed motor function motor and/or nerve function assessment of the lower back / lower extremity neurological system.
+F0125YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the lower back / lower extremity neurological system.
+F0125YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the lower back / lower extremity neurological system using other equipment.
+F0126YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the lower back / lower extremity neurological system.
+F0126YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the lower back / lower extremity neurological system using other equipment.
+F012GZZ	We performed a reflex integrity motor and/or nerve function assessment of the lower back / lower extremity neurological system.
+F0130EZ	We performed a muscle performance motor and/or nerve function assessment of the whole body neurological system.
+F0130EZ	We performed a muscle performance motor and/or nerve function assessment of the whole body neurological system using orthosis.
+F0130FZ	We performed a muscle performance motor and/or nerve function assessment of the whole body neurological system using assistive, adaptive, supportive or protective equipment.
+F0130UZ	We performed a muscle performance motor and/or nerve function assessment of the whole body neurological system using prosthesis.
+F0130YZ	We performed a muscle performance motor and/or nerve function assessment of the whole body neurological system using other equipment.
+F0131ZZ	We performed an integumentary integrity motor and/or nerve function assessment of the whole body neurological system.
+F0133ZZ	We performed a coordination/dexterity motor and/or nerve function assessment of the whole body neurological system.
+F0134ZZ	We performed motor function motor and/or nerve function assessment of the whole body neurological system.
+F0135YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the whole body neurological system.
+F0135YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the whole body neurological system using other equipment.
+F0136YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the whole body neurological system.
+F0136YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the whole body neurological system using other equipment.
+F013GZZ	We performed a reflex integrity motor and/or nerve function assessment of the whole body neurological system.
+F01D0EZ	We performed a muscle performance motor and/or nerve function assessment of the head and neck integumentary system.
+F01D0EZ	We performed a muscle performance motor and/or nerve function assessment of the head and neck integumentary system using orthosis.
+F01D0FZ	We performed a muscle performance motor and/or nerve function assessment of the head and neck integumentary system using assistive, adaptive, supportive or protective equipment.
+F01D0UZ	We performed a muscle performance motor and/or nerve function assessment of the head and neck integumentary system using prosthesis.
+F01D0YZ	We performed a muscle performance motor and/or nerve function assessment of the head and neck integumentary system using other equipment.
+F01D1ZZ	We performed an integumentary integrity motor and/or nerve function assessment of the head and neck integumentary system.
+F01D5YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the head and neck integumentary system.
+F01D5YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the head and neck integumentary system using other equipment.
+F01D6YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the head and neck integumentary system.
+F01D6YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the head and neck integumentary system using other equipment.
+F01F0EZ	We performed a muscle performance motor and/or nerve function assessment of the upper back / upper extremity integumentary system.
+F01F0EZ	We performed a muscle performance motor and/or nerve function assessment of the upper back / upper extremity integumentary system using orthosis.
+F01F0FZ	We performed a muscle performance motor and/or nerve function assessment of the upper back / upper extremity integumentary system using assistive, adaptive, supportive or protective equipment.
+F01F0UZ	We performed a muscle performance motor and/or nerve function assessment of the upper back / upper extremity integumentary system using prosthesis.
+F01F0YZ	We performed a muscle performance motor and/or nerve function assessment of the upper back / upper extremity integumentary system using other equipment.
+F01F1ZZ	We performed an integumentary integrity motor and/or nerve function assessment of the upper back / upper extremity integumentary system.
+F01F5YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the upper back / upper extremity integumentary system.
+F01F5YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the upper back / upper extremity integumentary system using other equipment.
+F01F6YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the upper back / upper extremity integumentary system.
+F01F6YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the upper back / upper extremity integumentary system using other equipment.
+F01G0EZ	We performed a muscle performance motor and/or nerve function assessment of the lower back / lower extremity integumentary system.
+F01G0EZ	We performed a muscle performance motor and/or nerve function assessment of the lower back / lower extremity integumentary system using orthosis.
+F01G0FZ	We performed a muscle performance motor and/or nerve function assessment of the lower back / lower extremity integumentary system using assistive, adaptive, supportive or protective equipment.
+F01G0UZ	We performed a muscle performance motor and/or nerve function assessment of the lower back / lower extremity integumentary system using prosthesis.
+F01G0YZ	We performed a muscle performance motor and/or nerve function assessment of the lower back / lower extremity integumentary system using other equipment.
+F01G1ZZ	We performed an integumentary integrity motor and/or nerve function assessment of the lower back / lower extremity integumentary system.
+F01G5YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the lower back / lower extremity integumentary system.
+F01G5YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the lower back / lower extremity integumentary system using other equipment.
+F01G6YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the lower back / lower extremity integumentary system.
+F01G6YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the lower back / lower extremity integumentary system using other equipment.
+F01H0EZ	We performed a muscle performance motor and/or nerve function assessment of the whole body integumentary system.
+F01H0EZ	We performed a muscle performance motor and/or nerve function assessment of the whole body integumentary system using orthosis.
+F01H0FZ	We performed a muscle performance motor and/or nerve function assessment of the whole body integumentary system using assistive, adaptive, supportive or protective equipment.
+F01H0UZ	We performed a muscle performance motor and/or nerve function assessment of the whole body integumentary system using prosthesis.
+F01H0YZ	We performed a muscle performance motor and/or nerve function assessment of the whole body integumentary system using other equipment.
+F01H1ZZ	We performed an integumentary integrity motor and/or nerve function assessment of the whole body integumentary system.
+F01H5YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the whole body integumentary system.
+F01H5YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the whole body integumentary system using other equipment.
+F01H6YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the whole body integumentary system.
+F01H6YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the whole body integumentary system using other equipment.
+F01J0EZ	We performed a muscle performance motor and/or nerve function assessment of the head and neck musculoskeletal system.
+F01J0EZ	We performed a muscle performance motor and/or nerve function assessment of the head and neck musculoskeletal system using orthosis.
+F01J0FZ	We performed a muscle performance motor and/or nerve function assessment of the head and neck musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F01J0UZ	We performed a muscle performance motor and/or nerve function assessment of the head and neck musculoskeletal system using prosthesis.
+F01J0YZ	We performed a muscle performance motor and/or nerve function assessment of the head and neck musculoskeletal system using other equipment.
+F01J1ZZ	We performed an integumentary integrity motor and/or nerve function assessment of the head and neck musculoskeletal system.
+F01J5YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the head and neck musculoskeletal system.
+F01J5YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the head and neck musculoskeletal system using other equipment.
+F01J6YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the head and neck musculoskeletal system.
+F01J6YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the head and neck musculoskeletal system using other equipment.
+F01K0EZ	We performed a muscle performance motor and/or nerve function assessment of the upper back / upper extremity musculoskeletal system.
+F01K0EZ	We performed a muscle performance motor and/or nerve function assessment of the upper back / upper extremity musculoskeletal system using orthosis.
+F01K0FZ	We performed a muscle performance motor and/or nerve function assessment of the upper back / upper extremity musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F01K0UZ	We performed a muscle performance motor and/or nerve function assessment of the upper back / upper extremity musculoskeletal system using prosthesis.
+F01K0YZ	We performed a muscle performance motor and/or nerve function assessment of the upper back / upper extremity musculoskeletal system using other equipment.
+F01K1ZZ	We performed an integumentary integrity motor and/or nerve function assessment of the upper back / upper extremity musculoskeletal system.
+F01K5YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the upper back / upper extremity musculoskeletal system.
+F01K5YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the upper back / upper extremity musculoskeletal system using other equipment.
+F01K6YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the upper back / upper extremity musculoskeletal system.
+F01K6YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the upper back / upper extremity musculoskeletal system using other equipment.
+F01M0EZ	We performed a muscle performance motor and/or nerve function assessment of the whole body musculoskeletal system.
+F01M0EZ	We performed a muscle performance motor and/or nerve function assessment of the whole body musculoskeletal system using orthosis.
+F01M0FZ	We performed a muscle performance motor and/or nerve function assessment of the whole body musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F01M0UZ	We performed a muscle performance motor and/or nerve function assessment of the whole body musculoskeletal system using prosthesis.
+F01M0YZ	We performed a muscle performance motor and/or nerve function assessment of the whole body musculoskeletal system using other equipment.
+F01M1ZZ	We performed an integumentary integrity motor and/or nerve function assessment of the whole body musculoskeletal system.
+F01M5YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the whole body musculoskeletal system.
+F01M5YZ	We performed a range of motion and joint integrity motor and/or nerve function assessment of the whole body musculoskeletal system using other equipment.
+F01M6YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the whole body musculoskeletal system.
+F01M6YZ	We performed a sensory awareness/processing/integrity motor and/or nerve function assessment of the whole body musculoskeletal system using other equipment.
+F01N0EZ	We performed a muscle performance motor and/or nerve function assessment of the genitourinary system.
+F01N0EZ	We performed a muscle performance motor and/or nerve function assessment of the genitourinary system using orthosis.
+F01N0FZ	We performed a muscle performance motor and/or nerve function assessment of the genitourinary system using assistive, adaptive, supportive or protective equipment.
+F01N0UZ	We performed a muscle performance motor and/or nerve function assessment of the genitourinary system using prosthesis.
+F01N0YZ	We performed a muscle performance motor and/or nerve function assessment of the genitourinary system using other equipment.
+F01Z2KZ	We performed a visual motor integration motor and/or nerve function assessment.
+F01Z2KZ	We performed a visual motor integration motor and/or nerve function assessment using audiovisual equipment.
+F01Z2MZ	We performed a visual motor integration motor and/or nerve function assessment using augmentative / alternative communication.
+F01Z2NZ	We performed a visual motor integration motor and/or nerve function assessment using biosensory feedback.
+F01Z2PZ	We performed a visual motor integration motor and/or nerve function assessment using computer.
+F01Z2QZ	We performed a visual motor integration motor and/or nerve function assessment using speech analysis.
+F01Z2SZ	We performed a visual motor integration motor and/or nerve function assessment using voice analysis.
+F01Z2YZ	We performed a visual motor integration motor and/or nerve function assessment using other equipment.
+F01Z77Z	We performed facial nerve function motor and/or nerve function assessment.
+F01Z77Z	We performed facial nerve function motor and/or nerve function assessment using electrophysiologic.
+F01Z9JZ	We performed a somatosensory evoked potentials motor and/or nerve function assessment.
+F01Z9JZ	We performed a somatosensory evoked potentials motor and/or nerve function assessment using somatosensory.
+F01ZBEZ	We performed a bed mobility motor and/or nerve function assessment.
+F01ZBEZ	We performed a bed mobility motor and/or nerve function assessment using orthosis.
+F01ZBFZ	We performed a bed mobility motor and/or nerve function assessment using assistive, adaptive, supportive or protective equipment.
+F01ZBUZ	We performed a bed mobility motor and/or nerve function assessment using prosthesis.
+F01ZCEZ	We performed a transfer motor and/or nerve function assessment.
+F01ZCEZ	We performed a transfer motor and/or nerve function assessment using orthosis.
+F01ZCFZ	We performed a transfer motor and/or nerve function assessment using assistive, adaptive, supportive or protective equipment.
+F01ZCUZ	We performed a transfer motor and/or nerve function assessment using prosthesis.
+F01ZDEZ	We performed a gait and/or balance motor and/or nerve function assessment.
+F01ZDEZ	We performed a gait and/or balance motor and/or nerve function assessment using orthosis.
+F01ZDFZ	We performed a gait and/or balance motor and/or nerve function assessment using assistive, adaptive, supportive or protective equipment.
+F01ZDUZ	We performed a gait and/or balance motor and/or nerve function assessment using prosthesis.
+F01ZDYZ	We performed a gait and/or balance motor and/or nerve function assessment using other equipment.
+F01ZFEZ	We performed a wheelchair mobility motor and/or nerve function assessment.
+F01ZFEZ	We performed a wheelchair mobility motor and/or nerve function assessment using orthosis.
+F01ZFFZ	We performed a wheelchair mobility motor and/or nerve function assessment using assistive, adaptive, supportive or protective equipment.
+F01ZFUZ	We performed a wheelchair mobility motor and/or nerve function assessment using prosthesis.
+F02	We conducted an activities of daily living assessment.
+F0209YZ	We performed a cranial nerve integrity activities of daily living assessment of the head and neck neurological system.
+F0209YZ	We performed a cranial nerve integrity activities of daily living assessment of the head and neck neurological system using other equipment.
+F020DYZ	We performed a neuromotor development activities of daily living assessment of the head and neck neurological system.
+F020DYZ	We performed a neuromotor development activities of daily living assessment of the head and neck neurological system using other equipment.
+F021DYZ	We performed a neuromotor development activities of daily living assessment of the upper back / upper extremity neurological system.
+F021DYZ	We performed a neuromotor development activities of daily living assessment of the upper back / upper extremity neurological system using other equipment.
+F022DYZ	We performed a neuromotor development activities of daily living assessment of the lower back / lower extremity neurological system.
+F022DYZ	We performed a neuromotor development activities of daily living assessment of the lower back / lower extremity neurological system using other equipment.
+F023DYZ	We performed a neuromotor development activities of daily living assessment of the whole body neurological system.
+F023DYZ	We performed a neuromotor development activities of daily living assessment of the whole body neurological system using other equipment.
+F024GCZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the head and neck circulatory system.
+F024GCZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the head and neck circulatory system using mechanical.
+F024GGZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the head and neck circulatory system using aerobic endurance and conditioning.
+F024GYZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the head and neck circulatory system using other equipment.
+F025GCZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the upper back / upper extremity circulatory system.
+F025GCZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the upper back / upper extremity circulatory system using mechanical.
+F025GGZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the upper back / upper extremity circulatory system using aerobic endurance and conditioning.
+F025GYZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the upper back / upper extremity circulatory system using other equipment.
+F026GCZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the lower back / lower extremity circulatory system.
+F026GCZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the lower back / lower extremity circulatory system using mechanical.
+F026GGZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the lower back / lower extremity circulatory system using aerobic endurance and conditioning.
+F026GYZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the lower back / lower extremity circulatory system using other equipment.
+F0277EZ	We performed an aerobic capacity and endurance activities of daily living assessment of the whole body circulatory system.
+F0277EZ	We performed an aerobic capacity and endurance activities of daily living assessment of the whole body circulatory system using orthosis.
+F0277GZ	We performed an aerobic capacity and endurance activities of daily living assessment of the whole body circulatory system using aerobic endurance and conditioning.
+F0277UZ	We performed an aerobic capacity and endurance activities of daily living assessment of the whole body circulatory system using prosthesis.
+F0277YZ	We performed an aerobic capacity and endurance activities of daily living assessment of the whole body circulatory system using other equipment.
+F027GCZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the whole body circulatory system.
+F027GCZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the whole body circulatory system using mechanical.
+F027GGZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the whole body circulatory system using aerobic endurance and conditioning.
+F027GYZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the whole body circulatory system using other equipment.
+F028GCZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the head and neck respiratory system.
+F028GCZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the head and neck respiratory system using mechanical.
+F028GGZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the head and neck respiratory system using aerobic endurance and conditioning.
+F028GYZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the head and neck respiratory system using other equipment.
+F029GCZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the upper back / upper extremity respiratory system.
+F029GCZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the upper back / upper extremity respiratory system using mechanical.
+F029GGZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the upper back / upper extremity respiratory system using aerobic endurance and conditioning.
+F029GYZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the upper back / upper extremity respiratory system using other equipment.
+F02BGCZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the lower back / lower extremity respiratory system.
+F02BGCZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the lower back / lower extremity respiratory system using mechanical.
+F02BGGZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the lower back / lower extremity respiratory system using aerobic endurance and conditioning.
+F02BGYZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the lower back / lower extremity respiratory system using other equipment.
+F02C7EZ	We performed an aerobic capacity and endurance activities of daily living assessment of the whole body respiratory system.
+F02C7EZ	We performed an aerobic capacity and endurance activities of daily living assessment of the whole body respiratory system using orthosis.
+F02C7GZ	We performed an aerobic capacity and endurance activities of daily living assessment of the whole body respiratory system using aerobic endurance and conditioning.
+F02C7UZ	We performed an aerobic capacity and endurance activities of daily living assessment of the whole body respiratory system using prosthesis.
+F02C7YZ	We performed an aerobic capacity and endurance activities of daily living assessment of the whole body respiratory system using other equipment.
+F02CGCZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the whole body respiratory system.
+F02CGCZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the whole body respiratory system using mechanical.
+F02CGGZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the whole body respiratory system using aerobic endurance and conditioning.
+F02CGYZ	We performed a ventilation, respiration and circulation activities of daily living assessment of the whole body respiratory system using other equipment.
+F02Z0EZ	We performed a bathing/showering activities of daily living assessment.
+F02Z0EZ	We performed a bathing/showering activities of daily living assessment using orthosis.
+F02Z0FZ	We performed a bathing/showering activities of daily living assessment using assistive, adaptive, supportive or protective equipment.
+F02Z0UZ	We performed a bathing/showering activities of daily living assessment using prosthesis.
+F02Z1EZ	We performed a dressing activities of daily living assessment.
+F02Z1EZ	We performed a dressing activities of daily living assessment using orthosis.
+F02Z1FZ	We performed a dressing activities of daily living assessment using assistive, adaptive, supportive or protective equipment.
+F02Z1UZ	We performed a dressing activities of daily living assessment using prosthesis.
+F02Z2YZ	We performed a feeding/eating activities of daily living assessment.
+F02Z2YZ	We performed a feeding/eating activities of daily living assessment using other equipment.
+F02Z3EZ	We performed a grooming/personal hygiene activities of daily living assessment.
+F02Z3EZ	We performed a grooming/personal hygiene activities of daily living assessment using orthosis.
+F02Z3FZ	We performed a grooming/personal hygiene activities of daily living assessment using assistive, adaptive, supportive or protective equipment.
+F02Z3UZ	We performed a grooming/personal hygiene activities of daily living assessment using prosthesis.
+F02Z4EZ	We performed home management activities of daily living assessment.
+F02Z4EZ	We performed home management activities of daily living assessment using orthosis.
+F02Z4FZ	We performed home management activities of daily living assessment using assistive, adaptive, supportive or protective equipment.
+F02Z4UZ	We performed home management activities of daily living assessment using prosthesis.
+F02Z5KZ	We performed a perceptual processing activities of daily living assessment.
+F02Z5KZ	We performed a perceptual processing activities of daily living assessment using audiovisual equipment.
+F02Z5MZ	We performed a perceptual processing activities of daily living assessment using augmentative / alternative communication.
+F02Z5NZ	We performed a perceptual processing activities of daily living assessment using biosensory feedback.
+F02Z5PZ	We performed a perceptual processing activities of daily living assessment using computer.
+F02Z5QZ	We performed a perceptual processing activities of daily living assessment using speech analysis.
+F02Z5SZ	We performed a perceptual processing activities of daily living assessment using voice analysis.
+F02Z5YZ	We performed a perceptual processing activities of daily living assessment using other equipment.
+F02Z6ZZ	We performed a psychosocial skills activities of daily living assessment.
+F02Z8YZ	We performed an anthropometric characteristics activities of daily living assessment.
+F02Z8YZ	We performed an anthropometric characteristics activities of daily living assessment using other equipment.
+F02ZBEZ	We performed an environmental, home and work barriers activities of daily living assessment.
+F02ZBEZ	We performed an environmental, home and work barriers activities of daily living assessment using orthosis.
+F02ZBFZ	We performed an environmental, home and work barriers activities of daily living assessment using assistive, adaptive, supportive or protective equipment.
+F02ZBUZ	We performed an environmental, home and work barriers activities of daily living assessment using prosthesis.
+F02ZBYZ	We performed an environmental, home and work barriers activities of daily living assessment using other equipment.
+F02ZCEZ	We performed an ergonomics and body mechanics activities of daily living assessment.
+F02ZCEZ	We performed an ergonomics and body mechanics activities of daily living assessment using orthosis.
+F02ZCFZ	We performed an ergonomics and body mechanics activities of daily living assessment using assistive, adaptive, supportive or protective equipment.
+F02ZCUZ	We performed an ergonomics and body mechanics activities of daily living assessment using prosthesis.
+F02ZCYZ	We performed an ergonomics and body mechanics activities of daily living assessment using other equipment.
+F02ZFYZ	We performed a pain activities of daily living assessment.
+F02ZFYZ	We performed a pain activities of daily living assessment using other equipment.
+F02ZHEZ	We performed a vocational activities and functional community or work reintegration skills activities of daily living assessment.
+F02ZHEZ	We performed a vocational activities and functional community or work reintegration skills activities of daily living assessment using orthosis.
+F02ZHFZ	We performed a vocational activities and functional community or work reintegration skills activities of daily living assessment using assistive, adaptive, supportive or protective equipment.
+F02ZHGZ	We performed a vocational activities and functional community or work reintegration skills activities of daily living assessment using aerobic endurance and conditioning.
+F02ZHUZ	We performed a vocational activities and functional community or work reintegration skills activities of daily living assessment using prosthesis.
+F02ZHYZ	We performed a vocational activities and functional community or work reintegration skills activities of daily living assessment using other equipment.
+F06	We conducted a speech treatment.
+F0636KZ	We performed a communicative/cognitive integration skills speech treatment of the whole body neurological system.
+F0636KZ	We performed a communicative/cognitive integration skills speech treatment of the whole body neurological system using audiovisual equipment.
+F0636MZ	We performed a communicative/cognitive integration skills speech treatment of the whole body neurological system using augmentative / alternative communication.
+F0636PZ	We performed a communicative/cognitive integration skills speech treatment of the whole body neurological system using computer.
+F0636YZ	We performed a communicative/cognitive integration skills speech treatment of the whole body neurological system using other equipment.
+F06Z0KZ	We performed a nonspoken language speech treatment.
+F06Z0KZ	We performed a nonspoken language speech treatment using audiovisual equipment.
+F06Z0MZ	We performed a nonspoken language speech treatment using augmentative / alternative communication.
+F06Z0PZ	We performed a nonspoken language speech treatment using computer.
+F06Z0YZ	We performed a nonspoken language speech treatment using other equipment.
+F06Z1KZ	We performed speech-language pathology and related disorders counseling speech treatment.
+F06Z1KZ	We performed speech-language pathology and related disorders counseling speech treatment using audiovisual equipment.
+F06Z2KZ	We performed a speech-language pathology and related disorders prevention speech treatment.
+F06Z2KZ	We performed a speech-language pathology and related disorders prevention speech treatment using audiovisual equipment.
+F06Z3KZ	We performed an aphasia speech treatment.
+F06Z3KZ	We performed an aphasia speech treatment using audiovisual equipment.
+F06Z3MZ	We performed an aphasia speech treatment using augmentative / alternative communication.
+F06Z3PZ	We performed an aphasia speech treatment using computer.
+F06Z3YZ	We performed an aphasia speech treatment using other equipment.
+F06Z4KZ	We performed an articulation/phonology speech treatment.
+F06Z4KZ	We performed an articulation/phonology speech treatment using audiovisual equipment.
+F06Z4PZ	We performed an articulation/phonology speech treatment using computer.
+F06Z4QZ	We performed an articulation/phonology speech treatment using speech analysis.
+F06Z4TZ	We performed an articulation/phonology speech treatment using aerodynamic function.
+F06Z4YZ	We performed an articulation/phonology speech treatment using other equipment.
+F06Z5KZ	We performed aural rehabilitation speech treatment.
+F06Z5KZ	We performed aural rehabilitation speech treatment using audiovisual equipment.
+F06Z5MZ	We performed aural rehabilitation speech treatment using augmentative / alternative communication.
+F06Z5NZ	We performed aural rehabilitation speech treatment using biosensory feedback.
+F06Z5PZ	We performed aural rehabilitation speech treatment using computer.
+F06Z5QZ	We performed aural rehabilitation speech treatment using speech analysis.
+F06Z5SZ	We performed aural rehabilitation speech treatment using voice analysis.
+F06Z5YZ	We performed aural rehabilitation speech treatment using other equipment.
+F06Z6KZ	We performed a communicative/cognitive integration skills speech treatment.
+F06Z6KZ	We performed a communicative/cognitive integration skills speech treatment using audiovisual equipment.
+F06Z6MZ	We performed a communicative/cognitive integration skills speech treatment using augmentative / alternative communication.
+F06Z6PZ	We performed a communicative/cognitive integration skills speech treatment using computer.
+F06Z6YZ	We performed a communicative/cognitive integration skills speech treatment using other equipment.
+F06Z74Z	We performed a fluency speech treatment.
+F06Z74Z	We performed a fluency speech treatment using electroacoustic immitance / acoustic reflex.
+F06Z7KZ	We performed a fluency speech treatment using audiovisual equipment.
+F06Z7NZ	We performed a fluency speech treatment using biosensory feedback.
+F06Z7QZ	We performed a fluency speech treatment using speech analysis.
+F06Z7SZ	We performed a fluency speech treatment using voice analysis.
+F06Z7TZ	We performed a fluency speech treatment using aerodynamic function.
+F06Z7YZ	We performed a fluency speech treatment using other equipment.
+F06Z8KZ	We performed a motor speech speech treatment.
+F06Z8KZ	We performed a motor speech speech treatment using audiovisual equipment.
+F06Z8NZ	We performed a motor speech speech treatment using biosensory feedback.
+F06Z8PZ	We performed a motor speech speech treatment using computer.
+F06Z8QZ	We performed a motor speech speech treatment using speech analysis.
+F06Z8SZ	We performed a motor speech speech treatment using voice analysis.
+F06Z8TZ	We performed a motor speech speech treatment using aerodynamic function.
+F06Z8YZ	We performed a motor speech speech treatment using other equipment.
+F06Z9KZ	We performed an orofacial myofunctional speech treatment.
+F06Z9KZ	We performed an orofacial myofunctional speech treatment using audiovisual equipment.
+F06Z9PZ	We performed an orofacial myofunctional speech treatment using computer.
+F06Z9YZ	We performed an orofacial myofunctional speech treatment using other equipment.
+F06ZBKZ	We performed a receptive/expressive language speech treatment.
+F06ZBKZ	We performed a receptive/expressive language speech treatment using audiovisual equipment.
+F06ZBMZ	We performed a receptive/expressive language speech treatment using augmentative / alternative communication.
+F06ZBPZ	We performed a receptive/expressive language speech treatment using computer.
+F06ZBYZ	We performed a receptive/expressive language speech treatment using other equipment.
+F06ZCKZ	We performed a voice speech treatment.
+F06ZCKZ	We performed a voice speech treatment using audiovisual equipment.
+F06ZCNZ	We performed a voice speech treatment using biosensory feedback.
+F06ZCPZ	We performed a voice speech treatment using computer.
+F06ZCSZ	We performed a voice speech treatment using voice analysis.
+F06ZCTZ	We performed a voice speech treatment using aerodynamic function.
+F06ZCVZ	We performed a voice speech treatment using speech prosthesis.
+F06ZCYZ	We performed a voice speech treatment using other equipment.
+F06ZDMZ	We performed a swallowing dysfunction speech treatment.
+F06ZDMZ	We performed a swallowing dysfunction speech treatment using augmentative / alternative communication.
+F06ZDTZ	We performed a swallowing dysfunction speech treatment using aerodynamic function.
+F06ZDVZ	We performed a swallowing dysfunction speech treatment using speech prosthesis.
+F06ZDYZ	We performed a swallowing dysfunction speech treatment using other equipment.
+F07	We conducted a motor treatment.
+F0700EZ	We performed a range of motion and joint mobility motor treatment of the head and neck neurological system.
+F0700EZ	We performed a range of motion and joint mobility motor treatment of the head and neck neurological system using orthosis.
+F0700FZ	We performed a range of motion and joint mobility motor treatment of the head and neck neurological system using assistive, adaptive, supportive or protective equipment.
+F0700UZ	We performed a range of motion and joint mobility motor treatment of the head and neck neurological system using prosthesis.
+F0700YZ	We performed a range of motion and joint mobility motor treatment of the head and neck neurological system using other equipment.
+F0701EZ	We performed a muscle performance motor treatment of the head and neck neurological system.
+F0701EZ	We performed a muscle performance motor treatment of the head and neck neurological system using orthosis.
+F0701FZ	We performed a muscle performance motor treatment of the head and neck neurological system using assistive, adaptive, supportive or protective equipment.
+F0701UZ	We performed a muscle performance motor treatment of the head and neck neurological system using prosthesis.
+F0701YZ	We performed a muscle performance motor treatment of the head and neck neurological system using other equipment.
+F0702EZ	We performed a coordination/dexterity motor treatment of the head and neck neurological system.
+F0702EZ	We performed a coordination/dexterity motor treatment of the head and neck neurological system using orthosis.
+F0702FZ	We performed a coordination/dexterity motor treatment of the head and neck neurological system using assistive, adaptive, supportive or protective equipment.
+F0702UZ	We performed a coordination/dexterity motor treatment of the head and neck neurological system using prosthesis.
+F0702YZ	We performed a coordination/dexterity motor treatment of the head and neck neurological system using other equipment.
+F0703EZ	We performed motor function motor treatment of the head and neck neurological system.
+F0703EZ	We performed motor function motor treatment of the head and neck neurological system using orthosis.
+F0703FZ	We performed motor function motor treatment of the head and neck neurological system using assistive, adaptive, supportive or protective equipment.
+F0703UZ	We performed motor function motor treatment of the head and neck neurological system using prosthesis.
+F0703YZ	We performed motor function motor treatment of the head and neck neurological system using other equipment.
+F0706BZ	We performed a therapeutic exercise motor treatment of the head and neck neurological system.
+F0706BZ	We performed a therapeutic exercise motor treatment of the head and neck neurological system using physical agents.
+F0706CZ	We performed a therapeutic exercise motor treatment of the head and neck neurological system using mechanical.
+F0706DZ	We performed a therapeutic exercise motor treatment of the head and neck neurological system using electrotherapeutic.
+F0706EZ	We performed a therapeutic exercise motor treatment of the head and neck neurological system using orthosis.
+F0706FZ	We performed a therapeutic exercise motor treatment of the head and neck neurological system using assistive, adaptive, supportive or protective equipment.
+F0706GZ	We performed a therapeutic exercise motor treatment of the head and neck neurological system using aerobic endurance and conditioning.
+F0706HZ	We performed a therapeutic exercise motor treatment of the head and neck neurological system using mechanical or electromechanical.
+F0706UZ	We performed a therapeutic exercise motor treatment of the head and neck neurological system using prosthesis.
+F0706YZ	We performed a therapeutic exercise motor treatment of the head and neck neurological system using other equipment.
+F0707ZZ	We performed a manual therapy techniques motor treatment of the head and neck neurological system.
+F0710EZ	We performed a range of motion and joint mobility motor treatment of the upper back / upper extremity neurological system.
+F0710EZ	We performed a range of motion and joint mobility motor treatment of the upper back / upper extremity neurological system using orthosis.
+F0710FZ	We performed a range of motion and joint mobility motor treatment of the upper back / upper extremity neurological system using assistive, adaptive, supportive or protective equipment.
+F0710UZ	We performed a range of motion and joint mobility motor treatment of the upper back / upper extremity neurological system using prosthesis.
+F0710YZ	We performed a range of motion and joint mobility motor treatment of the upper back / upper extremity neurological system using other equipment.
+F0711EZ	We performed a muscle performance motor treatment of the upper back / upper extremity neurological system.
+F0711EZ	We performed a muscle performance motor treatment of the upper back / upper extremity neurological system using orthosis.
+F0711FZ	We performed a muscle performance motor treatment of the upper back / upper extremity neurological system using assistive, adaptive, supportive or protective equipment.
+F0711UZ	We performed a muscle performance motor treatment of the upper back / upper extremity neurological system using prosthesis.
+F0711YZ	We performed a muscle performance motor treatment of the upper back / upper extremity neurological system using other equipment.
+F0712EZ	We performed a coordination/dexterity motor treatment of the upper back / upper extremity neurological system.
+F0712EZ	We performed a coordination/dexterity motor treatment of the upper back / upper extremity neurological system using orthosis.
+F0712FZ	We performed a coordination/dexterity motor treatment of the upper back / upper extremity neurological system using assistive, adaptive, supportive or protective equipment.
+F0712UZ	We performed a coordination/dexterity motor treatment of the upper back / upper extremity neurological system using prosthesis.
+F0712YZ	We performed a coordination/dexterity motor treatment of the upper back / upper extremity neurological system using other equipment.
+F0713EZ	We performed motor function motor treatment of the upper back / upper extremity neurological system.
+F0713EZ	We performed motor function motor treatment of the upper back / upper extremity neurological system using orthosis.
+F0713FZ	We performed motor function motor treatment of the upper back / upper extremity neurological system using assistive, adaptive, supportive or protective equipment.
+F0713UZ	We performed motor function motor treatment of the upper back / upper extremity neurological system using prosthesis.
+F0713YZ	We performed motor function motor treatment of the upper back / upper extremity neurological system using other equipment.
+F0716BZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity neurological system.
+F0716BZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity neurological system using physical agents.
+F0716CZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity neurological system using mechanical.
+F0716DZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity neurological system using electrotherapeutic.
+F0716EZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity neurological system using orthosis.
+F0716FZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity neurological system using assistive, adaptive, supportive or protective equipment.
+F0716GZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity neurological system using aerobic endurance and conditioning.
+F0716HZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity neurological system using mechanical or electromechanical.
+F0716UZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity neurological system using prosthesis.
+F0716YZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity neurological system using other equipment.
+F0717ZZ	We performed a manual therapy techniques motor treatment of the upper back / upper extremity neurological system.
+F0720EZ	We performed a range of motion and joint mobility motor treatment of the lower back / lower extremity neurological system.
+F0720EZ	We performed a range of motion and joint mobility motor treatment of the lower back / lower extremity neurological system using orthosis.
+F0720FZ	We performed a range of motion and joint mobility motor treatment of the lower back / lower extremity neurological system using assistive, adaptive, supportive or protective equipment.
+F0720UZ	We performed a range of motion and joint mobility motor treatment of the lower back / lower extremity neurological system using prosthesis.
+F0720YZ	We performed a range of motion and joint mobility motor treatment of the lower back / lower extremity neurological system using other equipment.
+F0721EZ	We performed a muscle performance motor treatment of the lower back / lower extremity neurological system.
+F0721EZ	We performed a muscle performance motor treatment of the lower back / lower extremity neurological system using orthosis.
+F0721FZ	We performed a muscle performance motor treatment of the lower back / lower extremity neurological system using assistive, adaptive, supportive or protective equipment.
+F0721UZ	We performed a muscle performance motor treatment of the lower back / lower extremity neurological system using prosthesis.
+F0721YZ	We performed a muscle performance motor treatment of the lower back / lower extremity neurological system using other equipment.
+F0722EZ	We performed a coordination/dexterity motor treatment of the lower back / lower extremity neurological system.
+F0722EZ	We performed a coordination/dexterity motor treatment of the lower back / lower extremity neurological system using orthosis.
+F0722FZ	We performed a coordination/dexterity motor treatment of the lower back / lower extremity neurological system using assistive, adaptive, supportive or protective equipment.
+F0722UZ	We performed a coordination/dexterity motor treatment of the lower back / lower extremity neurological system using prosthesis.
+F0722YZ	We performed a coordination/dexterity motor treatment of the lower back / lower extremity neurological system using other equipment.
+F0723EZ	We performed motor function motor treatment of the lower back / lower extremity neurological system.
+F0723EZ	We performed motor function motor treatment of the lower back / lower extremity neurological system using orthosis.
+F0723FZ	We performed motor function motor treatment of the lower back / lower extremity neurological system using assistive, adaptive, supportive or protective equipment.
+F0723UZ	We performed motor function motor treatment of the lower back / lower extremity neurological system using prosthesis.
+F0723YZ	We performed motor function motor treatment of the lower back / lower extremity neurological system using other equipment.
+F0726BZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity neurological system.
+F0726BZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity neurological system using physical agents.
+F0726CZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity neurological system using mechanical.
+F0726DZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity neurological system using electrotherapeutic.
+F0726EZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity neurological system using orthosis.
+F0726FZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity neurological system using assistive, adaptive, supportive or protective equipment.
+F0726GZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity neurological system using aerobic endurance and conditioning.
+F0726HZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity neurological system using mechanical or electromechanical.
+F0726UZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity neurological system using prosthesis.
+F0726YZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity neurological system using other equipment.
+F0727ZZ	We performed a manual therapy techniques motor treatment of the lower back / lower extremity neurological system.
+F0730EZ	We performed a range of motion and joint mobility motor treatment of the whole body neurological system.
+F0730EZ	We performed a range of motion and joint mobility motor treatment of the whole body neurological system using orthosis.
+F0730FZ	We performed a range of motion and joint mobility motor treatment of the whole body neurological system using assistive, adaptive, supportive or protective equipment.
+F0730UZ	We performed a range of motion and joint mobility motor treatment of the whole body neurological system using prosthesis.
+F0730YZ	We performed a range of motion and joint mobility motor treatment of the whole body neurological system using other equipment.
+F0731EZ	We performed a muscle performance motor treatment of the whole body neurological system.
+F0731EZ	We performed a muscle performance motor treatment of the whole body neurological system using orthosis.
+F0731FZ	We performed a muscle performance motor treatment of the whole body neurological system using assistive, adaptive, supportive or protective equipment.
+F0731UZ	We performed a muscle performance motor treatment of the whole body neurological system using prosthesis.
+F0731YZ	We performed a muscle performance motor treatment of the whole body neurological system using other equipment.
+F0732EZ	We performed a coordination/dexterity motor treatment of the whole body neurological system.
+F0732EZ	We performed a coordination/dexterity motor treatment of the whole body neurological system using orthosis.
+F0732FZ	We performed a coordination/dexterity motor treatment of the whole body neurological system using assistive, adaptive, supportive or protective equipment.
+F0732UZ	We performed a coordination/dexterity motor treatment of the whole body neurological system using prosthesis.
+F0732YZ	We performed a coordination/dexterity motor treatment of the whole body neurological system using other equipment.
+F0733EZ	We performed motor function motor treatment of the whole body neurological system.
+F0733EZ	We performed motor function motor treatment of the whole body neurological system using orthosis.
+F0733FZ	We performed motor function motor treatment of the whole body neurological system using assistive, adaptive, supportive or protective equipment.
+F0733UZ	We performed motor function motor treatment of the whole body neurological system using prosthesis.
+F0733YZ	We performed motor function motor treatment of the whole body neurological system using other equipment.
+F0736BZ	We performed a therapeutic exercise motor treatment of the whole body neurological system.
+F0736BZ	We performed a therapeutic exercise motor treatment of the whole body neurological system using physical agents.
+F0736CZ	We performed a therapeutic exercise motor treatment of the whole body neurological system using mechanical.
+F0736DZ	We performed a therapeutic exercise motor treatment of the whole body neurological system using electrotherapeutic.
+F0736EZ	We performed a therapeutic exercise motor treatment of the whole body neurological system using orthosis.
+F0736FZ	We performed a therapeutic exercise motor treatment of the whole body neurological system using assistive, adaptive, supportive or protective equipment.
+F0736GZ	We performed a therapeutic exercise motor treatment of the whole body neurological system using aerobic endurance and conditioning.
+F0736HZ	We performed a therapeutic exercise motor treatment of the whole body neurological system using mechanical or electromechanical.
+F0736UZ	We performed a therapeutic exercise motor treatment of the whole body neurological system using prosthesis.
+F0736YZ	We performed a therapeutic exercise motor treatment of the whole body neurological system using other equipment.
+F0737ZZ	We performed a manual therapy techniques motor treatment of the whole body neurological system.
+F0746BZ	We performed a therapeutic exercise motor treatment of the head and neck circulatory system.
+F0746BZ	We performed a therapeutic exercise motor treatment of the head and neck circulatory system using physical agents.
+F0746CZ	We performed a therapeutic exercise motor treatment of the head and neck circulatory system using mechanical.
+F0746DZ	We performed a therapeutic exercise motor treatment of the head and neck circulatory system using electrotherapeutic.
+F0746EZ	We performed a therapeutic exercise motor treatment of the head and neck circulatory system using orthosis.
+F0746FZ	We performed a therapeutic exercise motor treatment of the head and neck circulatory system using assistive, adaptive, supportive or protective equipment.
+F0746GZ	We performed a therapeutic exercise motor treatment of the head and neck circulatory system using aerobic endurance and conditioning.
+F0746HZ	We performed a therapeutic exercise motor treatment of the head and neck circulatory system using mechanical or electromechanical.
+F0746UZ	We performed a therapeutic exercise motor treatment of the head and neck circulatory system using prosthesis.
+F0746YZ	We performed a therapeutic exercise motor treatment of the head and neck circulatory system using other equipment.
+F0756BZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity circulatory system.
+F0756BZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity circulatory system using physical agents.
+F0756CZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity circulatory system using mechanical.
+F0756DZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity circulatory system using electrotherapeutic.
+F0756EZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity circulatory system using orthosis.
+F0756FZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity circulatory system using assistive, adaptive, supportive or protective equipment.
+F0756GZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity circulatory system using aerobic endurance and conditioning.
+F0756HZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity circulatory system using mechanical or electromechanical.
+F0756UZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity circulatory system using prosthesis.
+F0756YZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity circulatory system using other equipment.
+F0766BZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity circulatory system.
+F0766BZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity circulatory system using physical agents.
+F0766CZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity circulatory system using mechanical.
+F0766DZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity circulatory system using electrotherapeutic.
+F0766EZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity circulatory system using orthosis.
+F0766FZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity circulatory system using assistive, adaptive, supportive or protective equipment.
+F0766GZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity circulatory system using aerobic endurance and conditioning.
+F0766HZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity circulatory system using mechanical or electromechanical.
+F0766UZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity circulatory system using prosthesis.
+F0766YZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity circulatory system using other equipment.
+F0776BZ	We performed a therapeutic exercise motor treatment of the whole body circulatory system.
+F0776BZ	We performed a therapeutic exercise motor treatment of the whole body circulatory system using physical agents.
+F0776CZ	We performed a therapeutic exercise motor treatment of the whole body circulatory system using mechanical.
+F0776DZ	We performed a therapeutic exercise motor treatment of the whole body circulatory system using electrotherapeutic.
+F0776EZ	We performed a therapeutic exercise motor treatment of the whole body circulatory system using orthosis.
+F0776FZ	We performed a therapeutic exercise motor treatment of the whole body circulatory system using assistive, adaptive, supportive or protective equipment.
+F0776GZ	We performed a therapeutic exercise motor treatment of the whole body circulatory system using aerobic endurance and conditioning.
+F0776HZ	We performed a therapeutic exercise motor treatment of the whole body circulatory system using mechanical or electromechanical.
+F0776UZ	We performed a therapeutic exercise motor treatment of the whole body circulatory system using prosthesis.
+F0776YZ	We performed a therapeutic exercise motor treatment of the whole body circulatory system using other equipment.
+F0786BZ	We performed a therapeutic exercise motor treatment of the head and neck respiratory system.
+F0786BZ	We performed a therapeutic exercise motor treatment of the head and neck respiratory system using physical agents.
+F0786CZ	We performed a therapeutic exercise motor treatment of the head and neck respiratory system using mechanical.
+F0786DZ	We performed a therapeutic exercise motor treatment of the head and neck respiratory system using electrotherapeutic.
+F0786EZ	We performed a therapeutic exercise motor treatment of the head and neck respiratory system using orthosis.
+F0786FZ	We performed a therapeutic exercise motor treatment of the head and neck respiratory system using assistive, adaptive, supportive or protective equipment.
+F0786GZ	We performed a therapeutic exercise motor treatment of the head and neck respiratory system using aerobic endurance and conditioning.
+F0786HZ	We performed a therapeutic exercise motor treatment of the head and neck respiratory system using mechanical or electromechanical.
+F0786UZ	We performed a therapeutic exercise motor treatment of the head and neck respiratory system using prosthesis.
+F0786YZ	We performed a therapeutic exercise motor treatment of the head and neck respiratory system using other equipment.
+F0796BZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity respiratory system.
+F0796BZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity respiratory system using physical agents.
+F0796CZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity respiratory system using mechanical.
+F0796DZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity respiratory system using electrotherapeutic.
+F0796EZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity respiratory system using orthosis.
+F0796FZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity respiratory system using assistive, adaptive, supportive or protective equipment.
+F0796GZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity respiratory system using aerobic endurance and conditioning.
+F0796HZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity respiratory system using mechanical or electromechanical.
+F0796UZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity respiratory system using prosthesis.
+F0796YZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity respiratory system using other equipment.
+F07B6BZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity respiratory system.
+F07B6BZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity respiratory system using physical agents.
+F07B6CZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity respiratory system using mechanical.
+F07B6DZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity respiratory system using electrotherapeutic.
+F07B6EZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity respiratory system using orthosis.
+F07B6FZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity respiratory system using assistive, adaptive, supportive or protective equipment.
+F07B6GZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity respiratory system using aerobic endurance and conditioning.
+F07B6HZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity respiratory system using mechanical or electromechanical.
+F07B6UZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity respiratory system using prosthesis.
+F07B6YZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity respiratory system using other equipment.
+F07C6BZ	We performed a therapeutic exercise motor treatment of the whole body respiratory system.
+F07C6BZ	We performed a therapeutic exercise motor treatment of the whole body respiratory system using physical agents.
+F07C6CZ	We performed a therapeutic exercise motor treatment of the whole body respiratory system using mechanical.
+F07C6DZ	We performed a therapeutic exercise motor treatment of the whole body respiratory system using electrotherapeutic.
+F07C6EZ	We performed a therapeutic exercise motor treatment of the whole body respiratory system using orthosis.
+F07C6FZ	We performed a therapeutic exercise motor treatment of the whole body respiratory system using assistive, adaptive, supportive or protective equipment.
+F07C6GZ	We performed a therapeutic exercise motor treatment of the whole body respiratory system using aerobic endurance and conditioning.
+F07C6HZ	We performed a therapeutic exercise motor treatment of the whole body respiratory system using mechanical or electromechanical.
+F07C6UZ	We performed a therapeutic exercise motor treatment of the whole body respiratory system using prosthesis.
+F07C6YZ	We performed a therapeutic exercise motor treatment of the whole body respiratory system using other equipment.
+F07D0EZ	We performed a range of motion and joint mobility motor treatment of the head and neck integumentary system.
+F07D0EZ	We performed a range of motion and joint mobility motor treatment of the head and neck integumentary system using orthosis.
+F07D0FZ	We performed a range of motion and joint mobility motor treatment of the head and neck integumentary system using assistive, adaptive, supportive or protective equipment.
+F07D0UZ	We performed a range of motion and joint mobility motor treatment of the head and neck integumentary system using prosthesis.
+F07D0YZ	We performed a range of motion and joint mobility motor treatment of the head and neck integumentary system using other equipment.
+F07D1EZ	We performed a muscle performance motor treatment of the head and neck integumentary system.
+F07D1EZ	We performed a muscle performance motor treatment of the head and neck integumentary system using orthosis.
+F07D1FZ	We performed a muscle performance motor treatment of the head and neck integumentary system using assistive, adaptive, supportive or protective equipment.
+F07D1UZ	We performed a muscle performance motor treatment of the head and neck integumentary system using prosthesis.
+F07D1YZ	We performed a muscle performance motor treatment of the head and neck integumentary system using other equipment.
+F07D2EZ	We performed a coordination/dexterity motor treatment of the head and neck integumentary system.
+F07D2EZ	We performed a coordination/dexterity motor treatment of the head and neck integumentary system using orthosis.
+F07D2FZ	We performed a coordination/dexterity motor treatment of the head and neck integumentary system using assistive, adaptive, supportive or protective equipment.
+F07D2UZ	We performed a coordination/dexterity motor treatment of the head and neck integumentary system using prosthesis.
+F07D2YZ	We performed a coordination/dexterity motor treatment of the head and neck integumentary system using other equipment.
+F07D3EZ	We performed motor function motor treatment of the head and neck integumentary system.
+F07D3EZ	We performed motor function motor treatment of the head and neck integumentary system using orthosis.
+F07D3FZ	We performed motor function motor treatment of the head and neck integumentary system using assistive, adaptive, supportive or protective equipment.
+F07D3UZ	We performed motor function motor treatment of the head and neck integumentary system using prosthesis.
+F07D3YZ	We performed motor function motor treatment of the head and neck integumentary system using other equipment.
+F07D6BZ	We performed a therapeutic exercise motor treatment of the head and neck integumentary system.
+F07D6BZ	We performed a therapeutic exercise motor treatment of the head and neck integumentary system using physical agents.
+F07D6CZ	We performed a therapeutic exercise motor treatment of the head and neck integumentary system using mechanical.
+F07D6DZ	We performed a therapeutic exercise motor treatment of the head and neck integumentary system using electrotherapeutic.
+F07D6EZ	We performed a therapeutic exercise motor treatment of the head and neck integumentary system using orthosis.
+F07D6FZ	We performed a therapeutic exercise motor treatment of the head and neck integumentary system using assistive, adaptive, supportive or protective equipment.
+F07D6GZ	We performed a therapeutic exercise motor treatment of the head and neck integumentary system using aerobic endurance and conditioning.
+F07D6HZ	We performed a therapeutic exercise motor treatment of the head and neck integumentary system using mechanical or electromechanical.
+F07D6UZ	We performed a therapeutic exercise motor treatment of the head and neck integumentary system using prosthesis.
+F07D6YZ	We performed a therapeutic exercise motor treatment of the head and neck integumentary system using other equipment.
+F07D7ZZ	We performed a manual therapy techniques motor treatment of the head and neck integumentary system.
+F07DYD0	We performed an other therapy techniques motor treatment of the head and neck integumentary system.
+F07DYD0	We performed an other therapy techniques motor treatment of the head and neck integumentary system using electrotherapeutic.
+F07EYD0	We performed an other therapy techniques motor treatment of the thorax / abdomen integumentary system.
+F07EYD0	We performed an other therapy techniques motor treatment of the thorax / abdomen integumentary system using electrotherapeutic.
+F07F0EZ	We performed a range of motion and joint mobility motor treatment of the upper back / upper extremity integumentary system.
+F07F0EZ	We performed a range of motion and joint mobility motor treatment of the upper back / upper extremity integumentary system using orthosis.
+F07F0FZ	We performed a range of motion and joint mobility motor treatment of the upper back / upper extremity integumentary system using assistive, adaptive, supportive or protective equipment.
+F07F0UZ	We performed a range of motion and joint mobility motor treatment of the upper back / upper extremity integumentary system using prosthesis.
+F07F0YZ	We performed a range of motion and joint mobility motor treatment of the upper back / upper extremity integumentary system using other equipment.
+F07F1EZ	We performed a muscle performance motor treatment of the upper back / upper extremity integumentary system.
+F07F1EZ	We performed a muscle performance motor treatment of the upper back / upper extremity integumentary system using orthosis.
+F07F1FZ	We performed a muscle performance motor treatment of the upper back / upper extremity integumentary system using assistive, adaptive, supportive or protective equipment.
+F07F1UZ	We performed a muscle performance motor treatment of the upper back / upper extremity integumentary system using prosthesis.
+F07F1YZ	We performed a muscle performance motor treatment of the upper back / upper extremity integumentary system using other equipment.
+F07F2EZ	We performed a coordination/dexterity motor treatment of the upper back / upper extremity integumentary system.
+F07F2EZ	We performed a coordination/dexterity motor treatment of the upper back / upper extremity integumentary system using orthosis.
+F07F2FZ	We performed a coordination/dexterity motor treatment of the upper back / upper extremity integumentary system using assistive, adaptive, supportive or protective equipment.
+F07F2UZ	We performed a coordination/dexterity motor treatment of the upper back / upper extremity integumentary system using prosthesis.
+F07F2YZ	We performed a coordination/dexterity motor treatment of the upper back / upper extremity integumentary system using other equipment.
+F07F3EZ	We performed motor function motor treatment of the upper back / upper extremity integumentary system.
+F07F3EZ	We performed motor function motor treatment of the upper back / upper extremity integumentary system using orthosis.
+F07F3FZ	We performed motor function motor treatment of the upper back / upper extremity integumentary system using assistive, adaptive, supportive or protective equipment.
+F07F3UZ	We performed motor function motor treatment of the upper back / upper extremity integumentary system using prosthesis.
+F07F3YZ	We performed motor function motor treatment of the upper back / upper extremity integumentary system using other equipment.
+F07F6BZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity integumentary system.
+F07F6BZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity integumentary system using physical agents.
+F07F6CZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity integumentary system using mechanical.
+F07F6DZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity integumentary system using electrotherapeutic.
+F07F6EZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity integumentary system using orthosis.
+F07F6FZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity integumentary system using assistive, adaptive, supportive or protective equipment.
+F07F6GZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity integumentary system using aerobic endurance and conditioning.
+F07F6HZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity integumentary system using mechanical or electromechanical.
+F07F6UZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity integumentary system using prosthesis.
+F07F6YZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity integumentary system using other equipment.
+F07F7ZZ	We performed a manual therapy techniques motor treatment of the upper back / upper extremity integumentary system.
+F07FYD0	We performed an other therapy techniques motor treatment of the upper back / upper extremity integumentary system.
+F07FYD0	We performed an other therapy techniques motor treatment of the upper back / upper extremity integumentary system using electrotherapeutic.
+F07G0EZ	We performed a range of motion and joint mobility motor treatment of the lower back / lower extremity integumentary system.
+F07G0EZ	We performed a range of motion and joint mobility motor treatment of the lower back / lower extremity integumentary system using orthosis.
+F07G0FZ	We performed a range of motion and joint mobility motor treatment of the lower back / lower extremity integumentary system using assistive, adaptive, supportive or protective equipment.
+F07G0UZ	We performed a range of motion and joint mobility motor treatment of the lower back / lower extremity integumentary system using prosthesis.
+F07G0YZ	We performed a range of motion and joint mobility motor treatment of the lower back / lower extremity integumentary system using other equipment.
+F07G1EZ	We performed a muscle performance motor treatment of the lower back / lower extremity integumentary system.
+F07G1EZ	We performed a muscle performance motor treatment of the lower back / lower extremity integumentary system using orthosis.
+F07G1FZ	We performed a muscle performance motor treatment of the lower back / lower extremity integumentary system using assistive, adaptive, supportive or protective equipment.
+F07G1UZ	We performed a muscle performance motor treatment of the lower back / lower extremity integumentary system using prosthesis.
+F07G1YZ	We performed a muscle performance motor treatment of the lower back / lower extremity integumentary system using other equipment.
+F07G2EZ	We performed a coordination/dexterity motor treatment of the lower back / lower extremity integumentary system.
+F07G2EZ	We performed a coordination/dexterity motor treatment of the lower back / lower extremity integumentary system using orthosis.
+F07G2FZ	We performed a coordination/dexterity motor treatment of the lower back / lower extremity integumentary system using assistive, adaptive, supportive or protective equipment.
+F07G2UZ	We performed a coordination/dexterity motor treatment of the lower back / lower extremity integumentary system using prosthesis.
+F07G2YZ	We performed a coordination/dexterity motor treatment of the lower back / lower extremity integumentary system using other equipment.
+F07G3EZ	We performed motor function motor treatment of the lower back / lower extremity integumentary system.
+F07G3EZ	We performed motor function motor treatment of the lower back / lower extremity integumentary system using orthosis.
+F07G3FZ	We performed motor function motor treatment of the lower back / lower extremity integumentary system using assistive, adaptive, supportive or protective equipment.
+F07G3UZ	We performed motor function motor treatment of the lower back / lower extremity integumentary system using prosthesis.
+F07G3YZ	We performed motor function motor treatment of the lower back / lower extremity integumentary system using other equipment.
+F07G6BZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity integumentary system.
+F07G6BZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity integumentary system using physical agents.
+F07G6CZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity integumentary system using mechanical.
+F07G6DZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity integumentary system using electrotherapeutic.
+F07G6EZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity integumentary system using orthosis.
+F07G6FZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity integumentary system using assistive, adaptive, supportive or protective equipment.
+F07G6GZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity integumentary system using aerobic endurance and conditioning.
+F07G6HZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity integumentary system using mechanical or electromechanical.
+F07G6UZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity integumentary system using prosthesis.
+F07G6YZ	We performed a therapeutic exercise motor treatment of the lower back / lower extremity integumentary system using other equipment.
+F07G7ZZ	We performed a manual therapy techniques motor treatment of the lower back / lower extremity integumentary system.
+F07GYD0	We performed an other therapy techniques motor treatment of the lower back / lower extremity integumentary system.
+F07GYD0	We performed an other therapy techniques motor treatment of the lower back / lower extremity integumentary system using electrotherapeutic.
+F07H0EZ	We performed a range of motion and joint mobility motor treatment of the whole body integumentary system.
+F07H0EZ	We performed a range of motion and joint mobility motor treatment of the whole body integumentary system using orthosis.
+F07H0FZ	We performed a range of motion and joint mobility motor treatment of the whole body integumentary system using assistive, adaptive, supportive or protective equipment.
+F07H0UZ	We performed a range of motion and joint mobility motor treatment of the whole body integumentary system using prosthesis.
+F07H0YZ	We performed a range of motion and joint mobility motor treatment of the whole body integumentary system using other equipment.
+F07H1EZ	We performed a muscle performance motor treatment of the whole body integumentary system.
+F07H1EZ	We performed a muscle performance motor treatment of the whole body integumentary system using orthosis.
+F07H1FZ	We performed a muscle performance motor treatment of the whole body integumentary system using assistive, adaptive, supportive or protective equipment.
+F07H1UZ	We performed a muscle performance motor treatment of the whole body integumentary system using prosthesis.
+F07H1YZ	We performed a muscle performance motor treatment of the whole body integumentary system using other equipment.
+F07H2EZ	We performed a coordination/dexterity motor treatment of the whole body integumentary system.
+F07H2EZ	We performed a coordination/dexterity motor treatment of the whole body integumentary system using orthosis.
+F07H2FZ	We performed a coordination/dexterity motor treatment of the whole body integumentary system using assistive, adaptive, supportive or protective equipment.
+F07H2UZ	We performed a coordination/dexterity motor treatment of the whole body integumentary system using prosthesis.
+F07H2YZ	We performed a coordination/dexterity motor treatment of the whole body integumentary system using other equipment.
+F07H3EZ	We performed motor function motor treatment of the whole body integumentary system.
+F07H3EZ	We performed motor function motor treatment of the whole body integumentary system using orthosis.
+F07H3FZ	We performed motor function motor treatment of the whole body integumentary system using assistive, adaptive, supportive or protective equipment.
+F07H3UZ	We performed motor function motor treatment of the whole body integumentary system using prosthesis.
+F07H3YZ	We performed motor function motor treatment of the whole body integumentary system using other equipment.
+F07H6BZ	We performed a therapeutic exercise motor treatment of the whole body integumentary system.
+F07H6BZ	We performed a therapeutic exercise motor treatment of the whole body integumentary system using physical agents.
+F07H6CZ	We performed a therapeutic exercise motor treatment of the whole body integumentary system using mechanical.
+F07H6DZ	We performed a therapeutic exercise motor treatment of the whole body integumentary system using electrotherapeutic.
+F07H6EZ	We performed a therapeutic exercise motor treatment of the whole body integumentary system using orthosis.
+F07H6FZ	We performed a therapeutic exercise motor treatment of the whole body integumentary system using assistive, adaptive, supportive or protective equipment.
+F07H6GZ	We performed a therapeutic exercise motor treatment of the whole body integumentary system using aerobic endurance and conditioning.
+F07H6HZ	We performed a therapeutic exercise motor treatment of the whole body integumentary system using mechanical or electromechanical.
+F07H6UZ	We performed a therapeutic exercise motor treatment of the whole body integumentary system using prosthesis.
+F07H6YZ	We performed a therapeutic exercise motor treatment of the whole body integumentary system using other equipment.
+F07H7ZZ	We performed a manual therapy techniques motor treatment of the whole body integumentary system.
+F07HYD0	We performed an other therapy techniques motor treatment of the whole body integumentary system.
+F07HYD0	We performed an other therapy techniques motor treatment of the whole body integumentary system using electrotherapeutic.
+F07J0EZ	We performed a range of motion and joint mobility motor treatment of the head and neck musculoskeletal system.
+F07J0EZ	We performed a range of motion and joint mobility motor treatment of the head and neck musculoskeletal system using orthosis.
+F07J0FZ	We performed a range of motion and joint mobility motor treatment of the head and neck musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F07J0UZ	We performed a range of motion and joint mobility motor treatment of the head and neck musculoskeletal system using prosthesis.
+F07J0YZ	We performed a range of motion and joint mobility motor treatment of the head and neck musculoskeletal system using other equipment.
+F07J1EZ	We performed a muscle performance motor treatment of the head and neck musculoskeletal system.
+F07J1EZ	We performed a muscle performance motor treatment of the head and neck musculoskeletal system using orthosis.
+F07J1FZ	We performed a muscle performance motor treatment of the head and neck musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F07J1UZ	We performed a muscle performance motor treatment of the head and neck musculoskeletal system using prosthesis.
+F07J1YZ	We performed a muscle performance motor treatment of the head and neck musculoskeletal system using other equipment.
+F07J2EZ	We performed a coordination/dexterity motor treatment of the head and neck musculoskeletal system.
+F07J2EZ	We performed a coordination/dexterity motor treatment of the head and neck musculoskeletal system using orthosis.
+F07J2FZ	We performed a coordination/dexterity motor treatment of the head and neck musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F07J2UZ	We performed a coordination/dexterity motor treatment of the head and neck musculoskeletal system using prosthesis.
+F07J2YZ	We performed a coordination/dexterity motor treatment of the head and neck musculoskeletal system using other equipment.
+F07J3EZ	We performed motor function motor treatment of the head and neck musculoskeletal system.
+F07J3EZ	We performed motor function motor treatment of the head and neck musculoskeletal system using orthosis.
+F07J3FZ	We performed motor function motor treatment of the head and neck musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F07J3UZ	We performed motor function motor treatment of the head and neck musculoskeletal system using prosthesis.
+F07J3YZ	We performed motor function motor treatment of the head and neck musculoskeletal system using other equipment.
+F07J6BZ	We performed a therapeutic exercise motor treatment of the head and neck musculoskeletal system.
+F07J6BZ	We performed a therapeutic exercise motor treatment of the head and neck musculoskeletal system using physical agents.
+F07J6CZ	We performed a therapeutic exercise motor treatment of the head and neck musculoskeletal system using mechanical.
+F07J6DZ	We performed a therapeutic exercise motor treatment of the head and neck musculoskeletal system using electrotherapeutic.
+F07J6EZ	We performed a therapeutic exercise motor treatment of the head and neck musculoskeletal system using orthosis.
+F07J6FZ	We performed a therapeutic exercise motor treatment of the head and neck musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F07J6GZ	We performed a therapeutic exercise motor treatment of the head and neck musculoskeletal system using aerobic endurance and conditioning.
+F07J6HZ	We performed a therapeutic exercise motor treatment of the head and neck musculoskeletal system using mechanical or electromechanical.
+F07J6UZ	We performed a therapeutic exercise motor treatment of the head and neck musculoskeletal system using prosthesis.
+F07J6YZ	We performed a therapeutic exercise motor treatment of the head and neck musculoskeletal system using other equipment.
+F07J7ZZ	We performed a manual therapy techniques motor treatment of the head and neck musculoskeletal system.
+F07K0EZ	We performed a range of motion and joint mobility motor treatment of the upper back / upper extremity musculoskeletal system.
+F07K0EZ	We performed a range of motion and joint mobility motor treatment of the upper back / upper extremity musculoskeletal system using orthosis.
+F07K0FZ	We performed a range of motion and joint mobility motor treatment of the upper back / upper extremity musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F07K0UZ	We performed a range of motion and joint mobility motor treatment of the upper back / upper extremity musculoskeletal system using prosthesis.
+F07K0YZ	We performed a range of motion and joint mobility motor treatment of the upper back / upper extremity musculoskeletal system using other equipment.
+F07K1EZ	We performed a muscle performance motor treatment of the upper back / upper extremity musculoskeletal system.
+F07K1EZ	We performed a muscle performance motor treatment of the upper back / upper extremity musculoskeletal system using orthosis.
+F07K1FZ	We performed a muscle performance motor treatment of the upper back / upper extremity musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F07K1UZ	We performed a muscle performance motor treatment of the upper back / upper extremity musculoskeletal system using prosthesis.
+F07K1YZ	We performed a muscle performance motor treatment of the upper back / upper extremity musculoskeletal system using other equipment.
+F07K2EZ	We performed a coordination/dexterity motor treatment of the upper back / upper extremity musculoskeletal system.
+F07K2EZ	We performed a coordination/dexterity motor treatment of the upper back / upper extremity musculoskeletal system using orthosis.
+F07K2FZ	We performed a coordination/dexterity motor treatment of the upper back / upper extremity musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F07K2UZ	We performed a coordination/dexterity motor treatment of the upper back / upper extremity musculoskeletal system using prosthesis.
+F07K2YZ	We performed a coordination/dexterity motor treatment of the upper back / upper extremity musculoskeletal system using other equipment.
+F07K3EZ	We performed motor function motor treatment of the upper back / upper extremity musculoskeletal system.
+F07K3EZ	We performed motor function motor treatment of the upper back / upper extremity musculoskeletal system using orthosis.
+F07K3FZ	We performed motor function motor treatment of the upper back / upper extremity musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F07K3UZ	We performed motor function motor treatment of the upper back / upper extremity musculoskeletal system using prosthesis.
+F07K3YZ	We performed motor function motor treatment of the upper back / upper extremity musculoskeletal system using other equipment.
+F07K6BZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity musculoskeletal system.
+F07K6BZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity musculoskeletal system using physical agents.
+F07K6CZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity musculoskeletal system using mechanical.
+F07K6DZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity musculoskeletal system using electrotherapeutic.
+F07K6EZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity musculoskeletal system using orthosis.
+F07K6FZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F07K6GZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity musculoskeletal system using aerobic endurance and conditioning.
+F07K6HZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity musculoskeletal system using mechanical or electromechanical.
+F07K6UZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity musculoskeletal system using prosthesis.
+F07K6YZ	We performed a therapeutic exercise motor treatment of the upper back / upper extremity musculoskeletal system using other equipment.
+F07K7ZZ	We performed a manual therapy techniques motor treatment of the upper back / upper extremity musculoskeletal system.
+F07M0EZ	We performed a range of motion and joint mobility motor treatment of the whole body musculoskeletal system.
+F07M0EZ	We performed a range of motion and joint mobility motor treatment of the whole body musculoskeletal system using orthosis.
+F07M0FZ	We performed a range of motion and joint mobility motor treatment of the whole body musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F07M0UZ	We performed a range of motion and joint mobility motor treatment of the whole body musculoskeletal system using prosthesis.
+F07M0YZ	We performed a range of motion and joint mobility motor treatment of the whole body musculoskeletal system using other equipment.
+F07M1EZ	We performed a muscle performance motor treatment of the whole body musculoskeletal system.
+F07M1EZ	We performed a muscle performance motor treatment of the whole body musculoskeletal system using orthosis.
+F07M1FZ	We performed a muscle performance motor treatment of the whole body musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F07M1UZ	We performed a muscle performance motor treatment of the whole body musculoskeletal system using prosthesis.
+F07M1YZ	We performed a muscle performance motor treatment of the whole body musculoskeletal system using other equipment.
+F07M2EZ	We performed a coordination/dexterity motor treatment of the whole body musculoskeletal system.
+F07M2EZ	We performed a coordination/dexterity motor treatment of the whole body musculoskeletal system using orthosis.
+F07M2FZ	We performed a coordination/dexterity motor treatment of the whole body musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F07M2UZ	We performed a coordination/dexterity motor treatment of the whole body musculoskeletal system using prosthesis.
+F07M2YZ	We performed a coordination/dexterity motor treatment of the whole body musculoskeletal system using other equipment.
+F07M3EZ	We performed motor function motor treatment of the whole body musculoskeletal system.
+F07M3EZ	We performed motor function motor treatment of the whole body musculoskeletal system using orthosis.
+F07M3FZ	We performed motor function motor treatment of the whole body musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F07M3UZ	We performed motor function motor treatment of the whole body musculoskeletal system using prosthesis.
+F07M3YZ	We performed motor function motor treatment of the whole body musculoskeletal system using other equipment.
+F07M6BZ	We performed a therapeutic exercise motor treatment of the whole body musculoskeletal system.
+F07M6BZ	We performed a therapeutic exercise motor treatment of the whole body musculoskeletal system using physical agents.
+F07M6CZ	We performed a therapeutic exercise motor treatment of the whole body musculoskeletal system using mechanical.
+F07M6DZ	We performed a therapeutic exercise motor treatment of the whole body musculoskeletal system using electrotherapeutic.
+F07M6EZ	We performed a therapeutic exercise motor treatment of the whole body musculoskeletal system using orthosis.
+F07M6FZ	We performed a therapeutic exercise motor treatment of the whole body musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F07M6GZ	We performed a therapeutic exercise motor treatment of the whole body musculoskeletal system using aerobic endurance and conditioning.
+F07M6HZ	We performed a therapeutic exercise motor treatment of the whole body musculoskeletal system using mechanical or electromechanical.
+F07M6UZ	We performed a therapeutic exercise motor treatment of the whole body musculoskeletal system using prosthesis.
+F07M6YZ	We performed a therapeutic exercise motor treatment of the whole body musculoskeletal system using other equipment.
+F07M7ZZ	We performed a manual therapy techniques motor treatment of the whole body musculoskeletal system.
+F07N1EZ	We performed a muscle performance motor treatment of the genitourinary system.
+F07N1EZ	We performed a muscle performance motor treatment of the genitourinary system using orthosis.
+F07N1FZ	We performed a muscle performance motor treatment of the genitourinary system using assistive, adaptive, supportive or protective equipment.
+F07N1UZ	We performed a muscle performance motor treatment of the genitourinary system using prosthesis.
+F07N1YZ	We performed a muscle performance motor treatment of the genitourinary system using other equipment.
+F07N6BZ	We performed a therapeutic exercise motor treatment of the genitourinary system.
+F07N6BZ	We performed a therapeutic exercise motor treatment of the genitourinary system using physical agents.
+F07N6CZ	We performed a therapeutic exercise motor treatment of the genitourinary system using mechanical.
+F07N6DZ	We performed a therapeutic exercise motor treatment of the genitourinary system using electrotherapeutic.
+F07N6EZ	We performed a therapeutic exercise motor treatment of the genitourinary system using orthosis.
+F07N6FZ	We performed a therapeutic exercise motor treatment of the genitourinary system using assistive, adaptive, supportive or protective equipment.
+F07N6GZ	We performed a therapeutic exercise motor treatment of the genitourinary system using aerobic endurance and conditioning.
+F07N6HZ	We performed a therapeutic exercise motor treatment of the genitourinary system using mechanical or electromechanical.
+F07N6UZ	We performed a therapeutic exercise motor treatment of the genitourinary system using prosthesis.
+F07N6YZ	We performed a therapeutic exercise motor treatment of the genitourinary system using other equipment.
+F07Z4DZ	We performed a wheelchair mobility motor treatment.
+F07Z4DZ	We performed a wheelchair mobility motor treatment using electrotherapeutic.
+F07Z4EZ	We performed a wheelchair mobility motor treatment using orthosis.
+F07Z4FZ	We performed a wheelchair mobility motor treatment using assistive, adaptive, supportive or protective equipment.
+F07Z4UZ	We performed a wheelchair mobility motor treatment using prosthesis.
+F07Z4YZ	We performed a wheelchair mobility motor treatment using other equipment.
+F07Z5CZ	We performed a bed mobility motor treatment.
+F07Z5CZ	We performed a bed mobility motor treatment using mechanical.
+F07Z5EZ	We performed a bed mobility motor treatment using orthosis.
+F07Z5FZ	We performed a bed mobility motor treatment using assistive, adaptive, supportive or protective equipment.
+F07Z5UZ	We performed a bed mobility motor treatment using prosthesis.
+F07Z5YZ	We performed a bed mobility motor treatment using other equipment.
+F07Z8CZ	We performed a transfer training motor treatment.
+F07Z8CZ	We performed a transfer training motor treatment using mechanical.
+F07Z8DZ	We performed a transfer training motor treatment using electrotherapeutic.
+F07Z8EZ	We performed a transfer training motor treatment using orthosis.
+F07Z8FZ	We performed a transfer training motor treatment using assistive, adaptive, supportive or protective equipment.
+F07Z8UZ	We performed a transfer training motor treatment using prosthesis.
+F07Z8YZ	We performed a transfer training motor treatment using other equipment.
+F07Z9CZ	We performed a gait training/functional ambulation motor treatment.
+F07Z9CZ	We performed a gait training/functional ambulation motor treatment using mechanical.
+F07Z9DZ	We performed a gait training/functional ambulation motor treatment using electrotherapeutic.
+F07Z9EZ	We performed a gait training/functional ambulation motor treatment using orthosis.
+F07Z9FZ	We performed a gait training/functional ambulation motor treatment using assistive, adaptive, supportive or protective equipment.
+F07Z9GZ	We performed a gait training/functional ambulation motor treatment using aerobic endurance and conditioning.
+F07Z9UZ	We performed a gait training/functional ambulation motor treatment using prosthesis.
+F07Z9YZ	We performed a gait training/functional ambulation motor treatment using other equipment.
+F08	We conducted an activities of daily living treatment.
+F08D5AZ	We performed wound management activities of daily living treatment of the head and neck integumentary system.
+F08D5AZ	We performed wound management activities of daily living treatment of the head and neck integumentary system using negative pressure therapy.
+F08D5BZ	We performed wound management activities of daily living treatment of the head and neck integumentary system using physical agents.
+F08D5CZ	We performed wound management activities of daily living treatment of the head and neck integumentary system using mechanical.
+F08D5DZ	We performed wound management activities of daily living treatment of the head and neck integumentary system using electrotherapeutic.
+F08D5EZ	We performed wound management activities of daily living treatment of the head and neck integumentary system using orthosis.
+F08D5FZ	We performed wound management activities of daily living treatment of the head and neck integumentary system using assistive, adaptive, supportive or protective equipment.
+F08D5UZ	We performed wound management activities of daily living treatment of the head and neck integumentary system using prosthesis.
+F08D5YZ	We performed wound management activities of daily living treatment of the head and neck integumentary system using other equipment.
+F08E5AZ	We performed wound management activities of daily living treatment of the thorax / abdomen integumentary system.
+F08E5AZ	We performed wound management activities of daily living treatment of the thorax / abdomen integumentary system using negative pressure therapy.
+F08E5BZ	We performed wound management activities of daily living treatment of the thorax / abdomen integumentary system using physical agents.
+F08E5CZ	We performed wound management activities of daily living treatment of the thorax / abdomen integumentary system using mechanical.
+F08E5DZ	We performed wound management activities of daily living treatment of the thorax / abdomen integumentary system using electrotherapeutic.
+F08E5EZ	We performed wound management activities of daily living treatment of the thorax / abdomen integumentary system using orthosis.
+F08E5FZ	We performed wound management activities of daily living treatment of the thorax / abdomen integumentary system using assistive, adaptive, supportive or protective equipment.
+F08E5UZ	We performed wound management activities of daily living treatment of the thorax / abdomen integumentary system using prosthesis.
+F08E5YZ	We performed wound management activities of daily living treatment of the thorax / abdomen integumentary system using other equipment.
+F08F5AZ	We performed wound management activities of daily living treatment of the upper back / upper extremity integumentary system.
+F08F5AZ	We performed wound management activities of daily living treatment of the upper back / upper extremity integumentary system using negative pressure therapy.
+F08F5BZ	We performed wound management activities of daily living treatment of the upper back / upper extremity integumentary system using physical agents.
+F08F5CZ	We performed wound management activities of daily living treatment of the upper back / upper extremity integumentary system using mechanical.
+F08F5DZ	We performed wound management activities of daily living treatment of the upper back / upper extremity integumentary system using electrotherapeutic.
+F08F5EZ	We performed wound management activities of daily living treatment of the upper back / upper extremity integumentary system using orthosis.
+F08F5FZ	We performed wound management activities of daily living treatment of the upper back / upper extremity integumentary system using assistive, adaptive, supportive or protective equipment.
+F08F5UZ	We performed wound management activities of daily living treatment of the upper back / upper extremity integumentary system using prosthesis.
+F08F5YZ	We performed wound management activities of daily living treatment of the upper back / upper extremity integumentary system using other equipment.
+F08G5AZ	We performed wound management activities of daily living treatment of the lower back / lower extremity integumentary system.
+F08G5AZ	We performed wound management activities of daily living treatment of the lower back / lower extremity integumentary system using negative pressure therapy.
+F08G5BZ	We performed wound management activities of daily living treatment of the lower back / lower extremity integumentary system using physical agents.
+F08G5CZ	We performed wound management activities of daily living treatment of the lower back / lower extremity integumentary system using mechanical.
+F08G5DZ	We performed wound management activities of daily living treatment of the lower back / lower extremity integumentary system using electrotherapeutic.
+F08G5EZ	We performed wound management activities of daily living treatment of the lower back / lower extremity integumentary system using orthosis.
+F08G5FZ	We performed wound management activities of daily living treatment of the lower back / lower extremity integumentary system using assistive, adaptive, supportive or protective equipment.
+F08G5UZ	We performed wound management activities of daily living treatment of the lower back / lower extremity integumentary system using prosthesis.
+F08G5YZ	We performed wound management activities of daily living treatment of the lower back / lower extremity integumentary system using other equipment.
+F08H5AZ	We performed wound management activities of daily living treatment of the whole body integumentary system.
+F08H5AZ	We performed wound management activities of daily living treatment of the whole body integumentary system using negative pressure therapy.
+F08H5BZ	We performed wound management activities of daily living treatment of the whole body integumentary system using physical agents.
+F08H5CZ	We performed wound management activities of daily living treatment of the whole body integumentary system using mechanical.
+F08H5DZ	We performed wound management activities of daily living treatment of the whole body integumentary system using electrotherapeutic.
+F08H5EZ	We performed wound management activities of daily living treatment of the whole body integumentary system using orthosis.
+F08H5FZ	We performed wound management activities of daily living treatment of the whole body integumentary system using assistive, adaptive, supportive or protective equipment.
+F08H5UZ	We performed wound management activities of daily living treatment of the whole body integumentary system using prosthesis.
+F08H5YZ	We performed wound management activities of daily living treatment of the whole body integumentary system using other equipment.
+F08J5AZ	We performed wound management activities of daily living treatment of the head and neck musculoskeletal system.
+F08J5AZ	We performed wound management activities of daily living treatment of the head and neck musculoskeletal system using negative pressure therapy.
+F08J5BZ	We performed wound management activities of daily living treatment of the head and neck musculoskeletal system using physical agents.
+F08J5CZ	We performed wound management activities of daily living treatment of the head and neck musculoskeletal system using mechanical.
+F08J5DZ	We performed wound management activities of daily living treatment of the head and neck musculoskeletal system using electrotherapeutic.
+F08J5EZ	We performed wound management activities of daily living treatment of the head and neck musculoskeletal system using orthosis.
+F08J5FZ	We performed wound management activities of daily living treatment of the head and neck musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F08J5UZ	We performed wound management activities of daily living treatment of the head and neck musculoskeletal system using prosthesis.
+F08J5YZ	We performed wound management activities of daily living treatment of the head and neck musculoskeletal system using other equipment.
+F08K5AZ	We performed wound management activities of daily living treatment of the upper back / upper extremity musculoskeletal system.
+F08K5AZ	We performed wound management activities of daily living treatment of the upper back / upper extremity musculoskeletal system using negative pressure therapy.
+F08K5BZ	We performed wound management activities of daily living treatment of the upper back / upper extremity musculoskeletal system using physical agents.
+F08K5CZ	We performed wound management activities of daily living treatment of the upper back / upper extremity musculoskeletal system using mechanical.
+F08K5DZ	We performed wound management activities of daily living treatment of the upper back / upper extremity musculoskeletal system using electrotherapeutic.
+F08K5EZ	We performed wound management activities of daily living treatment of the upper back / upper extremity musculoskeletal system using orthosis.
+F08K5FZ	We performed wound management activities of daily living treatment of the upper back / upper extremity musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F08K5UZ	We performed wound management activities of daily living treatment of the upper back / upper extremity musculoskeletal system using prosthesis.
+F08K5YZ	We performed wound management activities of daily living treatment of the upper back / upper extremity musculoskeletal system using other equipment.
+F08M5AZ	We performed wound management activities of daily living treatment of the whole body musculoskeletal system.
+F08M5AZ	We performed wound management activities of daily living treatment of the whole body musculoskeletal system using negative pressure therapy.
+F08M5BZ	We performed wound management activities of daily living treatment of the whole body musculoskeletal system using physical agents.
+F08M5CZ	We performed wound management activities of daily living treatment of the whole body musculoskeletal system using mechanical.
+F08M5DZ	We performed wound management activities of daily living treatment of the whole body musculoskeletal system using electrotherapeutic.
+F08M5EZ	We performed wound management activities of daily living treatment of the whole body musculoskeletal system using orthosis.
+F08M5FZ	We performed wound management activities of daily living treatment of the whole body musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F08M5UZ	We performed wound management activities of daily living treatment of the whole body musculoskeletal system using prosthesis.
+F08M5YZ	We performed wound management activities of daily living treatment of the whole body musculoskeletal system using other equipment.
+F08P5AZ	We performed wound management activities of daily living treatment of the thorax / abdomen musculoskeletal system.
+F08P5AZ	We performed wound management activities of daily living treatment of the thorax / abdomen musculoskeletal system using negative pressure therapy.
+F08P5BZ	We performed wound management activities of daily living treatment of the thorax / abdomen musculoskeletal system using physical agents.
+F08P5CZ	We performed wound management activities of daily living treatment of the thorax / abdomen musculoskeletal system using mechanical.
+F08P5DZ	We performed wound management activities of daily living treatment of the thorax / abdomen musculoskeletal system using electrotherapeutic.
+F08P5EZ	We performed wound management activities of daily living treatment of the thorax / abdomen musculoskeletal system using orthosis.
+F08P5FZ	We performed wound management activities of daily living treatment of the thorax / abdomen musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F08P5UZ	We performed wound management activities of daily living treatment of the thorax / abdomen musculoskeletal system using prosthesis.
+F08P5YZ	We performed wound management activities of daily living treatment of the thorax / abdomen musculoskeletal system using other equipment.
+F08Z0EZ	We performed a bathing/showering techniques activities of daily living treatment.
+F08Z0EZ	We performed a bathing/showering techniques activities of daily living treatment using orthosis.
+F08Z0FZ	We performed a bathing/showering techniques activities of daily living treatment using assistive, adaptive, supportive or protective equipment.
+F08Z0UZ	We performed a bathing/showering techniques activities of daily living treatment using prosthesis.
+F08Z0YZ	We performed a bathing/showering techniques activities of daily living treatment using other equipment.
+F08Z1EZ	We performed a dressing techniques activities of daily living treatment.
+F08Z1EZ	We performed a dressing techniques activities of daily living treatment using orthosis.
+F08Z1FZ	We performed a dressing techniques activities of daily living treatment using assistive, adaptive, supportive or protective equipment.
+F08Z1UZ	We performed a dressing techniques activities of daily living treatment using prosthesis.
+F08Z1YZ	We performed a dressing techniques activities of daily living treatment using other equipment.
+F08Z2EZ	We performed a grooming/personal hygiene activities of daily living treatment.
+F08Z2EZ	We performed a grooming/personal hygiene activities of daily living treatment using orthosis.
+F08Z2FZ	We performed a grooming/personal hygiene activities of daily living treatment using assistive, adaptive, supportive or protective equipment.
+F08Z2UZ	We performed a grooming/personal hygiene activities of daily living treatment using prosthesis.
+F08Z2YZ	We performed a grooming/personal hygiene activities of daily living treatment using other equipment.
+F08Z3CZ	We performed a feeding/eating activities of daily living treatment.
+F08Z3CZ	We performed a feeding/eating activities of daily living treatment using mechanical.
+F08Z3DZ	We performed a feeding/eating activities of daily living treatment using electrotherapeutic.
+F08Z3EZ	We performed a feeding/eating activities of daily living treatment using orthosis.
+F08Z3FZ	We performed a feeding/eating activities of daily living treatment using assistive, adaptive, supportive or protective equipment.
+F08Z3UZ	We performed a feeding/eating activities of daily living treatment using prosthesis.
+F08Z3YZ	We performed a feeding/eating activities of daily living treatment using other equipment.
+F08Z4DZ	We performed home management activities of daily living treatment.
+F08Z4DZ	We performed home management activities of daily living treatment using electrotherapeutic.
+F08Z4EZ	We performed home management activities of daily living treatment using orthosis.
+F08Z4FZ	We performed home management activities of daily living treatment using assistive, adaptive, supportive or protective equipment.
+F08Z4UZ	We performed home management activities of daily living treatment using prosthesis.
+F08Z4YZ	We performed home management activities of daily living treatment using other equipment.
+F08Z6ZZ	We performed a psychosocial skills activities of daily living treatment.
+F08Z7BZ	We performed a vocational activities and functional community or work reintegration skills activities of daily living treatment.
+F08Z7BZ	We performed a vocational activities and functional community or work reintegration skills activities of daily living treatment using physical agents.
+F08Z7CZ	We performed a vocational activities and functional community or work reintegration skills activities of daily living treatment using mechanical.
+F08Z7DZ	We performed a vocational activities and functional community or work reintegration skills activities of daily living treatment using electrotherapeutic.
+F08Z7EZ	We performed a vocational activities and functional community or work reintegration skills activities of daily living treatment using orthosis.
+F08Z7FZ	We performed a vocational activities and functional community or work reintegration skills activities of daily living treatment using assistive, adaptive, supportive or protective equipment.
+F08Z7GZ	We performed a vocational activities and functional community or work reintegration skills activities of daily living treatment using aerobic endurance and conditioning.
+F08Z7UZ	We performed a vocational activities and functional community or work reintegration skills activities of daily living treatment using prosthesis.
+F08Z7YZ	We performed a vocational activities and functional community or work reintegration skills activities of daily living treatment using other equipment.
+F09	We conducted a hearing treatment.
+F09Z0KZ	We performed hearing and related disorders counseling hearing treatment.
+F09Z0KZ	We performed hearing and related disorders counseling hearing treatment using audiovisual equipment.
+F09Z1KZ	We performed a hearing and related disorders prevention hearing treatment.
+F09Z1KZ	We performed a hearing and related disorders prevention hearing treatment using audiovisual equipment.
+F09Z2KZ	We performed an auditory processing hearing treatment.
+F09Z2KZ	We performed an auditory processing hearing treatment using audiovisual equipment.
+F09Z2PZ	We performed an auditory processing hearing treatment using computer.
+F09Z2YZ	We performed an auditory processing hearing treatment using other equipment.
+F09Z3XZ	We performed cerumen management hearing treatment.
+F09Z3XZ	We performed cerumen management hearing treatment using cerumen management.
+F0B	We conducted a cochlear implant treatment.
+F0BZ01Z	We performed cochlear implant rehabilitation cochlear implant treatment.
+F0BZ01Z	We performed cochlear implant rehabilitation cochlear implant treatment using audiometer.
+F0BZ02Z	We performed cochlear implant rehabilitation cochlear implant treatment using sound field / booth.
+F0BZ09Z	We performed cochlear implant rehabilitation cochlear implant treatment using cochlear implant.
+F0BZ0KZ	We performed cochlear implant rehabilitation cochlear implant treatment using audiovisual equipment.
+F0BZ0PZ	We performed cochlear implant rehabilitation cochlear implant treatment using computer.
+F0BZ0YZ	We performed cochlear implant rehabilitation cochlear implant treatment using other equipment.
+F0C	We conducted a vestibular treatment.
+F0C33EZ	We performed a postural control vestibular treatment of the whole body neurological system.
+F0C33EZ	We performed a postural control vestibular treatment of the whole body neurological system using orthosis.
+F0C33FZ	We performed a postural control vestibular treatment of the whole body neurological system using assistive, adaptive, supportive or protective equipment.
+F0C33UZ	We performed a postural control vestibular treatment of the whole body neurological system using prosthesis.
+F0C33YZ	We performed a postural control vestibular treatment of the whole body neurological system using other equipment.
+F0CH3EZ	We performed a postural control vestibular treatment of the whole body integumentary system.
+F0CH3EZ	We performed a postural control vestibular treatment of the whole body integumentary system using orthosis.
+F0CH3FZ	We performed a postural control vestibular treatment of the whole body integumentary system using assistive, adaptive, supportive or protective equipment.
+F0CH3UZ	We performed a postural control vestibular treatment of the whole body integumentary system using prosthesis.
+F0CH3YZ	We performed a postural control vestibular treatment of the whole body integumentary system using other equipment.
+F0CM3EZ	We performed a postural control vestibular treatment of the whole body musculoskeletal system.
+F0CM3EZ	We performed a postural control vestibular treatment of the whole body musculoskeletal system using orthosis.
+F0CM3FZ	We performed a postural control vestibular treatment of the whole body musculoskeletal system using assistive, adaptive, supportive or protective equipment.
+F0CM3UZ	We performed a postural control vestibular treatment of the whole body musculoskeletal system using prosthesis.
+F0CM3YZ	We performed a postural control vestibular treatment of the whole body musculoskeletal system using other equipment.
+F0CZ08Z	We performed a vestibular vestibular treatment.
+F0CZ08Z	We performed a vestibular vestibular treatment using vestibular / balance.
+F0CZ1KZ	We performed a perceptual processing vestibular treatment.
+F0CZ1KZ	We performed a perceptual processing vestibular treatment using audiovisual equipment.
+F0CZ1NZ	We performed a perceptual processing vestibular treatment using biosensory feedback.
+F0CZ1PZ	We performed a perceptual processing vestibular treatment using computer.
+F0CZ1QZ	We performed a perceptual processing vestibular treatment using speech analysis.
+F0CZ1SZ	We performed a perceptual processing vestibular treatment using voice analysis.
+F0CZ1TZ	We performed a perceptual processing vestibular treatment using aerodynamic function.
+F0CZ1YZ	We performed a perceptual processing vestibular treatment using other equipment.
+F0CZ2KZ	We performed a visual motor integration vestibular treatment.
+F0CZ2KZ	We performed a visual motor integration vestibular treatment using audiovisual equipment.
+F0CZ2NZ	We performed a visual motor integration vestibular treatment using biosensory feedback.
+F0CZ2PZ	We performed a visual motor integration vestibular treatment using computer.
+F0CZ2QZ	We performed a visual motor integration vestibular treatment using speech analysis.
+F0CZ2SZ	We performed a visual motor integration vestibular treatment using voice analysis.
+F0CZ2TZ	We performed a visual motor integration vestibular treatment using aerodynamic function.
+F0CZ2YZ	We performed a visual motor integration vestibular treatment using other equipment.
+F0D	We conducted a device fitting.
+F0DZ05Z	We performed a tinnitus masker device fitting.
+F0DZ05Z	We performed a tinnitus masker device fitting using hearing aid selection / fitting / test.
+F0DZ11Z	We performed a monaural hearing aid device fitting.
+F0DZ11Z	We performed a monaural hearing aid device fitting using audiometer.
+F0DZ12Z	We performed a monaural hearing aid device fitting using sound field / booth.
+F0DZ15Z	We performed a monaural hearing aid device fitting using hearing aid selection / fitting / test.
+F0DZ1KZ	We performed a monaural hearing aid device fitting using audiovisual equipment.
+F0DZ21Z	We performed a binaural hearing aid device fitting.
+F0DZ21Z	We performed a binaural hearing aid device fitting using audiometer.
+F0DZ22Z	We performed a binaural hearing aid device fitting using sound field / booth.
+F0DZ25Z	We performed a binaural hearing aid device fitting using hearing aid selection / fitting / test.
+F0DZ2KZ	We performed a binaural hearing aid device fitting using audiovisual equipment.
+F0DZ3MZ	We performed an augmentative/alternative communication system device fitting.
+F0DZ3MZ	We performed an augmentative/alternative communication system device fitting using augmentative / alternative communication.
+F0DZ4SZ	We performed a voice prosthetic device fitting.
+F0DZ4SZ	We performed a voice prosthetic device fitting using voice analysis.
+F0DZ4VZ	We performed a voice prosthetic device fitting using speech prosthesis.
+F0DZ51Z	We performed an assistive listening device device fitting.
+F0DZ51Z	We performed an assistive listening device device fitting using audiometer.
+F0DZ52Z	We performed an assistive listening device device fitting using sound field / booth.
+F0DZ55Z	We performed an assistive listening device device fitting using hearing aid selection / fitting / test.
+F0DZ5KZ	We performed an assistive listening device device fitting using audiovisual equipment.
+F0DZ6EZ	We performed a dynamic orthosis device fitting.
+F0DZ6EZ	We performed a dynamic orthosis device fitting using orthosis.
+F0DZ6FZ	We performed a dynamic orthosis device fitting using assistive, adaptive, supportive or protective equipment.
+F0DZ6UZ	We performed a dynamic orthosis device fitting using prosthesis.
+F0DZ7EZ	We performed a static orthosis device fitting.
+F0DZ7EZ	We performed a static orthosis device fitting using orthosis.
+F0DZ7FZ	We performed a static orthosis device fitting using assistive, adaptive, supportive or protective equipment.
+F0DZ7UZ	We performed a static orthosis device fitting using prosthesis.
+F0DZ8EZ	We performed a prosthesis device fitting.
+F0DZ8EZ	We performed a prosthesis device fitting using orthosis.
+F0DZ8FZ	We performed a prosthesis device fitting using assistive, adaptive, supportive or protective equipment.
+F0DZ8UZ	We performed a prosthesis device fitting using prosthesis.
+F0DZ9EZ	We performed an assistive, adaptive, supportive or protective devices device fitting.
+F0DZ9EZ	We performed an assistive, adaptive, supportive or protective devices device fitting using orthosis.
+F0DZ9FZ	We performed an assistive, adaptive, supportive or protective devices device fitting using assistive, adaptive, supportive or protective equipment.
+F0DZ9UZ	We performed an assistive, adaptive, supportive or protective devices device fitting using prosthesis.
+F0F	We conducted a caregiver training.
+F0FZ0EZ	We performed a bathing/showering technique caregiver training.
+F0FZ0EZ	We performed a bathing/showering technique caregiver training using orthosis.
+F0FZ0FZ	We performed a bathing/showering technique caregiver training using assistive, adaptive, supportive or protective equipment.
+F0FZ0UZ	We performed a bathing/showering technique caregiver training using prosthesis.
+F0FZ1EZ	We performed a dressing caregiver training.
+F0FZ1EZ	We performed a dressing caregiver training using orthosis.
+F0FZ1FZ	We performed a dressing caregiver training using assistive, adaptive, supportive or protective equipment.
+F0FZ1UZ	We performed a dressing caregiver training using prosthesis.
+F0FZ2EZ	We performed a feeding and eating caregiver training.
+F0FZ2EZ	We performed a feeding and eating caregiver training using orthosis.
+F0FZ2FZ	We performed a feeding and eating caregiver training using assistive, adaptive, supportive or protective equipment.
+F0FZ2UZ	We performed a feeding and eating caregiver training using prosthesis.
+F0FZ3EZ	We performed a grooming/personal hygiene caregiver training.
+F0FZ3EZ	We performed a grooming/personal hygiene caregiver training using orthosis.
+F0FZ3FZ	We performed a grooming/personal hygiene caregiver training using assistive, adaptive, supportive or protective equipment.
+F0FZ3UZ	We performed a grooming/personal hygiene caregiver training using prosthesis.
+F0FZ4EZ	We performed a bed mobility caregiver training.
+F0FZ4EZ	We performed a bed mobility caregiver training using orthosis.
+F0FZ4FZ	We performed a bed mobility caregiver training using assistive, adaptive, supportive or protective equipment.
+F0FZ4UZ	We performed a bed mobility caregiver training using prosthesis.
+F0FZ5EZ	We performed a transfer caregiver training.
+F0FZ5EZ	We performed a transfer caregiver training using orthosis.
+F0FZ5FZ	We performed a transfer caregiver training using assistive, adaptive, supportive or protective equipment.
+F0FZ5UZ	We performed a transfer caregiver training using prosthesis.
+F0FZ6EZ	We performed a wheelchair mobility caregiver training.
+F0FZ6EZ	We performed a wheelchair mobility caregiver training using orthosis.
+F0FZ6FZ	We performed a wheelchair mobility caregiver training using assistive, adaptive, supportive or protective equipment.
+F0FZ6UZ	We performed a wheelchair mobility caregiver training using prosthesis.
+F0FZ7EZ	We performed a therapeutic exercise caregiver training.
+F0FZ7EZ	We performed a therapeutic exercise caregiver training using orthosis.
+F0FZ7FZ	We performed a therapeutic exercise caregiver training using assistive, adaptive, supportive or protective equipment.
+F0FZ7UZ	We performed a therapeutic exercise caregiver training using prosthesis.
+F0FZ8EZ	We performed an airway clearance techniques caregiver training.
+F0FZ8EZ	We performed an airway clearance techniques caregiver training using orthosis.
+F0FZ8FZ	We performed an airway clearance techniques caregiver training using assistive, adaptive, supportive or protective equipment.
+F0FZ8UZ	We performed an airway clearance techniques caregiver training using prosthesis.
+F0FZ9EZ	We performed wound management caregiver training.
+F0FZ9EZ	We performed wound management caregiver training using orthosis.
+F0FZ9FZ	We performed wound management caregiver training using assistive, adaptive, supportive or protective equipment.
+F0FZ9UZ	We performed wound management caregiver training using prosthesis.
+F0FZBEZ	We performed a vocational activities and functional community or work reintegration skills caregiver training.
+F0FZBEZ	We performed a vocational activities and functional community or work reintegration skills caregiver training using orthosis.
+F0FZBFZ	We performed a vocational activities and functional community or work reintegration skills caregiver training using assistive, adaptive, supportive or protective equipment.
+F0FZBUZ	We performed a vocational activities and functional community or work reintegration skills caregiver training using prosthesis.
+F0FZCEZ	We performed a gait training/functional ambulation caregiver training.
+F0FZCEZ	We performed a gait training/functional ambulation caregiver training using orthosis.
+F0FZCFZ	We performed a gait training/functional ambulation caregiver training using assistive, adaptive, supportive or protective equipment.
+F0FZCUZ	We performed a gait training/functional ambulation caregiver training using prosthesis.
+F0FZDEZ	We performed an application, proper use and care of devices caregiver training.
+F0FZDEZ	We performed an application, proper use and care of devices caregiver training using orthosis.
+F0FZDFZ	We performed an application, proper use and care of devices caregiver training using assistive, adaptive, supportive or protective equipment.
+F0FZDUZ	We performed an application, proper use and care of devices caregiver training using prosthesis.
+F0FZFEZ	We performed an application, proper use and care of orthoses caregiver training.
+F0FZFEZ	We performed an application, proper use and care of orthoses caregiver training using orthosis.
+F0FZFFZ	We performed an application, proper use and care of orthoses caregiver training using assistive, adaptive, supportive or protective equipment.
+F0FZFUZ	We performed an application, proper use and care of orthoses caregiver training using prosthesis.
+F0FZGEZ	We performed an application, proper use and care of prosthesis caregiver training.
+F0FZGEZ	We performed an application, proper use and care of prosthesis caregiver training using orthosis.
+F0FZGFZ	We performed an application, proper use and care of prosthesis caregiver training using assistive, adaptive, supportive or protective equipment.
+F0FZGUZ	We performed an application, proper use and care of prosthesis caregiver training using prosthesis.
+F0FZHEZ	We performed home management caregiver training.
+F0FZHEZ	We performed home management caregiver training using orthosis.
+F0FZHFZ	We performed home management caregiver training using assistive, adaptive, supportive or protective equipment.
+F0FZHUZ	We performed home management caregiver training using prosthesis.
+F0FZJKZ	We performed a communication skills caregiver training.
+F0FZJKZ	We performed a communication skills caregiver training using audiovisual equipment.
+F0FZJMZ	We performed a communication skills caregiver training using augmentative / alternative communication.
+F0FZJPZ	We performed a communication skills caregiver training using computer.
+F13	We conducted a hearing assessment.
+F13Z00Z	We performed hearing screening hearing assessment.
+F13Z00Z	We performed hearing screening hearing assessment using occupational hearing.
+F13Z01Z	We performed hearing screening hearing assessment using audiometer.
+F13Z02Z	We performed hearing screening hearing assessment using sound field / booth.
+F13Z03Z	We performed hearing screening hearing assessment using tympanometer.
+F13Z08Z	We performed hearing screening hearing assessment using vestibular / balance.
+F13Z09Z	We performed hearing screening hearing assessment using cochlear implant.
+F13Z10Z	We performed a pure tone audiometry, air hearing assessment.
+F13Z10Z	We performed a pure tone audiometry, air hearing assessment using occupational hearing.
+F13Z11Z	We performed a pure tone audiometry, air hearing assessment using audiometer.
+F13Z12Z	We performed a pure tone audiometry, air hearing assessment using sound field / booth.
+F13Z20Z	We performed pure tone audiometry, air and bone hearing assessment.
+F13Z20Z	We performed pure tone audiometry, air and bone hearing assessment using occupational hearing.
+F13Z21Z	We performed pure tone audiometry, air and bone hearing assessment using audiometer.
+F13Z22Z	We performed pure tone audiometry, air and bone hearing assessment using sound field / booth.
+F13Z31Z	We performed a bekesy audiometry hearing assessment.
+F13Z31Z	We performed a bekesy audiometry hearing assessment using audiometer.
+F13Z32Z	We performed a bekesy audiometry hearing assessment using sound field / booth.
+F13Z41Z	We performed a conditioned play audiometry hearing assessment.
+F13Z41Z	We performed a conditioned play audiometry hearing assessment using audiometer.
+F13Z42Z	We performed a conditioned play audiometry hearing assessment using sound field / booth.
+F13Z4KZ	We performed a conditioned play audiometry hearing assessment using audiovisual equipment.
+F13Z51Z	We performed a select picture audiometry hearing assessment.
+F13Z51Z	We performed a select picture audiometry hearing assessment using audiometer.
+F13Z52Z	We performed a select picture audiometry hearing assessment using sound field / booth.
+F13Z5KZ	We performed a select picture audiometry hearing assessment using audiovisual equipment.
+F13Z61Z	We performed a visual reinforcement audiometry hearing assessment.
+F13Z61Z	We performed a visual reinforcement audiometry hearing assessment using audiometer.
+F13Z62Z	We performed a visual reinforcement audiometry hearing assessment using sound field / booth.
+F13Z71Z	We performed an alternate binaural or monaural loudness balance hearing assessment.
+F13Z71Z	We performed an alternate binaural or monaural loudness balance hearing assessment using audiometer.
+F13Z7KZ	We performed an alternate binaural or monaural loudness balance hearing assessment using audiovisual equipment.
+F13Z83Z	We performed a tone decay hearing assessment.
+F13Z83Z	We performed a tone decay hearing assessment using tympanometer.
+F13Z84Z	We performed a tone decay hearing assessment using electroacoustic immitance / acoustic reflex.
+F13Z91Z	We performed a short increment sensitivity index hearing assessment.
+F13Z91Z	We performed a short increment sensitivity index hearing assessment using audiometer.
+F13Z92Z	We performed a short increment sensitivity index hearing assessment using sound field / booth.
+F13ZB1Z	We performed a stenger hearing assessment.
+F13ZB1Z	We performed a stenger hearing assessment using audiometer.
+F13ZB2Z	We performed a stenger hearing assessment using sound field / booth.
+F13ZC1Z	We performed a pure tone stenger hearing assessment.
+F13ZC1Z	We performed a pure tone stenger hearing assessment using audiometer.
+F13ZC2Z	We performed a pure tone stenger hearing assessment using sound field / booth.
+F13ZD3Z	We performed a tympanometry hearing assessment.
+F13ZD3Z	We performed a tympanometry hearing assessment using tympanometer.
+F13ZD4Z	We performed a tympanometry hearing assessment using electroacoustic immitance / acoustic reflex.
+F13ZF3Z	We performed eustachian tube function hearing assessment.
+F13ZF3Z	We performed eustachian tube function hearing assessment using tympanometer.
+F13ZF4Z	We performed eustachian tube function hearing assessment using electroacoustic immitance / acoustic reflex.
+F13ZG3Z	We performed an acoustic reflex patterns hearing assessment.
+F13ZG3Z	We performed an acoustic reflex patterns hearing assessment using tympanometer.
+F13ZG4Z	We performed an acoustic reflex patterns hearing assessment using electroacoustic immitance / acoustic reflex.
+F13ZH3Z	We performed an acoustic reflex threshold hearing assessment.
+F13ZH3Z	We performed an acoustic reflex threshold hearing assessment using tympanometer.
+F13ZH4Z	We performed an acoustic reflex threshold hearing assessment using electroacoustic immitance / acoustic reflex.
+F13ZJ3Z	We performed an acoustic reflex decay hearing assessment.
+F13ZJ3Z	We performed an acoustic reflex decay hearing assessment using tympanometer.
+F13ZJ4Z	We performed an acoustic reflex decay hearing assessment using electroacoustic immitance / acoustic reflex.
+F13ZK7Z	We performed an electrocochleography hearing assessment.
+F13ZK7Z	We performed an electrocochleography hearing assessment using electrophysiologic.
+F13ZM6Z	We performed evoked otoacoustic emissions, screening hearing assessment.
+F13ZM6Z	We performed evoked otoacoustic emissions, screening hearing assessment using otoacoustic emission (oae).
+F13ZN6Z	We performed an evoked otoacoustic emissions, diagnostic hearing assessment.
+F13ZN6Z	We performed an evoked otoacoustic emissions, diagnostic hearing assessment using otoacoustic emission (oae).
+F13ZP1Z	We performed aural rehabilitation status hearing assessment.
+F13ZP1Z	We performed aural rehabilitation status hearing assessment using audiometer.
+F13ZP2Z	We performed aural rehabilitation status hearing assessment using sound field / booth.
+F13ZP4Z	We performed aural rehabilitation status hearing assessment using electroacoustic immitance / acoustic reflex.
+F13ZP9Z	We performed aural rehabilitation status hearing assessment using cochlear implant.
+F13ZPKZ	We performed aural rehabilitation status hearing assessment using audiovisual equipment.
+F13ZPPZ	We performed aural rehabilitation status hearing assessment using computer.
+F13ZQKZ	We performed an auditory processing hearing assessment.
+F13ZQKZ	We performed an auditory processing hearing assessment using audiovisual equipment.
+F13ZQPZ	We performed an auditory processing hearing assessment using computer.
+F13ZQYZ	We performed an auditory processing hearing assessment using other equipment.
+F14	We conducted a hearing aid assessment.
+F14Z01Z	We performed a cochlear implant hearing aid assessment.
+F14Z01Z	We performed a cochlear implant hearing aid assessment using audiometer.
+F14Z02Z	We performed a cochlear implant hearing aid assessment using sound field / booth.
+F14Z03Z	We performed a cochlear implant hearing aid assessment using tympanometer.
+F14Z04Z	We performed a cochlear implant hearing aid assessment using electroacoustic immitance / acoustic reflex.
+F14Z05Z	We performed a cochlear implant hearing aid assessment using hearing aid selection / fitting / test.
+F14Z07Z	We performed a cochlear implant hearing aid assessment using electrophysiologic.
+F14Z09Z	We performed a cochlear implant hearing aid assessment using cochlear implant.
+F14Z0KZ	We performed a cochlear implant hearing aid assessment using audiovisual equipment.
+F14Z0PZ	We performed a cochlear implant hearing aid assessment using computer.
+F14Z0YZ	We performed a cochlear implant hearing aid assessment using other equipment.
+F14Z15Z	We performed an ear canal probe microphone hearing aid assessment.
+F14Z15Z	We performed an ear canal probe microphone hearing aid assessment using hearing aid selection / fitting / test.
+F14Z21Z	We performed a monaural hearing aid hearing aid assessment.
+F14Z21Z	We performed a monaural hearing aid hearing aid assessment using audiometer.
+F14Z22Z	We performed a monaural hearing aid hearing aid assessment using sound field / booth.
+F14Z23Z	We performed a monaural hearing aid hearing aid assessment using tympanometer.
+F14Z24Z	We performed a monaural hearing aid hearing aid assessment using electroacoustic immitance / acoustic reflex.
+F14Z25Z	We performed a monaural hearing aid hearing aid assessment using hearing aid selection / fitting / test.
+F14Z2KZ	We performed a monaural hearing aid hearing aid assessment using audiovisual equipment.
+F14Z2PZ	We performed a monaural hearing aid hearing aid assessment using computer.
+F14Z31Z	We performed a binaural hearing aid hearing aid assessment.
+F14Z31Z	We performed a binaural hearing aid hearing aid assessment using audiometer.
+F14Z32Z	We performed a binaural hearing aid hearing aid assessment using sound field / booth.
+F14Z33Z	We performed a binaural hearing aid hearing aid assessment using tympanometer.
+F14Z34Z	We performed a binaural hearing aid hearing aid assessment using electroacoustic immitance / acoustic reflex.
+F14Z35Z	We performed a binaural hearing aid hearing aid assessment using hearing aid selection / fitting / test.
+F14Z3KZ	We performed a binaural hearing aid hearing aid assessment using audiovisual equipment.
+F14Z3PZ	We performed a binaural hearing aid hearing aid assessment using computer.
+F14Z41Z	We performed an assistive listening system/device selection hearing aid assessment.
+F14Z41Z	We performed an assistive listening system/device selection hearing aid assessment using audiometer.
+F14Z42Z	We performed an assistive listening system/device selection hearing aid assessment using sound field / booth.
+F14Z43Z	We performed an assistive listening system/device selection hearing aid assessment using tympanometer.
+F14Z44Z	We performed an assistive listening system/device selection hearing aid assessment using electroacoustic immitance / acoustic reflex.
+F14Z4KZ	We performed an assistive listening system/device selection hearing aid assessment using audiovisual equipment.
+F14Z51Z	We performed a sensory aids hearing aid assessment.
+F14Z51Z	We performed a sensory aids hearing aid assessment using audiometer.
+F14Z52Z	We performed a sensory aids hearing aid assessment using sound field / booth.
+F14Z53Z	We performed a sensory aids hearing aid assessment using tympanometer.
+F14Z54Z	We performed a sensory aids hearing aid assessment using electroacoustic immitance / acoustic reflex.
+F14Z55Z	We performed a sensory aids hearing aid assessment using hearing aid selection / fitting / test.
+F14Z5KZ	We performed a sensory aids hearing aid assessment using audiovisual equipment.
+F14Z65Z	We performed a binaural electroacoustic hearing aid check hearing aid assessment.
+F14Z65Z	We performed a binaural electroacoustic hearing aid check hearing aid assessment using hearing aid selection / fitting / test.
+F14Z70Z	We performed an ear protector attentuation hearing aid assessment.
+F14Z70Z	We performed an ear protector attentuation hearing aid assessment using occupational hearing.
+F14Z85Z	We performed a monaural electroacoustic hearing aid check hearing aid assessment.
+F14Z85Z	We performed a monaural electroacoustic hearing aid check hearing aid assessment using hearing aid selection / fitting / test.
+F15	We conducted a vestibular assessment.
+F15Z08Z	We performed a bithermal, binaural caloric irrigation vestibular assessment.
+F15Z08Z	We performed a bithermal, binaural caloric irrigation vestibular assessment using vestibular / balance.
+F15Z18Z	We performed a bithermal, monaural caloric irrigation vestibular assessment.
+F15Z18Z	We performed a bithermal, monaural caloric irrigation vestibular assessment using vestibular / balance.
+F15Z28Z	We performed an unithermal binaural screen vestibular assessment.
+F15Z28Z	We performed an unithermal binaural screen vestibular assessment using vestibular / balance.
+F15Z38Z	We performed an oscillating tracking vestibular assessment.
+F15Z38Z	We performed an oscillating tracking vestibular assessment using vestibular / balance.
+F15Z48Z	We performed a sinusoidal vertical axis rotational vestibular assessment.
+F15Z48Z	We performed a sinusoidal vertical axis rotational vestibular assessment using vestibular / balance.
+F15Z58Z	We performed a dix-hallpike dynamic vestibular assessment.
+F15Z58Z	We performed a dix-hallpike dynamic vestibular assessment using vestibular / balance.
+F15Z68Z	We performed a computerized dynamic posturography vestibular assessment.
+F15Z68Z	We performed a computerized dynamic posturography vestibular assessment using vestibular / balance.
+F15Z75Z	We performed a tinnitus masker vestibular assessment.
+F15Z75Z	We performed a tinnitus masker vestibular assessment using hearing aid selection / fitting / test.

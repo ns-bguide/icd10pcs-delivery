@@ -1,0 +1,112 @@
+abortion
+activities of daily living assessment
+activities of daily living treatment
+alteration
+assistance
+atmospheric control
+beam radiation
+biofeedback
+brachytherapy
+bypass
+caregiver training
+change
+cochlear implant treatment
+compression
+computerized tomography (ct scan)
+control
+counseling
+creation
+crisis intervention
+decompression
+delivery
+destruction
+detachment
+detoxification services
+device fitting
+diagnostic drainage
+diagnostic excision
+diagnostic extraction
+diagnostic irrigation
+dilation
+division
+drainage
+dressing
+electroconvulsive therapy
+electromagnetic therapy
+excision
+extirpation
+extraction
+family counseling
+family psychotherapy
+fluoroscopy
+fragmentation
+fusion
+group counseling
+group psychotherapy
+hearing aid assessment
+hearing assessment
+hearing treatment
+hyperthermia
+hypnosis
+hypothermia
+immobilization
+individual counseling
+individual psychotherapy
+insertion
+inspection
+introduction
+irrigation
+light therapy
+magnetic resonance imaging (mri)
+manipulation
+map
+measurement
+medication management
+monitoring
+motor and/or nerve function assessment
+motor treatment
+narcosynthesis
+nonimaging nuclear medicine assay
+nonimaging nuclear medicine probe
+nonimaging nuclear medicine uptake
+occlusion
+other imaging
+other procedures
+other radiation
+packing
+performance
+perfusion
+pharmacotherapy
+pheresis
+phototherapy
+plain radiography
+planar nuclear medicine imaging
+positron emission tomographic (pet) imaging
+psychological tests
+reattachment
+release
+removal
+repair
+replacement
+reposition
+resection
+restoration
+restriction
+revision
+shock wave therapy
+speech assessment
+speech treatment
+stereotactic radiosurgery
+supplement
+systemic nuclear medicine therapy
+tomographic (tomo) nuclear medicine imaging
+traction
+transfer
+transfusion
+transplantation
+treatment
+ultrasonography
+ultrasound therapy
+ultraviolet light therapy
+vestibular assessment
+vestibular treatment

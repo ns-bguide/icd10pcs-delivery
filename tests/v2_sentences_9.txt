@@ -1,0 +1,11 @@
+9WB	We conducted a manipulation of the anatomical regions.
+9WB0XBZ	We conducted a manipulation of the head.
+9WB1XBZ	We conducted a manipulation of the cervical region.
+9WB2XBZ	We conducted a manipulation of the thoracic region.
+9WB3XBZ	We conducted a manipulation of the lumbar region.
+9WB4XBZ	We conducted a manipulation of the sacrum.
+9WB5XBZ	We conducted a manipulation of the pelvis.
+9WB6XBZ	We conducted a manipulation of the lower extremities.
+9WB7XBZ	We conducted a manipulation of the upper extremities.
+9WB8XBZ	We conducted a manipulation of the rib cage.
+9WB9XBZ	We conducted a manipulation of the abdomen.

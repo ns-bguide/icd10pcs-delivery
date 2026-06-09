@@ -1,0 +1,452 @@
+abdominal aorta
+abdominal artery
+abdominal region
+abortifacient
+accessory nerve
+acoustic nerve
+air displacement plethysmography
+all
+allogeneic
+ambulatory
+aminolevulinic acid
+anesthesia
+anterior column anterior approach
+anterior column posterior approach
+anti-infective envelope
+anus
+aorta
+ascending colon
+atrial appendage, left
+atrioventricular valve, left
+atrioventricular valve, right
+atrium
+atrium, left
+atrium, right
+autologous
+automated
+axillary artery
+balloon pump
+bifurcation
+bilateral
+bilateral common iliac arteries
+bilateral external iliac arteries
+bilateral femoral arteries
+bilateral internal iliac arteries
+bilateral lower arm artery
+bilateral lower leg artery
+bilateral renal artery
+bilateral upper arm artery
+bilateral upper leg artery
+bilateral ureters
+biventricular
+bladder
+blood
+blood brain barrier disruption
+blood flow modulator
+blood vessel
+bone marrow
+brachial artery
+breast milk
+capsule intact
+cardiovascular system
+carotid
+caudate hepatic duct
+cecum
+celiac artery
+cell suspension technique
+cemented
+central
+central membrane
+central vein
+cerebral cisterns
+cerebrospinal fluid
+cervical region nerve
+clofarabine
+colocutaneous
+colon
+common atrioventricular valve
+common bile duct
+common iliac arteries, bilateral
+common iliac artery, left
+common iliac artery, right
+compartment
+complete
+complete 1st ray
+complete 2nd ray
+complete 3rd ray
+complete 4th ray
+complete 5th ray
+complete fifth ray
+complete first ray
+complete fourth ray
+complete second ray
+complete third ray
+computerized tomography
+confluence pulmonary vein
+cord blood stem cells
+coronary
+coronary artery
+coronary circulation
+coronary vein
+cutaneous
+cystic duct
+deep inferior epigastric artery perforator flap
+densitometry
+descending colon
+diagnostic amniotic fluid
+drug-coated balloon
+dual capture filter
+ductus arteriosus
+duodenum
+endocrine system
+endolymphatic system
+epididymis, left
+epididymis, right
+erythrocytes
+esophagus
+ethmoid bone
+examination
+external iliac arteries, bilateral
+external iliac artery, left
+external iliac artery, right
+extracorporeal flow reversal circuit
+extracranial artery, left
+extracranial artery, right
+extraperitoneal
+eye
+facial nerve
+fallopian tube
+fallopian tube, left
+fallopian tube, right
+female reproductive system
+femoral arteries, bilateral
+femoral artery, left
+femoral artery, right
+femoral nerve
+fetal blood
+fetal cerebrospinal fluid
+fluoroscopy
+foot artery
+frontal bone
+full thickness
+gastrointestinal system
+glenoid surface
+glossopharyngeal nerve
+glucarpidase
+gluteal artery perforator flap
+guidance
+hand-assisted
+head and neck vessels
+heart
+heart, left
+heart, right
+hematopoietic stem cells
+hemorrhoidal plexus
+hepatic duct, left
+hepatic duct, right
+hepatic vein
+hepatobiliary system and pancreas
+high
+high flow
+high flow/velocity cannula
+high forceps
+high-dose interleukin-2
+human b-type natriuretic peptide
+humeral surface
+hyperbaric
+hyperthermic
+hypoglossal nerve
+ileocutaneous
+ileum
+immunostimulator
+impeller pump
+in vitro fertilization
+indocyanine green dye
+inferior mesenteric vein
+inguinal region
+innominate artery
+insulin
+intermittent negative airway pressure
+intermittent positive airway pressure
+internal iliac arteries, bilateral
+internal iliac artery, left
+internal iliac artery, right
+internal mammary, left
+internal mammary, right
+internal version
+intestine
+intracranial
+intracranial artery
+intraoperative
+intraoperative specimen analysis
+intravascular
+intubated prone positioning
+irreversible electroporation
+isolation
+jejunum
+kidney pelvis, left
+kidney pelvis, right
+laminaria
+large intestine
+laser interstitial thermal therapy
+lateral meniscus
+latissimus dorsi myocutaneous flap
+left atrial appendage
+left atrioventricular valve
+left atrium
+left common iliac artery
+left epididymis
+left external iliac artery
+left extracranial artery
+left fallopian tube
+left femoral artery
+left heart
+left hepatic duct
+left internal iliac artery
+left internal mammary
+left kidney pelvis
+left lower arm artery
+left lower leg artery
+left pleural cavity
+left pulmonary artery
+left pulmonary vein
+left renal artery
+left renal vein
+left thumb
+left toe
+left upper arm artery
+left upper leg artery
+left ureter
+left vas deferens
+leukocytes
+liquid brachytherapy radioisotope
+low
+low forceps
+low-dose interleukin-2
+lower arm artery, bilateral
+lower arm artery, left
+lower arm artery, right
+lower arm vein
+lower extremity artery
+lower extremity vein
+lower leg artery
+lower leg artery, bilateral
+lower leg artery, left
+lower leg artery, right
+lower vein
+lumbar region artery perforator flap
+lumbar region nerve
+lymphatic system
+lymphatic systems and hemic
+magnetic resonance imaging
+male reproductive system
+manual
+mastoid sinus
+medial meniscus
+median nerve
+meditation
+mesenteric artery
+microcurrent stimulation
+mid
+mid forceps
+monoclonal antibody
+motor
+multiple
+musculoskeletal system
+nasal cavity
+nasopharynx
+native site
+nervous system
+nitric oxide
+nonautologous
+nonmechanical
+nose and sinus ear
+occipital bone
+oculomotor nerve
+olfactory nerve
+optic nerve
+orbital atherectomy technique
+other anti-infective
+other antineoplastic
+other body system
+other fetal fluid
+other fluid
+other gas
+other hormone
+other pump
+other substance
+other therapeutic monoclonal antibody
+other thoracic region
+other thrombolytic
+other vessels
+oxazolidinones
+pafolacianine
+partial 1st ray
+partial 2nd ray
+partial 3rd ray
+partial 4th ray
+partial 5th ray
+partial fifth ray
+partial first ray
+partial fourth ray
+partial second ray
+partial thickness
+partial third ray
+patellar surface
+pelvic region cavity
+pelvic region region
+penis
+perineal nerve
+peripheral
+peripheral vein
+peripheral veno-arterial system membrane
+peripheral veno-venous system membrane
+peripheral vessels
+peritoneal cavity
+peroneal artery
+peroneal nerve
+phrenic nerve
+piercing
+plasma
+platelets
+pleural cavity
+pleural cavity, left
+pleural cavity, right
+portal
+posterior column posterior approach
+posterior tibial artery
+prostate
+pulmonary
+pulmonary artery, left
+pulmonary artery, right
+pulmonary trunk
+pulmonary vein, left
+pulmonary vein, right
+pulsatile compression
+radial nerve
+rapid deployment technique
+recombinant bone morphogenetic protein
+recombinant human-activated protein c
+rectum
+related allogeneic
+renal artery, bilateral
+renal artery, left
+renal artery, right
+renal vein, left
+renal vein, right
+respiratory system
+right atrioventricular valve
+right atrium
+right common iliac artery
+right epididymis
+right external iliac artery
+right extracranial artery
+right fallopian tube
+right femoral artery
+right heart
+right hepatic duct
+right internal iliac artery
+right internal mammary
+right kidney pelvis
+right lower arm artery
+right lower leg artery
+right pleural cavity
+right pulmonary artery
+right pulmonary vein
+right renal artery
+right renal vein
+right toe
+right upper arm artery
+right upper leg artery
+right ureter
+right vas deferens
+s 1st toe
+s first toe
+sciatic nerve
+sclera
+sensory
+sesamoid bone 1st toe
+sesamoid bone first toe
+sesamoid bone(s) 1st toe
+sesamoid bone(s) first toe
+sesamoid bones 1st toe
+sesamoid bones first toe
+sesamoid s 1st toe
+sesamoid s first toe
+sigmoid colon
+single
+single capture filter
+single deflection filter
+skin
+skin and subcutaneous tissue
+small intestine
+sperm
+sphenoid bone
+stent retriever
+stereoelectroencephalographic radiofrequency ablation
+stoma
+stomach
+stress
+subclavian
+subcutaneous tissue
+subcutaneous tissue and fascia skin
+subgaleal space
+subscapularis-sparing technique
+superficial inferior epigastric artery flap
+superior mesenteric vein
+superior vena cava
+supersaturated
+sustained release
+suture removal
+syngeneic
+temporary
+therapeutic amniotic fluid
+thoracic region artery
+thoracic region duct
+thoracic region nerve
+thoracic region region
+thumb, left
+tibial nerve
+toe, left
+toe, right
+transapical
+transesophageal
+transmural
+transpapillary
+transverse rectus abdominis myocutaneous flap
+trigeminal nerve
+trochlear nerve
+truncal valve
+ulnar nerve
+ultrasonic
+uncemented
+unidirectional source
+unrelated allogeneic
+unspecified allogeneic
+upper arm artery
+upper arm artery, bilateral
+upper arm artery, left
+upper arm artery, right
+upper arm vein
+upper leg artery, bilateral
+upper leg artery, left
+upper leg artery, right
+upper vein
+ureter, left
+ureter, right
+ureters, bilateral
+urethra
+urinary system
+urinary system tract
+uterus
+vacuum
+vagina
+vagus nerve
+vas deferens, left
+vas deferens, right
+velocity cannula
+vertical
+via umbilical vein
+wireless sensor
+yoga therapy
+zooplastic

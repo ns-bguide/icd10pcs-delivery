@@ -1,0 +1,104 @@
+XD2G4V7	upper gi oxygen saturation monitoring.
+XD2G4V7	Monitoring of the oxygen saturation of the upper gi.
+XD2G4V7	upper gi oxygen saturation monitoring.
+XD2G4V7	Monitoring of the oxygen saturation of the upper gi.
+XD2G8V7	upper gi oxygen saturation monitoring.
+XD2G8V7	Monitoring of the oxygen saturation of the upper gi.
+XD2G8V7	upper gi oxygen saturation monitoring.
+XD2G8V7	Monitoring of the oxygen saturation of the upper gi.
+XD2H4V7	lower gi oxygen saturation monitoring.
+XD2H4V7	Monitoring of the oxygen saturation of the lower gi.
+XD2H4V7	lower gi oxygen saturation monitoring.
+XD2H4V7	Monitoring of the oxygen saturation of the lower gi.
+XD2H8V7	lower gi oxygen saturation monitoring.
+XD2H8V7	Monitoring of the oxygen saturation of the lower gi.
+XD2H8V7	lower gi oxygen saturation monitoring.
+XD2H8V7	Monitoring of the oxygen saturation of the lower gi.
+XT25XE5	kidney fluorescent pyrazine monitoring.
+XT25XE5	Monitoring of the fluorescent pyrazine of the kidney.
+XT25XE5	kidney fluorescent pyrazine monitoring.
+XT25XE5	Monitoring of the fluorescent pyrazine of the kidney.
+XX20X89	central nervous system computer-aided detection and notification brain electrical activity monitoring.
+XX20X89	Monitoring of the computer-aided detection and notification brain electrical activity of the central nervous system.
+XX20X89	central nervous system computer-aided detection and notification brain electrical activity monitoring.
+XX20X89	Monitoring of the computer-aided detection and notification brain electrical activity of the central nervous system.
+XX25X0A	circulatory system adhesive ultrasound patch technology blood flow monitoring.
+XX25X0A	Monitoring of the adhesive ultrasound patch technology blood flow of the circulatory system.
+XX25X0A	circulatory system adhesive ultrasound patch technology blood flow monitoring.
+XX25X0A	Monitoring of the adhesive ultrasound patch technology blood flow of the circulatory system.
+XX2KXDB	subcutaneous tissue wearable sensor interstitial glucose monitoring.
+XX2KXDB	Monitoring of the wearable sensor interstitial glucose of the subcutaneous tissue.
+XX2KXDB	subcutaneous tissue wearable sensor interstitial glucose monitoring.
+XX2KXDB	Monitoring of the wearable sensor interstitial glucose of the subcutaneous tissue.
+XX2KXP9	subcutaneous tissue sub-epidermal moisture using electrical biocapacitance interstitial fluid volume monitoring.
+XX2KXP9	Monitoring of the sub-epidermal moisture using electrical biocapacitance interstitial fluid volume of the subcutaneous tissue.
+XX2KXP9	subcutaneous tissue sub-epidermal moisture using electrical biocapacitance interstitial fluid volume monitoring.
+XX2KXP9	Monitoring of the sub-epidermal moisture using electrical biocapacitance interstitial fluid volume of the subcutaneous tissue.
+XXE0X07	central nervous system computer-aided assessment intracranial vascular activity measurement.
+XXE0X07	Measurement of the computer-aided assessment intracranial vascular activity of the central nervous system.
+XXE0X07	central nervous system computer-aided assessment intracranial vascular activity measurement.
+XXE0X07	Measurement of the computer-aided assessment intracranial vascular activity of the central nervous system.
+XXE0X1A	central nervous system computer-aided assessment output measurement.
+XXE0X1A	Measurement of the computer-aided assessment output of the central nervous system.
+XXE0X1A	central nervous system computer-aided assessment output measurement.
+XXE0X1A	Measurement of the computer-aided assessment output of the central nervous system.
+XXE0X48	central nervous system positive blood culture small molecule sensor array technology infection measurement.
+XXE0X48	Measurement of the positive blood culture small molecule sensor array technology infection of the central nervous system.
+XXE0X48	central nervous system positive blood culture small molecule sensor array technology infection measurement.
+XXE0X48	Measurement of the positive blood culture small molecule sensor array technology infection of the central nervous system.
+XXE2X19	cardiac system computer-aided assessment output measurement.
+XXE2X19	Measurement of the computer-aided assessment output of the cardiac system.
+XXE2X19	cardiac system computer-aided assessment output measurement.
+XXE2X19	Measurement of the computer-aided assessment output of the cardiac system.
+XXE3X27	arterial system phenotypic fully automated rapid susceptibility technology with controlled inoculum infection measurement.
+XXE3X27	Measurement of the phenotypic fully automated rapid susceptibility technology with controlled inoculum infection of the arterial system.
+XXE3X27	arterial system phenotypic fully automated rapid susceptibility technology with controlled inoculum infection measurement.
+XXE3X27	Measurement of the phenotypic fully automated rapid susceptibility technology with controlled inoculum infection of the arterial system.
+XXE3X58	arterial system whole blood cellular assessment via microfluidic deformability immune response measurement.
+XXE3X58	Measurement of the whole blood cellular assessment via microfluidic deformability immune response of the arterial system.
+XXE3X58	arterial system whole blood cellular assessment via microfluidic deformability immune response measurement.
+XXE3X58	Measurement of the whole blood cellular assessment via microfluidic deformability immune response of the arterial system.
+XXE3X68	arterial system computer-aided valve modeling and notification coronary artery flow measurement.
+XXE3X68	Measurement of the computer-aided valve modeling and notification coronary artery flow of the arterial system.
+XXE3X68	arterial system computer-aided valve modeling and notification coronary artery flow measurement.
+XXE3X68	Measurement of the computer-aided valve modeling and notification coronary artery flow of the arterial system.
+XXE5X2A	circulatory system phenotypic fully automated rapid susceptibility technology with controlled inoculum infection measurement.
+XXE5X2A	Measurement of the phenotypic fully automated rapid susceptibility technology with controlled inoculum infection of the circulatory system.
+XXE5X2A	circulatory system phenotypic fully automated rapid susceptibility technology with controlled inoculum infection measurement.
+XXE5X2A	Measurement of the phenotypic fully automated rapid susceptibility technology with controlled inoculum infection of the circulatory system.
+XXE5X38	circulatory system whole blood reverse transcription and quantitative real-time polymerase chain reaction infection measurement.
+XXE5X38	Measurement of the whole blood reverse transcription and quantitative real-time polymerase chain reaction infection of the circulatory system.
+XXE5X38	circulatory system whole blood reverse transcription and quantitative real-time polymerase chain reaction infection measurement.
+XXE5X38	Measurement of the whole blood reverse transcription and quantitative real-time polymerase chain reaction infection of the circulatory system.
+XXE5X4A	circulatory system positive blood culture small molecule sensor array technology infection measurement.
+XXE5X4A	Measurement of the positive blood culture small molecule sensor array technology infection of the circulatory system.
+XXE5X4A	circulatory system positive blood culture small molecule sensor array technology infection measurement.
+XXE5X4A	Measurement of the positive blood culture small molecule sensor array technology infection of the circulatory system.
+XXE5X5A	circulatory system whole blood cellular assessment via microfluidic deformability immune response measurement.
+XXE5X5A	Measurement of the whole blood cellular assessment via microfluidic deformability immune response of the circulatory system.
+XXE5X5A	circulatory system whole blood cellular assessment via microfluidic deformability immune response measurement.
+XXE5X5A	Measurement of the whole blood cellular assessment via microfluidic deformability immune response of the circulatory system.
+XXE5XBB	circulatory system gene expression testing system infection and immune response measurement.
+XXE5XBB	Measurement of the gene expression testing system infection and immune response of the circulatory system.
+XXE5XBB	circulatory system gene expression testing system infection and immune response measurement.
+XXE5XBB	Measurement of the gene expression testing system infection and immune response of the circulatory system.
+XXE5XR7	circulatory system mechanical initial specimen diversion technique using active negative pressure infection measurement.
+XXE5XR7	Measurement of the mechanical initial specimen diversion technique using active negative pressure infection of the circulatory system.
+XXE5XR7	circulatory system mechanical initial specimen diversion technique using active negative pressure infection measurement.
+XXE5XR7	Measurement of the mechanical initial specimen diversion technique using active negative pressure infection of the circulatory system.
+XXE5XT7	circulatory system whole blood mrna intracranial arterial flow measurement.
+XXE5XT7	Measurement of the whole blood mrna intracranial arterial flow of the circulatory system.
+XXE5XT7	circulatory system whole blood mrna intracranial arterial flow measurement.
+XXE5XT7	Measurement of the whole blood mrna intracranial arterial flow of the circulatory system.
+XXE5XV7	circulatory system serum/plasma nanoparticle fluorescence sars-cov-2 antibody detection infection measurement.
+XXE5XV7	Measurement of the serum/plasma nanoparticle fluorescence sars-cov-2 antibody detection infection of the circulatory system.
+XXE5XV7	circulatory system serum/plasma nanoparticle fluorescence sars-cov-2 antibody detection infection measurement.
+XXE5XV7	Measurement of the serum/plasma nanoparticle fluorescence sars-cov-2 antibody detection infection of the circulatory system.
+XXE5XY9	circulatory system other positive blood/isolated colonies bimodal phenotypic susceptibility technology infection measurement.
+XXE5XY9	Measurement of the other positive blood/isolated colonies bimodal phenotypic susceptibility technology infection of the circulatory system.
+XXE5XY9	circulatory system other positive blood/isolated colonies bimodal phenotypic susceptibility technology infection measurement.
+XXE5XY9	Measurement of the other positive blood/isolated colonies bimodal phenotypic susceptibility technology infection of the circulatory system.
+XXE97U7	nose nasopharyngeal fluid sars-cov-2 polymerase chain reaction infection measurement.
+XXE97U7	Measurement of the nasopharyngeal fluid sars-cov-2 polymerase chain reaction infection of the nose.
+XXE97U7	nose nasopharyngeal fluid sars-cov-2 polymerase chain reaction infection measurement.
+XXE97U7	Measurement of the nasopharyngeal fluid sars-cov-2 polymerase chain reaction infection of the nose.

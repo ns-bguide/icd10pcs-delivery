@@ -1,0 +1,100 @@
+6A0	Atmospheric Control of the Physiological Systems
+6A0	Physiological Systems Atmospheric Control
+6A1	Decompression of the Physiological Systems
+6A1	Physiological Systems Decompression
+6A150ZZ	Decompression of the Circulatory System No Qualifier
+6A150ZZ	Circulatory System No Qualifier Decompression
+6A151ZZ	Decompression of the Circulatory System No Qualifier
+6A151ZZ	Circulatory System No Qualifier Decompression
+6A2	Electromagnetic Therapy of the Physiological Systems
+6A2	Physiological Systems Electromagnetic Therapy
+6A210ZZ	Electromagnetic Therapy of the Urinary System No Qualifier
+6A210ZZ	Urinary System No Qualifier Electromagnetic Therapy
+6A211ZZ	Electromagnetic Therapy of the Urinary System No Qualifier
+6A211ZZ	Urinary System No Qualifier Electromagnetic Therapy
+6A220ZZ	Electromagnetic Therapy of the Central Nervous System No Qualifier
+6A220ZZ	Central Nervous System No Qualifier Electromagnetic Therapy
+6A221ZZ	Electromagnetic Therapy of the Central Nervous System No Qualifier
+6A221ZZ	Central Nervous System No Qualifier Electromagnetic Therapy
+6A3	Hyperthermia of the Physiological Systems
+6A3	Physiological Systems Hyperthermia
+6A4	Hypothermia of the Physiological Systems
+6A4	Physiological Systems Hypothermia
+6A4T00A	Hypothermia of the Intraoperative Urinary System Donor Organ Protective Thermal Insulation
+6A4T00A	Intraoperative Urinary System Donor Organ Protective Thermal Insulation Hypothermia
+6A5	Pheresis of the Physiological Systems
+6A5	Physiological Systems Pheresis
+6A550Z0	Pheresis of the Circulatory System No Qualifier
+6A550Z0	Circulatory System No Qualifier Pheresis
+6A550Z1	Pheresis of the Circulatory System No Qualifier
+6A550Z1	Circulatory System No Qualifier Pheresis
+6A550Z2	Pheresis of the Circulatory System No Qualifier
+6A550Z2	Circulatory System No Qualifier Pheresis
+6A550Z3	Pheresis of the Circulatory System No Qualifier
+6A550Z3	Circulatory System No Qualifier Pheresis
+6A550ZT	Pheresis of the Circulatory System No Qualifier
+6A550ZT	Circulatory System No Qualifier Pheresis
+6A550ZV	Pheresis of the Circulatory System No Qualifier
+6A550ZV	Circulatory System No Qualifier Pheresis
+6A551Z0	Pheresis of the Circulatory System No Qualifier
+6A551Z0	Circulatory System No Qualifier Pheresis
+6A551Z1	Pheresis of the Circulatory System No Qualifier
+6A551Z1	Circulatory System No Qualifier Pheresis
+6A551Z2	Pheresis of the Circulatory System No Qualifier
+6A551Z2	Circulatory System No Qualifier Pheresis
+6A551Z3	Pheresis of the Circulatory System No Qualifier
+6A551Z3	Circulatory System No Qualifier Pheresis
+6A551ZT	Pheresis of the Circulatory System No Qualifier
+6A551ZT	Circulatory System No Qualifier Pheresis
+6A551ZV	Pheresis of the Circulatory System No Qualifier
+6A551ZV	Circulatory System No Qualifier Pheresis
+6A6	Phototherapy of the Physiological Systems
+6A6	Physiological Systems Phototherapy
+6A600ZZ	Phototherapy of the Skin No Qualifier
+6A600ZZ	Skin No Qualifier Phototherapy
+6A601ZZ	Phototherapy of the Skin No Qualifier
+6A601ZZ	Skin No Qualifier Phototherapy
+6A650ZZ	Phototherapy of the Circulatory System No Qualifier
+6A650ZZ	Circulatory System No Qualifier Phototherapy
+6A651ZZ	Phototherapy of the Circulatory System No Qualifier
+6A651ZZ	Circulatory System No Qualifier Phototherapy
+6A7	Ultrasound Therapy of the Physiological Systems
+6A7	Physiological Systems Ultrasound Therapy
+6A750Z4	Ultrasound Therapy of the Circulatory System No Qualifier
+6A750Z4	Circulatory System No Qualifier Ultrasound Therapy
+6A750Z5	Ultrasound Therapy of the Circulatory System No Qualifier
+6A750Z5	Circulatory System No Qualifier Ultrasound Therapy
+6A750Z6	Ultrasound Therapy of the Circulatory System No Qualifier
+6A750Z6	Circulatory System No Qualifier Ultrasound Therapy
+6A750Z7	Ultrasound Therapy of the Circulatory System No Qualifier
+6A750Z7	Circulatory System No Qualifier Ultrasound Therapy
+6A750ZZ	Ultrasound Therapy of the Circulatory System No Qualifier
+6A750ZZ	Circulatory System No Qualifier Ultrasound Therapy
+6A751Z4	Ultrasound Therapy of the Circulatory System No Qualifier
+6A751Z4	Circulatory System No Qualifier Ultrasound Therapy
+6A751Z5	Ultrasound Therapy of the Circulatory System No Qualifier
+6A751Z5	Circulatory System No Qualifier Ultrasound Therapy
+6A751Z6	Ultrasound Therapy of the Circulatory System No Qualifier
+6A751Z6	Circulatory System No Qualifier Ultrasound Therapy
+6A751Z7	Ultrasound Therapy of the Circulatory System No Qualifier
+6A751Z7	Circulatory System No Qualifier Ultrasound Therapy
+6A751ZZ	Ultrasound Therapy of the Circulatory System No Qualifier
+6A751ZZ	Circulatory System No Qualifier Ultrasound Therapy
+6A8	Ultraviolet Light Therapy of the Physiological Systems
+6A8	Physiological Systems Ultraviolet Light Therapy
+6A800ZZ	Ultraviolet Light Therapy of the Skin No Qualifier
+6A800ZZ	Skin No Qualifier Ultraviolet Light Therapy
+6A801ZZ	Ultraviolet Light Therapy of the Skin No Qualifier
+6A801ZZ	Skin No Qualifier Ultraviolet Light Therapy
+6A9	Shock Wave Therapy of the Physiological Systems
+6A9	Physiological Systems Shock Wave Therapy
+6AB	Perfusion of the Physiological Systems
+6AB	Physiological Systems Perfusion
+6AB50BZ	Perfusion of the Circulatory System Donor Organ
+6AB50BZ	Circulatory System Donor Organ Perfusion
+6ABB0BZ	Perfusion of the Respiratory System Donor Organ
+6ABB0BZ	Respiratory System Donor Organ Perfusion
+6ABF0BZ	Perfusion of the Hepatobiliary System And Pancreas Donor Organ
+6ABF0BZ	Hepatobiliary System And Pancreas Donor Organ Perfusion
+6ABT0BZ	Perfusion of the Urinary System Donor Organ
+6ABT0BZ	Urinary System Donor Organ Perfusion

@@ -1,0 +1,43 @@
+# TD-11 — composed-short-token FP fixture (blocks BP-1)
+# Created 2026-06-01 by the grammar review (docs/review_2026-06-01.md F2.1).
+#
+# Purpose: measure BP-1 — ultra-short, case-insensitive body_parts tokens
+# (me, et, bp, af, gb, cn, sb, ...) that fire when composed with an operative
+# verb even though the surface text is ordinary English or a non-procedure
+# abbreviation. Bare forms already do NOT fire (op-anchored patterns); these
+# are the COMPOSED forms that do.
+#
+# Lines in THIS file should NOT match (they are false positives today).
+# The SHOULD-MATCH guardrail set lives in
+#   tests/true_positives/tier_short_abbrev_should_match.txt
+# so a BP-1 fix can be checked for over-correction.
+#
+# --- "me" as the English pronoun, composed with an op word ---
+inspection of me
+me repair
+send me the change order
+give me a transfer to cardiology
+the nurse asked me to drain the line
+# --- "et" as Latin "et al" / conjunction ---
+et change
+smith et al repair of the manuscript
+review of et al control group
+# --- "bp" as blood pressure (a measurement, not a procedure) ---
+removal of bp
+bp removal
+bp control protocol
+elevated bp release form
+# --- "af" as atrial fibrillation (a diagnosis, not a procedure) ---
+af change in medication
+drain af fluid balance
+# --- "gb" / "cn" / "sb" / other 2-char tokens in non-procedure context ---
+gb change shift
+cn release of liability
+sb transfer of records
+om change of dressing supplies request
+# --- ordinary office/admin phrasing that collides with op words ---
+change of address
+transfer of records
+release of information
+control of documents
+map of the facility

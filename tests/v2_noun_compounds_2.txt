@@ -1,0 +1,1666 @@
+2W00X0Z	Change of the Head Traction Apparatus
+2W00X0Z	Head Traction Apparatus Change
+2W00X1Z	Change of the Head Splint
+2W00X1Z	Head Splint Change
+2W00X2Z	Change of the Head Cast
+2W00X2Z	Head Cast Change
+2W00X3Z	Change of the Head Brace
+2W00X3Z	Head Brace Change
+2W00X4Z	Change of the Head Bandage
+2W00X4Z	Head Bandage Change
+2W00X5Z	Change of the Head Packing Material
+2W00X5Z	Head Packing Material Change
+2W00X6Z	Change of the Head Pressure Dressing
+2W00X6Z	Head Pressure Dressing Change
+2W00X7Z	Change of the Head Intermittent Pressure Device
+2W00X7Z	Head Intermittent Pressure Device Change
+2W00XYZ	Change of the Head Other Device
+2W00XYZ	Head Other Device Change
+2W01X0Z	Change of the Face Traction Apparatus
+2W01X0Z	Face Traction Apparatus Change
+2W01X1Z	Change of the Face Splint
+2W01X1Z	Face Splint Change
+2W01X2Z	Change of the Face Cast
+2W01X2Z	Face Cast Change
+2W01X3Z	Change of the Face Brace
+2W01X3Z	Face Brace Change
+2W01X4Z	Change of the Face Bandage
+2W01X4Z	Face Bandage Change
+2W01X5Z	Change of the Face Packing Material
+2W01X5Z	Face Packing Material Change
+2W01X6Z	Change of the Face Pressure Dressing
+2W01X6Z	Face Pressure Dressing Change
+2W01X7Z	Change of the Face Intermittent Pressure Device
+2W01X7Z	Face Intermittent Pressure Device Change
+2W01X9Z	Change of the Face Wire
+2W01X9Z	Face Wire Change
+2W01XYZ	Change of the Face Other Device
+2W01XYZ	Face Other Device Change
+2W02X0Z	Change of the Neck Traction Apparatus
+2W02X0Z	Neck Traction Apparatus Change
+2W02X1Z	Change of the Neck Splint
+2W02X1Z	Neck Splint Change
+2W02X2Z	Change of the Neck Cast
+2W02X2Z	Neck Cast Change
+2W02X3Z	Change of the Neck Brace
+2W02X3Z	Neck Brace Change
+2W02X4Z	Change of the Neck Bandage
+2W02X4Z	Neck Bandage Change
+2W02X5Z	Change of the Neck Packing Material
+2W02X5Z	Neck Packing Material Change
+2W02X6Z	Change of the Neck Pressure Dressing
+2W02X6Z	Neck Pressure Dressing Change
+2W02X7Z	Change of the Neck Intermittent Pressure Device
+2W02X7Z	Neck Intermittent Pressure Device Change
+2W02XYZ	Change of the Neck Other Device
+2W02XYZ	Neck Other Device Change
+2W03X0Z	Change of the Abdominal Wall Traction Apparatus
+2W03X0Z	Abdominal Wall Traction Apparatus Change
+2W03X1Z	Change of the Abdominal Wall Splint
+2W03X1Z	Abdominal Wall Splint Change
+2W03X2Z	Change of the Abdominal Wall Cast
+2W03X2Z	Abdominal Wall Cast Change
+2W03X3Z	Change of the Abdominal Wall Brace
+2W03X3Z	Abdominal Wall Brace Change
+2W03X4Z	Change of the Abdominal Wall Bandage
+2W03X4Z	Abdominal Wall Bandage Change
+2W03X5Z	Change of the Abdominal Wall Packing Material
+2W03X5Z	Abdominal Wall Packing Material Change
+2W03X6Z	Change of the Abdominal Wall Pressure Dressing
+2W03X6Z	Abdominal Wall Pressure Dressing Change
+2W03X7Z	Change of the Abdominal Wall Intermittent Pressure Device
+2W03X7Z	Abdominal Wall Intermittent Pressure Device Change
+2W03XYZ	Change of the Abdominal Wall Other Device
+2W03XYZ	Abdominal Wall Other Device Change
+2W04X0Z	Change of the Chest Wall Traction Apparatus
+2W04X0Z	Chest Wall Traction Apparatus Change
+2W04X1Z	Change of the Chest Wall Splint
+2W04X1Z	Chest Wall Splint Change
+2W04X2Z	Change of the Chest Wall Cast
+2W04X2Z	Chest Wall Cast Change
+2W04X3Z	Change of the Chest Wall Brace
+2W04X3Z	Chest Wall Brace Change
+2W04X4Z	Change of the Chest Wall Bandage
+2W04X4Z	Chest Wall Bandage Change
+2W04X5Z	Change of the Chest Wall Packing Material
+2W04X5Z	Chest Wall Packing Material Change
+2W04X6Z	Change of the Chest Wall Pressure Dressing
+2W04X6Z	Chest Wall Pressure Dressing Change
+2W04X7Z	Change of the Chest Wall Intermittent Pressure Device
+2W04X7Z	Chest Wall Intermittent Pressure Device Change
+2W04XYZ	Change of the Chest Wall Other Device
+2W04XYZ	Chest Wall Other Device Change
+2W05X0Z	Change of the Back Traction Apparatus
+2W05X0Z	Back Traction Apparatus Change
+2W05X1Z	Change of the Back Splint
+2W05X1Z	Back Splint Change
+2W05X2Z	Change of the Back Cast
+2W05X2Z	Back Cast Change
+2W05X3Z	Change of the Back Brace
+2W05X3Z	Back Brace Change
+2W05X4Z	Change of the Back Bandage
+2W05X4Z	Back Bandage Change
+2W05X5Z	Change of the Back Packing Material
+2W05X5Z	Back Packing Material Change
+2W05X6Z	Change of the Back Pressure Dressing
+2W05X6Z	Back Pressure Dressing Change
+2W05X7Z	Change of the Back Intermittent Pressure Device
+2W05X7Z	Back Intermittent Pressure Device Change
+2W05XYZ	Change of the Back Other Device
+2W05XYZ	Back Other Device Change
+2W06X0Z	Change of the Right Inguinal Region Traction Apparatus
+2W06X0Z	Right Inguinal Region Traction Apparatus Change
+2W06X1Z	Change of the Right Inguinal Region Splint
+2W06X1Z	Right Inguinal Region Splint Change
+2W06X2Z	Change of the Right Inguinal Region Cast
+2W06X2Z	Right Inguinal Region Cast Change
+2W06X3Z	Change of the Right Inguinal Region Brace
+2W06X3Z	Right Inguinal Region Brace Change
+2W06X4Z	Change of the Right Inguinal Region Bandage
+2W06X4Z	Right Inguinal Region Bandage Change
+2W06X5Z	Change of the Right Inguinal Region Packing Material
+2W06X5Z	Right Inguinal Region Packing Material Change
+2W06X6Z	Change of the Right Inguinal Region Pressure Dressing
+2W06X6Z	Right Inguinal Region Pressure Dressing Change
+2W06X7Z	Change of the Right Inguinal Region Intermittent Pressure Device
+2W06X7Z	Right Inguinal Region Intermittent Pressure Device Change
+2W06XYZ	Change of the Right Inguinal Region Other Device
+2W06XYZ	Right Inguinal Region Other Device Change
+2W07X0Z	Change of the Left Inguinal Region Traction Apparatus
+2W07X0Z	Left Inguinal Region Traction Apparatus Change
+2W07X1Z	Change of the Left Inguinal Region Splint
+2W07X1Z	Left Inguinal Region Splint Change
+2W07X2Z	Change of the Left Inguinal Region Cast
+2W07X2Z	Left Inguinal Region Cast Change
+2W07X3Z	Change of the Left Inguinal Region Brace
+2W07X3Z	Left Inguinal Region Brace Change
+2W07X4Z	Change of the Left Inguinal Region Bandage
+2W07X4Z	Left Inguinal Region Bandage Change
+2W07X5Z	Change of the Left Inguinal Region Packing Material
+2W07X5Z	Left Inguinal Region Packing Material Change
+2W07X6Z	Change of the Left Inguinal Region Pressure Dressing
+2W07X6Z	Left Inguinal Region Pressure Dressing Change
+2W07X7Z	Change of the Left Inguinal Region Intermittent Pressure Device
+2W07X7Z	Left Inguinal Region Intermittent Pressure Device Change
+2W07XYZ	Change of the Left Inguinal Region Other Device
+2W07XYZ	Left Inguinal Region Other Device Change
+2W08X0Z	Change of the Right Upper Extremity Traction Apparatus
+2W08X0Z	Right Upper Extremity Traction Apparatus Change
+2W08X1Z	Change of the Right Upper Extremity Splint
+2W08X1Z	Right Upper Extremity Splint Change
+2W08X2Z	Change of the Right Upper Extremity Cast
+2W08X2Z	Right Upper Extremity Cast Change
+2W08X3Z	Change of the Right Upper Extremity Brace
+2W08X3Z	Right Upper Extremity Brace Change
+2W08X4Z	Change of the Right Upper Extremity Bandage
+2W08X4Z	Right Upper Extremity Bandage Change
+2W08X5Z	Change of the Right Upper Extremity Packing Material
+2W08X5Z	Right Upper Extremity Packing Material Change
+2W08X6Z	Change of the Right Upper Extremity Pressure Dressing
+2W08X6Z	Right Upper Extremity Pressure Dressing Change
+2W08X7Z	Change of the Right Upper Extremity Intermittent Pressure Device
+2W08X7Z	Right Upper Extremity Intermittent Pressure Device Change
+2W08XYZ	Change of the Right Upper Extremity Other Device
+2W08XYZ	Right Upper Extremity Other Device Change
+2W09X0Z	Change of the Left Upper Extremity Traction Apparatus
+2W09X0Z	Left Upper Extremity Traction Apparatus Change
+2W09X1Z	Change of the Left Upper Extremity Splint
+2W09X1Z	Left Upper Extremity Splint Change
+2W09X2Z	Change of the Left Upper Extremity Cast
+2W09X2Z	Left Upper Extremity Cast Change
+2W09X3Z	Change of the Left Upper Extremity Brace
+2W09X3Z	Left Upper Extremity Brace Change
+2W09X4Z	Change of the Left Upper Extremity Bandage
+2W09X4Z	Left Upper Extremity Bandage Change
+2W09X5Z	Change of the Left Upper Extremity Packing Material
+2W09X5Z	Left Upper Extremity Packing Material Change
+2W09X6Z	Change of the Left Upper Extremity Pressure Dressing
+2W09X6Z	Left Upper Extremity Pressure Dressing Change
+2W09X7Z	Change of the Left Upper Extremity Intermittent Pressure Device
+2W09X7Z	Left Upper Extremity Intermittent Pressure Device Change
+2W09XYZ	Change of the Left Upper Extremity Other Device
+2W09XYZ	Left Upper Extremity Other Device Change
+2W0AX0Z	Change of the Right Upper Arm Traction Apparatus
+2W0AX0Z	Right Upper Arm Traction Apparatus Change
+2W0AX1Z	Change of the Right Upper Arm Splint
+2W0AX1Z	Right Upper Arm Splint Change
+2W0AX2Z	Change of the Right Upper Arm Cast
+2W0AX2Z	Right Upper Arm Cast Change
+2W0AX3Z	Change of the Right Upper Arm Brace
+2W0AX3Z	Right Upper Arm Brace Change
+2W0AX4Z	Change of the Right Upper Arm Bandage
+2W0AX4Z	Right Upper Arm Bandage Change
+2W0AX5Z	Change of the Right Upper Arm Packing Material
+2W0AX5Z	Right Upper Arm Packing Material Change
+2W0AX6Z	Change of the Right Upper Arm Pressure Dressing
+2W0AX6Z	Right Upper Arm Pressure Dressing Change
+2W0AX7Z	Change of the Right Upper Arm Intermittent Pressure Device
+2W0AX7Z	Right Upper Arm Intermittent Pressure Device Change
+2W0AXYZ	Change of the Right Upper Arm Other Device
+2W0AXYZ	Right Upper Arm Other Device Change
+2W0BX0Z	Change of the Left Upper Arm Traction Apparatus
+2W0BX0Z	Left Upper Arm Traction Apparatus Change
+2W0BX1Z	Change of the Left Upper Arm Splint
+2W0BX1Z	Left Upper Arm Splint Change
+2W0BX2Z	Change of the Left Upper Arm Cast
+2W0BX2Z	Left Upper Arm Cast Change
+2W0BX3Z	Change of the Left Upper Arm Brace
+2W0BX3Z	Left Upper Arm Brace Change
+2W0BX4Z	Change of the Left Upper Arm Bandage
+2W0BX4Z	Left Upper Arm Bandage Change
+2W0BX5Z	Change of the Left Upper Arm Packing Material
+2W0BX5Z	Left Upper Arm Packing Material Change
+2W0BX6Z	Change of the Left Upper Arm Pressure Dressing
+2W0BX6Z	Left Upper Arm Pressure Dressing Change
+2W0BX7Z	Change of the Left Upper Arm Intermittent Pressure Device
+2W0BX7Z	Left Upper Arm Intermittent Pressure Device Change
+2W0BXYZ	Change of the Left Upper Arm Other Device
+2W0BXYZ	Left Upper Arm Other Device Change
+2W0CX0Z	Change of the Right Lower Arm Traction Apparatus
+2W0CX0Z	Right Lower Arm Traction Apparatus Change
+2W0CX1Z	Change of the Right Lower Arm Splint
+2W0CX1Z	Right Lower Arm Splint Change
+2W0CX2Z	Change of the Right Lower Arm Cast
+2W0CX2Z	Right Lower Arm Cast Change
+2W0CX3Z	Change of the Right Lower Arm Brace
+2W0CX3Z	Right Lower Arm Brace Change
+2W0CX4Z	Change of the Right Lower Arm Bandage
+2W0CX4Z	Right Lower Arm Bandage Change
+2W0CX5Z	Change of the Right Lower Arm Packing Material
+2W0CX5Z	Right Lower Arm Packing Material Change
+2W0CX6Z	Change of the Right Lower Arm Pressure Dressing
+2W0CX6Z	Right Lower Arm Pressure Dressing Change
+2W0CX7Z	Change of the Right Lower Arm Intermittent Pressure Device
+2W0CX7Z	Right Lower Arm Intermittent Pressure Device Change
+2W0CXYZ	Change of the Right Lower Arm Other Device
+2W0CXYZ	Right Lower Arm Other Device Change
+2W0DX0Z	Change of the Left Lower Arm Traction Apparatus
+2W0DX0Z	Left Lower Arm Traction Apparatus Change
+2W0DX1Z	Change of the Left Lower Arm Splint
+2W0DX1Z	Left Lower Arm Splint Change
+2W0DX2Z	Change of the Left Lower Arm Cast
+2W0DX2Z	Left Lower Arm Cast Change
+2W0DX3Z	Change of the Left Lower Arm Brace
+2W0DX3Z	Left Lower Arm Brace Change
+2W0DX4Z	Change of the Left Lower Arm Bandage
+2W0DX4Z	Left Lower Arm Bandage Change
+2W0DX5Z	Change of the Left Lower Arm Packing Material
+2W0DX5Z	Left Lower Arm Packing Material Change
+2W0DX6Z	Change of the Left Lower Arm Pressure Dressing
+2W0DX6Z	Left Lower Arm Pressure Dressing Change
+2W0DX7Z	Change of the Left Lower Arm Intermittent Pressure Device
+2W0DX7Z	Left Lower Arm Intermittent Pressure Device Change
+2W0DXYZ	Change of the Left Lower Arm Other Device
+2W0DXYZ	Left Lower Arm Other Device Change
+2W0EX0Z	Change of the Right Hand Traction Apparatus
+2W0EX0Z	Right Hand Traction Apparatus Change
+2W0EX1Z	Change of the Right Hand Splint
+2W0EX1Z	Right Hand Splint Change
+2W0EX2Z	Change of the Right Hand Cast
+2W0EX2Z	Right Hand Cast Change
+2W0EX3Z	Change of the Right Hand Brace
+2W0EX3Z	Right Hand Brace Change
+2W0EX4Z	Change of the Right Hand Bandage
+2W0EX4Z	Right Hand Bandage Change
+2W0EX5Z	Change of the Right Hand Packing Material
+2W0EX5Z	Right Hand Packing Material Change
+2W0EX6Z	Change of the Right Hand Pressure Dressing
+2W0EX6Z	Right Hand Pressure Dressing Change
+2W0EX7Z	Change of the Right Hand Intermittent Pressure Device
+2W0EX7Z	Right Hand Intermittent Pressure Device Change
+2W0EXYZ	Change of the Right Hand Other Device
+2W0EXYZ	Right Hand Other Device Change
+2W0FX0Z	Change of the Left Hand Traction Apparatus
+2W0FX0Z	Left Hand Traction Apparatus Change
+2W0FX1Z	Change of the Left Hand Splint
+2W0FX1Z	Left Hand Splint Change
+2W0FX2Z	Change of the Left Hand Cast
+2W0FX2Z	Left Hand Cast Change
+2W0FX3Z	Change of the Left Hand Brace
+2W0FX3Z	Left Hand Brace Change
+2W0FX4Z	Change of the Left Hand Bandage
+2W0FX4Z	Left Hand Bandage Change
+2W0FX5Z	Change of the Left Hand Packing Material
+2W0FX5Z	Left Hand Packing Material Change
+2W0FX6Z	Change of the Left Hand Pressure Dressing
+2W0FX6Z	Left Hand Pressure Dressing Change
+2W0FX7Z	Change of the Left Hand Intermittent Pressure Device
+2W0FX7Z	Left Hand Intermittent Pressure Device Change
+2W0FXYZ	Change of the Left Hand Other Device
+2W0FXYZ	Left Hand Other Device Change
+2W0GX0Z	Change of the Right Thumb Traction Apparatus
+2W0GX0Z	Right Thumb Traction Apparatus Change
+2W0GX1Z	Change of the Right Thumb Splint
+2W0GX1Z	Right Thumb Splint Change
+2W0GX2Z	Change of the Right Thumb Cast
+2W0GX2Z	Right Thumb Cast Change
+2W0GX3Z	Change of the Right Thumb Brace
+2W0GX3Z	Right Thumb Brace Change
+2W0GX4Z	Change of the Right Thumb Bandage
+2W0GX4Z	Right Thumb Bandage Change
+2W0GX5Z	Change of the Right Thumb Packing Material
+2W0GX5Z	Right Thumb Packing Material Change
+2W0GX6Z	Change of the Right Thumb Pressure Dressing
+2W0GX6Z	Right Thumb Pressure Dressing Change
+2W0GX7Z	Change of the Right Thumb Intermittent Pressure Device
+2W0GX7Z	Right Thumb Intermittent Pressure Device Change
+2W0GXYZ	Change of the Right Thumb Other Device
+2W0GXYZ	Right Thumb Other Device Change
+2W0HX0Z	Change of the Left Thumb Traction Apparatus
+2W0HX0Z	Left Thumb Traction Apparatus Change
+2W0HX1Z	Change of the Left Thumb Splint
+2W0HX1Z	Left Thumb Splint Change
+2W0HX2Z	Change of the Left Thumb Cast
+2W0HX2Z	Left Thumb Cast Change
+2W0HX3Z	Change of the Left Thumb Brace
+2W0HX3Z	Left Thumb Brace Change
+2W0HX4Z	Change of the Left Thumb Bandage
+2W0HX4Z	Left Thumb Bandage Change
+2W0HX5Z	Change of the Left Thumb Packing Material
+2W0HX5Z	Left Thumb Packing Material Change
+2W0HX6Z	Change of the Left Thumb Pressure Dressing
+2W0HX6Z	Left Thumb Pressure Dressing Change
+2W0HX7Z	Change of the Left Thumb Intermittent Pressure Device
+2W0HX7Z	Left Thumb Intermittent Pressure Device Change
+2W0HXYZ	Change of the Left Thumb Other Device
+2W0HXYZ	Left Thumb Other Device Change
+2W0JX0Z	Change of the Right Finger Traction Apparatus
+2W0JX0Z	Right Finger Traction Apparatus Change
+2W0JX1Z	Change of the Right Finger Splint
+2W0JX1Z	Right Finger Splint Change
+2W0JX2Z	Change of the Right Finger Cast
+2W0JX2Z	Right Finger Cast Change
+2W0JX3Z	Change of the Right Finger Brace
+2W0JX3Z	Right Finger Brace Change
+2W0JX4Z	Change of the Right Finger Bandage
+2W0JX4Z	Right Finger Bandage Change
+2W0JX5Z	Change of the Right Finger Packing Material
+2W0JX5Z	Right Finger Packing Material Change
+2W0JX6Z	Change of the Right Finger Pressure Dressing
+2W0JX6Z	Right Finger Pressure Dressing Change
+2W0JX7Z	Change of the Right Finger Intermittent Pressure Device
+2W0JX7Z	Right Finger Intermittent Pressure Device Change
+2W0JXYZ	Change of the Right Finger Other Device
+2W0JXYZ	Right Finger Other Device Change
+2W0KX0Z	Change of the Left Finger Traction Apparatus
+2W0KX0Z	Left Finger Traction Apparatus Change
+2W0KX1Z	Change of the Left Finger Splint
+2W0KX1Z	Left Finger Splint Change
+2W0KX2Z	Change of the Left Finger Cast
+2W0KX2Z	Left Finger Cast Change
+2W0KX3Z	Change of the Left Finger Brace
+2W0KX3Z	Left Finger Brace Change
+2W0KX4Z	Change of the Left Finger Bandage
+2W0KX4Z	Left Finger Bandage Change
+2W0KX5Z	Change of the Left Finger Packing Material
+2W0KX5Z	Left Finger Packing Material Change
+2W0KX6Z	Change of the Left Finger Pressure Dressing
+2W0KX6Z	Left Finger Pressure Dressing Change
+2W0KX7Z	Change of the Left Finger Intermittent Pressure Device
+2W0KX7Z	Left Finger Intermittent Pressure Device Change
+2W0KXYZ	Change of the Left Finger Other Device
+2W0KXYZ	Left Finger Other Device Change
+2W0MX0Z	Change of the Left Lower Extremity Traction Apparatus
+2W0MX0Z	Left Lower Extremity Traction Apparatus Change
+2W0MX1Z	Change of the Left Lower Extremity Splint
+2W0MX1Z	Left Lower Extremity Splint Change
+2W0MX2Z	Change of the Left Lower Extremity Cast
+2W0MX2Z	Left Lower Extremity Cast Change
+2W0MX3Z	Change of the Left Lower Extremity Brace
+2W0MX3Z	Left Lower Extremity Brace Change
+2W0MX4Z	Change of the Left Lower Extremity Bandage
+2W0MX4Z	Left Lower Extremity Bandage Change
+2W0MX5Z	Change of the Left Lower Extremity Packing Material
+2W0MX5Z	Left Lower Extremity Packing Material Change
+2W0MX6Z	Change of the Left Lower Extremity Pressure Dressing
+2W0MX6Z	Left Lower Extremity Pressure Dressing Change
+2W0MX7Z	Change of the Left Lower Extremity Intermittent Pressure Device
+2W0MX7Z	Left Lower Extremity Intermittent Pressure Device Change
+2W0MXYZ	Change of the Left Lower Extremity Other Device
+2W0MXYZ	Left Lower Extremity Other Device Change
+2W0NX0Z	Change of the Right Upper Leg Traction Apparatus
+2W0NX0Z	Right Upper Leg Traction Apparatus Change
+2W0NX1Z	Change of the Right Upper Leg Splint
+2W0NX1Z	Right Upper Leg Splint Change
+2W0NX2Z	Change of the Right Upper Leg Cast
+2W0NX2Z	Right Upper Leg Cast Change
+2W0NX3Z	Change of the Right Upper Leg Brace
+2W0NX3Z	Right Upper Leg Brace Change
+2W0NX4Z	Change of the Right Upper Leg Bandage
+2W0NX4Z	Right Upper Leg Bandage Change
+2W0NX5Z	Change of the Right Upper Leg Packing Material
+2W0NX5Z	Right Upper Leg Packing Material Change
+2W0NX6Z	Change of the Right Upper Leg Pressure Dressing
+2W0NX6Z	Right Upper Leg Pressure Dressing Change
+2W0NX7Z	Change of the Right Upper Leg Intermittent Pressure Device
+2W0NX7Z	Right Upper Leg Intermittent Pressure Device Change
+2W0NXYZ	Change of the Right Upper Leg Other Device
+2W0NXYZ	Right Upper Leg Other Device Change
+2W0PX0Z	Change of the Left Upper Leg Traction Apparatus
+2W0PX0Z	Left Upper Leg Traction Apparatus Change
+2W0PX1Z	Change of the Left Upper Leg Splint
+2W0PX1Z	Left Upper Leg Splint Change
+2W0PX2Z	Change of the Left Upper Leg Cast
+2W0PX2Z	Left Upper Leg Cast Change
+2W0PX3Z	Change of the Left Upper Leg Brace
+2W0PX3Z	Left Upper Leg Brace Change
+2W0PX4Z	Change of the Left Upper Leg Bandage
+2W0PX4Z	Left Upper Leg Bandage Change
+2W0PX5Z	Change of the Left Upper Leg Packing Material
+2W0PX5Z	Left Upper Leg Packing Material Change
+2W0PX6Z	Change of the Left Upper Leg Pressure Dressing
+2W0PX6Z	Left Upper Leg Pressure Dressing Change
+2W0PX7Z	Change of the Left Upper Leg Intermittent Pressure Device
+2W0PX7Z	Left Upper Leg Intermittent Pressure Device Change
+2W0PXYZ	Change of the Left Upper Leg Other Device
+2W0PXYZ	Left Upper Leg Other Device Change
+2W0QX0Z	Change of the Right Lower Leg Traction Apparatus
+2W0QX0Z	Right Lower Leg Traction Apparatus Change
+2W0QX1Z	Change of the Right Lower Leg Splint
+2W0QX1Z	Right Lower Leg Splint Change
+2W0QX2Z	Change of the Right Lower Leg Cast
+2W0QX2Z	Right Lower Leg Cast Change
+2W0QX3Z	Change of the Right Lower Leg Brace
+2W0QX3Z	Right Lower Leg Brace Change
+2W0QX4Z	Change of the Right Lower Leg Bandage
+2W0QX4Z	Right Lower Leg Bandage Change
+2W0QX5Z	Change of the Right Lower Leg Packing Material
+2W0QX5Z	Right Lower Leg Packing Material Change
+2W0QX6Z	Change of the Right Lower Leg Pressure Dressing
+2W0QX6Z	Right Lower Leg Pressure Dressing Change
+2W0QX7Z	Change of the Right Lower Leg Intermittent Pressure Device
+2W0QX7Z	Right Lower Leg Intermittent Pressure Device Change
+2W0QXYZ	Change of the Right Lower Leg Other Device
+2W0QXYZ	Right Lower Leg Other Device Change
+2W0RX0Z	Change of the Left Lower Leg Traction Apparatus
+2W0RX0Z	Left Lower Leg Traction Apparatus Change
+2W0RX1Z	Change of the Left Lower Leg Splint
+2W0RX1Z	Left Lower Leg Splint Change
+2W0RX2Z	Change of the Left Lower Leg Cast
+2W0RX2Z	Left Lower Leg Cast Change
+2W0RX3Z	Change of the Left Lower Leg Brace
+2W0RX3Z	Left Lower Leg Brace Change
+2W0RX4Z	Change of the Left Lower Leg Bandage
+2W0RX4Z	Left Lower Leg Bandage Change
+2W0RX5Z	Change of the Left Lower Leg Packing Material
+2W0RX5Z	Left Lower Leg Packing Material Change
+2W0RX6Z	Change of the Left Lower Leg Pressure Dressing
+2W0RX6Z	Left Lower Leg Pressure Dressing Change
+2W0RX7Z	Change of the Left Lower Leg Intermittent Pressure Device
+2W0RX7Z	Left Lower Leg Intermittent Pressure Device Change
+2W0RXYZ	Change of the Left Lower Leg Other Device
+2W0RXYZ	Left Lower Leg Other Device Change
+2W0SX0Z	Change of the Right Foot Traction Apparatus
+2W0SX0Z	Right Foot Traction Apparatus Change
+2W0SX1Z	Change of the Right Foot Splint
+2W0SX1Z	Right Foot Splint Change
+2W0SX2Z	Change of the Right Foot Cast
+2W0SX2Z	Right Foot Cast Change
+2W0SX3Z	Change of the Right Foot Brace
+2W0SX3Z	Right Foot Brace Change
+2W0SX4Z	Change of the Right Foot Bandage
+2W0SX4Z	Right Foot Bandage Change
+2W0SX5Z	Change of the Right Foot Packing Material
+2W0SX5Z	Right Foot Packing Material Change
+2W0SX6Z	Change of the Right Foot Pressure Dressing
+2W0SX6Z	Right Foot Pressure Dressing Change
+2W0SX7Z	Change of the Right Foot Intermittent Pressure Device
+2W0SX7Z	Right Foot Intermittent Pressure Device Change
+2W0SXYZ	Change of the Right Foot Other Device
+2W0SXYZ	Right Foot Other Device Change
+2W0TX0Z	Change of the Left Foot Traction Apparatus
+2W0TX0Z	Left Foot Traction Apparatus Change
+2W0TX1Z	Change of the Left Foot Splint
+2W0TX1Z	Left Foot Splint Change
+2W0TX2Z	Change of the Left Foot Cast
+2W0TX2Z	Left Foot Cast Change
+2W0TX3Z	Change of the Left Foot Brace
+2W0TX3Z	Left Foot Brace Change
+2W0TX4Z	Change of the Left Foot Bandage
+2W0TX4Z	Left Foot Bandage Change
+2W0TX5Z	Change of the Left Foot Packing Material
+2W0TX5Z	Left Foot Packing Material Change
+2W0TX6Z	Change of the Left Foot Pressure Dressing
+2W0TX6Z	Left Foot Pressure Dressing Change
+2W0TX7Z	Change of the Left Foot Intermittent Pressure Device
+2W0TX7Z	Left Foot Intermittent Pressure Device Change
+2W0TXYZ	Change of the Left Foot Other Device
+2W0TXYZ	Left Foot Other Device Change
+2W0UX0Z	Change of the Right Toe Traction Apparatus
+2W0UX0Z	Right Toe Traction Apparatus Change
+2W0UX1Z	Change of the Right Toe Splint
+2W0UX1Z	Right Toe Splint Change
+2W0UX2Z	Change of the Right Toe Cast
+2W0UX2Z	Right Toe Cast Change
+2W0UX3Z	Change of the Right Toe Brace
+2W0UX3Z	Right Toe Brace Change
+2W0UX4Z	Change of the Right Toe Bandage
+2W0UX4Z	Right Toe Bandage Change
+2W0UX5Z	Change of the Right Toe Packing Material
+2W0UX5Z	Right Toe Packing Material Change
+2W0UX6Z	Change of the Right Toe Pressure Dressing
+2W0UX6Z	Right Toe Pressure Dressing Change
+2W0UX7Z	Change of the Right Toe Intermittent Pressure Device
+2W0UX7Z	Right Toe Intermittent Pressure Device Change
+2W0UXYZ	Change of the Right Toe Other Device
+2W0UXYZ	Right Toe Other Device Change
+2W0VX0Z	Change of the Left Toe Traction Apparatus
+2W0VX0Z	Left Toe Traction Apparatus Change
+2W0VX1Z	Change of the Left Toe Splint
+2W0VX1Z	Left Toe Splint Change
+2W0VX2Z	Change of the Left Toe Cast
+2W0VX2Z	Left Toe Cast Change
+2W0VX3Z	Change of the Left Toe Brace
+2W0VX3Z	Left Toe Brace Change
+2W0VX4Z	Change of the Left Toe Bandage
+2W0VX4Z	Left Toe Bandage Change
+2W0VX5Z	Change of the Left Toe Packing Material
+2W0VX5Z	Left Toe Packing Material Change
+2W0VX6Z	Change of the Left Toe Pressure Dressing
+2W0VX6Z	Left Toe Pressure Dressing Change
+2W0VX7Z	Change of the Left Toe Intermittent Pressure Device
+2W0VX7Z	Left Toe Intermittent Pressure Device Change
+2W0VXYZ	Change of the Left Toe Other Device
+2W0VXYZ	Left Toe Other Device Change
+2W10X6Z	Compression of the Head Pressure Dressing
+2W10X6Z	Head Pressure Dressing Compression
+2W10X7Z	Compression of the Head Intermittent Pressure Device
+2W10X7Z	Head Intermittent Pressure Device Compression
+2W11X6Z	Compression of the Face Pressure Dressing
+2W11X6Z	Face Pressure Dressing Compression
+2W11X7Z	Compression of the Face Intermittent Pressure Device
+2W11X7Z	Face Intermittent Pressure Device Compression
+2W12X6Z	Compression of the Neck Pressure Dressing
+2W12X6Z	Neck Pressure Dressing Compression
+2W12X7Z	Compression of the Neck Intermittent Pressure Device
+2W12X7Z	Neck Intermittent Pressure Device Compression
+2W13X6Z	Compression of the Abdominal Wall Pressure Dressing
+2W13X6Z	Abdominal Wall Pressure Dressing Compression
+2W13X7Z	Compression of the Abdominal Wall Intermittent Pressure Device
+2W13X7Z	Abdominal Wall Intermittent Pressure Device Compression
+2W14X6Z	Compression of the Chest Wall Pressure Dressing
+2W14X6Z	Chest Wall Pressure Dressing Compression
+2W14X7Z	Compression of the Chest Wall Intermittent Pressure Device
+2W14X7Z	Chest Wall Intermittent Pressure Device Compression
+2W15X6Z	Compression of the Back Pressure Dressing
+2W15X6Z	Back Pressure Dressing Compression
+2W15X7Z	Compression of the Back Intermittent Pressure Device
+2W15X7Z	Back Intermittent Pressure Device Compression
+2W16X6Z	Compression of the Right Inguinal Region Pressure Dressing
+2W16X6Z	Right Inguinal Region Pressure Dressing Compression
+2W16X7Z	Compression of the Right Inguinal Region Intermittent Pressure Device
+2W16X7Z	Right Inguinal Region Intermittent Pressure Device Compression
+2W17X6Z	Compression of the Left Inguinal Region Pressure Dressing
+2W17X6Z	Left Inguinal Region Pressure Dressing Compression
+2W17X7Z	Compression of the Left Inguinal Region Intermittent Pressure Device
+2W17X7Z	Left Inguinal Region Intermittent Pressure Device Compression
+2W18X6Z	Compression of the Right Upper Extremity Pressure Dressing
+2W18X6Z	Right Upper Extremity Pressure Dressing Compression
+2W18X7Z	Compression of the Right Upper Extremity Intermittent Pressure Device
+2W18X7Z	Right Upper Extremity Intermittent Pressure Device Compression
+2W19X6Z	Compression of the Left Upper Extremity Pressure Dressing
+2W19X6Z	Left Upper Extremity Pressure Dressing Compression
+2W19X7Z	Compression of the Left Upper Extremity Intermittent Pressure Device
+2W19X7Z	Left Upper Extremity Intermittent Pressure Device Compression
+2W1AX6Z	Compression of the Right Upper Arm Pressure Dressing
+2W1AX6Z	Right Upper Arm Pressure Dressing Compression
+2W1AX7Z	Compression of the Right Upper Arm Intermittent Pressure Device
+2W1AX7Z	Right Upper Arm Intermittent Pressure Device Compression
+2W1BX6Z	Compression of the Left Upper Arm Pressure Dressing
+2W1BX6Z	Left Upper Arm Pressure Dressing Compression
+2W1BX7Z	Compression of the Left Upper Arm Intermittent Pressure Device
+2W1BX7Z	Left Upper Arm Intermittent Pressure Device Compression
+2W1CX6Z	Compression of the Right Lower Arm Pressure Dressing
+2W1CX6Z	Right Lower Arm Pressure Dressing Compression
+2W1CX7Z	Compression of the Right Lower Arm Intermittent Pressure Device
+2W1CX7Z	Right Lower Arm Intermittent Pressure Device Compression
+2W1DX6Z	Compression of the Left Lower Arm Pressure Dressing
+2W1DX6Z	Left Lower Arm Pressure Dressing Compression
+2W1DX7Z	Compression of the Left Lower Arm Intermittent Pressure Device
+2W1DX7Z	Left Lower Arm Intermittent Pressure Device Compression
+2W1EX6Z	Compression of the Right Hand Pressure Dressing
+2W1EX6Z	Right Hand Pressure Dressing Compression
+2W1EX7Z	Compression of the Right Hand Intermittent Pressure Device
+2W1EX7Z	Right Hand Intermittent Pressure Device Compression
+2W1FX6Z	Compression of the Left Hand Pressure Dressing
+2W1FX6Z	Left Hand Pressure Dressing Compression
+2W1FX7Z	Compression of the Left Hand Intermittent Pressure Device
+2W1FX7Z	Left Hand Intermittent Pressure Device Compression
+2W1GX6Z	Compression of the Right Thumb Pressure Dressing
+2W1GX6Z	Right Thumb Pressure Dressing Compression
+2W1GX7Z	Compression of the Right Thumb Intermittent Pressure Device
+2W1GX7Z	Right Thumb Intermittent Pressure Device Compression
+2W1HX6Z	Compression of the Left Thumb Pressure Dressing
+2W1HX6Z	Left Thumb Pressure Dressing Compression
+2W1HX7Z	Compression of the Left Thumb Intermittent Pressure Device
+2W1HX7Z	Left Thumb Intermittent Pressure Device Compression
+2W1JX6Z	Compression of the Right Finger Pressure Dressing
+2W1JX6Z	Right Finger Pressure Dressing Compression
+2W1JX7Z	Compression of the Right Finger Intermittent Pressure Device
+2W1JX7Z	Right Finger Intermittent Pressure Device Compression
+2W1KX6Z	Compression of the Left Finger Pressure Dressing
+2W1KX6Z	Left Finger Pressure Dressing Compression
+2W1KX7Z	Compression of the Left Finger Intermittent Pressure Device
+2W1KX7Z	Left Finger Intermittent Pressure Device Compression
+2W1MX6Z	Compression of the Left Lower Extremity Pressure Dressing
+2W1MX6Z	Left Lower Extremity Pressure Dressing Compression
+2W1MX7Z	Compression of the Left Lower Extremity Intermittent Pressure Device
+2W1MX7Z	Left Lower Extremity Intermittent Pressure Device Compression
+2W1NX6Z	Compression of the Right Upper Leg Pressure Dressing
+2W1NX6Z	Right Upper Leg Pressure Dressing Compression
+2W1NX7Z	Compression of the Right Upper Leg Intermittent Pressure Device
+2W1NX7Z	Right Upper Leg Intermittent Pressure Device Compression
+2W1PX6Z	Compression of the Left Upper Leg Pressure Dressing
+2W1PX6Z	Left Upper Leg Pressure Dressing Compression
+2W1PX7Z	Compression of the Left Upper Leg Intermittent Pressure Device
+2W1PX7Z	Left Upper Leg Intermittent Pressure Device Compression
+2W1QX6Z	Compression of the Right Lower Leg Pressure Dressing
+2W1QX6Z	Right Lower Leg Pressure Dressing Compression
+2W1QX7Z	Compression of the Right Lower Leg Intermittent Pressure Device
+2W1QX7Z	Right Lower Leg Intermittent Pressure Device Compression
+2W1RX6Z	Compression of the Left Lower Leg Pressure Dressing
+2W1RX6Z	Left Lower Leg Pressure Dressing Compression
+2W1RX7Z	Compression of the Left Lower Leg Intermittent Pressure Device
+2W1RX7Z	Left Lower Leg Intermittent Pressure Device Compression
+2W1SX6Z	Compression of the Right Foot Pressure Dressing
+2W1SX6Z	Right Foot Pressure Dressing Compression
+2W1SX7Z	Compression of the Right Foot Intermittent Pressure Device
+2W1SX7Z	Right Foot Intermittent Pressure Device Compression
+2W1TX6Z	Compression of the Left Foot Pressure Dressing
+2W1TX6Z	Left Foot Pressure Dressing Compression
+2W1TX7Z	Compression of the Left Foot Intermittent Pressure Device
+2W1TX7Z	Left Foot Intermittent Pressure Device Compression
+2W1UX6Z	Compression of the Right Toe Pressure Dressing
+2W1UX6Z	Right Toe Pressure Dressing Compression
+2W1UX7Z	Compression of the Right Toe Intermittent Pressure Device
+2W1UX7Z	Right Toe Intermittent Pressure Device Compression
+2W1VX6Z	Compression of the Left Toe Pressure Dressing
+2W1VX6Z	Left Toe Pressure Dressing Compression
+2W1VX7Z	Compression of the Left Toe Intermittent Pressure Device
+2W1VX7Z	Left Toe Intermittent Pressure Device Compression
+2W20X4Z	Dressing of the Head Bandage
+2W20X4Z	Head Bandage Dressing
+2W21X4Z	Dressing of the Face Bandage
+2W21X4Z	Face Bandage Dressing
+2W22X4Z	Dressing of the Neck Bandage
+2W22X4Z	Neck Bandage Dressing
+2W23X4Z	Dressing of the Abdominal Wall Bandage
+2W23X4Z	Abdominal Wall Bandage Dressing
+2W24X4Z	Dressing of the Chest Wall Bandage
+2W24X4Z	Chest Wall Bandage Dressing
+2W25X4Z	Dressing of the Back Bandage
+2W25X4Z	Back Bandage Dressing
+2W26X4Z	Dressing of the Right Inguinal Region Bandage
+2W26X4Z	Right Inguinal Region Bandage Dressing
+2W27X4Z	Dressing of the Left Inguinal Region Bandage
+2W27X4Z	Left Inguinal Region Bandage Dressing
+2W28X4Z	Dressing of the Right Upper Extremity Bandage
+2W28X4Z	Right Upper Extremity Bandage Dressing
+2W29X4Z	Dressing of the Left Upper Extremity Bandage
+2W29X4Z	Left Upper Extremity Bandage Dressing
+2W2AX4Z	Dressing of the Right Upper Arm Bandage
+2W2AX4Z	Right Upper Arm Bandage Dressing
+2W2BX4Z	Dressing of the Left Upper Arm Bandage
+2W2BX4Z	Left Upper Arm Bandage Dressing
+2W2CX4Z	Dressing of the Right Lower Arm Bandage
+2W2CX4Z	Right Lower Arm Bandage Dressing
+2W2DX4Z	Dressing of the Left Lower Arm Bandage
+2W2DX4Z	Left Lower Arm Bandage Dressing
+2W2EX4Z	Dressing of the Right Hand Bandage
+2W2EX4Z	Right Hand Bandage Dressing
+2W2FX4Z	Dressing of the Left Hand Bandage
+2W2FX4Z	Left Hand Bandage Dressing
+2W2GX4Z	Dressing of the Right Thumb Bandage
+2W2GX4Z	Right Thumb Bandage Dressing
+2W2HX4Z	Dressing of the Left Thumb Bandage
+2W2HX4Z	Left Thumb Bandage Dressing
+2W2JX4Z	Dressing of the Right Finger Bandage
+2W2JX4Z	Right Finger Bandage Dressing
+2W2KX4Z	Dressing of the Left Finger Bandage
+2W2KX4Z	Left Finger Bandage Dressing
+2W2MX4Z	Dressing of the Left Lower Extremity Bandage
+2W2MX4Z	Left Lower Extremity Bandage Dressing
+2W2NX4Z	Dressing of the Right Upper Leg Bandage
+2W2NX4Z	Right Upper Leg Bandage Dressing
+2W2PX4Z	Dressing of the Left Upper Leg Bandage
+2W2PX4Z	Left Upper Leg Bandage Dressing
+2W2QX4Z	Dressing of the Right Lower Leg Bandage
+2W2QX4Z	Right Lower Leg Bandage Dressing
+2W2RX4Z	Dressing of the Left Lower Leg Bandage
+2W2RX4Z	Left Lower Leg Bandage Dressing
+2W2SX4Z	Dressing of the Right Foot Bandage
+2W2SX4Z	Right Foot Bandage Dressing
+2W2TX4Z	Dressing of the Left Foot Bandage
+2W2TX4Z	Left Foot Bandage Dressing
+2W2UX4Z	Dressing of the Right Toe Bandage
+2W2UX4Z	Right Toe Bandage Dressing
+2W2VX4Z	Dressing of the Left Toe Bandage
+2W2VX4Z	Left Toe Bandage Dressing
+2W30X1Z	Immobilization of the Head Splint
+2W30X1Z	Head Splint Immobilization
+2W30X2Z	Immobilization of the Head Cast
+2W30X2Z	Head Cast Immobilization
+2W30X3Z	Immobilization of the Head Brace
+2W30X3Z	Head Brace Immobilization
+2W30XYZ	Immobilization of the Head Other Device
+2W30XYZ	Head Other Device Immobilization
+2W31X1Z	Immobilization of the Face Splint
+2W31X1Z	Face Splint Immobilization
+2W31X2Z	Immobilization of the Face Cast
+2W31X2Z	Face Cast Immobilization
+2W31X3Z	Immobilization of the Face Brace
+2W31X3Z	Face Brace Immobilization
+2W31X9Z	Immobilization of the Face Wire
+2W31X9Z	Face Wire Immobilization
+2W31XYZ	Immobilization of the Face Other Device
+2W31XYZ	Face Other Device Immobilization
+2W32X1Z	Immobilization of the Neck Splint
+2W32X1Z	Neck Splint Immobilization
+2W32X2Z	Immobilization of the Neck Cast
+2W32X2Z	Neck Cast Immobilization
+2W32X3Z	Immobilization of the Neck Brace
+2W32X3Z	Neck Brace Immobilization
+2W32XYZ	Immobilization of the Neck Other Device
+2W32XYZ	Neck Other Device Immobilization
+2W33X1Z	Immobilization of the Abdominal Wall Splint
+2W33X1Z	Abdominal Wall Splint Immobilization
+2W33X2Z	Immobilization of the Abdominal Wall Cast
+2W33X2Z	Abdominal Wall Cast Immobilization
+2W33X3Z	Immobilization of the Abdominal Wall Brace
+2W33X3Z	Abdominal Wall Brace Immobilization
+2W33XYZ	Immobilization of the Abdominal Wall Other Device
+2W33XYZ	Abdominal Wall Other Device Immobilization
+2W34X1Z	Immobilization of the Chest Wall Splint
+2W34X1Z	Chest Wall Splint Immobilization
+2W34X2Z	Immobilization of the Chest Wall Cast
+2W34X2Z	Chest Wall Cast Immobilization
+2W34X3Z	Immobilization of the Chest Wall Brace
+2W34X3Z	Chest Wall Brace Immobilization
+2W34XYZ	Immobilization of the Chest Wall Other Device
+2W34XYZ	Chest Wall Other Device Immobilization
+2W35X1Z	Immobilization of the Back Splint
+2W35X1Z	Back Splint Immobilization
+2W35X2Z	Immobilization of the Back Cast
+2W35X2Z	Back Cast Immobilization
+2W35X3Z	Immobilization of the Back Brace
+2W35X3Z	Back Brace Immobilization
+2W35XYZ	Immobilization of the Back Other Device
+2W35XYZ	Back Other Device Immobilization
+2W36X1Z	Immobilization of the Right Inguinal Region Splint
+2W36X1Z	Right Inguinal Region Splint Immobilization
+2W36X2Z	Immobilization of the Right Inguinal Region Cast
+2W36X2Z	Right Inguinal Region Cast Immobilization
+2W36X3Z	Immobilization of the Right Inguinal Region Brace
+2W36X3Z	Right Inguinal Region Brace Immobilization
+2W36XYZ	Immobilization of the Right Inguinal Region Other Device
+2W36XYZ	Right Inguinal Region Other Device Immobilization
+2W37X1Z	Immobilization of the Left Inguinal Region Splint
+2W37X1Z	Left Inguinal Region Splint Immobilization
+2W37X2Z	Immobilization of the Left Inguinal Region Cast
+2W37X2Z	Left Inguinal Region Cast Immobilization
+2W37X3Z	Immobilization of the Left Inguinal Region Brace
+2W37X3Z	Left Inguinal Region Brace Immobilization
+2W37XYZ	Immobilization of the Left Inguinal Region Other Device
+2W37XYZ	Left Inguinal Region Other Device Immobilization
+2W38X1Z	Immobilization of the Right Upper Extremity Splint
+2W38X1Z	Right Upper Extremity Splint Immobilization
+2W38X2Z	Immobilization of the Right Upper Extremity Cast
+2W38X2Z	Right Upper Extremity Cast Immobilization
+2W38X3Z	Immobilization of the Right Upper Extremity Brace
+2W38X3Z	Right Upper Extremity Brace Immobilization
+2W38XYZ	Immobilization of the Right Upper Extremity Other Device
+2W38XYZ	Right Upper Extremity Other Device Immobilization
+2W39X1Z	Immobilization of the Left Upper Extremity Splint
+2W39X1Z	Left Upper Extremity Splint Immobilization
+2W39X2Z	Immobilization of the Left Upper Extremity Cast
+2W39X2Z	Left Upper Extremity Cast Immobilization
+2W39X3Z	Immobilization of the Left Upper Extremity Brace
+2W39X3Z	Left Upper Extremity Brace Immobilization
+2W39XYZ	Immobilization of the Left Upper Extremity Other Device
+2W39XYZ	Left Upper Extremity Other Device Immobilization
+2W3AX1Z	Immobilization of the Right Upper Arm Splint
+2W3AX1Z	Right Upper Arm Splint Immobilization
+2W3AX2Z	Immobilization of the Right Upper Arm Cast
+2W3AX2Z	Right Upper Arm Cast Immobilization
+2W3AX3Z	Immobilization of the Right Upper Arm Brace
+2W3AX3Z	Right Upper Arm Brace Immobilization
+2W3AXYZ	Immobilization of the Right Upper Arm Other Device
+2W3AXYZ	Right Upper Arm Other Device Immobilization
+2W3BX1Z	Immobilization of the Left Upper Arm Splint
+2W3BX1Z	Left Upper Arm Splint Immobilization
+2W3BX2Z	Immobilization of the Left Upper Arm Cast
+2W3BX2Z	Left Upper Arm Cast Immobilization
+2W3BX3Z	Immobilization of the Left Upper Arm Brace
+2W3BX3Z	Left Upper Arm Brace Immobilization
+2W3BXYZ	Immobilization of the Left Upper Arm Other Device
+2W3BXYZ	Left Upper Arm Other Device Immobilization
+2W3CX1Z	Immobilization of the Right Lower Arm Splint
+2W3CX1Z	Right Lower Arm Splint Immobilization
+2W3CX2Z	Immobilization of the Right Lower Arm Cast
+2W3CX2Z	Right Lower Arm Cast Immobilization
+2W3CX3Z	Immobilization of the Right Lower Arm Brace
+2W3CX3Z	Right Lower Arm Brace Immobilization
+2W3CXYZ	Immobilization of the Right Lower Arm Other Device
+2W3CXYZ	Right Lower Arm Other Device Immobilization
+2W3DX1Z	Immobilization of the Left Lower Arm Splint
+2W3DX1Z	Left Lower Arm Splint Immobilization
+2W3DX2Z	Immobilization of the Left Lower Arm Cast
+2W3DX2Z	Left Lower Arm Cast Immobilization
+2W3DX3Z	Immobilization of the Left Lower Arm Brace
+2W3DX3Z	Left Lower Arm Brace Immobilization
+2W3DXYZ	Immobilization of the Left Lower Arm Other Device
+2W3DXYZ	Left Lower Arm Other Device Immobilization
+2W3EX1Z	Immobilization of the Right Hand Splint
+2W3EX1Z	Right Hand Splint Immobilization
+2W3EX2Z	Immobilization of the Right Hand Cast
+2W3EX2Z	Right Hand Cast Immobilization
+2W3EX3Z	Immobilization of the Right Hand Brace
+2W3EX3Z	Right Hand Brace Immobilization
+2W3EXYZ	Immobilization of the Right Hand Other Device
+2W3EXYZ	Right Hand Other Device Immobilization
+2W3FX1Z	Immobilization of the Left Hand Splint
+2W3FX1Z	Left Hand Splint Immobilization
+2W3FX2Z	Immobilization of the Left Hand Cast
+2W3FX2Z	Left Hand Cast Immobilization
+2W3FX3Z	Immobilization of the Left Hand Brace
+2W3FX3Z	Left Hand Brace Immobilization
+2W3FXYZ	Immobilization of the Left Hand Other Device
+2W3FXYZ	Left Hand Other Device Immobilization
+2W3GX1Z	Immobilization of the Right Thumb Splint
+2W3GX1Z	Right Thumb Splint Immobilization
+2W3GX2Z	Immobilization of the Right Thumb Cast
+2W3GX2Z	Right Thumb Cast Immobilization
+2W3GX3Z	Immobilization of the Right Thumb Brace
+2W3GX3Z	Right Thumb Brace Immobilization
+2W3GXYZ	Immobilization of the Right Thumb Other Device
+2W3GXYZ	Right Thumb Other Device Immobilization
+2W3HX1Z	Immobilization of the Left Thumb Splint
+2W3HX1Z	Left Thumb Splint Immobilization
+2W3HX2Z	Immobilization of the Left Thumb Cast
+2W3HX2Z	Left Thumb Cast Immobilization
+2W3HX3Z	Immobilization of the Left Thumb Brace
+2W3HX3Z	Left Thumb Brace Immobilization
+2W3HXYZ	Immobilization of the Left Thumb Other Device
+2W3HXYZ	Left Thumb Other Device Immobilization
+2W3JX1Z	Immobilization of the Right Finger Splint
+2W3JX1Z	Right Finger Splint Immobilization
+2W3JX2Z	Immobilization of the Right Finger Cast
+2W3JX2Z	Right Finger Cast Immobilization
+2W3JX3Z	Immobilization of the Right Finger Brace
+2W3JX3Z	Right Finger Brace Immobilization
+2W3JXYZ	Immobilization of the Right Finger Other Device
+2W3JXYZ	Right Finger Other Device Immobilization
+2W3KX1Z	Immobilization of the Left Finger Splint
+2W3KX1Z	Left Finger Splint Immobilization
+2W3KX2Z	Immobilization of the Left Finger Cast
+2W3KX2Z	Left Finger Cast Immobilization
+2W3KX3Z	Immobilization of the Left Finger Brace
+2W3KX3Z	Left Finger Brace Immobilization
+2W3KXYZ	Immobilization of the Left Finger Other Device
+2W3KXYZ	Left Finger Other Device Immobilization
+2W3MX1Z	Immobilization of the Left Lower Extremity Splint
+2W3MX1Z	Left Lower Extremity Splint Immobilization
+2W3MX2Z	Immobilization of the Left Lower Extremity Cast
+2W3MX2Z	Left Lower Extremity Cast Immobilization
+2W3MX3Z	Immobilization of the Left Lower Extremity Brace
+2W3MX3Z	Left Lower Extremity Brace Immobilization
+2W3MXYZ	Immobilization of the Left Lower Extremity Other Device
+2W3MXYZ	Left Lower Extremity Other Device Immobilization
+2W3NX1Z	Immobilization of the Right Upper Leg Splint
+2W3NX1Z	Right Upper Leg Splint Immobilization
+2W3NX2Z	Immobilization of the Right Upper Leg Cast
+2W3NX2Z	Right Upper Leg Cast Immobilization
+2W3NX3Z	Immobilization of the Right Upper Leg Brace
+2W3NX3Z	Right Upper Leg Brace Immobilization
+2W3NXYZ	Immobilization of the Right Upper Leg Other Device
+2W3NXYZ	Right Upper Leg Other Device Immobilization
+2W3PX1Z	Immobilization of the Left Upper Leg Splint
+2W3PX1Z	Left Upper Leg Splint Immobilization
+2W3PX2Z	Immobilization of the Left Upper Leg Cast
+2W3PX2Z	Left Upper Leg Cast Immobilization
+2W3PX3Z	Immobilization of the Left Upper Leg Brace
+2W3PX3Z	Left Upper Leg Brace Immobilization
+2W3PXYZ	Immobilization of the Left Upper Leg Other Device
+2W3PXYZ	Left Upper Leg Other Device Immobilization
+2W3QX1Z	Immobilization of the Right Lower Leg Splint
+2W3QX1Z	Right Lower Leg Splint Immobilization
+2W3QX2Z	Immobilization of the Right Lower Leg Cast
+2W3QX2Z	Right Lower Leg Cast Immobilization
+2W3QX3Z	Immobilization of the Right Lower Leg Brace
+2W3QX3Z	Right Lower Leg Brace Immobilization
+2W3QXYZ	Immobilization of the Right Lower Leg Other Device
+2W3QXYZ	Right Lower Leg Other Device Immobilization
+2W3RX1Z	Immobilization of the Left Lower Leg Splint
+2W3RX1Z	Left Lower Leg Splint Immobilization
+2W3RX2Z	Immobilization of the Left Lower Leg Cast
+2W3RX2Z	Left Lower Leg Cast Immobilization
+2W3RX3Z	Immobilization of the Left Lower Leg Brace
+2W3RX3Z	Left Lower Leg Brace Immobilization
+2W3RXYZ	Immobilization of the Left Lower Leg Other Device
+2W3RXYZ	Left Lower Leg Other Device Immobilization
+2W3SX1Z	Immobilization of the Right Foot Splint
+2W3SX1Z	Right Foot Splint Immobilization
+2W3SX2Z	Immobilization of the Right Foot Cast
+2W3SX2Z	Right Foot Cast Immobilization
+2W3SX3Z	Immobilization of the Right Foot Brace
+2W3SX3Z	Right Foot Brace Immobilization
+2W3SXYZ	Immobilization of the Right Foot Other Device
+2W3SXYZ	Right Foot Other Device Immobilization
+2W3TX1Z	Immobilization of the Left Foot Splint
+2W3TX1Z	Left Foot Splint Immobilization
+2W3TX2Z	Immobilization of the Left Foot Cast
+2W3TX2Z	Left Foot Cast Immobilization
+2W3TX3Z	Immobilization of the Left Foot Brace
+2W3TX3Z	Left Foot Brace Immobilization
+2W3TXYZ	Immobilization of the Left Foot Other Device
+2W3TXYZ	Left Foot Other Device Immobilization
+2W3UX1Z	Immobilization of the Right Toe Splint
+2W3UX1Z	Right Toe Splint Immobilization
+2W3UX2Z	Immobilization of the Right Toe Cast
+2W3UX2Z	Right Toe Cast Immobilization
+2W3UX3Z	Immobilization of the Right Toe Brace
+2W3UX3Z	Right Toe Brace Immobilization
+2W3UXYZ	Immobilization of the Right Toe Other Device
+2W3UXYZ	Right Toe Other Device Immobilization
+2W3VX1Z	Immobilization of the Left Toe Splint
+2W3VX1Z	Left Toe Splint Immobilization
+2W3VX2Z	Immobilization of the Left Toe Cast
+2W3VX2Z	Left Toe Cast Immobilization
+2W3VX3Z	Immobilization of the Left Toe Brace
+2W3VX3Z	Left Toe Brace Immobilization
+2W3VXYZ	Immobilization of the Left Toe Other Device
+2W3VXYZ	Left Toe Other Device Immobilization
+2W40X5Z	Packing of the Head Packing Material
+2W40X5Z	Head Packing Material Packing
+2W41X5Z	Packing of the Face Packing Material
+2W41X5Z	Face Packing Material Packing
+2W42X5Z	Packing of the Neck Packing Material
+2W42X5Z	Neck Packing Material Packing
+2W43X5Z	Packing of the Abdominal Wall Packing Material
+2W43X5Z	Abdominal Wall Packing Material Packing
+2W44X5Z	Packing of the Chest Wall Packing Material
+2W44X5Z	Chest Wall Packing Material Packing
+2W45X5Z	Packing of the Back Packing Material
+2W45X5Z	Back Packing Material Packing
+2W46X5Z	Packing of the Right Inguinal Region Packing Material
+2W46X5Z	Right Inguinal Region Packing Material Packing
+2W47X5Z	Packing of the Left Inguinal Region Packing Material
+2W47X5Z	Left Inguinal Region Packing Material Packing
+2W48X5Z	Packing of the Right Upper Extremity Packing Material
+2W48X5Z	Right Upper Extremity Packing Material Packing
+2W49X5Z	Packing of the Left Upper Extremity Packing Material
+2W49X5Z	Left Upper Extremity Packing Material Packing
+2W4AX5Z	Packing of the Right Upper Arm Packing Material
+2W4AX5Z	Right Upper Arm Packing Material Packing
+2W4BX5Z	Packing of the Left Upper Arm Packing Material
+2W4BX5Z	Left Upper Arm Packing Material Packing
+2W4CX5Z	Packing of the Right Lower Arm Packing Material
+2W4CX5Z	Right Lower Arm Packing Material Packing
+2W4DX5Z	Packing of the Left Lower Arm Packing Material
+2W4DX5Z	Left Lower Arm Packing Material Packing
+2W4EX5Z	Packing of the Right Hand Packing Material
+2W4EX5Z	Right Hand Packing Material Packing
+2W4FX5Z	Packing of the Left Hand Packing Material
+2W4FX5Z	Left Hand Packing Material Packing
+2W4GX5Z	Packing of the Right Thumb Packing Material
+2W4GX5Z	Right Thumb Packing Material Packing
+2W4HX5Z	Packing of the Left Thumb Packing Material
+2W4HX5Z	Left Thumb Packing Material Packing
+2W4JX5Z	Packing of the Right Finger Packing Material
+2W4JX5Z	Right Finger Packing Material Packing
+2W4KX5Z	Packing of the Left Finger Packing Material
+2W4KX5Z	Left Finger Packing Material Packing
+2W4MX5Z	Packing of the Left Lower Extremity Packing Material
+2W4MX5Z	Left Lower Extremity Packing Material Packing
+2W4NX5Z	Packing of the Right Upper Leg Packing Material
+2W4NX5Z	Right Upper Leg Packing Material Packing
+2W4PX5Z	Packing of the Left Upper Leg Packing Material
+2W4PX5Z	Left Upper Leg Packing Material Packing
+2W4QX5Z	Packing of the Right Lower Leg Packing Material
+2W4QX5Z	Right Lower Leg Packing Material Packing
+2W4RX5Z	Packing of the Left Lower Leg Packing Material
+2W4RX5Z	Left Lower Leg Packing Material Packing
+2W4SX5Z	Packing of the Right Foot Packing Material
+2W4SX5Z	Right Foot Packing Material Packing
+2W4TX5Z	Packing of the Left Foot Packing Material
+2W4TX5Z	Left Foot Packing Material Packing
+2W4UX5Z	Packing of the Right Toe Packing Material
+2W4UX5Z	Right Toe Packing Material Packing
+2W4VX5Z	Packing of the Left Toe Packing Material
+2W4VX5Z	Left Toe Packing Material Packing
+2W50X0Z	Removal of the Head Traction Apparatus
+2W50X0Z	Head Traction Apparatus Removal
+2W50X1Z	Removal of the Head Splint
+2W50X1Z	Head Splint Removal
+2W50X2Z	Removal of the Head Cast
+2W50X2Z	Head Cast Removal
+2W50X3Z	Removal of the Head Brace
+2W50X3Z	Head Brace Removal
+2W50X4Z	Removal of the Head Bandage
+2W50X4Z	Head Bandage Removal
+2W50X5Z	Removal of the Head Packing Material
+2W50X5Z	Head Packing Material Removal
+2W50X6Z	Removal of the Head Pressure Dressing
+2W50X6Z	Head Pressure Dressing Removal
+2W50X7Z	Removal of the Head Intermittent Pressure Device
+2W50X7Z	Head Intermittent Pressure Device Removal
+2W50XYZ	Removal of the Head Other Device
+2W50XYZ	Head Other Device Removal
+2W51X0Z	Removal of the Face Traction Apparatus
+2W51X0Z	Face Traction Apparatus Removal
+2W51X1Z	Removal of the Face Splint
+2W51X1Z	Face Splint Removal
+2W51X2Z	Removal of the Face Cast
+2W51X2Z	Face Cast Removal
+2W51X3Z	Removal of the Face Brace
+2W51X3Z	Face Brace Removal
+2W51X4Z	Removal of the Face Bandage
+2W51X4Z	Face Bandage Removal
+2W51X5Z	Removal of the Face Packing Material
+2W51X5Z	Face Packing Material Removal
+2W51X6Z	Removal of the Face Pressure Dressing
+2W51X6Z	Face Pressure Dressing Removal
+2W51X7Z	Removal of the Face Intermittent Pressure Device
+2W51X7Z	Face Intermittent Pressure Device Removal
+2W51X9Z	Removal of the Face Wire
+2W51X9Z	Face Wire Removal
+2W51XYZ	Removal of the Face Other Device
+2W51XYZ	Face Other Device Removal
+2W52X0Z	Removal of the Neck Traction Apparatus
+2W52X0Z	Neck Traction Apparatus Removal
+2W52X1Z	Removal of the Neck Splint
+2W52X1Z	Neck Splint Removal
+2W52X2Z	Removal of the Neck Cast
+2W52X2Z	Neck Cast Removal
+2W52X3Z	Removal of the Neck Brace
+2W52X3Z	Neck Brace Removal
+2W52X4Z	Removal of the Neck Bandage
+2W52X4Z	Neck Bandage Removal
+2W52X5Z	Removal of the Neck Packing Material
+2W52X5Z	Neck Packing Material Removal
+2W52X6Z	Removal of the Neck Pressure Dressing
+2W52X6Z	Neck Pressure Dressing Removal
+2W52X7Z	Removal of the Neck Intermittent Pressure Device
+2W52X7Z	Neck Intermittent Pressure Device Removal
+2W52XYZ	Removal of the Neck Other Device
+2W52XYZ	Neck Other Device Removal
+2W53X0Z	Removal of the Abdominal Wall Traction Apparatus
+2W53X0Z	Abdominal Wall Traction Apparatus Removal
+2W53X1Z	Removal of the Abdominal Wall Splint
+2W53X1Z	Abdominal Wall Splint Removal
+2W53X2Z	Removal of the Abdominal Wall Cast
+2W53X2Z	Abdominal Wall Cast Removal
+2W53X3Z	Removal of the Abdominal Wall Brace
+2W53X3Z	Abdominal Wall Brace Removal
+2W53X4Z	Removal of the Abdominal Wall Bandage
+2W53X4Z	Abdominal Wall Bandage Removal
+2W53X5Z	Removal of the Abdominal Wall Packing Material
+2W53X5Z	Abdominal Wall Packing Material Removal
+2W53X6Z	Removal of the Abdominal Wall Pressure Dressing
+2W53X6Z	Abdominal Wall Pressure Dressing Removal
+2W53X7Z	Removal of the Abdominal Wall Intermittent Pressure Device
+2W53X7Z	Abdominal Wall Intermittent Pressure Device Removal
+2W53XYZ	Removal of the Abdominal Wall Other Device
+2W53XYZ	Abdominal Wall Other Device Removal
+2W54X0Z	Removal of the Chest Wall Traction Apparatus
+2W54X0Z	Chest Wall Traction Apparatus Removal
+2W54X1Z	Removal of the Chest Wall Splint
+2W54X1Z	Chest Wall Splint Removal
+2W54X2Z	Removal of the Chest Wall Cast
+2W54X2Z	Chest Wall Cast Removal
+2W54X3Z	Removal of the Chest Wall Brace
+2W54X3Z	Chest Wall Brace Removal
+2W54X4Z	Removal of the Chest Wall Bandage
+2W54X4Z	Chest Wall Bandage Removal
+2W54X5Z	Removal of the Chest Wall Packing Material
+2W54X5Z	Chest Wall Packing Material Removal
+2W54X6Z	Removal of the Chest Wall Pressure Dressing
+2W54X6Z	Chest Wall Pressure Dressing Removal
+2W54X7Z	Removal of the Chest Wall Intermittent Pressure Device
+2W54X7Z	Chest Wall Intermittent Pressure Device Removal
+2W54XYZ	Removal of the Chest Wall Other Device
+2W54XYZ	Chest Wall Other Device Removal
+2W55X0Z	Removal of the Back Traction Apparatus
+2W55X0Z	Back Traction Apparatus Removal
+2W55X1Z	Removal of the Back Splint
+2W55X1Z	Back Splint Removal
+2W55X2Z	Removal of the Back Cast
+2W55X2Z	Back Cast Removal
+2W55X3Z	Removal of the Back Brace
+2W55X3Z	Back Brace Removal
+2W55X4Z	Removal of the Back Bandage
+2W55X4Z	Back Bandage Removal
+2W55X5Z	Removal of the Back Packing Material
+2W55X5Z	Back Packing Material Removal
+2W55X6Z	Removal of the Back Pressure Dressing
+2W55X6Z	Back Pressure Dressing Removal
+2W55X7Z	Removal of the Back Intermittent Pressure Device
+2W55X7Z	Back Intermittent Pressure Device Removal
+2W55XYZ	Removal of the Back Other Device
+2W55XYZ	Back Other Device Removal
+2W56X0Z	Removal of the Right Inguinal Region Traction Apparatus
+2W56X0Z	Right Inguinal Region Traction Apparatus Removal
+2W56X1Z	Removal of the Right Inguinal Region Splint
+2W56X1Z	Right Inguinal Region Splint Removal
+2W56X2Z	Removal of the Right Inguinal Region Cast
+2W56X2Z	Right Inguinal Region Cast Removal
+2W56X3Z	Removal of the Right Inguinal Region Brace
+2W56X3Z	Right Inguinal Region Brace Removal
+2W56X4Z	Removal of the Right Inguinal Region Bandage
+2W56X4Z	Right Inguinal Region Bandage Removal
+2W56X5Z	Removal of the Right Inguinal Region Packing Material
+2W56X5Z	Right Inguinal Region Packing Material Removal
+2W56X6Z	Removal of the Right Inguinal Region Pressure Dressing
+2W56X6Z	Right Inguinal Region Pressure Dressing Removal
+2W56X7Z	Removal of the Right Inguinal Region Intermittent Pressure Device
+2W56X7Z	Right Inguinal Region Intermittent Pressure Device Removal
+2W56XYZ	Removal of the Right Inguinal Region Other Device
+2W56XYZ	Right Inguinal Region Other Device Removal
+2W57X0Z	Removal of the Left Inguinal Region Traction Apparatus
+2W57X0Z	Left Inguinal Region Traction Apparatus Removal
+2W57X1Z	Removal of the Left Inguinal Region Splint
+2W57X1Z	Left Inguinal Region Splint Removal
+2W57X2Z	Removal of the Left Inguinal Region Cast
+2W57X2Z	Left Inguinal Region Cast Removal
+2W57X3Z	Removal of the Left Inguinal Region Brace
+2W57X3Z	Left Inguinal Region Brace Removal
+2W57X4Z	Removal of the Left Inguinal Region Bandage
+2W57X4Z	Left Inguinal Region Bandage Removal
+2W57X5Z	Removal of the Left Inguinal Region Packing Material
+2W57X5Z	Left Inguinal Region Packing Material Removal
+2W57X6Z	Removal of the Left Inguinal Region Pressure Dressing
+2W57X6Z	Left Inguinal Region Pressure Dressing Removal
+2W57X7Z	Removal of the Left Inguinal Region Intermittent Pressure Device
+2W57X7Z	Left Inguinal Region Intermittent Pressure Device Removal
+2W57XYZ	Removal of the Left Inguinal Region Other Device
+2W57XYZ	Left Inguinal Region Other Device Removal
+2W58X0Z	Removal of the Right Upper Extremity Traction Apparatus
+2W58X0Z	Right Upper Extremity Traction Apparatus Removal
+2W58X1Z	Removal of the Right Upper Extremity Splint
+2W58X1Z	Right Upper Extremity Splint Removal
+2W58X2Z	Removal of the Right Upper Extremity Cast
+2W58X2Z	Right Upper Extremity Cast Removal
+2W58X3Z	Removal of the Right Upper Extremity Brace
+2W58X3Z	Right Upper Extremity Brace Removal
+2W58X4Z	Removal of the Right Upper Extremity Bandage
+2W58X4Z	Right Upper Extremity Bandage Removal
+2W58X5Z	Removal of the Right Upper Extremity Packing Material
+2W58X5Z	Right Upper Extremity Packing Material Removal
+2W58X6Z	Removal of the Right Upper Extremity Pressure Dressing
+2W58X6Z	Right Upper Extremity Pressure Dressing Removal
+2W58X7Z	Removal of the Right Upper Extremity Intermittent Pressure Device
+2W58X7Z	Right Upper Extremity Intermittent Pressure Device Removal
+2W58XYZ	Removal of the Right Upper Extremity Other Device
+2W58XYZ	Right Upper Extremity Other Device Removal
+2W59X0Z	Removal of the Left Upper Extremity Traction Apparatus
+2W59X0Z	Left Upper Extremity Traction Apparatus Removal
+2W59X1Z	Removal of the Left Upper Extremity Splint
+2W59X1Z	Left Upper Extremity Splint Removal
+2W59X2Z	Removal of the Left Upper Extremity Cast
+2W59X2Z	Left Upper Extremity Cast Removal
+2W59X3Z	Removal of the Left Upper Extremity Brace
+2W59X3Z	Left Upper Extremity Brace Removal
+2W59X4Z	Removal of the Left Upper Extremity Bandage
+2W59X4Z	Left Upper Extremity Bandage Removal
+2W59X5Z	Removal of the Left Upper Extremity Packing Material
+2W59X5Z	Left Upper Extremity Packing Material Removal
+2W59X6Z	Removal of the Left Upper Extremity Pressure Dressing
+2W59X6Z	Left Upper Extremity Pressure Dressing Removal
+2W59X7Z	Removal of the Left Upper Extremity Intermittent Pressure Device
+2W59X7Z	Left Upper Extremity Intermittent Pressure Device Removal
+2W59XYZ	Removal of the Left Upper Extremity Other Device
+2W59XYZ	Left Upper Extremity Other Device Removal
+2W5AX0Z	Removal of the Right Upper Arm Traction Apparatus
+2W5AX0Z	Right Upper Arm Traction Apparatus Removal
+2W5AX1Z	Removal of the Right Upper Arm Splint
+2W5AX1Z	Right Upper Arm Splint Removal
+2W5AX2Z	Removal of the Right Upper Arm Cast
+2W5AX2Z	Right Upper Arm Cast Removal
+2W5AX3Z	Removal of the Right Upper Arm Brace
+2W5AX3Z	Right Upper Arm Brace Removal
+2W5AX4Z	Removal of the Right Upper Arm Bandage
+2W5AX4Z	Right Upper Arm Bandage Removal
+2W5AX5Z	Removal of the Right Upper Arm Packing Material
+2W5AX5Z	Right Upper Arm Packing Material Removal
+2W5AX6Z	Removal of the Right Upper Arm Pressure Dressing
+2W5AX6Z	Right Upper Arm Pressure Dressing Removal
+2W5AX7Z	Removal of the Right Upper Arm Intermittent Pressure Device
+2W5AX7Z	Right Upper Arm Intermittent Pressure Device Removal
+2W5AXYZ	Removal of the Right Upper Arm Other Device
+2W5AXYZ	Right Upper Arm Other Device Removal
+2W5BX0Z	Removal of the Left Upper Arm Traction Apparatus
+2W5BX0Z	Left Upper Arm Traction Apparatus Removal
+2W5BX1Z	Removal of the Left Upper Arm Splint
+2W5BX1Z	Left Upper Arm Splint Removal
+2W5BX2Z	Removal of the Left Upper Arm Cast
+2W5BX2Z	Left Upper Arm Cast Removal
+2W5BX3Z	Removal of the Left Upper Arm Brace
+2W5BX3Z	Left Upper Arm Brace Removal
+2W5BX4Z	Removal of the Left Upper Arm Bandage
+2W5BX4Z	Left Upper Arm Bandage Removal
+2W5BX5Z	Removal of the Left Upper Arm Packing Material
+2W5BX5Z	Left Upper Arm Packing Material Removal
+2W5BX6Z	Removal of the Left Upper Arm Pressure Dressing
+2W5BX6Z	Left Upper Arm Pressure Dressing Removal
+2W5BX7Z	Removal of the Left Upper Arm Intermittent Pressure Device
+2W5BX7Z	Left Upper Arm Intermittent Pressure Device Removal
+2W5BXYZ	Removal of the Left Upper Arm Other Device
+2W5BXYZ	Left Upper Arm Other Device Removal
+2W5CX0Z	Removal of the Right Lower Arm Traction Apparatus
+2W5CX0Z	Right Lower Arm Traction Apparatus Removal
+2W5CX1Z	Removal of the Right Lower Arm Splint
+2W5CX1Z	Right Lower Arm Splint Removal
+2W5CX2Z	Removal of the Right Lower Arm Cast
+2W5CX2Z	Right Lower Arm Cast Removal
+2W5CX3Z	Removal of the Right Lower Arm Brace
+2W5CX3Z	Right Lower Arm Brace Removal
+2W5CX4Z	Removal of the Right Lower Arm Bandage
+2W5CX4Z	Right Lower Arm Bandage Removal
+2W5CX5Z	Removal of the Right Lower Arm Packing Material
+2W5CX5Z	Right Lower Arm Packing Material Removal
+2W5CX6Z	Removal of the Right Lower Arm Pressure Dressing
+2W5CX6Z	Right Lower Arm Pressure Dressing Removal
+2W5CX7Z	Removal of the Right Lower Arm Intermittent Pressure Device
+2W5CX7Z	Right Lower Arm Intermittent Pressure Device Removal
+2W5CXYZ	Removal of the Right Lower Arm Other Device
+2W5CXYZ	Right Lower Arm Other Device Removal
+2W5DX0Z	Removal of the Left Lower Arm Traction Apparatus
+2W5DX0Z	Left Lower Arm Traction Apparatus Removal
+2W5DX1Z	Removal of the Left Lower Arm Splint
+2W5DX1Z	Left Lower Arm Splint Removal
+2W5DX2Z	Removal of the Left Lower Arm Cast
+2W5DX2Z	Left Lower Arm Cast Removal
+2W5DX3Z	Removal of the Left Lower Arm Brace
+2W5DX3Z	Left Lower Arm Brace Removal
+2W5DX4Z	Removal of the Left Lower Arm Bandage
+2W5DX4Z	Left Lower Arm Bandage Removal
+2W5DX5Z	Removal of the Left Lower Arm Packing Material
+2W5DX5Z	Left Lower Arm Packing Material Removal
+2W5DX6Z	Removal of the Left Lower Arm Pressure Dressing
+2W5DX6Z	Left Lower Arm Pressure Dressing Removal
+2W5DX7Z	Removal of the Left Lower Arm Intermittent Pressure Device
+2W5DX7Z	Left Lower Arm Intermittent Pressure Device Removal
+2W5DXYZ	Removal of the Left Lower Arm Other Device
+2W5DXYZ	Left Lower Arm Other Device Removal
+2W5EX0Z	Removal of the Right Hand Traction Apparatus
+2W5EX0Z	Right Hand Traction Apparatus Removal
+2W5EX1Z	Removal of the Right Hand Splint
+2W5EX1Z	Right Hand Splint Removal
+2W5EX2Z	Removal of the Right Hand Cast
+2W5EX2Z	Right Hand Cast Removal
+2W5EX3Z	Removal of the Right Hand Brace
+2W5EX3Z	Right Hand Brace Removal
+2W5EX4Z	Removal of the Right Hand Bandage
+2W5EX4Z	Right Hand Bandage Removal
+2W5EX5Z	Removal of the Right Hand Packing Material
+2W5EX5Z	Right Hand Packing Material Removal
+2W5EX6Z	Removal of the Right Hand Pressure Dressing
+2W5EX6Z	Right Hand Pressure Dressing Removal
+2W5EX7Z	Removal of the Right Hand Intermittent Pressure Device
+2W5EX7Z	Right Hand Intermittent Pressure Device Removal
+2W5EXYZ	Removal of the Right Hand Other Device
+2W5EXYZ	Right Hand Other Device Removal
+2W5FX0Z	Removal of the Left Hand Traction Apparatus
+2W5FX0Z	Left Hand Traction Apparatus Removal
+2W5FX1Z	Removal of the Left Hand Splint
+2W5FX1Z	Left Hand Splint Removal
+2W5FX2Z	Removal of the Left Hand Cast
+2W5FX2Z	Left Hand Cast Removal
+2W5FX3Z	Removal of the Left Hand Brace
+2W5FX3Z	Left Hand Brace Removal
+2W5FX4Z	Removal of the Left Hand Bandage
+2W5FX4Z	Left Hand Bandage Removal
+2W5FX5Z	Removal of the Left Hand Packing Material
+2W5FX5Z	Left Hand Packing Material Removal
+2W5FX6Z	Removal of the Left Hand Pressure Dressing
+2W5FX6Z	Left Hand Pressure Dressing Removal
+2W5FX7Z	Removal of the Left Hand Intermittent Pressure Device
+2W5FX7Z	Left Hand Intermittent Pressure Device Removal
+2W5FXYZ	Removal of the Left Hand Other Device
+2W5FXYZ	Left Hand Other Device Removal
+2W5GX0Z	Removal of the Right Thumb Traction Apparatus
+2W5GX0Z	Right Thumb Traction Apparatus Removal
+2W5GX1Z	Removal of the Right Thumb Splint
+2W5GX1Z	Right Thumb Splint Removal
+2W5GX2Z	Removal of the Right Thumb Cast
+2W5GX2Z	Right Thumb Cast Removal
+2W5GX3Z	Removal of the Right Thumb Brace
+2W5GX3Z	Right Thumb Brace Removal
+2W5GX4Z	Removal of the Right Thumb Bandage
+2W5GX4Z	Right Thumb Bandage Removal
+2W5GX5Z	Removal of the Right Thumb Packing Material
+2W5GX5Z	Right Thumb Packing Material Removal
+2W5GX6Z	Removal of the Right Thumb Pressure Dressing
+2W5GX6Z	Right Thumb Pressure Dressing Removal
+2W5GX7Z	Removal of the Right Thumb Intermittent Pressure Device
+2W5GX7Z	Right Thumb Intermittent Pressure Device Removal
+2W5GXYZ	Removal of the Right Thumb Other Device
+2W5GXYZ	Right Thumb Other Device Removal
+2W5HX0Z	Removal of the Left Thumb Traction Apparatus
+2W5HX0Z	Left Thumb Traction Apparatus Removal
+2W5HX1Z	Removal of the Left Thumb Splint
+2W5HX1Z	Left Thumb Splint Removal
+2W5HX2Z	Removal of the Left Thumb Cast
+2W5HX2Z	Left Thumb Cast Removal
+2W5HX3Z	Removal of the Left Thumb Brace
+2W5HX3Z	Left Thumb Brace Removal
+2W5HX4Z	Removal of the Left Thumb Bandage
+2W5HX4Z	Left Thumb Bandage Removal
+2W5HX5Z	Removal of the Left Thumb Packing Material
+2W5HX5Z	Left Thumb Packing Material Removal
+2W5HX6Z	Removal of the Left Thumb Pressure Dressing
+2W5HX6Z	Left Thumb Pressure Dressing Removal
+2W5HX7Z	Removal of the Left Thumb Intermittent Pressure Device
+2W5HX7Z	Left Thumb Intermittent Pressure Device Removal
+2W5HXYZ	Removal of the Left Thumb Other Device
+2W5HXYZ	Left Thumb Other Device Removal
+2W5JX0Z	Removal of the Right Finger Traction Apparatus
+2W5JX0Z	Right Finger Traction Apparatus Removal
+2W5JX1Z	Removal of the Right Finger Splint
+2W5JX1Z	Right Finger Splint Removal
+2W5JX2Z	Removal of the Right Finger Cast
+2W5JX2Z	Right Finger Cast Removal
+2W5JX3Z	Removal of the Right Finger Brace
+2W5JX3Z	Right Finger Brace Removal
+2W5JX4Z	Removal of the Right Finger Bandage
+2W5JX4Z	Right Finger Bandage Removal
+2W5JX5Z	Removal of the Right Finger Packing Material
+2W5JX5Z	Right Finger Packing Material Removal
+2W5JX6Z	Removal of the Right Finger Pressure Dressing
+2W5JX6Z	Right Finger Pressure Dressing Removal
+2W5JX7Z	Removal of the Right Finger Intermittent Pressure Device
+2W5JX7Z	Right Finger Intermittent Pressure Device Removal
+2W5JXYZ	Removal of the Right Finger Other Device
+2W5JXYZ	Right Finger Other Device Removal
+2W5KX0Z	Removal of the Left Finger Traction Apparatus
+2W5KX0Z	Left Finger Traction Apparatus Removal
+2W5KX1Z	Removal of the Left Finger Splint
+2W5KX1Z	Left Finger Splint Removal
+2W5KX2Z	Removal of the Left Finger Cast
+2W5KX2Z	Left Finger Cast Removal
+2W5KX3Z	Removal of the Left Finger Brace
+2W5KX3Z	Left Finger Brace Removal
+2W5KX4Z	Removal of the Left Finger Bandage
+2W5KX4Z	Left Finger Bandage Removal
+2W5KX5Z	Removal of the Left Finger Packing Material
+2W5KX5Z	Left Finger Packing Material Removal
+2W5KX6Z	Removal of the Left Finger Pressure Dressing
+2W5KX6Z	Left Finger Pressure Dressing Removal
+2W5KX7Z	Removal of the Left Finger Intermittent Pressure Device
+2W5KX7Z	Left Finger Intermittent Pressure Device Removal
+2W5KXYZ	Removal of the Left Finger Other Device
+2W5KXYZ	Left Finger Other Device Removal
+2W5MX0Z	Removal of the Left Lower Extremity Traction Apparatus
+2W5MX0Z	Left Lower Extremity Traction Apparatus Removal
+2W5MX1Z	Removal of the Left Lower Extremity Splint
+2W5MX1Z	Left Lower Extremity Splint Removal
+2W5MX2Z	Removal of the Left Lower Extremity Cast
+2W5MX2Z	Left Lower Extremity Cast Removal
+2W5MX3Z	Removal of the Left Lower Extremity Brace
+2W5MX3Z	Left Lower Extremity Brace Removal
+2W5MX4Z	Removal of the Left Lower Extremity Bandage
+2W5MX4Z	Left Lower Extremity Bandage Removal
+2W5MX5Z	Removal of the Left Lower Extremity Packing Material
+2W5MX5Z	Left Lower Extremity Packing Material Removal
+2W5MX6Z	Removal of the Left Lower Extremity Pressure Dressing
+2W5MX6Z	Left Lower Extremity Pressure Dressing Removal
+2W5MX7Z	Removal of the Left Lower Extremity Intermittent Pressure Device
+2W5MX7Z	Left Lower Extremity Intermittent Pressure Device Removal
+2W5MXYZ	Removal of the Left Lower Extremity Other Device
+2W5MXYZ	Left Lower Extremity Other Device Removal
+2W5NX0Z	Removal of the Right Upper Leg Traction Apparatus
+2W5NX0Z	Right Upper Leg Traction Apparatus Removal
+2W5NX1Z	Removal of the Right Upper Leg Splint
+2W5NX1Z	Right Upper Leg Splint Removal
+2W5NX2Z	Removal of the Right Upper Leg Cast
+2W5NX2Z	Right Upper Leg Cast Removal
+2W5NX3Z	Removal of the Right Upper Leg Brace
+2W5NX3Z	Right Upper Leg Brace Removal
+2W5NX4Z	Removal of the Right Upper Leg Bandage
+2W5NX4Z	Right Upper Leg Bandage Removal
+2W5NX5Z	Removal of the Right Upper Leg Packing Material
+2W5NX5Z	Right Upper Leg Packing Material Removal
+2W5NX6Z	Removal of the Right Upper Leg Pressure Dressing
+2W5NX6Z	Right Upper Leg Pressure Dressing Removal
+2W5NX7Z	Removal of the Right Upper Leg Intermittent Pressure Device
+2W5NX7Z	Right Upper Leg Intermittent Pressure Device Removal
+2W5NXYZ	Removal of the Right Upper Leg Other Device
+2W5NXYZ	Right Upper Leg Other Device Removal
+2W5PX0Z	Removal of the Left Upper Leg Traction Apparatus
+2W5PX0Z	Left Upper Leg Traction Apparatus Removal
+2W5PX1Z	Removal of the Left Upper Leg Splint
+2W5PX1Z	Left Upper Leg Splint Removal
+2W5PX2Z	Removal of the Left Upper Leg Cast
+2W5PX2Z	Left Upper Leg Cast Removal
+2W5PX3Z	Removal of the Left Upper Leg Brace
+2W5PX3Z	Left Upper Leg Brace Removal
+2W5PX4Z	Removal of the Left Upper Leg Bandage
+2W5PX4Z	Left Upper Leg Bandage Removal
+2W5PX5Z	Removal of the Left Upper Leg Packing Material
+2W5PX5Z	Left Upper Leg Packing Material Removal
+2W5PX6Z	Removal of the Left Upper Leg Pressure Dressing
+2W5PX6Z	Left Upper Leg Pressure Dressing Removal
+2W5PX7Z	Removal of the Left Upper Leg Intermittent Pressure Device
+2W5PX7Z	Left Upper Leg Intermittent Pressure Device Removal
+2W5PXYZ	Removal of the Left Upper Leg Other Device
+2W5PXYZ	Left Upper Leg Other Device Removal
+2W5QX0Z	Removal of the Right Lower Leg Traction Apparatus
+2W5QX0Z	Right Lower Leg Traction Apparatus Removal
+2W5QX1Z	Removal of the Right Lower Leg Splint
+2W5QX1Z	Right Lower Leg Splint Removal
+2W5QX2Z	Removal of the Right Lower Leg Cast
+2W5QX2Z	Right Lower Leg Cast Removal
+2W5QX3Z	Removal of the Right Lower Leg Brace
+2W5QX3Z	Right Lower Leg Brace Removal
+2W5QX4Z	Removal of the Right Lower Leg Bandage
+2W5QX4Z	Right Lower Leg Bandage Removal
+2W5QX5Z	Removal of the Right Lower Leg Packing Material
+2W5QX5Z	Right Lower Leg Packing Material Removal
+2W5QX6Z	Removal of the Right Lower Leg Pressure Dressing
+2W5QX6Z	Right Lower Leg Pressure Dressing Removal
+2W5QX7Z	Removal of the Right Lower Leg Intermittent Pressure Device
+2W5QX7Z	Right Lower Leg Intermittent Pressure Device Removal
+2W5QXYZ	Removal of the Right Lower Leg Other Device
+2W5QXYZ	Right Lower Leg Other Device Removal
+2W5RX0Z	Removal of the Left Lower Leg Traction Apparatus
+2W5RX0Z	Left Lower Leg Traction Apparatus Removal
+2W5RX1Z	Removal of the Left Lower Leg Splint
+2W5RX1Z	Left Lower Leg Splint Removal
+2W5RX2Z	Removal of the Left Lower Leg Cast
+2W5RX2Z	Left Lower Leg Cast Removal
+2W5RX3Z	Removal of the Left Lower Leg Brace
+2W5RX3Z	Left Lower Leg Brace Removal
+2W5RX4Z	Removal of the Left Lower Leg Bandage
+2W5RX4Z	Left Lower Leg Bandage Removal
+2W5RX5Z	Removal of the Left Lower Leg Packing Material
+2W5RX5Z	Left Lower Leg Packing Material Removal
+2W5RX6Z	Removal of the Left Lower Leg Pressure Dressing
+2W5RX6Z	Left Lower Leg Pressure Dressing Removal
+2W5RX7Z	Removal of the Left Lower Leg Intermittent Pressure Device
+2W5RX7Z	Left Lower Leg Intermittent Pressure Device Removal
+2W5RXYZ	Removal of the Left Lower Leg Other Device
+2W5RXYZ	Left Lower Leg Other Device Removal
+2W5SX0Z	Removal of the Right Foot Traction Apparatus
+2W5SX0Z	Right Foot Traction Apparatus Removal
+2W5SX1Z	Removal of the Right Foot Splint
+2W5SX1Z	Right Foot Splint Removal
+2W5SX2Z	Removal of the Right Foot Cast
+2W5SX2Z	Right Foot Cast Removal
+2W5SX3Z	Removal of the Right Foot Brace
+2W5SX3Z	Right Foot Brace Removal
+2W5SX4Z	Removal of the Right Foot Bandage
+2W5SX4Z	Right Foot Bandage Removal
+2W5SX5Z	Removal of the Right Foot Packing Material
+2W5SX5Z	Right Foot Packing Material Removal
+2W5SX6Z	Removal of the Right Foot Pressure Dressing
+2W5SX6Z	Right Foot Pressure Dressing Removal
+2W5SX7Z	Removal of the Right Foot Intermittent Pressure Device
+2W5SX7Z	Right Foot Intermittent Pressure Device Removal
+2W5SXYZ	Removal of the Right Foot Other Device
+2W5SXYZ	Right Foot Other Device Removal
+2W5TX0Z	Removal of the Left Foot Traction Apparatus
+2W5TX0Z	Left Foot Traction Apparatus Removal
+2W5TX1Z	Removal of the Left Foot Splint
+2W5TX1Z	Left Foot Splint Removal
+2W5TX2Z	Removal of the Left Foot Cast
+2W5TX2Z	Left Foot Cast Removal
+2W5TX3Z	Removal of the Left Foot Brace
+2W5TX3Z	Left Foot Brace Removal
+2W5TX4Z	Removal of the Left Foot Bandage
+2W5TX4Z	Left Foot Bandage Removal
+2W5TX5Z	Removal of the Left Foot Packing Material
+2W5TX5Z	Left Foot Packing Material Removal
+2W5TX6Z	Removal of the Left Foot Pressure Dressing
+2W5TX6Z	Left Foot Pressure Dressing Removal
+2W5TX7Z	Removal of the Left Foot Intermittent Pressure Device
+2W5TX7Z	Left Foot Intermittent Pressure Device Removal
+2W5TXYZ	Removal of the Left Foot Other Device
+2W5TXYZ	Left Foot Other Device Removal
+2W5UX0Z	Removal of the Right Toe Traction Apparatus
+2W5UX0Z	Right Toe Traction Apparatus Removal
+2W5UX1Z	Removal of the Right Toe Splint
+2W5UX1Z	Right Toe Splint Removal
+2W5UX2Z	Removal of the Right Toe Cast
+2W5UX2Z	Right Toe Cast Removal
+2W5UX3Z	Removal of the Right Toe Brace
+2W5UX3Z	Right Toe Brace Removal
+2W5UX4Z	Removal of the Right Toe Bandage
+2W5UX4Z	Right Toe Bandage Removal
+2W5UX5Z	Removal of the Right Toe Packing Material
+2W5UX5Z	Right Toe Packing Material Removal
+2W5UX6Z	Removal of the Right Toe Pressure Dressing
+2W5UX6Z	Right Toe Pressure Dressing Removal
+2W5UX7Z	Removal of the Right Toe Intermittent Pressure Device
+2W5UX7Z	Right Toe Intermittent Pressure Device Removal
+2W5UXYZ	Removal of the Right Toe Other Device
+2W5UXYZ	Right Toe Other Device Removal
+2W5VX0Z	Removal of the Left Toe Traction Apparatus
+2W5VX0Z	Left Toe Traction Apparatus Removal
+2W5VX1Z	Removal of the Left Toe Splint
+2W5VX1Z	Left Toe Splint Removal
+2W5VX2Z	Removal of the Left Toe Cast
+2W5VX2Z	Left Toe Cast Removal
+2W5VX3Z	Removal of the Left Toe Brace
+2W5VX3Z	Left Toe Brace Removal
+2W5VX4Z	Removal of the Left Toe Bandage
+2W5VX4Z	Left Toe Bandage Removal
+2W5VX5Z	Removal of the Left Toe Packing Material
+2W5VX5Z	Left Toe Packing Material Removal
+2W5VX6Z	Removal of the Left Toe Pressure Dressing
+2W5VX6Z	Left Toe Pressure Dressing Removal
+2W5VX7Z	Removal of the Left Toe Intermittent Pressure Device
+2W5VX7Z	Left Toe Intermittent Pressure Device Removal
+2W5VXYZ	Removal of the Left Toe Other Device
+2W5VXYZ	Left Toe Other Device Removal
+2W60X0Z	Traction of the Head Traction Apparatus
+2W60X0Z	Head Traction Apparatus Traction
+2W60XZZ	Traction of the Head
+2W60XZZ	Head Traction
+2W61X0Z	Traction of the Face Traction Apparatus
+2W61X0Z	Face Traction Apparatus Traction
+2W61XZZ	Traction of the Face
+2W61XZZ	Face Traction
+2W62X0Z	Traction of the Neck Traction Apparatus
+2W62X0Z	Neck Traction Apparatus Traction
+2W62XZZ	Traction of the Neck
+2W62XZZ	Neck Traction
+2W63X0Z	Traction of the Abdominal Wall Traction Apparatus
+2W63X0Z	Abdominal Wall Traction Apparatus Traction
+2W63XZZ	Traction of the Abdominal Wall
+2W63XZZ	Abdominal Wall Traction
+2W64X0Z	Traction of the Chest Wall Traction Apparatus
+2W64X0Z	Chest Wall Traction Apparatus Traction
+2W64XZZ	Traction of the Chest Wall
+2W64XZZ	Chest Wall Traction
+2W65X0Z	Traction of the Back Traction Apparatus
+2W65X0Z	Back Traction Apparatus Traction
+2W65XZZ	Traction of the Back
+2W65XZZ	Back Traction
+2W66X0Z	Traction of the Right Inguinal Region Traction Apparatus
+2W66X0Z	Right Inguinal Region Traction Apparatus Traction
+2W66XZZ	Traction of the Right Inguinal Region
+2W66XZZ	Right Inguinal Region Traction
+2W67X0Z	Traction of the Left Inguinal Region Traction Apparatus
+2W67X0Z	Left Inguinal Region Traction Apparatus Traction
+2W67XZZ	Traction of the Left Inguinal Region
+2W67XZZ	Left Inguinal Region Traction
+2W68X0Z	Traction of the Right Upper Extremity Traction Apparatus
+2W68X0Z	Right Upper Extremity Traction Apparatus Traction
+2W68XZZ	Traction of the Right Upper Extremity
+2W68XZZ	Right Upper Extremity Traction
+2W69X0Z	Traction of the Left Upper Extremity Traction Apparatus
+2W69X0Z	Left Upper Extremity Traction Apparatus Traction
+2W69XZZ	Traction of the Left Upper Extremity
+2W69XZZ	Left Upper Extremity Traction
+2W6AX0Z	Traction of the Right Upper Arm Traction Apparatus
+2W6AX0Z	Right Upper Arm Traction Apparatus Traction
+2W6AXZZ	Traction of the Right Upper Arm
+2W6AXZZ	Right Upper Arm Traction
+2W6BX0Z	Traction of the Left Upper Arm Traction Apparatus
+2W6BX0Z	Left Upper Arm Traction Apparatus Traction
+2W6BXZZ	Traction of the Left Upper Arm
+2W6BXZZ	Left Upper Arm Traction
+2W6CX0Z	Traction of the Right Lower Arm Traction Apparatus
+2W6CX0Z	Right Lower Arm Traction Apparatus Traction
+2W6CXZZ	Traction of the Right Lower Arm
+2W6CXZZ	Right Lower Arm Traction
+2W6DX0Z	Traction of the Left Lower Arm Traction Apparatus
+2W6DX0Z	Left Lower Arm Traction Apparatus Traction
+2W6DXZZ	Traction of the Left Lower Arm
+2W6DXZZ	Left Lower Arm Traction
+2W6EX0Z	Traction of the Right Hand Traction Apparatus
+2W6EX0Z	Right Hand Traction Apparatus Traction
+2W6EXZZ	Traction of the Right Hand
+2W6EXZZ	Right Hand Traction
+2W6FX0Z	Traction of the Left Hand Traction Apparatus
+2W6FX0Z	Left Hand Traction Apparatus Traction
+2W6FXZZ	Traction of the Left Hand
+2W6FXZZ	Left Hand Traction
+2W6GX0Z	Traction of the Right Thumb Traction Apparatus
+2W6GX0Z	Right Thumb Traction Apparatus Traction
+2W6GXZZ	Traction of the Right Thumb
+2W6GXZZ	Right Thumb Traction
+2W6HX0Z	Traction of the Left Thumb Traction Apparatus
+2W6HX0Z	Left Thumb Traction Apparatus Traction
+2W6HXZZ	Traction of the Left Thumb
+2W6HXZZ	Left Thumb Traction
+2W6JX0Z	Traction of the Right Finger Traction Apparatus
+2W6JX0Z	Right Finger Traction Apparatus Traction
+2W6JXZZ	Traction of the Right Finger
+2W6JXZZ	Right Finger Traction
+2W6KX0Z	Traction of the Left Finger Traction Apparatus
+2W6KX0Z	Left Finger Traction Apparatus Traction
+2W6KXZZ	Traction of the Left Finger
+2W6KXZZ	Left Finger Traction
+2W6MX0Z	Traction of the Left Lower Extremity Traction Apparatus
+2W6MX0Z	Left Lower Extremity Traction Apparatus Traction
+2W6MXZZ	Traction of the Left Lower Extremity
+2W6MXZZ	Left Lower Extremity Traction
+2W6NX0Z	Traction of the Right Upper Leg Traction Apparatus
+2W6NX0Z	Right Upper Leg Traction Apparatus Traction
+2W6NXZZ	Traction of the Right Upper Leg
+2W6NXZZ	Right Upper Leg Traction
+2W6PX0Z	Traction of the Left Upper Leg Traction Apparatus
+2W6PX0Z	Left Upper Leg Traction Apparatus Traction
+2W6PXZZ	Traction of the Left Upper Leg
+2W6PXZZ	Left Upper Leg Traction
+2W6QX0Z	Traction of the Right Lower Leg Traction Apparatus
+2W6QX0Z	Right Lower Leg Traction Apparatus Traction
+2W6QXZZ	Traction of the Right Lower Leg
+2W6QXZZ	Right Lower Leg Traction
+2W6RX0Z	Traction of the Left Lower Leg Traction Apparatus
+2W6RX0Z	Left Lower Leg Traction Apparatus Traction
+2W6RXZZ	Traction of the Left Lower Leg
+2W6RXZZ	Left Lower Leg Traction
+2W6SX0Z	Traction of the Right Foot Traction Apparatus
+2W6SX0Z	Right Foot Traction Apparatus Traction
+2W6SXZZ	Traction of the Right Foot
+2W6SXZZ	Right Foot Traction
+2W6TX0Z	Traction of the Left Foot Traction Apparatus
+2W6TX0Z	Left Foot Traction Apparatus Traction
+2W6TXZZ	Traction of the Left Foot
+2W6TXZZ	Left Foot Traction
+2W6UX0Z	Traction of the Right Toe Traction Apparatus
+2W6UX0Z	Right Toe Traction Apparatus Traction
+2W6UXZZ	Traction of the Right Toe
+2W6UXZZ	Right Toe Traction
+2W6VX0Z	Traction of the Left Toe Traction Apparatus
+2W6VX0Z	Left Toe Traction Apparatus Traction
+2W6VXZZ	Traction of the Left Toe
+2W6VXZZ	Left Toe Traction
+2Y00X5Z	Change of the Mouth And Pharynx Packing Material
+2Y00X5Z	Mouth And Pharynx Packing Material Change
+2Y01X5Z	Change of the Nasal Packing Material
+2Y01X5Z	Nasal Packing Material Change
+2Y02X5Z	Change of the Ear Packing Material
+2Y02X5Z	Ear Packing Material Change
+2Y03X5Z	Change of the Anorectal Packing Material
+2Y03X5Z	Anorectal Packing Material Change
+2Y04X5Z	Change of the Female Genital Tract Packing Material
+2Y04X5Z	Female Genital Tract Packing Material Change
+2Y05X5Z	Change of the Urethra Packing Material
+2Y05X5Z	Urethra Packing Material Change
+2Y40X5Z	Packing of the Mouth And Pharynx Packing Material
+2Y40X5Z	Mouth And Pharynx Packing Material Packing
+2Y41X5Z	Packing of the Nasal Packing Material
+2Y41X5Z	Nasal Packing Material Packing
+2Y42X5Z	Packing of the Ear Packing Material
+2Y42X5Z	Ear Packing Material Packing
+2Y43X5Z	Packing of the Anorectal Packing Material
+2Y43X5Z	Anorectal Packing Material Packing
+2Y44X5Z	Packing of the Female Genital Tract Packing Material
+2Y44X5Z	Female Genital Tract Packing Material Packing
+2Y45X5Z	Packing of the Urethra Packing Material
+2Y45X5Z	Urethra Packing Material Packing
+2Y50X5Z	Removal of the Mouth And Pharynx Packing Material
+2Y50X5Z	Mouth And Pharynx Packing Material Removal
+2Y51X5Z	Removal of the Nasal Packing Material
+2Y51X5Z	Nasal Packing Material Removal
+2Y52X5Z	Removal of the Ear Packing Material
+2Y52X5Z	Ear Packing Material Removal
+2Y53X5Z	Removal of the Anorectal Packing Material
+2Y53X5Z	Anorectal Packing Material Removal
+2Y54X5Z	Removal of the Female Genital Tract Packing Material
+2Y54X5Z	Female Genital Tract Packing Material Removal
+2Y55X5Z	Removal of the Urethra Packing Material
+2Y55X5Z	Urethra Packing Material Removal

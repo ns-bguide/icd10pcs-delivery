@@ -1,0 +1,72 @@
+5A0	Assistance of the Physiological Systems
+5A0	Physiological Systems Assistance
+5A02110	Assistance of the Cardiac System Output
+5A02110	Cardiac System Output Assistance
+5A02115	Assistance of the Pulsatile Compression Cardiac System Output
+5A02115	Pulsatile Compression Cardiac System Output Assistance
+5A02116	Assistance of the Other Pump Cardiac System Output
+5A02116	Other Pump Cardiac System Output Assistance
+5A0211D	Assistance of the Impeller Pump Cardiac System Output
+5A0211D	Impeller Pump Cardiac System Output Assistance
+5A02210	Assistance of the Cardiac System Output
+5A02210	Cardiac System Output Assistance
+5A02215	Assistance of the Pulsatile Compression Cardiac System Output
+5A02215	Pulsatile Compression Cardiac System Output Assistance
+5A02216	Assistance of the Other Pump Cardiac System Output
+5A02216	Other Pump Cardiac System Output Assistance
+5A0221D	Assistance of the Impeller Pump Cardiac System Output
+5A0221D	Impeller Pump Cardiac System Output Assistance
+5A0221E	Assistance of the Blood Flow Modulator Cardiac System Output
+5A0221E	Blood Flow Modulator Cardiac System Output Assistance
+5A0222C	Assistance of the Supersaturated Cardiac System Oxygenation
+5A0222C	Supersaturated Cardiac System Oxygenation Assistance
+5A05121	Assistance of the Hyperbaric Circulatory System Oxygenation
+5A05121	Hyperbaric Circulatory System Oxygenation Assistance
+5A05221	Assistance of the Hyperbaric Circulatory System Oxygenation
+5A05221	Hyperbaric Circulatory System Oxygenation Assistance
+5A05A6M	Assistance of the Circulatory System Cerebral Embolic Filtration
+5A05A6M	Circulatory System Cerebral Embolic Filtration Assistance
+5A05A6N	Assistance of the Circulatory System Cerebral Embolic Filtration
+5A05A6N	Circulatory System Cerebral Embolic Filtration Assistance
+5A05A6P	Assistance of the Circulatory System Cerebral Embolic Filtration
+5A05A6P	Circulatory System Cerebral Embolic Filtration Assistance
+5A05A6Q	Assistance of the Circulatory System Cerebral Embolic Filtration
+5A05A6Q	Circulatory System Cerebral Embolic Filtration Assistance
+5A1	Performance of the Physiological Systems
+5A1	Physiological Systems Performance
+5A12012	Performance of the Cardiac System Output
+5A12012	Cardiac System Output Performance
+5A1213Z	Performance of the Cardiac System Pacing
+5A1213Z	Cardiac System Pacing Performance
+5A1221J	Performance of the Cardiac System Output
+5A1221J	Cardiac System Output Performance
+5A1221Z	Performance of the Cardiac System Output
+5A1221Z	Cardiac System Output Performance
+5A1223Z	Performance of the Cardiac System Pacing
+5A1223Z	Cardiac System Pacing Performance
+5A1522F	Performance of the Circulatory System Oxygenation
+5A1522F	Circulatory System Oxygenation Performance
+5A1522G	Performance of the Circulatory System Oxygenation
+5A1522G	Circulatory System Oxygenation Performance
+5A1522H	Performance of the Circulatory System Oxygenation
+5A1522H	Circulatory System Oxygenation Performance
+5A15A2F	Performance of the Circulatory System Oxygenation
+5A15A2F	Circulatory System Oxygenation Performance
+5A15A2G	Performance of the Circulatory System Oxygenation
+5A15A2G	Circulatory System Oxygenation Performance
+5A15A2H	Performance of the Circulatory System Oxygenation
+5A15A2H	Circulatory System Oxygenation Performance
+5A1C00Z	Performance of the Biliary System Filtration
+5A1C00Z	Biliary System Filtration Performance
+5A1C60Z	Performance of the Biliary System Filtration
+5A1C60Z	Biliary System Filtration Performance
+5A1D70Z	Performance of the Urinary System Filtration
+5A1D70Z	Urinary System Filtration Performance
+5A1D80Z	Performance of the Urinary System Filtration
+5A1D80Z	Urinary System Filtration Performance
+5A1D90Z	Performance of the Urinary System Filtration
+5A1D90Z	Urinary System Filtration Performance
+5A2	Restoration of the Physiological Systems
+5A2	Physiological Systems Restoration
+5A2204Z	Restoration of the Cardiac System Rhythm
+5A2204Z	Cardiac System Rhythm Restoration

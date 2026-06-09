@@ -1,0 +1,464 @@
+302	We conducted a transfusion into the circulatory system.
+30233C0	We conducted a transfusion of a genetically modified hematopoietic stem/progenitor cells into the peripheral vein.
+30233D1	We conducted a transfusion of a pathogen reduced cryoprecipitated fibrinogen complex into the peripheral vein.
+30233G0	We conducted a transfusion of bone marrow into the peripheral vein.
+30233H0	We conducted a transfusion of whole blood into the peripheral vein.
+30233J0	We conducted a transfusion of a serum albumin into the peripheral vein.
+30233K0	We conducted a transfusion of frozen plasma into the peripheral vein.
+30233M0	We conducted a transfusion of a plasma cryoprecipitate into the peripheral vein.
+30233N0	We conducted a transfusion of a red blood cells into the peripheral vein.
+30233P0	We conducted a transfusion of a frozen red cells into the peripheral vein.
+30233Q0	We conducted a transfusion of a white cells into the peripheral vein.
+30233R0	We conducted a transfusion of a platelets into the peripheral vein.
+30233S0	We conducted a transfusion of a globulin into the peripheral vein.
+30233T0	We conducted a transfusion of fibrinogen into the peripheral vein.
+30233U2	We conducted a transfusion of a t-cell depleted hematopoietic stem cells into the peripheral vein.
+30233V0	We conducted a transfusion of an antihemophilic factors into the peripheral vein.
+30233W0	We conducted a transfusion of a factor ix into the peripheral vein.
+30233X0	We conducted a transfusion of a cord blood stem cells into the peripheral vein.
+30233Y0	We conducted a transfusion of a hematopoietic stem cells into the peripheral vein.
+30243C0	We conducted a transfusion of a genetically modified hematopoietic stem/progenitor cells into the central vein.
+30243D1	We conducted a transfusion of a pathogen reduced cryoprecipitated fibrinogen complex into the central vein.
+30243G0	We conducted a transfusion of bone marrow into the central vein.
+30243H0	We conducted a transfusion of whole blood into the central vein.
+30243J0	We conducted a transfusion of a serum albumin into the central vein.
+30243K0	We conducted a transfusion of frozen plasma into the central vein.
+30243M0	We conducted a transfusion of a plasma cryoprecipitate into the central vein.
+30243N0	We conducted a transfusion of a red blood cells into the central vein.
+30243P0	We conducted a transfusion of a frozen red cells into the central vein.
+30243Q0	We conducted a transfusion of a white cells into the central vein.
+30243R0	We conducted a transfusion of a platelets into the central vein.
+30243S0	We conducted a transfusion of a globulin into the central vein.
+30243T0	We conducted a transfusion of fibrinogen into the central vein.
+30243U2	We conducted a transfusion of a t-cell depleted hematopoietic stem cells into the central vein.
+30243V0	We conducted a transfusion of an antihemophilic factors into the central vein.
+30243W0	We conducted a transfusion of a factor ix into the central vein.
+30243X0	We conducted a transfusion of a cord blood stem cells into the central vein.
+30243Y0	We conducted a transfusion of a hematopoietic stem cells into the central vein.
+30273H1	We conducted a transfusion of whole blood into the products of conception.
+30273J1	We conducted a transfusion of a serum albumin into the products of conception.
+30273K1	We conducted a transfusion of frozen plasma into the products of conception.
+30273M1	We conducted a transfusion of a plasma cryoprecipitate into the products of conception.
+30273N1	We conducted a transfusion of a red blood cells into the products of conception.
+30273P1	We conducted a transfusion of a frozen red cells into the products of conception.
+30273Q1	We conducted a transfusion of a white cells into the products of conception.
+30273R1	We conducted a transfusion of a platelets into the products of conception.
+30273S1	We conducted a transfusion of a globulin into the products of conception.
+30273T1	We conducted a transfusion of fibrinogen into the products of conception.
+30273V1	We conducted a transfusion of an antihemophilic factors into the products of conception.
+30273W1	We conducted a transfusion of a factor ix into the products of conception.
+30283B1	We conducted a transfusion of 4-factor prothrombin complex concentrate into the vein.
+302A3H0	We conducted a transfusion of whole blood into the bone marrow.
+302A3J0	We conducted a transfusion of a serum albumin into the bone marrow.
+302A3K0	We conducted a transfusion of frozen plasma into the bone marrow.
+302A3N0	We conducted a transfusion of a red blood cells into the bone marrow.
+302A3P0	We conducted a transfusion of a frozen red cells into the bone marrow.
+302A3R0	We conducted a transfusion of a platelets into the bone marrow.
+3C1	We conducted an irrigation into the indwelling device.
+3C1ZX8Z	We conducted an irrigation of irrigating substance.
+3E00X05	We conducted an introduction of an antineoplastic into the skin and mucous membranes.
+3E00X28	We conducted an introduction of anti-infective into the skin and mucous membranes.
+3E00X3Z	We conducted an introduction of an anti-inflammatory into the skin and mucous membranes.
+3E00X4Z	We conducted an introduction of toxoid and vaccine serum into the skin and mucous membranes.
+3E00XBZ	We conducted an introduction of an anesthetic agent into the skin and mucous membranes.
+3E00XGC	We conducted an introduction of other therapeutic substance into the skin and mucous membranes.
+3E00XKZ	We conducted an introduction of other diagnostic substance into the skin and mucous membranes.
+3E00XMZ	We conducted an introduction of a pigment into the skin and mucous membranes.
+3E00XNZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the skin and mucous membranes.
+3E00XTZ	We conducted an introduction of a destructive agent into the skin and mucous membranes.
+3E0102A	We conducted an introduction of anti-infective into the subcutaneous tissue.
+3E01305	We conducted an introduction of an antineoplastic into the subcutaneous tissue.
+3E0133Z	We conducted an introduction of an anti-inflammatory into the subcutaneous tissue.
+3E01340	We conducted an introduction of toxoid and vaccine serum into the subcutaneous tissue.
+3E0136Z	We conducted an introduction of nutritional substance into the subcutaneous tissue.
+3E0137Z	We conducted an introduction of electrolytic and water balance substance into the subcutaneous tissue.
+3E013BZ	We conducted an introduction of an anesthetic agent into the subcutaneous tissue.
+3E013GC	We conducted an introduction of other therapeutic substance into the subcutaneous tissue.
+3E013HZ	We conducted an introduction of radioactive substance into the subcutaneous tissue.
+3E013KZ	We conducted an introduction of other diagnostic substance into the subcutaneous tissue.
+3E013NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the subcutaneous tissue.
+3E013TZ	We conducted an introduction of a destructive agent into the subcutaneous tissue.
+3E013VG	We conducted an introduction of a hormone into the subcutaneous tissue.
+3E02305	We conducted an introduction of an antineoplastic into the muscle.
+3E02328	We conducted an introduction of anti-infective into the muscle.
+3E0233Z	We conducted an introduction of an anti-inflammatory into the muscle.
+3E02340	We conducted an introduction of toxoid and vaccine serum into the muscle.
+3E0236Z	We conducted an introduction of nutritional substance into the muscle.
+3E0237Z	We conducted an introduction of electrolytic and water balance substance into the muscle.
+3E023BZ	We conducted an introduction of an anesthetic agent into the muscle.
+3E023GC	We conducted an introduction of other therapeutic substance into the muscle.
+3E023HZ	We conducted an introduction of radioactive substance into the muscle.
+3E023KZ	We conducted an introduction of other diagnostic substance into the muscle.
+3E023NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the muscle.
+3E023TZ	We conducted an introduction of a destructive agent into the muscle.
+3E03002	We conducted an introduction of an antineoplastic into the peripheral vein.
+3E03016	We conducted an introduction of a thrombolytic into the peripheral vein.
+3E03028	We conducted an introduction of anti-infective into the peripheral vein.
+3E0303Z	We conducted an introduction of an anti-inflammatory into the peripheral vein.
+3E0304Z	We conducted an introduction of toxoid and vaccine serum into the peripheral vein.
+3E0306Z	We conducted an introduction of nutritional substance into the peripheral vein.
+3E0307Z	We conducted an introduction of electrolytic and water balance substance into the peripheral vein.
+3E030FZ	We conducted an introduction of an intracirculatory anesthetic into the peripheral vein.
+3E030GC	We conducted an introduction of other therapeutic substance into the peripheral vein.
+3E030HZ	We conducted an introduction of radioactive substance into the peripheral vein.
+3E030KZ	We conducted an introduction of other diagnostic substance into the peripheral vein.
+3E030NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the peripheral vein.
+3E030PZ	We conducted an introduction of a platelet inhibitor into the peripheral vein.
+3E030RZ	We conducted an introduction of an antiarrhythmic into the peripheral vein.
+3E030TZ	We conducted an introduction of a destructive agent into the peripheral vein.
+3E030U0	We conducted an introduction of a pancreatic islet cells into the peripheral vein.
+3E030VG	We conducted an introduction of a hormone into the peripheral vein.
+3E030WK	We conducted an introduction of an immunotherapeutic into the peripheral vein.
+3E030XZ	We conducted an introduction of a vasopressor into the peripheral vein.
+3E033AZ	We conducted an introduction of an embryonic stem cells into the peripheral vein.
+3E04002	We conducted an introduction of an antineoplastic into the central vein.
+3E04016	We conducted an introduction of a thrombolytic into the central vein.
+3E04028	We conducted an introduction of anti-infective into the central vein.
+3E0403Z	We conducted an introduction of an anti-inflammatory into the central vein.
+3E0404Z	We conducted an introduction of toxoid and vaccine serum into the central vein.
+3E0406Z	We conducted an introduction of nutritional substance into the central vein.
+3E0407Z	We conducted an introduction of electrolytic and water balance substance into the central vein.
+3E040FZ	We conducted an introduction of an intracirculatory anesthetic into the central vein.
+3E040GC	We conducted an introduction of other therapeutic substance into the central vein.
+3E040HZ	We conducted an introduction of radioactive substance into the central vein.
+3E040KZ	We conducted an introduction of other diagnostic substance into the central vein.
+3E040NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the central vein.
+3E040PZ	We conducted an introduction of a platelet inhibitor into the central vein.
+3E040RZ	We conducted an introduction of an antiarrhythmic into the central vein.
+3E040TZ	We conducted an introduction of a destructive agent into the central vein.
+3E040VG	We conducted an introduction of a hormone into the central vein.
+3E040WK	We conducted an introduction of an immunotherapeutic into the central vein.
+3E040XZ	We conducted an introduction of a vasopressor into the central vein.
+3E043AZ	We conducted an introduction of an embryonic stem cells into the central vein.
+3E05002	We conducted an introduction of an antineoplastic into the peripheral artery.
+3E05016	We conducted an introduction of a thrombolytic into the peripheral artery.
+3E05028	We conducted an introduction of anti-infective into the peripheral artery.
+3E0503Z	We conducted an introduction of an anti-inflammatory into the peripheral artery.
+3E0504Z	We conducted an introduction of toxoid and vaccine serum into the peripheral artery.
+3E0506Z	We conducted an introduction of nutritional substance into the peripheral artery.
+3E0507Z	We conducted an introduction of electrolytic and water balance substance into the peripheral artery.
+3E050FZ	We conducted an introduction of an intracirculatory anesthetic into the peripheral artery.
+3E050GC	We conducted an introduction of other therapeutic substance into the peripheral artery.
+3E050HZ	We conducted an introduction of radioactive substance into the peripheral artery.
+3E050KZ	We conducted an introduction of other diagnostic substance into the peripheral artery.
+3E050NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the peripheral artery.
+3E050PZ	We conducted an introduction of a platelet inhibitor into the peripheral artery.
+3E050RZ	We conducted an introduction of an antiarrhythmic into the peripheral artery.
+3E050TZ	We conducted an introduction of a destructive agent into the peripheral artery.
+3E050VG	We conducted an introduction of a hormone into the peripheral artery.
+3E050WK	We conducted an introduction of an immunotherapeutic into the peripheral artery.
+3E050XZ	We conducted an introduction of a vasopressor into the peripheral artery.
+3E06002	We conducted an introduction of an antineoplastic into the central artery.
+3E06016	We conducted an introduction of a thrombolytic into the central artery.
+3E06028	We conducted an introduction of anti-infective into the central artery.
+3E0603Z	We conducted an introduction of an anti-inflammatory into the central artery.
+3E0604Z	We conducted an introduction of toxoid and vaccine serum into the central artery.
+3E0606Z	We conducted an introduction of nutritional substance into the central artery.
+3E0607Z	We conducted an introduction of electrolytic and water balance substance into the central artery.
+3E060FZ	We conducted an introduction of an intracirculatory anesthetic into the central artery.
+3E060GC	We conducted an introduction of other therapeutic substance into the central artery.
+3E060HZ	We conducted an introduction of radioactive substance into the central artery.
+3E060KZ	We conducted an introduction of other diagnostic substance into the central artery.
+3E060NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the central artery.
+3E060PZ	We conducted an introduction of a platelet inhibitor into the central artery.
+3E060RZ	We conducted an introduction of an antiarrhythmic into the central artery.
+3E060TZ	We conducted an introduction of a destructive agent into the central artery.
+3E060VG	We conducted an introduction of a hormone into the central artery.
+3E060WK	We conducted an introduction of an immunotherapeutic into the central artery.
+3E060XZ	We conducted an introduction of a vasopressor into the central artery.
+3E07016	We conducted an introduction of a thrombolytic into the coronary artery.
+3E070GC	We conducted an introduction of other therapeutic substance into the coronary artery.
+3E070KZ	We conducted an introduction of other diagnostic substance into the coronary artery.
+3E070PZ	We conducted an introduction of a platelet inhibitor into the coronary artery.
+3E08016	We conducted an introduction of a thrombolytic into the heart.
+3E080GC	We conducted an introduction of other therapeutic substance into the heart.
+3E080KZ	We conducted an introduction of other diagnostic substance into the heart.
+3E080PZ	We conducted an introduction of a platelet inhibitor into the heart.
+3E09305	We conducted an introduction of an antineoplastic into the nose.
+3E09328	We conducted an introduction of anti-infective into the nose.
+3E0933Z	We conducted an introduction of an anti-inflammatory into the nose.
+3E0934Z	We conducted an introduction of toxoid and vaccine serum into the nose.
+3E093BZ	We conducted an introduction of an anesthetic agent into the nose.
+3E093GC	We conducted an introduction of other therapeutic substance into the nose.
+3E093HZ	We conducted an introduction of radioactive substance into the nose.
+3E093KZ	We conducted an introduction of other diagnostic substance into the nose.
+3E093NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the nose.
+3E093TZ	We conducted an introduction of a destructive agent into the nose.
+3E0A305	We conducted an introduction of an antineoplastic into the bone marrow.
+3E0A3GC	We conducted an introduction of other therapeutic substance into the bone marrow.
+3E0B304	We conducted an introduction of an antineoplastic into the ear.
+3E0B328	We conducted an introduction of anti-infective into the ear.
+3E0B33Z	We conducted an introduction of an anti-inflammatory into the ear.
+3E0B3BZ	We conducted an introduction of an anesthetic agent into the ear.
+3E0B3GC	We conducted an introduction of other therapeutic substance into the ear.
+3E0B3HZ	We conducted an introduction of radioactive substance into the ear.
+3E0B3KZ	We conducted an introduction of other diagnostic substance into the ear.
+3E0B3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the ear.
+3E0B3TZ	We conducted an introduction of a destructive agent into the ear.
+3E0C304	We conducted an introduction of an antineoplastic into the eye.
+3E0C328	We conducted an introduction of anti-infective into the eye.
+3E0C33Z	We conducted an introduction of an anti-inflammatory into the eye.
+3E0C3BZ	We conducted an introduction of an anesthetic agent into the eye.
+3E0C3GC	We conducted an introduction of other therapeutic substance into the eye.
+3E0C3HZ	We conducted an introduction of radioactive substance into the eye.
+3E0C3KZ	We conducted an introduction of other diagnostic substance into the eye.
+3E0C3MZ	We conducted an introduction of a pigment into the eye.
+3E0C3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the eye.
+3E0C3SF	We conducted an introduction of gas into the eye.
+3E0C3TZ	We conducted an introduction of a destructive agent into the eye.
+3E0D304	We conducted an introduction of an antineoplastic into the mouth and pharynx.
+3E0D328	We conducted an introduction of anti-infective into the mouth and pharynx.
+3E0D33Z	We conducted an introduction of an anti-inflammatory into the mouth and pharynx.
+3E0D34Z	We conducted an introduction of toxoid and vaccine serum into the mouth and pharynx.
+3E0D36Z	We conducted an introduction of nutritional substance into the mouth and pharynx.
+3E0D37Z	We conducted an introduction of electrolytic and water balance substance into the mouth and pharynx.
+3E0D3BZ	We conducted an introduction of an anesthetic agent into the mouth and pharynx.
+3E0D3GC	We conducted an introduction of other therapeutic substance into the mouth and pharynx.
+3E0D3HZ	We conducted an introduction of radioactive substance into the mouth and pharynx.
+3E0D3KZ	We conducted an introduction of other diagnostic substance into the mouth and pharynx.
+3E0D3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the mouth and pharynx.
+3E0D3RZ	We conducted an introduction of an antiarrhythmic into the mouth and pharynx.
+3E0D3TZ	We conducted an introduction of a destructive agent into the mouth and pharynx.
+3E0E304	We conducted an introduction of an antineoplastic into the products of conception.
+3E0E328	We conducted an introduction of anti-infective into the products of conception.
+3E0E33Z	We conducted an introduction of an anti-inflammatory into the products of conception.
+3E0E36Z	We conducted an introduction of nutritional substance into the products of conception.
+3E0E37Z	We conducted an introduction of electrolytic and water balance substance into the products of conception.
+3E0E3BZ	We conducted an introduction of an anesthetic agent into the products of conception.
+3E0E3GC	We conducted an introduction of other therapeutic substance into the products of conception.
+3E0E3HZ	We conducted an introduction of radioactive substance into the products of conception.
+3E0E3KZ	We conducted an introduction of other diagnostic substance into the products of conception.
+3E0E3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the products of conception.
+3E0E3SF	We conducted an introduction of gas into the products of conception.
+3E0E3TZ	We conducted an introduction of a destructive agent into the products of conception.
+3E0F304	We conducted an introduction of an antineoplastic into the respiratory system tract.
+3E0F328	We conducted an introduction of anti-infective into the respiratory system tract.
+3E0F33Z	We conducted an introduction of an anti-inflammatory into the respiratory system tract.
+3E0F36Z	We conducted an introduction of nutritional substance into the respiratory system tract.
+3E0F37Z	We conducted an introduction of electrolytic and water balance substance into the respiratory system tract.
+3E0F3BZ	We conducted an introduction of an anesthetic agent into the respiratory system tract.
+3E0F3GC	We conducted an introduction of other therapeutic substance into the respiratory system tract.
+3E0F3HZ	We conducted an introduction of radioactive substance into the respiratory system tract.
+3E0F3KZ	We conducted an introduction of other diagnostic substance into the respiratory system tract.
+3E0F3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the respiratory system tract.
+3E0F3SD	We conducted an introduction of gas into the respiratory system tract.
+3E0F3TZ	We conducted an introduction of a destructive agent into the respiratory system tract.
+3E0G304	We conducted an introduction of an antineoplastic into the upper gi.
+3E0G328	We conducted an introduction of anti-infective into the upper gi.
+3E0G33Z	We conducted an introduction of an anti-inflammatory into the upper gi.
+3E0G36Z	We conducted an introduction of nutritional substance into the upper gi.
+3E0G37Z	We conducted an introduction of electrolytic and water balance substance into the upper gi.
+3E0G3BZ	We conducted an introduction of an anesthetic agent into the upper gi.
+3E0G3GC	We conducted an introduction of other therapeutic substance into the upper gi.
+3E0G3HZ	We conducted an introduction of radioactive substance into the upper gi.
+3E0G3KZ	We conducted an introduction of other diagnostic substance into the upper gi.
+3E0G3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the upper gi.
+3E0G3SF	We conducted an introduction of gas into the upper gi.
+3E0G3TZ	We conducted an introduction of a destructive agent into the upper gi.
+3E0H304	We conducted an introduction of an antineoplastic into the lower gi.
+3E0H328	We conducted an introduction of anti-infective into the lower gi.
+3E0H33Z	We conducted an introduction of an anti-inflammatory into the lower gi.
+3E0H36Z	We conducted an introduction of nutritional substance into the lower gi.
+3E0H37Z	We conducted an introduction of electrolytic and water balance substance into the lower gi.
+3E0H3BZ	We conducted an introduction of an anesthetic agent into the lower gi.
+3E0H3GC	We conducted an introduction of other therapeutic substance into the lower gi.
+3E0H3HZ	We conducted an introduction of radioactive substance into the lower gi.
+3E0H3KZ	We conducted an introduction of other diagnostic substance into the lower gi.
+3E0H3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the lower gi.
+3E0H3SF	We conducted an introduction of gas into the lower gi.
+3E0H3TZ	We conducted an introduction of a destructive agent into the lower gi.
+3E0J304	We conducted an introduction of an antineoplastic into the biliary system and pancreatic tract.
+3E0J328	We conducted an introduction of anti-infective into the biliary system and pancreatic tract.
+3E0J33Z	We conducted an introduction of an anti-inflammatory into the biliary system and pancreatic tract.
+3E0J36Z	We conducted an introduction of nutritional substance into the biliary system and pancreatic tract.
+3E0J37Z	We conducted an introduction of electrolytic and water balance substance into the biliary system and pancreatic tract.
+3E0J3BZ	We conducted an introduction of an anesthetic agent into the biliary system and pancreatic tract.
+3E0J3GC	We conducted an introduction of other therapeutic substance into the biliary system and pancreatic tract.
+3E0J3HZ	We conducted an introduction of radioactive substance into the biliary system and pancreatic tract.
+3E0J3KZ	We conducted an introduction of other diagnostic substance into the biliary system and pancreatic tract.
+3E0J3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the biliary system and pancreatic tract.
+3E0J3SF	We conducted an introduction of gas into the biliary system and pancreatic tract.
+3E0J3TZ	We conducted an introduction of a destructive agent into the biliary system and pancreatic tract.
+3E0J3U0	We conducted an introduction of a pancreatic islet cells into the biliary system and pancreatic tract.
+3E0K304	We conducted an introduction of an antineoplastic into the genitourinary system tract.
+3E0K328	We conducted an introduction of anti-infective into the genitourinary system tract.
+3E0K33Z	We conducted an introduction of an anti-inflammatory into the genitourinary system tract.
+3E0K36Z	We conducted an introduction of nutritional substance into the genitourinary system tract.
+3E0K37Z	We conducted an introduction of electrolytic and water balance substance into the genitourinary system tract.
+3E0K3BZ	We conducted an introduction of an anesthetic agent into the genitourinary system tract.
+3E0K3GC	We conducted an introduction of other therapeutic substance into the genitourinary system tract.
+3E0K3HZ	We conducted an introduction of radioactive substance into the genitourinary system tract.
+3E0K3KZ	We conducted an introduction of other diagnostic substance into the genitourinary system tract.
+3E0K3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the genitourinary system tract.
+3E0K3SF	We conducted an introduction of gas into the genitourinary system tract.
+3E0K3TZ	We conducted an introduction of a destructive agent into the genitourinary system tract.
+3E0M05Z	We conducted an introduction of an adhesion barrier into the peritoneal cavity.
+3E0M304	We conducted an introduction of an antineoplastic into the peritoneal cavity.
+3E0M328	We conducted an introduction of anti-infective into the peritoneal cavity.
+3E0M33Z	We conducted an introduction of an anti-inflammatory into the peritoneal cavity.
+3E0M36Z	We conducted an introduction of nutritional substance into the peritoneal cavity.
+3E0M37Z	We conducted an introduction of electrolytic and water balance substance into the peritoneal cavity.
+3E0M3BZ	We conducted an introduction of an anesthetic agent into the peritoneal cavity.
+3E0M3GC	We conducted an introduction of other therapeutic substance into the peritoneal cavity.
+3E0M3HZ	We conducted an introduction of radioactive substance into the peritoneal cavity.
+3E0M3KZ	We conducted an introduction of other diagnostic substance into the peritoneal cavity.
+3E0M3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the peritoneal cavity.
+3E0M3SF	We conducted an introduction of gas into the peritoneal cavity.
+3E0M3TZ	We conducted an introduction of a destructive agent into the peritoneal cavity.
+3E0N304	We conducted an introduction of an antineoplastic into the male reproductive.
+3E0N328	We conducted an introduction of anti-infective into the male reproductive.
+3E0N33Z	We conducted an introduction of an anti-inflammatory into the male reproductive.
+3E0N36Z	We conducted an introduction of nutritional substance into the male reproductive.
+3E0N37Z	We conducted an introduction of electrolytic and water balance substance into the male reproductive.
+3E0N3BZ	We conducted an introduction of an anesthetic agent into the male reproductive.
+3E0N3GC	We conducted an introduction of other therapeutic substance into the male reproductive.
+3E0N3HZ	We conducted an introduction of radioactive substance into the male reproductive.
+3E0N3KZ	We conducted an introduction of other diagnostic substance into the male reproductive.
+3E0N3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the male reproductive.
+3E0N3SF	We conducted an introduction of gas into the male reproductive.
+3E0N3TZ	We conducted an introduction of a destructive agent into the male reproductive.
+3E0P05Z	We conducted an introduction of an adhesion barrier into the female reproductive.
+3E0P304	We conducted an introduction of an antineoplastic into the female reproductive.
+3E0P328	We conducted an introduction of anti-infective into the female reproductive.
+3E0P33Z	We conducted an introduction of an anti-inflammatory into the female reproductive.
+3E0P36Z	We conducted an introduction of nutritional substance into the female reproductive.
+3E0P37Z	We conducted an introduction of electrolytic and water balance substance into the female reproductive.
+3E0P3BZ	We conducted an introduction of an anesthetic agent into the female reproductive.
+3E0P3GC	We conducted an introduction of other therapeutic substance into the female reproductive.
+3E0P3HZ	We conducted an introduction of radioactive substance into the female reproductive.
+3E0P3KZ	We conducted an introduction of other diagnostic substance into the female reproductive.
+3E0P3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the female reproductive.
+3E0P3Q0	We conducted an introduction of a fertilized ovum into the female reproductive.
+3E0P3SF	We conducted an introduction of gas into the female reproductive.
+3E0P3TZ	We conducted an introduction of a destructive agent into the female reproductive.
+3E0P3VZ	We conducted an introduction of a hormone into the female reproductive.
+3E0Q004	We conducted an introduction of an antineoplastic into the cranial cavity and brain.
+3E0Q028	We conducted an introduction of anti-infective into the cranial cavity and brain.
+3E0Q03Z	We conducted an introduction of an anti-inflammatory into the cranial cavity and brain.
+3E0Q06Z	We conducted an introduction of nutritional substance into the cranial cavity and brain.
+3E0Q07Z	We conducted an introduction of electrolytic and water balance substance into the cranial cavity and brain.
+3E0Q0AZ	We conducted an introduction of an embryonic stem cells into the cranial cavity and brain.
+3E0Q0BZ	We conducted an introduction of an anesthetic agent into the cranial cavity and brain.
+3E0Q0E0	We conducted an introduction of a somatic stem cells into the cranial cavity and brain.
+3E0Q0GC	We conducted an introduction of other therapeutic substance into the cranial cavity and brain.
+3E0Q0HZ	We conducted an introduction of radioactive substance into the cranial cavity and brain.
+3E0Q0KZ	We conducted an introduction of other diagnostic substance into the cranial cavity and brain.
+3E0Q0NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the cranial cavity and brain.
+3E0Q0SF	We conducted an introduction of gas into the cranial cavity and brain.
+3E0Q0TZ	We conducted an introduction of a destructive agent into the cranial cavity and brain.
+3E0R0AZ	We conducted an introduction of an embryonic stem cells into the spinal canal.
+3E0R0E0	We conducted an introduction of a somatic stem cells into the spinal canal.
+3E0R302	We conducted an introduction of an antineoplastic into the spinal canal.
+3E0R328	We conducted an introduction of anti-infective into the spinal canal.
+3E0R33Z	We conducted an introduction of an anti-inflammatory into the spinal canal.
+3E0R36Z	We conducted an introduction of nutritional substance into the spinal canal.
+3E0R37Z	We conducted an introduction of electrolytic and water balance substance into the spinal canal.
+3E0R3BZ	We conducted an introduction of an anesthetic agent into the spinal canal.
+3E0R3GC	We conducted an introduction of other therapeutic substance into the spinal canal.
+3E0R3HZ	We conducted an introduction of radioactive substance into the spinal canal.
+3E0R3KZ	We conducted an introduction of other diagnostic substance into the spinal canal.
+3E0R3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the spinal canal.
+3E0R3SF	We conducted an introduction of gas into the spinal canal.
+3E0R3TZ	We conducted an introduction of a destructive agent into the spinal canal.
+3E0S302	We conducted an introduction of an antineoplastic into the epidural space.
+3E0S328	We conducted an introduction of anti-infective into the epidural space.
+3E0S33Z	We conducted an introduction of an anti-inflammatory into the epidural space.
+3E0S36Z	We conducted an introduction of nutritional substance into the epidural space.
+3E0S37Z	We conducted an introduction of electrolytic and water balance substance into the epidural space.
+3E0S3BZ	We conducted an introduction of an anesthetic agent into the epidural space.
+3E0S3GC	We conducted an introduction of other therapeutic substance into the epidural space.
+3E0S3HZ	We conducted an introduction of radioactive substance into the epidural space.
+3E0S3KZ	We conducted an introduction of other diagnostic substance into the epidural space.
+3E0S3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the epidural space.
+3E0S3SF	We conducted an introduction of gas into the epidural space.
+3E0S3TZ	We conducted an introduction of a destructive agent into the epidural space.
+3E0T33Z	We conducted an introduction of an anti-inflammatory into the peripheral nerves and plexi.
+3E0T3BZ	We conducted an introduction of an anesthetic agent into the peripheral nerves and plexi.
+3E0T3GC	We conducted an introduction of other therapeutic substance into the peripheral nerves and plexi.
+3E0T3TZ	We conducted an introduction of a destructive agent into the peripheral nerves and plexi.
+3E0U028	We conducted an introduction of anti-infective into the joints.
+3E0U0GB	We conducted an introduction of other therapeutic substance into the joints.
+3E0U304	We conducted an introduction of an antineoplastic into the joints.
+3E0U33Z	We conducted an introduction of an anti-inflammatory into the joints.
+3E0U36Z	We conducted an introduction of nutritional substance into the joints.
+3E0U37Z	We conducted an introduction of electrolytic and water balance substance into the joints.
+3E0U3BZ	We conducted an introduction of an anesthetic agent into the joints.
+3E0U3HZ	We conducted an introduction of radioactive substance into the joints.
+3E0U3KZ	We conducted an introduction of other diagnostic substance into the joints.
+3E0U3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the joints.
+3E0U3SF	We conducted an introduction of gas into the joints.
+3E0U3TZ	We conducted an introduction of a destructive agent into the joints.
+3E0V0GB	We conducted an introduction of other therapeutic substance into the bones.
+3E0V305	We conducted an introduction of an antineoplastic into the bones.
+3E0V328	We conducted an introduction of anti-infective into the bones.
+3E0V33Z	We conducted an introduction of an anti-inflammatory into the bones.
+3E0V36Z	We conducted an introduction of nutritional substance into the bones.
+3E0V37Z	We conducted an introduction of electrolytic and water balance substance into the bones.
+3E0V3BZ	We conducted an introduction of an anesthetic agent into the bones.
+3E0V3HZ	We conducted an introduction of radioactive substance into the bones.
+3E0V3KZ	We conducted an introduction of other diagnostic substance into the bones.
+3E0V3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the bones.
+3E0V3TZ	We conducted an introduction of a destructive agent into the bones.
+3E0W305	We conducted an introduction of an antineoplastic into the lymphatic systems.
+3E0W328	We conducted an introduction of anti-infective into the lymphatic systems.
+3E0W33Z	We conducted an introduction of an anti-inflammatory into the lymphatic systems.
+3E0W36Z	We conducted an introduction of nutritional substance into the lymphatic systems.
+3E0W37Z	We conducted an introduction of electrolytic and water balance substance into the lymphatic systems.
+3E0W3BZ	We conducted an introduction of an anesthetic agent into the lymphatic systems.
+3E0W3GC	We conducted an introduction of other therapeutic substance into the lymphatic systems.
+3E0W3HZ	We conducted an introduction of radioactive substance into the lymphatic systems.
+3E0W3KZ	We conducted an introduction of other diagnostic substance into the lymphatic systems.
+3E0W3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the lymphatic systems.
+3E0W3TZ	We conducted an introduction of a destructive agent into the lymphatic systems.
+3E0X33Z	We conducted an introduction of an anti-inflammatory into the cranial nerves.
+3E0X3BZ	We conducted an introduction of an anesthetic agent into the cranial nerves.
+3E0X3GC	We conducted an introduction of other therapeutic substance into the cranial nerves.
+3E0X3TZ	We conducted an introduction of a destructive agent into the cranial nerves.
+3E0Y304	We conducted an introduction of an antineoplastic into the pericardial cavity.
+3E0Y328	We conducted an introduction of anti-infective into the pericardial cavity.
+3E0Y33Z	We conducted an introduction of an anti-inflammatory into the pericardial cavity.
+3E0Y36Z	We conducted an introduction of nutritional substance into the pericardial cavity.
+3E0Y37Z	We conducted an introduction of electrolytic and water balance substance into the pericardial cavity.
+3E0Y3BZ	We conducted an introduction of an anesthetic agent into the pericardial cavity.
+3E0Y3GC	We conducted an introduction of other therapeutic substance into the pericardial cavity.
+3E0Y3HZ	We conducted an introduction of radioactive substance into the pericardial cavity.
+3E0Y3KZ	We conducted an introduction of other diagnostic substance into the pericardial cavity.
+3E0Y3NZ	We conducted an introduction of an analgesics, hypnotics, sedatives into the pericardial cavity.
+3E0Y3SF	We conducted an introduction of gas into the pericardial cavity.
+3E0Y3TZ	We conducted an introduction of a destructive agent into the pericardial cavity.
+3E1	We conducted an irrigation into the physiological systems and anatomical regions.
+3E1038X	We conducted a diagnostic irrigation of irrigating substance into the skin and mucous membranes.
+3E1038Z	We conducted an irrigation of irrigating substance into the skin and mucous membranes.
+3E1938X	We conducted a diagnostic irrigation of irrigating substance into the nose.
+3E1938Z	We conducted an irrigation of irrigating substance into the nose.
+3E1B38X	We conducted a diagnostic irrigation of irrigating substance into the ear.
+3E1B38Z	We conducted an irrigation of irrigating substance into the ear.
+3E1C38X	We conducted a diagnostic irrigation of irrigating substance into the eye.
+3E1C38Z	We conducted an irrigation of irrigating substance into the eye.
+3E1F38X	We conducted a diagnostic irrigation of irrigating substance into the respiratory system tract.
+3E1F38Z	We conducted an irrigation of irrigating substance into the respiratory system tract.
+3E1G38X	We conducted a diagnostic irrigation of irrigating substance into the upper gi.
+3E1G38Z	We conducted an irrigation of irrigating substance into the upper gi.
+3E1H38X	We conducted a diagnostic irrigation of irrigating substance into the lower gi.
+3E1H38Z	We conducted an irrigation of irrigating substance into the lower gi.
+3E1J38X	We conducted a diagnostic irrigation of irrigating substance into the biliary system and pancreatic tract.
+3E1J38Z	We conducted an irrigation of irrigating substance into the biliary system and pancreatic tract.
+3E1K38X	We conducted a diagnostic irrigation of irrigating substance into the genitourinary system tract.
+3E1K38Z	We conducted an irrigation of irrigating substance into the genitourinary system tract.
+3E1M38X	We conducted a diagnostic irrigation of irrigating substance into the peritoneal cavity.
+3E1M38Z	We conducted an irrigation of irrigating substance into the peritoneal cavity.
+3E1M39Z	We conducted an irrigation of a dialysate into the peritoneal cavity.
+3E1N38X	We conducted a diagnostic irrigation of irrigating substance into the male reproductive.
+3E1N38Z	We conducted an irrigation of irrigating substance into the male reproductive.
+3E1P38X	We conducted a diagnostic irrigation of irrigating substance into the female reproductive.
+3E1P38Z	We conducted an irrigation of irrigating substance into the female reproductive.
+3E1Q38X	We conducted a diagnostic irrigation of irrigating substance into the cranial cavity and brain.
+3E1Q38Z	We conducted an irrigation of irrigating substance into the cranial cavity and brain.
+3E1R38X	We conducted a diagnostic irrigation of irrigating substance into the spinal canal.
+3E1R38Z	We conducted an irrigation of irrigating substance into the spinal canal.
+3E1S38X	We conducted a diagnostic irrigation of irrigating substance into the epidural space.
+3E1S38Z	We conducted an irrigation of irrigating substance into the epidural space.
+3E1U38X	We conducted a diagnostic irrigation of irrigating substance into the joints.
+3E1U38Z	We conducted an irrigation of irrigating substance into the joints.
+3E1Y38X	We conducted a diagnostic irrigation of irrigating substance into the pericardial cavity.
+3E1Y38Z	We conducted an irrigation of irrigating substance into the pericardial cavity.

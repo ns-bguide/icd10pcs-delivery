@@ -1,0 +1,117 @@
+# Sentences containing tier abbreviations in NON-MEDICAL contexts.
+# These must NOT be matched by the grammar.  Critical for validating
+# that abbreviated headwords (SFA, RA, LA, LV, ICA, LIMA, CEA, etc.)
+# and standalone terms (PCI, EVAR, TAVI, CABG, PDT) do not fire
+# on innocent business / general text.
+
+# ── SFA (Superficial Femoral Artery vs Sales / Finance / Aviation) ──────────
+The SFA issued new guidelines for its member firms last quarter.
+SFA compliance requirements changed effective January 1st.
+Please review the SFA report before the board meeting.
+The SFA standards apply to all registered brokers.
+We submitted the SFA filing on time.
+SFA regulations prohibit insider trading by members.
+
+# ── RA (Right Atrium vs Regulatory Affairs / Resource Allocation) ───────────
+The RA department approved the new product label.
+Our RA team handles all FDA submissions.
+RA staff reviewed the clinical study protocol.
+The RA director signed off on the IND application.
+Resource allocation (RA) must be optimized across all departments.
+RA scores were calculated for each employee.
+
+# ── LA (Left Atrium vs Los Angeles / Louisiana / Language Arts) ─────────────
+The LA office reported strong Q3 earnings.
+She relocated to LA for the new role.
+LA traffic delayed the morning meeting.
+The LA branch will handle West Coast accounts.
+LA public schools adopted the new curriculum.
+
+# ── LV (Left Ventricle vs Louis Vuitton / Las Vegas / Low Voltage) ──────────
+LV handbags were featured prominently in the marketing campaign.
+The LV outlet store opened in the new mall.
+He purchased an LV wallet as a gift.
+LV battery systems operate below 50 volts.
+Las Vegas (LV) hosted the annual technology conference.
+LV regulations apply to equipment under 50V.
+
+# ── ICA (Internal Carotid Artery vs International Cooperation Agency / Court)
+The ICA arbitration panel issued its ruling today.
+ICA member states signed the agreement last week.
+The ICA framework governs cross-border disputes.
+
+# ── CEA (Carotid Endarterectomy vs Cost-Effectiveness Analysis / Executive) ──
+The CEA showed a cost per QALY well below the threshold.
+We conducted a CEA to compare the two treatment strategies.
+CEA results favored the generic formulation.
+The Chief Executive Assistant (CEA) prepared the board materials.
+
+# ── LIMA (Left Internal Mammary Artery vs a proper name / city) ─────────────
+Lima, Peru hosted the international summit.
+The Lima declaration was signed by all parties.
+Lima bean exports increased this year.
+
+# ── PCI (Percutaneous Coronary Intervention vs Payment Card Industry) ────────
+PCI DSS compliance is mandatory for all card processors.
+The PCI standard requires annual penetration testing.
+Merchants must achieve PCI certification before processing payments.
+PCI audit findings were escalated to the security team.
+The PCI council released version 4.0 of the standard.
+Our PCI scope includes all cardholder data environments.
+
+# ── EVAR (Endovascular Aneurysm Repair vs software / brand name) ─────────────
+EVAR Software released version 3.2 of its analytics platform.
+
+# ── TAVI / TAVR vs tavi (a name) ────────────────────────────────────────────
+Tavi is looking forward to her birthday party next week.
+
+# ── CABG vs a nonsense or brand context ─────────────────────────────────────
+CABG Industries filed for bankruptcy protection.
+
+# ── PDT (Photodynamic Therapy vs Pacific Daylight Time / Product Dev Team) ───
+The meeting is scheduled for 3:00 PM PDT.
+Please convert all times to PDT before sending the invite.
+The PDT team presented the new product roadmap.
+PDT hours differ from PST by one hour during summer.
+
+# ── LN (Lymph Node vs natural logarithm / line number) ──────────────────────
+The value of ln(x) approaches infinity as x increases.
+LN function returns the natural logarithm of a number.
+Please refer to LN 42 of the contract for the warranty clause.
+ln(e) equals 1 by definition.
+
+# ── CFA (Common Femoral Artery vs Chartered Financial Analyst) ───────────────
+The CFA exam covers portfolio management and ethics.
+She passed the CFA Level III exam on her first attempt.
+CFA charterholders are held to strict ethical standards.
+The CFA Institute published new curriculum guidelines.
+
+# ── IMA (Internal Mammary Artery vs image / imaging file extension) ──────────
+The .ima file format is used by some legacy imaging systems.
+IMA files can be converted using third-party utilities.
+
+# ── GSV (Great Saphenous Vein vs Git / software) ─────────────────────────────
+GSV Capital announced a new fund focused on tech startups.
+
+# ── LAA (Left Atrial Appendage vs Legal Aid / Latin American Association) ────
+The LAA provides free legal services to low-income residents.
+LAA volunteers worked throughout the weekend.
+
+# ── STA (Superficial Temporal Artery vs Student Teaching Assistant / State) ──
+The STA program pairs new teachers with experienced mentors.
+Our STA coordinator submitted the semester report.
+STA students complete 12 weeks of classroom observation.
+
+# ── DVT (Deep Vein Thrombosis vs Digital Video Tape / abbreviation) ──────────
+DVT format was used for professional video recording in the 1990s.
+The DVT standard has been replaced by newer digital formats.
+
+# ── ETV (Endoscopic Third Ventriculostomy vs Educational TV) ─────────────────
+ETV broadcasts educational programming for school-age children.
+The ETV channel airs science documentaries every Tuesday evening.
+
+# ── General medical context noise — ambiguous single words alone ─────────────
+The patient's RA factor was elevated on the blood panel.
+The LV reading on the voltmeter was within normal range.
+She earned her SFA certification after completing the coursework.
+The LA skyline is visible from the rooftop terrace.

@@ -1,0 +1,21 @@
+# Post-surgical SEQUELAE / complications / states — should NOT match as procedures
+#
+# These describe conditions, complications, or states ARISING from surgery — they are
+# NOT procedure mentions themselves. Distinct from historical-procedure mentions
+# ("history of appendectomy"), which under the include-historical policy (2026-06-09)
+# are CORRECT matches and now live in
+#   tests/true_positives/medical_historical_procedures.txt
+# (the 92 status/history-prefixed procedure lines were moved there — see ROADMAP FP-1).
+#
+# What remains here: true non-procedures only.
+post-transplant immunosuppression
+post-surgical adhesions
+surgical scar revision needed
+failed previous repair
+recurrent hernia after repair
+stent occlusion
+graft failure
+implant loosening
+prosthesis dislocation
+anastomotic stricture
+post-operative wound infection

@@ -1,0 +1,84 @@
+hypertension
+diabetes mellitus
+chronic kidney disease
+coronary artery disease
+congestive heart failure
+atrial fibrillation
+deep vein thrombosis
+pulmonary embolism
+myocardial infarction
+stroke
+pneumonia
+sepsis
+anemia
+osteoarthritis
+rheumatoid arthritis
+cirrhosis
+hepatitis
+pancreatitis
+appendicitis
+cholecystitis
+diverticulitis
+peritonitis
+meningitis
+encephalitis
+bronchitis
+sinusitis
+urinary tract infection
+cellulitis
+abscess
+fracture of femur
+spinal stenosis
+herniated disc
+carpal tunnel syndrome
+rotator cuff tear
+aortic stenosis
+mitral regurgitation
+benign prostatic hyperplasia
+renal calculus
+gallstones
+kidney stones
+cerebral aneurysm
+abdominal aortic aneurysm
+varicose veins
+peripheral artery disease
+carotid stenosis
+type 2 diabetes
+hyperlipidemia
+hypothyroidism
+hyperthyroidism
+adrenal insufficiency
+cushing syndrome
+acromegaly
+pheochromocytoma
+multiple sclerosis
+parkinson disease
+alzheimer disease
+epilepsy
+migraine
+fibromyalgia
+lupus
+scleroderma
+crohn disease
+ulcerative colitis
+irritable bowel syndrome
+gastroesophageal reflux
+peptic ulcer disease
+barrett esophagus
+esophageal varices
+portal hypertension
+hepatocellular carcinoma
+pancreatic cancer
+colorectal cancer
+breast cancer
+lung cancer
+prostate cancer
+bladder cancer
+renal cell carcinoma
+melanoma
+lymphoma
+leukemia
+myeloma
+glioblastoma
+meningioma
+acoustic neuroma

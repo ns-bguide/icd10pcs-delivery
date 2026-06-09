@@ -1,0 +1,50 @@
+right ventricular hypertrophy
+left ventricular dysfunction
+aortic root dilation
+coronary artery calcification
+carotid intima-media thickening
+femoral artery plaque
+hepatic steatosis
+renal cortical thinning
+spinal cord compression
+disc bulge at l4-l5
+meniscal tear
+labral tear
+rotator cuff tendinopathy
+achilles tendon rupture
+plantar fasciitis
+carpal tunnel compression
+ulnar nerve entrapment
+sciatic nerve impingement
+brachial plexus injury
+phrenic nerve palsy
+recurrent laryngeal nerve injury
+facial nerve weakness
+optic nerve swelling
+trigeminal neuralgia
+pudendal nerve entrapment
+peroneal nerve palsy
+median nerve compression
+radial nerve injury
+cervical radiculopathy
+lumbar radiculopathy
+thoracic outlet syndrome
+superior vena cava syndrome
+compartment syndrome
+nutcracker syndrome
+may-thurner syndrome
+pelvic congestion syndrome
+ovarian torsion
+testicular torsion
+bowel ischemia
+mesenteric ischemia
+limb ischemia
+cardiac tamponade
+pericardial effusion
+pleural effusion
+ascites
+pneumothorax
+hemothorax
+chylothorax
+hydrocephalus
+cerebral edema

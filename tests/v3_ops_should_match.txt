@@ -1,0 +1,41 @@
+anterior cruciate ligament reconstruction
+acl reconstruction
+kidney biopsy
+liver biopsy
+lung biopsy
+bone biopsy
+tissue biopsy
+femoral thrombectomy
+carotid embolectomy
+appendectomy
+laparoscopic appendectomy
+cholecystectomy
+laparoscopic cholecystectomy
+robotic cholecystectomy
+mastectomy
+left mastectomy
+bilateral mastectomy
+nephrectomy
+laparoscopic nephrectomy
+prostatectomy
+robotic prostatectomy
+hysterectomy
+laparoscopic hysterectomy
+thyroidectomy
+total thyroidectomy
+tonsillectomy
+tonsillectomy and adenoidectomy
+lobectomy
+right upper lobectomy
+left lower lobectomy
+vats lobectomy
+carotid endarterectomy
+femoral endarterectomy
+mitral valvuloplasty
+aortic valvuloplasty
+laparoscopic repair
+robotic excision
+thoracoscopic resection
+vats resection
+arthroscopic meniscectomy
+minimally invasive bypass

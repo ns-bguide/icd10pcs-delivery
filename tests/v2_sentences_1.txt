@@ -1,0 +1,72 @@
+102073Z	We conducted a change of the products of conception.
+102073Z	We conducted a change of the products of conception with a monitoring electrode.
+10207YZ	We conducted a change of the products of conception with another device.
+10900Z9	We conducted a drainage of the products of conception.
+10900Z9	We conducted a drainage of the products of conception with fetal blood.
+10900ZA	We conducted a drainage of the products of conception with fetal cerebrospinal fluid.
+10900ZB	We conducted a drainage of the products of conception with other fetal fluid.
+10900ZC	We conducted a drainage of the products of conception with therapeutic amniotic fluid.
+10900ZD	We conducted a drainage of the products of conception with other fluid.
+10900ZU	We conducted a drainage of the products of conception with diagnostic amniotic fluid.
+10A00ZZ	We conducted an abortion of the products of conception.
+10A07Z6	We conducted an abortion with a vacuum.
+10A07ZW	We conducted an abortion with a laminaria.
+10A07ZX	We conducted an abortion with an abortifacient.
+10D00Z0	We conducted an extraction of the products of conception.
+10D00Z0	We conducted an extraction of the products of conception with a high.
+10D00Z1	We conducted an extraction of the products of conception with a low.
+10D00Z2	We conducted an extraction of the products of conception to an extraperitoneal.
+10D07Z3	We conducted an extraction of the products of conception with a low forceps.
+10D07Z4	We conducted an extraction of the products of conception with a mid forceps.
+10D07Z5	We conducted an extraction of the products of conception with a high forceps.
+10D07Z6	We conducted an extraction of the products of conception with a vacuum.
+10D07Z7	We conducted an extraction of the products of conception with an internal version.
+10D10ZZ	We conducted an extraction of the retained products of conception.
+10D17Z9	We conducted an extraction of the retained products of conception with a manual.
+10D20ZZ	We conducted an extraction of the ectopic products of conception.
+10E0XZZ	We conducted a delivery of the products of conception.
+10H003Z	We conducted an insertion of the products of conception.
+10H003Z	We conducted an insertion of the products of conception with a monitoring electrode.
+10H00YZ	We conducted an insertion of the products of conception with another device.
+10J00ZZ	We conducted an inspection of the products of conception.
+10J10ZZ	We conducted an inspection of the retained products of conception.
+10J20ZZ	We conducted an inspection of the ectopic products of conception.
+10P003Z	We conducted a removal of the products of conception.
+10P003Z	We conducted a removal of the products of conception with a monitoring electrode.
+10P00YZ	We conducted a removal of the products of conception with another device.
+10Q00YE	We conducted a repair of the products of conception.
+10Q00YE	We conducted a repair of the products of conception with another device.
+10Q00YE	We conducted a repair of the products of conception to a nervous system.
+10Q00YF	We conducted a repair of the products of conception to a cardiovascular system.
+10Q00YG	We conducted a repair of the products of conception to a lymphatic systems and hemic.
+10Q00YH	We conducted a repair of the products of conception with an eye.
+10Q00YJ	We conducted a repair of the products of conception to a nose and sinus ear.
+10Q00YK	We conducted a repair of the products of conception to a respiratory system.
+10Q00YM	We conducted a repair of the products of conception to a gastrointestinal system.
+10Q00YN	We conducted a repair of the products of conception to a hepatobiliary system and pancreas.
+10Q00YP	We conducted a repair of the products of conception to an endocrine system.
+10Q00YQ	We conducted a repair of the products of conception to the skin.
+10Q00YR	We conducted a repair of the products of conception to a musculoskeletal system.
+10Q00YS	We conducted a repair of the products of conception to a urinary system.
+10Q00YT	We conducted a repair of the products of conception to a female reproductive system.
+10Q00YV	We conducted a repair of the products of conception to a male reproductive system.
+10Q00YY	We conducted a repair of the products of conception to an other body system.
+10S07ZZ	We conducted a reposition of the products of conception.
+10S20ZZ	We conducted a reposition of the ectopic products of conception.
+10T20ZZ	We conducted a resection of the ectopic products of conception.
+10Y03ZE	We conducted a transplantation of the products of conception.
+10Y03ZE	We conducted a transplantation to a nervous system.
+10Y03ZF	We conducted a transplantation to a cardiovascular system.
+10Y03ZG	We conducted a transplantation to a lymphatic systems and hemic.
+10Y03ZH	We conducted a transplantation with an eye.
+10Y03ZJ	We conducted a transplantation to a nose and sinus ear.
+10Y03ZK	We conducted a transplantation to a respiratory system.
+10Y03ZM	We conducted a transplantation to a gastrointestinal system.
+10Y03ZN	We conducted a transplantation to a hepatobiliary system and pancreas.
+10Y03ZP	We conducted a transplantation to an endocrine system.
+10Y03ZQ	We conducted a transplantation to the skin.
+10Y03ZR	We conducted a transplantation to a musculoskeletal system.
+10Y03ZS	We conducted a transplantation to a urinary system.
+10Y03ZT	We conducted a transplantation to a female reproductive system.
+10Y03ZV	We conducted a transplantation to a male reproductive system.
+10Y03ZY	We conducted a transplantation to an other body system.

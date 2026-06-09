@@ -1,0 +1,958 @@
+C01	Planar Nuclear Medicine Imaging of the Central Nervous System
+C01	Central Nervous System Planar Nuclear Medicine Imaging
+C0101ZZ	Planar Nuclear Medicine Imaging of the Brain
+C0101ZZ	Brain Planar Nuclear Medicine Imaging
+C010YZZ	Planar Nuclear Medicine Imaging of the Brain
+C010YZZ	Brain Planar Nuclear Medicine Imaging
+C015DZZ	Planar Nuclear Medicine Imaging of the Cerebrospinal Fluid
+C015DZZ	Cerebrospinal Fluid Planar Nuclear Medicine Imaging
+C015YZZ	Planar Nuclear Medicine Imaging of the Cerebrospinal Fluid
+C015YZZ	Cerebrospinal Fluid Planar Nuclear Medicine Imaging
+C01YYZZ	Planar Nuclear Medicine Imaging of the Central Nervous System
+C01YYZZ	Central Nervous System Planar Nuclear Medicine Imaging
+C02	Tomographic (Tomo) Nuclear Medicine Imaging of the Central Nervous System
+C02	Central Nervous System Tomographic (Tomo) Nuclear Medicine Imaging
+C0201ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Brain
+C0201ZZ	Brain Tomographic (Tomo) Nuclear Medicine Imaging
+C020FZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Brain
+C020FZZ	Brain Tomographic (Tomo) Nuclear Medicine Imaging
+C020SZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Brain
+C020SZZ	Brain Tomographic (Tomo) Nuclear Medicine Imaging
+C020YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Brain
+C020YZZ	Brain Tomographic (Tomo) Nuclear Medicine Imaging
+C025DZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Cerebrospinal Fluid
+C025DZZ	Cerebrospinal Fluid Tomographic (Tomo) Nuclear Medicine Imaging
+C025YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Cerebrospinal Fluid
+C025YZZ	Cerebrospinal Fluid Tomographic (Tomo) Nuclear Medicine Imaging
+C02YYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Central Nervous System
+C02YYZZ	Central Nervous System Tomographic (Tomo) Nuclear Medicine Imaging
+C03	Positron Emission Tomographic (Pet) Imaging of the Central Nervous System
+C03	Central Nervous System Positron Emission Tomographic (Pet) Imaging
+C030BZZ	Positron Emission Tomographic (Pet) Imaging of the Brain
+C030BZZ	Brain Positron Emission Tomographic (Pet) Imaging
+C030KZZ	Positron Emission Tomographic (Pet) Imaging of the Brain
+C030KZZ	Brain Positron Emission Tomographic (Pet) Imaging
+C030MZZ	Positron Emission Tomographic (Pet) Imaging of the Brain
+C030MZZ	Brain Positron Emission Tomographic (Pet) Imaging
+C030YZZ	Positron Emission Tomographic (Pet) Imaging of the Brain
+C030YZZ	Brain Positron Emission Tomographic (Pet) Imaging
+C03YYZZ	Positron Emission Tomographic (Pet) Imaging of the Central Nervous System
+C03YYZZ	Central Nervous System Positron Emission Tomographic (Pet) Imaging
+C05	Nonimaging Nuclear Medicine Probe of the Central Nervous System
+C05	Central Nervous System Nonimaging Nuclear Medicine Probe
+C050VZZ	Nonimaging Nuclear Medicine Probe of the Brain
+C050VZZ	Brain Nonimaging Nuclear Medicine Probe
+C050YZZ	Nonimaging Nuclear Medicine Probe of the Brain
+C050YZZ	Brain Nonimaging Nuclear Medicine Probe
+C05YYZZ	Nonimaging Nuclear Medicine Probe of the Central Nervous System
+C05YYZZ	Central Nervous System Nonimaging Nuclear Medicine Probe
+C21	Planar Nuclear Medicine Imaging of the Heart
+C21	Heart Planar Nuclear Medicine Imaging
+C2161ZZ	Planar Nuclear Medicine Imaging of the Right And Left Heart
+C2161ZZ	Right And Left Heart Planar Nuclear Medicine Imaging
+C216YZZ	Planar Nuclear Medicine Imaging of the Right And Left Heart
+C216YZZ	Right And Left Heart Planar Nuclear Medicine Imaging
+C21G1ZZ	Planar Nuclear Medicine Imaging of the Myocardium
+C21G1ZZ	Myocardium Planar Nuclear Medicine Imaging
+C21GDZZ	Planar Nuclear Medicine Imaging of the Myocardium
+C21GDZZ	Myocardium Planar Nuclear Medicine Imaging
+C21GSZZ	Planar Nuclear Medicine Imaging of the Myocardium
+C21GSZZ	Myocardium Planar Nuclear Medicine Imaging
+C21GYZZ	Planar Nuclear Medicine Imaging of the Myocardium
+C21GYZZ	Myocardium Planar Nuclear Medicine Imaging
+C21GZZZ	Planar Nuclear Medicine Imaging of the Myocardium
+C21GZZZ	Myocardium Planar Nuclear Medicine Imaging
+C21YYZZ	Planar Nuclear Medicine Imaging of the Heart
+C21YYZZ	Heart Planar Nuclear Medicine Imaging
+C22	Tomographic (Tomo) Nuclear Medicine Imaging of the Heart
+C22	Heart Tomographic (Tomo) Nuclear Medicine Imaging
+C2261ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Right And Left Heart
+C2261ZZ	Right And Left Heart Tomographic (Tomo) Nuclear Medicine Imaging
+C226YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Right And Left Heart
+C226YZZ	Right And Left Heart Tomographic (Tomo) Nuclear Medicine Imaging
+C22G1ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Myocardium
+C22G1ZZ	Myocardium Tomographic (Tomo) Nuclear Medicine Imaging
+C22GDZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Myocardium
+C22GDZZ	Myocardium Tomographic (Tomo) Nuclear Medicine Imaging
+C22GKZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Myocardium
+C22GKZZ	Myocardium Tomographic (Tomo) Nuclear Medicine Imaging
+C22GSZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Myocardium
+C22GSZZ	Myocardium Tomographic (Tomo) Nuclear Medicine Imaging
+C22GYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Myocardium
+C22GYZZ	Myocardium Tomographic (Tomo) Nuclear Medicine Imaging
+C22GZZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Myocardium
+C22GZZZ	Myocardium Tomographic (Tomo) Nuclear Medicine Imaging
+C22YYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Heart
+C22YYZZ	Heart Tomographic (Tomo) Nuclear Medicine Imaging
+C23	Positron Emission Tomographic (Pet) Imaging of the Heart
+C23	Heart Positron Emission Tomographic (Pet) Imaging
+C23GKZZ	Positron Emission Tomographic (Pet) Imaging of the Myocardium
+C23GKZZ	Myocardium Positron Emission Tomographic (Pet) Imaging
+C23GMZZ	Positron Emission Tomographic (Pet) Imaging of the Myocardium
+C23GMZZ	Myocardium Positron Emission Tomographic (Pet) Imaging
+C23GQZZ	Positron Emission Tomographic (Pet) Imaging of the Myocardium
+C23GQZZ	Myocardium Positron Emission Tomographic (Pet) Imaging
+C23GRZZ	Positron Emission Tomographic (Pet) Imaging of the Myocardium
+C23GRZZ	Myocardium Positron Emission Tomographic (Pet) Imaging
+C23GYZZ	Positron Emission Tomographic (Pet) Imaging of the Myocardium
+C23GYZZ	Myocardium Positron Emission Tomographic (Pet) Imaging
+C23YYZZ	Positron Emission Tomographic (Pet) Imaging of the Heart
+C23YYZZ	Heart Positron Emission Tomographic (Pet) Imaging
+C25	Nonimaging Nuclear Medicine Probe of the Heart
+C25	Heart Nonimaging Nuclear Medicine Probe
+C2561ZZ	Nonimaging Nuclear Medicine Probe of the Right And Left Heart
+C2561ZZ	Right And Left Heart Nonimaging Nuclear Medicine Probe
+C256YZZ	Nonimaging Nuclear Medicine Probe of the Right And Left Heart
+C256YZZ	Right And Left Heart Nonimaging Nuclear Medicine Probe
+C25YYZZ	Nonimaging Nuclear Medicine Probe of the Heart
+C25YYZZ	Heart Nonimaging Nuclear Medicine Probe
+C51	Planar Nuclear Medicine Imaging of the Veins
+C51	Veins Planar Nuclear Medicine Imaging
+C51B1ZZ	Planar Nuclear Medicine Imaging of the Right Lower Extremity Veins
+C51B1ZZ	Right Lower Extremity Veins Planar Nuclear Medicine Imaging
+C51BYZZ	Planar Nuclear Medicine Imaging of the Right Lower Extremity Veins
+C51BYZZ	Right Lower Extremity Veins Planar Nuclear Medicine Imaging
+C51C1ZZ	Planar Nuclear Medicine Imaging of the Left Lower Extremity Veins
+C51C1ZZ	Left Lower Extremity Veins Planar Nuclear Medicine Imaging
+C51CYZZ	Planar Nuclear Medicine Imaging of the Left Lower Extremity Veins
+C51CYZZ	Left Lower Extremity Veins Planar Nuclear Medicine Imaging
+C51D1ZZ	Planar Nuclear Medicine Imaging of the Bilateral Lower Extremity Veins
+C51D1ZZ	Bilateral Lower Extremity Veins Planar Nuclear Medicine Imaging
+C51DYZZ	Planar Nuclear Medicine Imaging of the Bilateral Lower Extremity Veins
+C51DYZZ	Bilateral Lower Extremity Veins Planar Nuclear Medicine Imaging
+C51N1ZZ	Planar Nuclear Medicine Imaging of the Right Upper Extremity Veins
+C51N1ZZ	Right Upper Extremity Veins Planar Nuclear Medicine Imaging
+C51NYZZ	Planar Nuclear Medicine Imaging of the Right Upper Extremity Veins
+C51NYZZ	Right Upper Extremity Veins Planar Nuclear Medicine Imaging
+C51P1ZZ	Planar Nuclear Medicine Imaging of the Left Upper Extremity Veins
+C51P1ZZ	Left Upper Extremity Veins Planar Nuclear Medicine Imaging
+C51PYZZ	Planar Nuclear Medicine Imaging of the Left Upper Extremity Veins
+C51PYZZ	Left Upper Extremity Veins Planar Nuclear Medicine Imaging
+C51Q1ZZ	Planar Nuclear Medicine Imaging of the Bilateral Upper Extremity Veins
+C51Q1ZZ	Bilateral Upper Extremity Veins Planar Nuclear Medicine Imaging
+C51QYZZ	Planar Nuclear Medicine Imaging of the Bilateral Upper Extremity Veins
+C51QYZZ	Bilateral Upper Extremity Veins Planar Nuclear Medicine Imaging
+C51R1ZZ	Planar Nuclear Medicine Imaging of the Central Veins
+C51R1ZZ	Central Veins Planar Nuclear Medicine Imaging
+C51RYZZ	Planar Nuclear Medicine Imaging of the Central Veins
+C51RYZZ	Central Veins Planar Nuclear Medicine Imaging
+C51YYZZ	Planar Nuclear Medicine Imaging of the Veins
+C51YYZZ	Veins Planar Nuclear Medicine Imaging
+C71	Planar Nuclear Medicine Imaging of the Lymphatic System And Hematologic System
+C71	Lymphatic System And Hematologic System Planar Nuclear Medicine Imaging
+C7101ZZ	Planar Nuclear Medicine Imaging of the Bone Marrow
+C7101ZZ	Bone Marrow Planar Nuclear Medicine Imaging
+C710DZZ	Planar Nuclear Medicine Imaging of the Bone Marrow
+C710DZZ	Bone Marrow Planar Nuclear Medicine Imaging
+C710YZZ	Planar Nuclear Medicine Imaging of the Bone Marrow
+C710YZZ	Bone Marrow Planar Nuclear Medicine Imaging
+C7121ZZ	Planar Nuclear Medicine Imaging of the Spleen
+C7121ZZ	Spleen Planar Nuclear Medicine Imaging
+C712YZZ	Planar Nuclear Medicine Imaging of the Spleen
+C712YZZ	Spleen Planar Nuclear Medicine Imaging
+C713DZZ	Planar Nuclear Medicine Imaging of the Blood
+C713DZZ	Blood Planar Nuclear Medicine Imaging
+C713YZZ	Planar Nuclear Medicine Imaging of the Blood
+C713YZZ	Blood Planar Nuclear Medicine Imaging
+C7151ZZ	Planar Nuclear Medicine Imaging of the Head And Neck Lymphatic Systems
+C7151ZZ	Head And Neck Lymphatic Systems Planar Nuclear Medicine Imaging
+C715YZZ	Planar Nuclear Medicine Imaging of the Head And Neck Lymphatic Systems
+C715YZZ	Head And Neck Lymphatic Systems Planar Nuclear Medicine Imaging
+C71D1ZZ	Planar Nuclear Medicine Imaging of the Pelvic Region Lymphatic Systems
+C71D1ZZ	Pelvic Region Lymphatic Systems Planar Nuclear Medicine Imaging
+C71DYZZ	Planar Nuclear Medicine Imaging of the Pelvic Region Lymphatic Systems
+C71DYZZ	Pelvic Region Lymphatic Systems Planar Nuclear Medicine Imaging
+C71J1ZZ	Planar Nuclear Medicine Imaging of the Head Lymphatic Systems
+C71J1ZZ	Head Lymphatic Systems Planar Nuclear Medicine Imaging
+C71JYZZ	Planar Nuclear Medicine Imaging of the Head Lymphatic Systems
+C71JYZZ	Head Lymphatic Systems Planar Nuclear Medicine Imaging
+C71K1ZZ	Planar Nuclear Medicine Imaging of the Neck Lymphatic Systems
+C71K1ZZ	Neck Lymphatic Systems Planar Nuclear Medicine Imaging
+C71KYZZ	Planar Nuclear Medicine Imaging of the Neck Lymphatic Systems
+C71KYZZ	Neck Lymphatic Systems Planar Nuclear Medicine Imaging
+C71M1ZZ	Planar Nuclear Medicine Imaging of the Trunk Lymphatic Systems
+C71M1ZZ	Trunk Lymphatic Systems Planar Nuclear Medicine Imaging
+C71MYZZ	Planar Nuclear Medicine Imaging of the Trunk Lymphatic Systems
+C71MYZZ	Trunk Lymphatic Systems Planar Nuclear Medicine Imaging
+C71N1ZZ	Planar Nuclear Medicine Imaging of the Upper Extremity Lymphatic Systems
+C71N1ZZ	Upper Extremity Lymphatic Systems Planar Nuclear Medicine Imaging
+C71NYZZ	Planar Nuclear Medicine Imaging of the Upper Extremity Lymphatic Systems
+C71NYZZ	Upper Extremity Lymphatic Systems Planar Nuclear Medicine Imaging
+C71P1ZZ	Planar Nuclear Medicine Imaging of the Lower Extremity Lymphatic Systems
+C71P1ZZ	Lower Extremity Lymphatic Systems Planar Nuclear Medicine Imaging
+C71PYZZ	Planar Nuclear Medicine Imaging of the Lower Extremity Lymphatic Systems
+C71PYZZ	Lower Extremity Lymphatic Systems Planar Nuclear Medicine Imaging
+C71YYZZ	Planar Nuclear Medicine Imaging of the Lymphatic System And Hematologic System
+C71YYZZ	Lymphatic System And Hematologic System Planar Nuclear Medicine Imaging
+C72	Tomographic (Tomo) Nuclear Medicine Imaging of the Lymphatic System And Hematologic System
+C72	Lymphatic System And Hematologic System Tomographic (Tomo) Nuclear Medicine Imaging
+C7221ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Spleen
+C7221ZZ	Spleen Tomographic (Tomo) Nuclear Medicine Imaging
+C722YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Spleen
+C722YZZ	Spleen Tomographic (Tomo) Nuclear Medicine Imaging
+C72YYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Lymphatic System And Hematologic System
+C72YYZZ	Lymphatic System And Hematologic System Tomographic (Tomo) Nuclear Medicine Imaging
+C75	Nonimaging Nuclear Medicine Probe of the Lymphatic System And Hematologic System
+C75	Lymphatic System And Hematologic System Nonimaging Nuclear Medicine Probe
+C7551ZZ	Nonimaging Nuclear Medicine Probe of the Head And Neck Lymphatic Systems
+C7551ZZ	Head And Neck Lymphatic Systems Nonimaging Nuclear Medicine Probe
+C755YZZ	Nonimaging Nuclear Medicine Probe of the Head And Neck Lymphatic Systems
+C755YZZ	Head And Neck Lymphatic Systems Nonimaging Nuclear Medicine Probe
+C75D1ZZ	Nonimaging Nuclear Medicine Probe of the Pelvic Region Lymphatic Systems
+C75D1ZZ	Pelvic Region Lymphatic Systems Nonimaging Nuclear Medicine Probe
+C75DYZZ	Nonimaging Nuclear Medicine Probe of the Pelvic Region Lymphatic Systems
+C75DYZZ	Pelvic Region Lymphatic Systems Nonimaging Nuclear Medicine Probe
+C75J1ZZ	Nonimaging Nuclear Medicine Probe of the Head Lymphatic Systems
+C75J1ZZ	Head Lymphatic Systems Nonimaging Nuclear Medicine Probe
+C75JYZZ	Nonimaging Nuclear Medicine Probe of the Head Lymphatic Systems
+C75JYZZ	Head Lymphatic Systems Nonimaging Nuclear Medicine Probe
+C75K1ZZ	Nonimaging Nuclear Medicine Probe of the Neck Lymphatic Systems
+C75K1ZZ	Neck Lymphatic Systems Nonimaging Nuclear Medicine Probe
+C75KYZZ	Nonimaging Nuclear Medicine Probe of the Neck Lymphatic Systems
+C75KYZZ	Neck Lymphatic Systems Nonimaging Nuclear Medicine Probe
+C75M1ZZ	Nonimaging Nuclear Medicine Probe of the Trunk Lymphatic Systems
+C75M1ZZ	Trunk Lymphatic Systems Nonimaging Nuclear Medicine Probe
+C75MYZZ	Nonimaging Nuclear Medicine Probe of the Trunk Lymphatic Systems
+C75MYZZ	Trunk Lymphatic Systems Nonimaging Nuclear Medicine Probe
+C75N1ZZ	Nonimaging Nuclear Medicine Probe of the Upper Extremity Lymphatic Systems
+C75N1ZZ	Upper Extremity Lymphatic Systems Nonimaging Nuclear Medicine Probe
+C75NYZZ	Nonimaging Nuclear Medicine Probe of the Upper Extremity Lymphatic Systems
+C75NYZZ	Upper Extremity Lymphatic Systems Nonimaging Nuclear Medicine Probe
+C75P1ZZ	Nonimaging Nuclear Medicine Probe of the Lower Extremity Lymphatic Systems
+C75P1ZZ	Lower Extremity Lymphatic Systems Nonimaging Nuclear Medicine Probe
+C75PYZZ	Nonimaging Nuclear Medicine Probe of the Lower Extremity Lymphatic Systems
+C75PYZZ	Lower Extremity Lymphatic Systems Nonimaging Nuclear Medicine Probe
+C75YYZZ	Nonimaging Nuclear Medicine Probe of the Lymphatic System And Hematologic System
+C75YYZZ	Lymphatic System And Hematologic System Nonimaging Nuclear Medicine Probe
+C76	Nonimaging Nuclear Medicine Assay of the Lymphatic System And Hematologic System
+C76	Lymphatic System And Hematologic System Nonimaging Nuclear Medicine Assay
+C7631ZZ	Nonimaging Nuclear Medicine Assay of the Blood
+C7631ZZ	Blood Nonimaging Nuclear Medicine Assay
+C7637ZZ	Nonimaging Nuclear Medicine Assay of the Blood
+C7637ZZ	Blood Nonimaging Nuclear Medicine Assay
+C763CZZ	Nonimaging Nuclear Medicine Assay of the Blood
+C763CZZ	Blood Nonimaging Nuclear Medicine Assay
+C763DZZ	Nonimaging Nuclear Medicine Assay of the Blood
+C763DZZ	Blood Nonimaging Nuclear Medicine Assay
+C763HZZ	Nonimaging Nuclear Medicine Assay of the Blood
+C763HZZ	Blood Nonimaging Nuclear Medicine Assay
+C763WZZ	Nonimaging Nuclear Medicine Assay of the Blood
+C763WZZ	Blood Nonimaging Nuclear Medicine Assay
+C763YZZ	Nonimaging Nuclear Medicine Assay of the Blood
+C763YZZ	Blood Nonimaging Nuclear Medicine Assay
+C76YYZZ	Nonimaging Nuclear Medicine Assay of the Lymphatic System And Hematologic System
+C76YYZZ	Lymphatic System And Hematologic System Nonimaging Nuclear Medicine Assay
+C81	Planar Nuclear Medicine Imaging of the Eye
+C81	Eye Planar Nuclear Medicine Imaging
+C8191ZZ	Planar Nuclear Medicine Imaging of the Bilateral Lacrimal Ducts
+C8191ZZ	Bilateral Lacrimal Ducts Planar Nuclear Medicine Imaging
+C819YZZ	Planar Nuclear Medicine Imaging of the Bilateral Lacrimal Ducts
+C819YZZ	Bilateral Lacrimal Ducts Planar Nuclear Medicine Imaging
+C81YYZZ	Planar Nuclear Medicine Imaging of the Eye
+C81YYZZ	Eye Planar Nuclear Medicine Imaging
+C91	Planar Nuclear Medicine Imaging of the Ear, Nose, And Mouth And Throat
+C91	Ear, Nose, And Mouth And Throat Planar Nuclear Medicine Imaging
+C91B1ZZ	Planar Nuclear Medicine Imaging of the Bilateral Salivary Glands
+C91B1ZZ	Bilateral Salivary Glands Planar Nuclear Medicine Imaging
+C91BYZZ	Planar Nuclear Medicine Imaging of the Bilateral Salivary Glands
+C91BYZZ	Bilateral Salivary Glands Planar Nuclear Medicine Imaging
+C91YYZZ	Planar Nuclear Medicine Imaging of the Ear, Nose, And Mouth And Throat
+C91YYZZ	Ear, Nose, And Mouth And Throat Planar Nuclear Medicine Imaging
+CB1	Planar Nuclear Medicine Imaging of the Respiratory System
+CB1	Respiratory System Planar Nuclear Medicine Imaging
+CB121ZZ	Planar Nuclear Medicine Imaging of the Lungs And Bronchi
+CB121ZZ	Lungs And Bronchi Planar Nuclear Medicine Imaging
+CB129ZZ	Planar Nuclear Medicine Imaging of the Lungs And Bronchi
+CB129ZZ	Lungs And Bronchi Planar Nuclear Medicine Imaging
+CB12TZZ	Planar Nuclear Medicine Imaging of the Lungs And Bronchi
+CB12TZZ	Lungs And Bronchi Planar Nuclear Medicine Imaging
+CB12VZZ	Planar Nuclear Medicine Imaging of the Lungs And Bronchi
+CB12VZZ	Lungs And Bronchi Planar Nuclear Medicine Imaging
+CB12YZZ	Planar Nuclear Medicine Imaging of the Lungs And Bronchi
+CB12YZZ	Lungs And Bronchi Planar Nuclear Medicine Imaging
+CB1YYZZ	Planar Nuclear Medicine Imaging of the Respiratory System
+CB1YYZZ	Respiratory System Planar Nuclear Medicine Imaging
+CB2	Tomographic (Tomo) Nuclear Medicine Imaging of the Respiratory System
+CB2	Respiratory System Tomographic (Tomo) Nuclear Medicine Imaging
+CB221ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Lungs And Bronchi
+CB221ZZ	Lungs And Bronchi Tomographic (Tomo) Nuclear Medicine Imaging
+CB229ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Lungs And Bronchi
+CB229ZZ	Lungs And Bronchi Tomographic (Tomo) Nuclear Medicine Imaging
+CB22YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Lungs And Bronchi
+CB22YZZ	Lungs And Bronchi Tomographic (Tomo) Nuclear Medicine Imaging
+CB2YYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Respiratory System
+CB2YYZZ	Respiratory System Tomographic (Tomo) Nuclear Medicine Imaging
+CB3	Positron Emission Tomographic (Pet) Imaging of the Respiratory System
+CB3	Respiratory System Positron Emission Tomographic (Pet) Imaging
+CB32KZZ	Positron Emission Tomographic (Pet) Imaging of the Lungs And Bronchi
+CB32KZZ	Lungs And Bronchi Positron Emission Tomographic (Pet) Imaging
+CB32YZZ	Positron Emission Tomographic (Pet) Imaging of the Lungs And Bronchi
+CB32YZZ	Lungs And Bronchi Positron Emission Tomographic (Pet) Imaging
+CB3YYZZ	Positron Emission Tomographic (Pet) Imaging of the Respiratory System
+CB3YYZZ	Respiratory System Positron Emission Tomographic (Pet) Imaging
+CD1	Planar Nuclear Medicine Imaging of the Gastrointestinal System
+CD1	Gastrointestinal System Planar Nuclear Medicine Imaging
+CD151ZZ	Planar Nuclear Medicine Imaging of the Upper Gastrointestinal Tract
+CD151ZZ	Upper Gastrointestinal Tract Planar Nuclear Medicine Imaging
+CD15DZZ	Planar Nuclear Medicine Imaging of the Upper Gastrointestinal Tract
+CD15DZZ	Upper Gastrointestinal Tract Planar Nuclear Medicine Imaging
+CD15YZZ	Planar Nuclear Medicine Imaging of the Upper Gastrointestinal Tract
+CD15YZZ	Upper Gastrointestinal Tract Planar Nuclear Medicine Imaging
+CD171ZZ	Planar Nuclear Medicine Imaging of the Gastrointestinal Tract
+CD171ZZ	Gastrointestinal Tract Planar Nuclear Medicine Imaging
+CD17DZZ	Planar Nuclear Medicine Imaging of the Gastrointestinal Tract
+CD17DZZ	Gastrointestinal Tract Planar Nuclear Medicine Imaging
+CD17YZZ	Planar Nuclear Medicine Imaging of the Gastrointestinal Tract
+CD17YZZ	Gastrointestinal Tract Planar Nuclear Medicine Imaging
+CD1YYZZ	Planar Nuclear Medicine Imaging of the Digestive System
+CD1YYZZ	Digestive System Planar Nuclear Medicine Imaging
+CD2	Tomographic (Tomo) Nuclear Medicine Imaging of the Gastrointestinal System
+CD2	Gastrointestinal System Tomographic (Tomo) Nuclear Medicine Imaging
+CD271ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Gastrointestinal Tract
+CD271ZZ	Gastrointestinal Tract Tomographic (Tomo) Nuclear Medicine Imaging
+CD27DZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Gastrointestinal Tract
+CD27DZZ	Gastrointestinal Tract Tomographic (Tomo) Nuclear Medicine Imaging
+CD27YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Gastrointestinal Tract
+CD27YZZ	Gastrointestinal Tract Tomographic (Tomo) Nuclear Medicine Imaging
+CD2YYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Digestive System
+CD2YYZZ	Digestive System Tomographic (Tomo) Nuclear Medicine Imaging
+CF1	Planar Nuclear Medicine Imaging of the Hepatobiliary System And Pancreas
+CF1	Hepatobiliary System And Pancreas Planar Nuclear Medicine Imaging
+CF141ZZ	Planar Nuclear Medicine Imaging of the Gallbladder
+CF141ZZ	Gallbladder Planar Nuclear Medicine Imaging
+CF14YZZ	Planar Nuclear Medicine Imaging of the Gallbladder
+CF14YZZ	Gallbladder Planar Nuclear Medicine Imaging
+CF151ZZ	Planar Nuclear Medicine Imaging of the Liver
+CF151ZZ	Liver Planar Nuclear Medicine Imaging
+CF15YZZ	Planar Nuclear Medicine Imaging of the Liver
+CF15YZZ	Liver Planar Nuclear Medicine Imaging
+CF161ZZ	Planar Nuclear Medicine Imaging of the Liver And Spleen
+CF161ZZ	Liver And Spleen Planar Nuclear Medicine Imaging
+CF16YZZ	Planar Nuclear Medicine Imaging of the Liver And Spleen
+CF16YZZ	Liver And Spleen Planar Nuclear Medicine Imaging
+CF1C1ZZ	Planar Nuclear Medicine Imaging of the All Hepatobiliary System
+CF1C1ZZ	All Hepatobiliary System Planar Nuclear Medicine Imaging
+CF1CYZZ	Planar Nuclear Medicine Imaging of the All Hepatobiliary System
+CF1CYZZ	All Hepatobiliary System Planar Nuclear Medicine Imaging
+CF1YYZZ	Planar Nuclear Medicine Imaging of the Hepatobiliary System And Pancreas
+CF1YYZZ	Hepatobiliary System And Pancreas Planar Nuclear Medicine Imaging
+CF2	Tomographic (Tomo) Nuclear Medicine Imaging of the Hepatobiliary System And Pancreas
+CF2	Hepatobiliary System And Pancreas Tomographic (Tomo) Nuclear Medicine Imaging
+CF241ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Gallbladder
+CF241ZZ	Gallbladder Tomographic (Tomo) Nuclear Medicine Imaging
+CF24YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Gallbladder
+CF24YZZ	Gallbladder Tomographic (Tomo) Nuclear Medicine Imaging
+CF251ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Liver
+CF251ZZ	Liver Tomographic (Tomo) Nuclear Medicine Imaging
+CF25YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Liver
+CF25YZZ	Liver Tomographic (Tomo) Nuclear Medicine Imaging
+CF261ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Liver And Spleen
+CF261ZZ	Liver And Spleen Tomographic (Tomo) Nuclear Medicine Imaging
+CF26YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Liver And Spleen
+CF26YZZ	Liver And Spleen Tomographic (Tomo) Nuclear Medicine Imaging
+CF2YYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Hepatobiliary System And Pancreas
+CF2YYZZ	Hepatobiliary System And Pancreas Tomographic (Tomo) Nuclear Medicine Imaging
+CG1	Planar Nuclear Medicine Imaging of the Endocrine System
+CG1	Endocrine System Planar Nuclear Medicine Imaging
+CG111ZZ	Planar Nuclear Medicine Imaging of the Parathyroid Glands
+CG111ZZ	Parathyroid Glands Planar Nuclear Medicine Imaging
+CG11SZZ	Planar Nuclear Medicine Imaging of the Parathyroid Glands
+CG11SZZ	Parathyroid Glands Planar Nuclear Medicine Imaging
+CG11YZZ	Planar Nuclear Medicine Imaging of the Parathyroid Glands
+CG11YZZ	Parathyroid Glands Planar Nuclear Medicine Imaging
+CG121ZZ	Planar Nuclear Medicine Imaging of the Thyroid Gland
+CG121ZZ	Thyroid Gland Planar Nuclear Medicine Imaging
+CG12FZZ	Planar Nuclear Medicine Imaging of the Thyroid Gland
+CG12FZZ	Thyroid Gland Planar Nuclear Medicine Imaging
+CG12GZZ	Planar Nuclear Medicine Imaging of the Thyroid Gland
+CG12GZZ	Thyroid Gland Planar Nuclear Medicine Imaging
+CG12YZZ	Planar Nuclear Medicine Imaging of the Thyroid Gland
+CG12YZZ	Thyroid Gland Planar Nuclear Medicine Imaging
+CG14GZZ	Planar Nuclear Medicine Imaging of the Bilateral Adrenal Glands
+CG14GZZ	Bilateral Adrenal Glands Planar Nuclear Medicine Imaging
+CG14YZZ	Planar Nuclear Medicine Imaging of the Bilateral Adrenal Glands
+CG14YZZ	Bilateral Adrenal Glands Planar Nuclear Medicine Imaging
+CG1YYZZ	Planar Nuclear Medicine Imaging of the Endocrine System
+CG1YYZZ	Endocrine System Planar Nuclear Medicine Imaging
+CG2	Tomographic (Tomo) Nuclear Medicine Imaging of the Endocrine System
+CG2	Endocrine System Tomographic (Tomo) Nuclear Medicine Imaging
+CG211ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Parathyroid Glands
+CG211ZZ	Parathyroid Glands Tomographic (Tomo) Nuclear Medicine Imaging
+CG21SZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Parathyroid Glands
+CG21SZZ	Parathyroid Glands Tomographic (Tomo) Nuclear Medicine Imaging
+CG21YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Parathyroid Glands
+CG21YZZ	Parathyroid Glands Tomographic (Tomo) Nuclear Medicine Imaging
+CG2YYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Endocrine System
+CG2YYZZ	Endocrine System Tomographic (Tomo) Nuclear Medicine Imaging
+CG4	Nonimaging Nuclear Medicine Uptake of the Endocrine System
+CG4	Endocrine System Nonimaging Nuclear Medicine Uptake
+CG421ZZ	Nonimaging Nuclear Medicine Uptake of the Thyroid Gland
+CG421ZZ	Thyroid Gland Nonimaging Nuclear Medicine Uptake
+CG42FZZ	Nonimaging Nuclear Medicine Uptake of the Thyroid Gland
+CG42FZZ	Thyroid Gland Nonimaging Nuclear Medicine Uptake
+CG42GZZ	Nonimaging Nuclear Medicine Uptake of the Thyroid Gland
+CG42GZZ	Thyroid Gland Nonimaging Nuclear Medicine Uptake
+CG42YZZ	Nonimaging Nuclear Medicine Uptake of the Thyroid Gland
+CG42YZZ	Thyroid Gland Nonimaging Nuclear Medicine Uptake
+CG4YYZZ	Nonimaging Nuclear Medicine Uptake of the Endocrine System
+CG4YYZZ	Endocrine System Nonimaging Nuclear Medicine Uptake
+CH1	Planar Nuclear Medicine Imaging of the Subcutaneous Tissue And Breast Skin
+CH1	Subcutaneous Tissue And Breast Skin Planar Nuclear Medicine Imaging
+CH101ZZ	Planar Nuclear Medicine Imaging of the Right Breast
+CH101ZZ	Right Breast Planar Nuclear Medicine Imaging
+CH10SZZ	Planar Nuclear Medicine Imaging of the Right Breast
+CH10SZZ	Right Breast Planar Nuclear Medicine Imaging
+CH10YZZ	Planar Nuclear Medicine Imaging of the Right Breast
+CH10YZZ	Right Breast Planar Nuclear Medicine Imaging
+CH111ZZ	Planar Nuclear Medicine Imaging of the Left Breast
+CH111ZZ	Left Breast Planar Nuclear Medicine Imaging
+CH11SZZ	Planar Nuclear Medicine Imaging of the Left Breast
+CH11SZZ	Left Breast Planar Nuclear Medicine Imaging
+CH11YZZ	Planar Nuclear Medicine Imaging of the Left Breast
+CH11YZZ	Left Breast Planar Nuclear Medicine Imaging
+CH121ZZ	Planar Nuclear Medicine Imaging of the Bilateral Breasts
+CH121ZZ	Bilateral Breasts Planar Nuclear Medicine Imaging
+CH12SZZ	Planar Nuclear Medicine Imaging of the Bilateral Breasts
+CH12SZZ	Bilateral Breasts Planar Nuclear Medicine Imaging
+CH12YZZ	Planar Nuclear Medicine Imaging of the Bilateral Breasts
+CH12YZZ	Bilateral Breasts Planar Nuclear Medicine Imaging
+CH1YYZZ	Planar Nuclear Medicine Imaging of the Subcutaneous Tissue And Breast Skin
+CH1YYZZ	Subcutaneous Tissue And Breast Skin Planar Nuclear Medicine Imaging
+CH2	Tomographic (Tomo) Nuclear Medicine Imaging of the Subcutaneous Tissue And Breast Skin
+CH2	Subcutaneous Tissue And Breast Skin Tomographic (Tomo) Nuclear Medicine Imaging
+CH201ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Right Breast
+CH201ZZ	Right Breast Tomographic (Tomo) Nuclear Medicine Imaging
+CH20SZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Right Breast
+CH20SZZ	Right Breast Tomographic (Tomo) Nuclear Medicine Imaging
+CH20YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Right Breast
+CH20YZZ	Right Breast Tomographic (Tomo) Nuclear Medicine Imaging
+CH211ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Left Breast
+CH211ZZ	Left Breast Tomographic (Tomo) Nuclear Medicine Imaging
+CH21SZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Left Breast
+CH21SZZ	Left Breast Tomographic (Tomo) Nuclear Medicine Imaging
+CH21YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Left Breast
+CH21YZZ	Left Breast Tomographic (Tomo) Nuclear Medicine Imaging
+CH221ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Bilateral Breasts
+CH221ZZ	Bilateral Breasts Tomographic (Tomo) Nuclear Medicine Imaging
+CH22SZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Bilateral Breasts
+CH22SZZ	Bilateral Breasts Tomographic (Tomo) Nuclear Medicine Imaging
+CH22YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Bilateral Breasts
+CH22YZZ	Bilateral Breasts Tomographic (Tomo) Nuclear Medicine Imaging
+CH2YYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Subcutaneous Tissue And Breast Skin
+CH2YYZZ	Subcutaneous Tissue And Breast Skin Tomographic (Tomo) Nuclear Medicine Imaging
+CP1	Planar Nuclear Medicine Imaging of the Musculoskeletal System
+CP1	Musculoskeletal System Planar Nuclear Medicine Imaging
+CP111ZZ	Planar Nuclear Medicine Imaging of the Skull
+CP111ZZ	Skull Planar Nuclear Medicine Imaging
+CP11YZZ	Planar Nuclear Medicine Imaging of the Skull
+CP11YZZ	Skull Planar Nuclear Medicine Imaging
+CP141ZZ	Planar Nuclear Medicine Imaging of the Thorax
+CP141ZZ	Thorax Planar Nuclear Medicine Imaging
+CP14YZZ	Planar Nuclear Medicine Imaging of the Thorax
+CP14YZZ	Thorax Planar Nuclear Medicine Imaging
+CP151ZZ	Planar Nuclear Medicine Imaging of the Spine
+CP151ZZ	Spine Planar Nuclear Medicine Imaging
+CP15YZZ	Planar Nuclear Medicine Imaging of the Spine
+CP15YZZ	Spine Planar Nuclear Medicine Imaging
+CP161ZZ	Planar Nuclear Medicine Imaging of the Pelvis
+CP161ZZ	Pelvis Planar Nuclear Medicine Imaging
+CP16YZZ	Planar Nuclear Medicine Imaging of the Pelvis
+CP16YZZ	Pelvis Planar Nuclear Medicine Imaging
+CP171ZZ	Planar Nuclear Medicine Imaging of the Spine And Pelvis
+CP171ZZ	Spine And Pelvis Planar Nuclear Medicine Imaging
+CP17YZZ	Planar Nuclear Medicine Imaging of the Spine And Pelvis
+CP17YZZ	Spine And Pelvis Planar Nuclear Medicine Imaging
+CP181ZZ	Planar Nuclear Medicine Imaging of the Right Upper Extremity
+CP181ZZ	Right Upper Extremity Planar Nuclear Medicine Imaging
+CP18YZZ	Planar Nuclear Medicine Imaging of the Right Upper Extremity
+CP18YZZ	Right Upper Extremity Planar Nuclear Medicine Imaging
+CP191ZZ	Planar Nuclear Medicine Imaging of the Left Upper Extremity
+CP191ZZ	Left Upper Extremity Planar Nuclear Medicine Imaging
+CP19YZZ	Planar Nuclear Medicine Imaging of the Left Upper Extremity
+CP19YZZ	Left Upper Extremity Planar Nuclear Medicine Imaging
+CP1B1ZZ	Planar Nuclear Medicine Imaging of the Bilateral Upper Extremities
+CP1B1ZZ	Bilateral Upper Extremities Planar Nuclear Medicine Imaging
+CP1BYZZ	Planar Nuclear Medicine Imaging of the Bilateral Upper Extremities
+CP1BYZZ	Bilateral Upper Extremities Planar Nuclear Medicine Imaging
+CP1C1ZZ	Planar Nuclear Medicine Imaging of the Right Lower Extremity
+CP1C1ZZ	Right Lower Extremity Planar Nuclear Medicine Imaging
+CP1CYZZ	Planar Nuclear Medicine Imaging of the Right Lower Extremity
+CP1CYZZ	Right Lower Extremity Planar Nuclear Medicine Imaging
+CP1D1ZZ	Planar Nuclear Medicine Imaging of the Left Lower Extremity
+CP1D1ZZ	Left Lower Extremity Planar Nuclear Medicine Imaging
+CP1DYZZ	Planar Nuclear Medicine Imaging of the Left Lower Extremity
+CP1DYZZ	Left Lower Extremity Planar Nuclear Medicine Imaging
+CP1F1ZZ	Planar Nuclear Medicine Imaging of the Bilateral Lower Extremities
+CP1F1ZZ	Bilateral Lower Extremities Planar Nuclear Medicine Imaging
+CP1FYZZ	Planar Nuclear Medicine Imaging of the Bilateral Lower Extremities
+CP1FYZZ	Bilateral Lower Extremities Planar Nuclear Medicine Imaging
+CP1YYZZ	Planar Nuclear Medicine Imaging of the Other Musculoskeletal System
+CP1YYZZ	Other Musculoskeletal System Planar Nuclear Medicine Imaging
+CP1Z1ZZ	Planar Nuclear Medicine Imaging of the All Musculoskeletal System
+CP1Z1ZZ	All Musculoskeletal System Planar Nuclear Medicine Imaging
+CP1ZYZZ	Planar Nuclear Medicine Imaging of the All Musculoskeletal System
+CP1ZYZZ	All Musculoskeletal System Planar Nuclear Medicine Imaging
+CP2	Tomographic (Tomo) Nuclear Medicine Imaging of the Musculoskeletal System
+CP2	Musculoskeletal System Tomographic (Tomo) Nuclear Medicine Imaging
+CP211ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Skull
+CP211ZZ	Skull Tomographic (Tomo) Nuclear Medicine Imaging
+CP21YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Skull
+CP21YZZ	Skull Tomographic (Tomo) Nuclear Medicine Imaging
+CP221ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Cervical Region Spine
+CP221ZZ	Cervical Region Spine Tomographic (Tomo) Nuclear Medicine Imaging
+CP22YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Cervical Region Spine
+CP22YZZ	Cervical Region Spine Tomographic (Tomo) Nuclear Medicine Imaging
+CP231ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Skull And Cervical Region Spine
+CP231ZZ	Skull And Cervical Region Spine Tomographic (Tomo) Nuclear Medicine Imaging
+CP23YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Skull And Cervical Region Spine
+CP23YZZ	Skull And Cervical Region Spine Tomographic (Tomo) Nuclear Medicine Imaging
+CP241ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Thorax
+CP241ZZ	Thorax Tomographic (Tomo) Nuclear Medicine Imaging
+CP24YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Thorax
+CP24YZZ	Thorax Tomographic (Tomo) Nuclear Medicine Imaging
+CP261ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Pelvis
+CP261ZZ	Pelvis Tomographic (Tomo) Nuclear Medicine Imaging
+CP26YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Pelvis
+CP26YZZ	Pelvis Tomographic (Tomo) Nuclear Medicine Imaging
+CP271ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Spine And Pelvis
+CP271ZZ	Spine And Pelvis Tomographic (Tomo) Nuclear Medicine Imaging
+CP27YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Spine And Pelvis
+CP27YZZ	Spine And Pelvis Tomographic (Tomo) Nuclear Medicine Imaging
+CP281ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Right Upper Extremity
+CP281ZZ	Right Upper Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CP28YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Right Upper Extremity
+CP28YZZ	Right Upper Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CP291ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Left Upper Extremity
+CP291ZZ	Left Upper Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CP29YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Left Upper Extremity
+CP29YZZ	Left Upper Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CP2B1ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Bilateral Upper Extremities
+CP2B1ZZ	Bilateral Upper Extremities Tomographic (Tomo) Nuclear Medicine Imaging
+CP2BYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Bilateral Upper Extremities
+CP2BYZZ	Bilateral Upper Extremities Tomographic (Tomo) Nuclear Medicine Imaging
+CP2C1ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Right Lower Extremity
+CP2C1ZZ	Right Lower Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CP2CYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Right Lower Extremity
+CP2CYZZ	Right Lower Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CP2D1ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Left Lower Extremity
+CP2D1ZZ	Left Lower Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CP2DYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Left Lower Extremity
+CP2DYZZ	Left Lower Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CP2F1ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Bilateral Lower Extremities
+CP2F1ZZ	Bilateral Lower Extremities Tomographic (Tomo) Nuclear Medicine Imaging
+CP2FYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Bilateral Lower Extremities
+CP2FYZZ	Bilateral Lower Extremities Tomographic (Tomo) Nuclear Medicine Imaging
+CP2G1ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Thoracic Region Spine
+CP2G1ZZ	Thoracic Region Spine Tomographic (Tomo) Nuclear Medicine Imaging
+CP2GYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Thoracic Region Spine
+CP2GYZZ	Thoracic Region Spine Tomographic (Tomo) Nuclear Medicine Imaging
+CP2H1ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Lumbar Region Spine
+CP2H1ZZ	Lumbar Region Spine Tomographic (Tomo) Nuclear Medicine Imaging
+CP2HYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Lumbar Region Spine
+CP2HYZZ	Lumbar Region Spine Tomographic (Tomo) Nuclear Medicine Imaging
+CP2J1ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Thoracolumbar Region Spine
+CP2J1ZZ	Thoracolumbar Region Spine Tomographic (Tomo) Nuclear Medicine Imaging
+CP2JYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Thoracolumbar Region Spine
+CP2JYZZ	Thoracolumbar Region Spine Tomographic (Tomo) Nuclear Medicine Imaging
+CP2YYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Other Musculoskeletal System
+CP2YYZZ	Other Musculoskeletal System Tomographic (Tomo) Nuclear Medicine Imaging
+CP5	Nonimaging Nuclear Medicine Probe of the Musculoskeletal System
+CP5	Musculoskeletal System Nonimaging Nuclear Medicine Probe
+CP55ZZZ	Nonimaging Nuclear Medicine Probe of the Spine
+CP55ZZZ	Spine Nonimaging Nuclear Medicine Probe
+CP5NZZZ	Nonimaging Nuclear Medicine Probe of the Upper Extremities
+CP5NZZZ	Upper Extremities Nonimaging Nuclear Medicine Probe
+CP5PZZZ	Nonimaging Nuclear Medicine Probe of the Lower Extremities
+CP5PZZZ	Lower Extremities Nonimaging Nuclear Medicine Probe
+CP5YYZZ	Nonimaging Nuclear Medicine Probe of the Other Musculoskeletal System
+CP5YYZZ	Other Musculoskeletal System Nonimaging Nuclear Medicine Probe
+CT1	Planar Nuclear Medicine Imaging of the Urinary System
+CT1	Urinary System Planar Nuclear Medicine Imaging
+CT131ZZ	Planar Nuclear Medicine Imaging of the Ureters And Bladder Kidneys
+CT131ZZ	Ureters And Bladder Kidneys Planar Nuclear Medicine Imaging
+CT13FZZ	Planar Nuclear Medicine Imaging of the Ureters And Bladder Kidneys
+CT13FZZ	Ureters And Bladder Kidneys Planar Nuclear Medicine Imaging
+CT13GZZ	Planar Nuclear Medicine Imaging of the Ureters And Bladder Kidneys
+CT13GZZ	Ureters And Bladder Kidneys Planar Nuclear Medicine Imaging
+CT13YZZ	Planar Nuclear Medicine Imaging of the Ureters And Bladder Kidneys
+CT13YZZ	Ureters And Bladder Kidneys Planar Nuclear Medicine Imaging
+CT1H1ZZ	Planar Nuclear Medicine Imaging of the Bladder And Ureters
+CT1H1ZZ	Bladder And Ureters Planar Nuclear Medicine Imaging
+CT1HYZZ	Planar Nuclear Medicine Imaging of the Bladder And Ureters
+CT1HYZZ	Bladder And Ureters Planar Nuclear Medicine Imaging
+CT1YYZZ	Planar Nuclear Medicine Imaging of the Urinary System
+CT1YYZZ	Urinary System Planar Nuclear Medicine Imaging
+CT2	Tomographic (Tomo) Nuclear Medicine Imaging of the Urinary System
+CT2	Urinary System Tomographic (Tomo) Nuclear Medicine Imaging
+CT231ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Ureters And Bladder Kidneys
+CT231ZZ	Ureters And Bladder Kidneys Tomographic (Tomo) Nuclear Medicine Imaging
+CT23YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Ureters And Bladder Kidneys
+CT23YZZ	Ureters And Bladder Kidneys Tomographic (Tomo) Nuclear Medicine Imaging
+CT2YYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Urinary System
+CT2YYZZ	Urinary System Tomographic (Tomo) Nuclear Medicine Imaging
+CT6	Nonimaging Nuclear Medicine Assay of the Urinary System
+CT6	Urinary System Nonimaging Nuclear Medicine Assay
+CT631ZZ	Nonimaging Nuclear Medicine Assay of the Ureters And Bladder Kidneys
+CT631ZZ	Ureters And Bladder Kidneys Nonimaging Nuclear Medicine Assay
+CT63FZZ	Nonimaging Nuclear Medicine Assay of the Ureters And Bladder Kidneys
+CT63FZZ	Ureters And Bladder Kidneys Nonimaging Nuclear Medicine Assay
+CT63GZZ	Nonimaging Nuclear Medicine Assay of the Ureters And Bladder Kidneys
+CT63GZZ	Ureters And Bladder Kidneys Nonimaging Nuclear Medicine Assay
+CT63HZZ	Nonimaging Nuclear Medicine Assay of the Ureters And Bladder Kidneys
+CT63HZZ	Ureters And Bladder Kidneys Nonimaging Nuclear Medicine Assay
+CT63YZZ	Nonimaging Nuclear Medicine Assay of the Ureters And Bladder Kidneys
+CT63YZZ	Ureters And Bladder Kidneys Nonimaging Nuclear Medicine Assay
+CT6YYZZ	Nonimaging Nuclear Medicine Assay of the Urinary System
+CT6YYZZ	Urinary System Nonimaging Nuclear Medicine Assay
+CV1	Planar Nuclear Medicine Imaging of the Male Reproductive System
+CV1	Male Reproductive System Planar Nuclear Medicine Imaging
+CV191ZZ	Planar Nuclear Medicine Imaging of the Bilateral Testicles
+CV191ZZ	Bilateral Testicles Planar Nuclear Medicine Imaging
+CV19YZZ	Planar Nuclear Medicine Imaging of the Bilateral Testicles
+CV19YZZ	Bilateral Testicles Planar Nuclear Medicine Imaging
+CV1YYZZ	Planar Nuclear Medicine Imaging of the Male Reproductive System
+CV1YYZZ	Male Reproductive System Planar Nuclear Medicine Imaging
+CW1	Planar Nuclear Medicine Imaging of the Anatomical Regions
+CW1	Anatomical Regions Planar Nuclear Medicine Imaging
+CW101ZZ	Planar Nuclear Medicine Imaging of the Abdomen
+CW101ZZ	Abdomen Planar Nuclear Medicine Imaging
+CW10DZZ	Planar Nuclear Medicine Imaging of the Abdomen
+CW10DZZ	Abdomen Planar Nuclear Medicine Imaging
+CW10FZZ	Planar Nuclear Medicine Imaging of the Abdomen
+CW10FZZ	Abdomen Planar Nuclear Medicine Imaging
+CW10GZZ	Planar Nuclear Medicine Imaging of the Abdomen
+CW10GZZ	Abdomen Planar Nuclear Medicine Imaging
+CW10SZZ	Planar Nuclear Medicine Imaging of the Abdomen
+CW10SZZ	Abdomen Planar Nuclear Medicine Imaging
+CW10YZZ	Planar Nuclear Medicine Imaging of the Abdomen
+CW10YZZ	Abdomen Planar Nuclear Medicine Imaging
+CW111ZZ	Planar Nuclear Medicine Imaging of the Abdomen And Pelvis
+CW111ZZ	Abdomen And Pelvis Planar Nuclear Medicine Imaging
+CW11DZZ	Planar Nuclear Medicine Imaging of the Abdomen And Pelvis
+CW11DZZ	Abdomen And Pelvis Planar Nuclear Medicine Imaging
+CW11FZZ	Planar Nuclear Medicine Imaging of the Abdomen And Pelvis
+CW11FZZ	Abdomen And Pelvis Planar Nuclear Medicine Imaging
+CW11GZZ	Planar Nuclear Medicine Imaging of the Abdomen And Pelvis
+CW11GZZ	Abdomen And Pelvis Planar Nuclear Medicine Imaging
+CW11SZZ	Planar Nuclear Medicine Imaging of the Abdomen And Pelvis
+CW11SZZ	Abdomen And Pelvis Planar Nuclear Medicine Imaging
+CW11YZZ	Planar Nuclear Medicine Imaging of the Abdomen And Pelvis
+CW11YZZ	Abdomen And Pelvis Planar Nuclear Medicine Imaging
+CW131ZZ	Planar Nuclear Medicine Imaging of the Chest
+CW131ZZ	Chest Planar Nuclear Medicine Imaging
+CW13DZZ	Planar Nuclear Medicine Imaging of the Chest
+CW13DZZ	Chest Planar Nuclear Medicine Imaging
+CW13FZZ	Planar Nuclear Medicine Imaging of the Chest
+CW13FZZ	Chest Planar Nuclear Medicine Imaging
+CW13GZZ	Planar Nuclear Medicine Imaging of the Chest
+CW13GZZ	Chest Planar Nuclear Medicine Imaging
+CW13KZZ	Planar Nuclear Medicine Imaging of the Chest
+CW13KZZ	Chest Planar Nuclear Medicine Imaging
+CW13SZZ	Planar Nuclear Medicine Imaging of the Chest
+CW13SZZ	Chest Planar Nuclear Medicine Imaging
+CW13YZZ	Planar Nuclear Medicine Imaging of the Chest
+CW13YZZ	Chest Planar Nuclear Medicine Imaging
+CW141ZZ	Planar Nuclear Medicine Imaging of the Chest And Abdomen
+CW141ZZ	Chest And Abdomen Planar Nuclear Medicine Imaging
+CW14DZZ	Planar Nuclear Medicine Imaging of the Chest And Abdomen
+CW14DZZ	Chest And Abdomen Planar Nuclear Medicine Imaging
+CW14FZZ	Planar Nuclear Medicine Imaging of the Chest And Abdomen
+CW14FZZ	Chest And Abdomen Planar Nuclear Medicine Imaging
+CW14GZZ	Planar Nuclear Medicine Imaging of the Chest And Abdomen
+CW14GZZ	Chest And Abdomen Planar Nuclear Medicine Imaging
+CW14SZZ	Planar Nuclear Medicine Imaging of the Chest And Abdomen
+CW14SZZ	Chest And Abdomen Planar Nuclear Medicine Imaging
+CW14YZZ	Planar Nuclear Medicine Imaging of the Chest And Abdomen
+CW14YZZ	Chest And Abdomen Planar Nuclear Medicine Imaging
+CW161ZZ	Planar Nuclear Medicine Imaging of the Chest And Neck
+CW161ZZ	Chest And Neck Planar Nuclear Medicine Imaging
+CW16DZZ	Planar Nuclear Medicine Imaging of the Chest And Neck
+CW16DZZ	Chest And Neck Planar Nuclear Medicine Imaging
+CW16FZZ	Planar Nuclear Medicine Imaging of the Chest And Neck
+CW16FZZ	Chest And Neck Planar Nuclear Medicine Imaging
+CW16GZZ	Planar Nuclear Medicine Imaging of the Chest And Neck
+CW16GZZ	Chest And Neck Planar Nuclear Medicine Imaging
+CW16SZZ	Planar Nuclear Medicine Imaging of the Chest And Neck
+CW16SZZ	Chest And Neck Planar Nuclear Medicine Imaging
+CW16YZZ	Planar Nuclear Medicine Imaging of the Chest And Neck
+CW16YZZ	Chest And Neck Planar Nuclear Medicine Imaging
+CW1B1ZZ	Planar Nuclear Medicine Imaging of the Head And Neck
+CW1B1ZZ	Head And Neck Planar Nuclear Medicine Imaging
+CW1BDZZ	Planar Nuclear Medicine Imaging of the Head And Neck
+CW1BDZZ	Head And Neck Planar Nuclear Medicine Imaging
+CW1BFZZ	Planar Nuclear Medicine Imaging of the Head And Neck
+CW1BFZZ	Head And Neck Planar Nuclear Medicine Imaging
+CW1BGZZ	Planar Nuclear Medicine Imaging of the Head And Neck
+CW1BGZZ	Head And Neck Planar Nuclear Medicine Imaging
+CW1BSZZ	Planar Nuclear Medicine Imaging of the Head And Neck
+CW1BSZZ	Head And Neck Planar Nuclear Medicine Imaging
+CW1BYZZ	Planar Nuclear Medicine Imaging of the Head And Neck
+CW1BYZZ	Head And Neck Planar Nuclear Medicine Imaging
+CW1D1ZZ	Planar Nuclear Medicine Imaging of the Lower Extremity
+CW1D1ZZ	Lower Extremity Planar Nuclear Medicine Imaging
+CW1DDZZ	Planar Nuclear Medicine Imaging of the Lower Extremity
+CW1DDZZ	Lower Extremity Planar Nuclear Medicine Imaging
+CW1DFZZ	Planar Nuclear Medicine Imaging of the Lower Extremity
+CW1DFZZ	Lower Extremity Planar Nuclear Medicine Imaging
+CW1DGZZ	Planar Nuclear Medicine Imaging of the Lower Extremity
+CW1DGZZ	Lower Extremity Planar Nuclear Medicine Imaging
+CW1DSZZ	Planar Nuclear Medicine Imaging of the Lower Extremity
+CW1DSZZ	Lower Extremity Planar Nuclear Medicine Imaging
+CW1DYZZ	Planar Nuclear Medicine Imaging of the Lower Extremity
+CW1DYZZ	Lower Extremity Planar Nuclear Medicine Imaging
+CW1J1ZZ	Planar Nuclear Medicine Imaging of the Pelvic Region Region
+CW1J1ZZ	Pelvic Region Region Planar Nuclear Medicine Imaging
+CW1JDZZ	Planar Nuclear Medicine Imaging of the Pelvic Region Region
+CW1JDZZ	Pelvic Region Region Planar Nuclear Medicine Imaging
+CW1JFZZ	Planar Nuclear Medicine Imaging of the Pelvic Region Region
+CW1JFZZ	Pelvic Region Region Planar Nuclear Medicine Imaging
+CW1JGZZ	Planar Nuclear Medicine Imaging of the Pelvic Region Region
+CW1JGZZ	Pelvic Region Region Planar Nuclear Medicine Imaging
+CW1JSZZ	Planar Nuclear Medicine Imaging of the Pelvic Region Region
+CW1JSZZ	Pelvic Region Region Planar Nuclear Medicine Imaging
+CW1JYZZ	Planar Nuclear Medicine Imaging of the Pelvic Region Region
+CW1JYZZ	Pelvic Region Region Planar Nuclear Medicine Imaging
+CW1M1ZZ	Planar Nuclear Medicine Imaging of the Upper Extremity
+CW1M1ZZ	Upper Extremity Planar Nuclear Medicine Imaging
+CW1MDZZ	Planar Nuclear Medicine Imaging of the Upper Extremity
+CW1MDZZ	Upper Extremity Planar Nuclear Medicine Imaging
+CW1MFZZ	Planar Nuclear Medicine Imaging of the Upper Extremity
+CW1MFZZ	Upper Extremity Planar Nuclear Medicine Imaging
+CW1MGZZ	Planar Nuclear Medicine Imaging of the Upper Extremity
+CW1MGZZ	Upper Extremity Planar Nuclear Medicine Imaging
+CW1MSZZ	Planar Nuclear Medicine Imaging of the Upper Extremity
+CW1MSZZ	Upper Extremity Planar Nuclear Medicine Imaging
+CW1MYZZ	Planar Nuclear Medicine Imaging of the Upper Extremity
+CW1MYZZ	Upper Extremity Planar Nuclear Medicine Imaging
+CW1N1ZZ	Planar Nuclear Medicine Imaging of the Whole Body
+CW1N1ZZ	Whole Body Planar Nuclear Medicine Imaging
+CW1NDZZ	Planar Nuclear Medicine Imaging of the Whole Body
+CW1NDZZ	Whole Body Planar Nuclear Medicine Imaging
+CW1NFZZ	Planar Nuclear Medicine Imaging of the Whole Body
+CW1NFZZ	Whole Body Planar Nuclear Medicine Imaging
+CW1NGZZ	Planar Nuclear Medicine Imaging of the Whole Body
+CW1NGZZ	Whole Body Planar Nuclear Medicine Imaging
+CW1NSZZ	Planar Nuclear Medicine Imaging of the Whole Body
+CW1NSZZ	Whole Body Planar Nuclear Medicine Imaging
+CW1NYZZ	Planar Nuclear Medicine Imaging of the Whole Body
+CW1NYZZ	Whole Body Planar Nuclear Medicine Imaging
+CW1YYZZ	Planar Nuclear Medicine Imaging of the Multiple Anatomical Regions
+CW1YYZZ	Multiple Anatomical Regions Planar Nuclear Medicine Imaging
+CW1ZZZZ	Planar Nuclear Medicine Imaging of the Other Anatomical Region
+CW1ZZZZ	Other Anatomical Region Planar Nuclear Medicine Imaging
+CW2	Tomographic (Tomo) Nuclear Medicine Imaging of the Anatomical Regions
+CW2	Anatomical Regions Tomographic (Tomo) Nuclear Medicine Imaging
+CW201ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Abdomen
+CW201ZZ	Abdomen Tomographic (Tomo) Nuclear Medicine Imaging
+CW20DZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Abdomen
+CW20DZZ	Abdomen Tomographic (Tomo) Nuclear Medicine Imaging
+CW20FZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Abdomen
+CW20FZZ	Abdomen Tomographic (Tomo) Nuclear Medicine Imaging
+CW20GZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Abdomen
+CW20GZZ	Abdomen Tomographic (Tomo) Nuclear Medicine Imaging
+CW20KZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Abdomen
+CW20KZZ	Abdomen Tomographic (Tomo) Nuclear Medicine Imaging
+CW20SZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Abdomen
+CW20SZZ	Abdomen Tomographic (Tomo) Nuclear Medicine Imaging
+CW20YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Abdomen
+CW20YZZ	Abdomen Tomographic (Tomo) Nuclear Medicine Imaging
+CW211ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Abdomen And Pelvis
+CW211ZZ	Abdomen And Pelvis Tomographic (Tomo) Nuclear Medicine Imaging
+CW21DZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Abdomen And Pelvis
+CW21DZZ	Abdomen And Pelvis Tomographic (Tomo) Nuclear Medicine Imaging
+CW21FZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Abdomen And Pelvis
+CW21FZZ	Abdomen And Pelvis Tomographic (Tomo) Nuclear Medicine Imaging
+CW21GZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Abdomen And Pelvis
+CW21GZZ	Abdomen And Pelvis Tomographic (Tomo) Nuclear Medicine Imaging
+CW21KZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Abdomen And Pelvis
+CW21KZZ	Abdomen And Pelvis Tomographic (Tomo) Nuclear Medicine Imaging
+CW21SZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Abdomen And Pelvis
+CW21SZZ	Abdomen And Pelvis Tomographic (Tomo) Nuclear Medicine Imaging
+CW21YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Abdomen And Pelvis
+CW21YZZ	Abdomen And Pelvis Tomographic (Tomo) Nuclear Medicine Imaging
+CW231ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest
+CW231ZZ	Chest Tomographic (Tomo) Nuclear Medicine Imaging
+CW23DZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest
+CW23DZZ	Chest Tomographic (Tomo) Nuclear Medicine Imaging
+CW23FZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest
+CW23FZZ	Chest Tomographic (Tomo) Nuclear Medicine Imaging
+CW23GZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest
+CW23GZZ	Chest Tomographic (Tomo) Nuclear Medicine Imaging
+CW23KZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest
+CW23KZZ	Chest Tomographic (Tomo) Nuclear Medicine Imaging
+CW23SZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest
+CW23SZZ	Chest Tomographic (Tomo) Nuclear Medicine Imaging
+CW23YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest
+CW23YZZ	Chest Tomographic (Tomo) Nuclear Medicine Imaging
+CW241ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest And Abdomen
+CW241ZZ	Chest And Abdomen Tomographic (Tomo) Nuclear Medicine Imaging
+CW24DZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest And Abdomen
+CW24DZZ	Chest And Abdomen Tomographic (Tomo) Nuclear Medicine Imaging
+CW24FZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest And Abdomen
+CW24FZZ	Chest And Abdomen Tomographic (Tomo) Nuclear Medicine Imaging
+CW24GZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest And Abdomen
+CW24GZZ	Chest And Abdomen Tomographic (Tomo) Nuclear Medicine Imaging
+CW24KZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest And Abdomen
+CW24KZZ	Chest And Abdomen Tomographic (Tomo) Nuclear Medicine Imaging
+CW24SZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest And Abdomen
+CW24SZZ	Chest And Abdomen Tomographic (Tomo) Nuclear Medicine Imaging
+CW24YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest And Abdomen
+CW24YZZ	Chest And Abdomen Tomographic (Tomo) Nuclear Medicine Imaging
+CW261ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest And Neck
+CW261ZZ	Chest And Neck Tomographic (Tomo) Nuclear Medicine Imaging
+CW26DZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest And Neck
+CW26DZZ	Chest And Neck Tomographic (Tomo) Nuclear Medicine Imaging
+CW26FZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest And Neck
+CW26FZZ	Chest And Neck Tomographic (Tomo) Nuclear Medicine Imaging
+CW26GZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest And Neck
+CW26GZZ	Chest And Neck Tomographic (Tomo) Nuclear Medicine Imaging
+CW26KZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest And Neck
+CW26KZZ	Chest And Neck Tomographic (Tomo) Nuclear Medicine Imaging
+CW26SZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest And Neck
+CW26SZZ	Chest And Neck Tomographic (Tomo) Nuclear Medicine Imaging
+CW26YZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Chest And Neck
+CW26YZZ	Chest And Neck Tomographic (Tomo) Nuclear Medicine Imaging
+CW2B1ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Head And Neck
+CW2B1ZZ	Head And Neck Tomographic (Tomo) Nuclear Medicine Imaging
+CW2BDZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Head And Neck
+CW2BDZZ	Head And Neck Tomographic (Tomo) Nuclear Medicine Imaging
+CW2BFZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Head And Neck
+CW2BFZZ	Head And Neck Tomographic (Tomo) Nuclear Medicine Imaging
+CW2BGZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Head And Neck
+CW2BGZZ	Head And Neck Tomographic (Tomo) Nuclear Medicine Imaging
+CW2BKZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Head And Neck
+CW2BKZZ	Head And Neck Tomographic (Tomo) Nuclear Medicine Imaging
+CW2BSZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Head And Neck
+CW2BSZZ	Head And Neck Tomographic (Tomo) Nuclear Medicine Imaging
+CW2BYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Head And Neck
+CW2BYZZ	Head And Neck Tomographic (Tomo) Nuclear Medicine Imaging
+CW2D1ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Lower Extremity
+CW2D1ZZ	Lower Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CW2DDZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Lower Extremity
+CW2DDZZ	Lower Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CW2DFZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Lower Extremity
+CW2DFZZ	Lower Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CW2DGZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Lower Extremity
+CW2DGZZ	Lower Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CW2DKZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Lower Extremity
+CW2DKZZ	Lower Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CW2DSZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Lower Extremity
+CW2DSZZ	Lower Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CW2DYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Lower Extremity
+CW2DYZZ	Lower Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CW2J1ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Pelvic Region Region
+CW2J1ZZ	Pelvic Region Region Tomographic (Tomo) Nuclear Medicine Imaging
+CW2JDZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Pelvic Region Region
+CW2JDZZ	Pelvic Region Region Tomographic (Tomo) Nuclear Medicine Imaging
+CW2JFZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Pelvic Region Region
+CW2JFZZ	Pelvic Region Region Tomographic (Tomo) Nuclear Medicine Imaging
+CW2JGZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Pelvic Region Region
+CW2JGZZ	Pelvic Region Region Tomographic (Tomo) Nuclear Medicine Imaging
+CW2JKZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Pelvic Region Region
+CW2JKZZ	Pelvic Region Region Tomographic (Tomo) Nuclear Medicine Imaging
+CW2JSZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Pelvic Region Region
+CW2JSZZ	Pelvic Region Region Tomographic (Tomo) Nuclear Medicine Imaging
+CW2JYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Pelvic Region Region
+CW2JYZZ	Pelvic Region Region Tomographic (Tomo) Nuclear Medicine Imaging
+CW2M1ZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Upper Extremity
+CW2M1ZZ	Upper Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CW2MDZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Upper Extremity
+CW2MDZZ	Upper Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CW2MFZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Upper Extremity
+CW2MFZZ	Upper Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CW2MGZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Upper Extremity
+CW2MGZZ	Upper Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CW2MKZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Upper Extremity
+CW2MKZZ	Upper Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CW2MSZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Upper Extremity
+CW2MSZZ	Upper Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CW2MYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Upper Extremity
+CW2MYZZ	Upper Extremity Tomographic (Tomo) Nuclear Medicine Imaging
+CW2YYZZ	Tomographic (Tomo) Nuclear Medicine Imaging of the Multiple Anatomical Regions
+CW2YYZZ	Multiple Anatomical Regions Tomographic (Tomo) Nuclear Medicine Imaging
+CW3	Positron Emission Tomographic (Pet) Imaging of the Anatomical Regions
+CW3	Anatomical Regions Positron Emission Tomographic (Pet) Imaging
+CW3NYZZ	Positron Emission Tomographic (Pet) Imaging of the Whole Body
+CW3NYZZ	Whole Body Positron Emission Tomographic (Pet) Imaging
+CW5	Nonimaging Nuclear Medicine Probe of the Anatomical Regions
+CW5	Anatomical Regions Nonimaging Nuclear Medicine Probe
+CW501ZZ	Nonimaging Nuclear Medicine Probe of the Abdomen
+CW501ZZ	Abdomen Nonimaging Nuclear Medicine Probe
+CW50DZZ	Nonimaging Nuclear Medicine Probe of the Abdomen
+CW50DZZ	Abdomen Nonimaging Nuclear Medicine Probe
+CW50YZZ	Nonimaging Nuclear Medicine Probe of the Abdomen
+CW50YZZ	Abdomen Nonimaging Nuclear Medicine Probe
+CW511ZZ	Nonimaging Nuclear Medicine Probe of the Abdomen And Pelvis
+CW511ZZ	Abdomen And Pelvis Nonimaging Nuclear Medicine Probe
+CW51DZZ	Nonimaging Nuclear Medicine Probe of the Abdomen And Pelvis
+CW51DZZ	Abdomen And Pelvis Nonimaging Nuclear Medicine Probe
+CW51YZZ	Nonimaging Nuclear Medicine Probe of the Abdomen And Pelvis
+CW51YZZ	Abdomen And Pelvis Nonimaging Nuclear Medicine Probe
+CW531ZZ	Nonimaging Nuclear Medicine Probe of the Chest
+CW531ZZ	Chest Nonimaging Nuclear Medicine Probe
+CW53DZZ	Nonimaging Nuclear Medicine Probe of the Chest
+CW53DZZ	Chest Nonimaging Nuclear Medicine Probe
+CW53YZZ	Nonimaging Nuclear Medicine Probe of the Chest
+CW53YZZ	Chest Nonimaging Nuclear Medicine Probe
+CW541ZZ	Nonimaging Nuclear Medicine Probe of the Chest And Abdomen
+CW541ZZ	Chest And Abdomen Nonimaging Nuclear Medicine Probe
+CW54DZZ	Nonimaging Nuclear Medicine Probe of the Chest And Abdomen
+CW54DZZ	Chest And Abdomen Nonimaging Nuclear Medicine Probe
+CW54YZZ	Nonimaging Nuclear Medicine Probe of the Chest And Abdomen
+CW54YZZ	Chest And Abdomen Nonimaging Nuclear Medicine Probe
+CW561ZZ	Nonimaging Nuclear Medicine Probe of the Chest And Neck
+CW561ZZ	Chest And Neck Nonimaging Nuclear Medicine Probe
+CW56DZZ	Nonimaging Nuclear Medicine Probe of the Chest And Neck
+CW56DZZ	Chest And Neck Nonimaging Nuclear Medicine Probe
+CW56YZZ	Nonimaging Nuclear Medicine Probe of the Chest And Neck
+CW56YZZ	Chest And Neck Nonimaging Nuclear Medicine Probe
+CW5B1ZZ	Nonimaging Nuclear Medicine Probe of the Head And Neck
+CW5B1ZZ	Head And Neck Nonimaging Nuclear Medicine Probe
+CW5BDZZ	Nonimaging Nuclear Medicine Probe of the Head And Neck
+CW5BDZZ	Head And Neck Nonimaging Nuclear Medicine Probe
+CW5BYZZ	Nonimaging Nuclear Medicine Probe of the Head And Neck
+CW5BYZZ	Head And Neck Nonimaging Nuclear Medicine Probe
+CW5D1ZZ	Nonimaging Nuclear Medicine Probe of the Lower Extremity
+CW5D1ZZ	Lower Extremity Nonimaging Nuclear Medicine Probe
+CW5DDZZ	Nonimaging Nuclear Medicine Probe of the Lower Extremity
+CW5DDZZ	Lower Extremity Nonimaging Nuclear Medicine Probe
+CW5DYZZ	Nonimaging Nuclear Medicine Probe of the Lower Extremity
+CW5DYZZ	Lower Extremity Nonimaging Nuclear Medicine Probe
+CW5J1ZZ	Nonimaging Nuclear Medicine Probe of the Pelvic Region Region
+CW5J1ZZ	Pelvic Region Region Nonimaging Nuclear Medicine Probe
+CW5JDZZ	Nonimaging Nuclear Medicine Probe of the Pelvic Region Region
+CW5JDZZ	Pelvic Region Region Nonimaging Nuclear Medicine Probe
+CW5JYZZ	Nonimaging Nuclear Medicine Probe of the Pelvic Region Region
+CW5JYZZ	Pelvic Region Region Nonimaging Nuclear Medicine Probe
+CW5M1ZZ	Nonimaging Nuclear Medicine Probe of the Upper Extremity
+CW5M1ZZ	Upper Extremity Nonimaging Nuclear Medicine Probe
+CW5MDZZ	Nonimaging Nuclear Medicine Probe of the Upper Extremity
+CW5MDZZ	Upper Extremity Nonimaging Nuclear Medicine Probe
+CW5MYZZ	Nonimaging Nuclear Medicine Probe of the Upper Extremity
+CW5MYZZ	Upper Extremity Nonimaging Nuclear Medicine Probe
+CW7	Systemic Nuclear Medicine Therapy of the Anatomical Regions
+CW7	Anatomical Regions Systemic Nuclear Medicine Therapy
+CW70NZZ	Systemic Nuclear Medicine Therapy of the Abdomen
+CW70NZZ	Abdomen Systemic Nuclear Medicine Therapy
+CW70YZZ	Systemic Nuclear Medicine Therapy of the Abdomen
+CW70YZZ	Abdomen Systemic Nuclear Medicine Therapy
+CW73NZZ	Systemic Nuclear Medicine Therapy of the Chest
+CW73NZZ	Chest Systemic Nuclear Medicine Therapy
+CW73YZZ	Systemic Nuclear Medicine Therapy of the Chest
+CW73YZZ	Chest Systemic Nuclear Medicine Therapy
+CW7GGZZ	Systemic Nuclear Medicine Therapy of the Thyroid
+CW7GGZZ	Thyroid Systemic Nuclear Medicine Therapy
+CW7GYZZ	Systemic Nuclear Medicine Therapy of the Thyroid
+CW7GYZZ	Thyroid Systemic Nuclear Medicine Therapy
+CW7N8ZZ	Systemic Nuclear Medicine Therapy of the Whole Body
+CW7N8ZZ	Whole Body Systemic Nuclear Medicine Therapy
+CW7NGZZ	Systemic Nuclear Medicine Therapy of the Whole Body
+CW7NGZZ	Whole Body Systemic Nuclear Medicine Therapy
+CW7NNZZ	Systemic Nuclear Medicine Therapy of the Whole Body
+CW7NNZZ	Whole Body Systemic Nuclear Medicine Therapy
+CW7NPZZ	Systemic Nuclear Medicine Therapy of the Whole Body
+CW7NPZZ	Whole Body Systemic Nuclear Medicine Therapy
+CW7NYZZ	Systemic Nuclear Medicine Therapy of the Whole Body
+CW7NYZZ	Whole Body Systemic Nuclear Medicine Therapy
+CW7YYZZ	Systemic Nuclear Medicine Therapy of the Multiple Anatomical Regions
+CW7YYZZ	Multiple Anatomical Regions Systemic Nuclear Medicine Therapy

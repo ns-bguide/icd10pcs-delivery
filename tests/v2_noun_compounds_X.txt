@@ -1,0 +1,1014 @@
+X05	Destruction of the Nervous System
+X05	Nervous System Destruction
+X051329	Destruction of the Renal Sympathetic Nerve(S) Ultrasound Ablation
+X051329	Renal Sympathetic Nerve(S) Ultrasound Ablation Destruction
+X05133A	Destruction of the Renal Sympathetic Nerve(S) Radiofrequency Ablation
+X05133A	Renal Sympathetic Nerve(S) Radiofrequency Ablation Destruction
+X05233B	Destruction of the Cardiac System Plexus Thoracic Region Sympathetic Nerve Radiofrequency Ablation
+X05233B	Cardiac System Plexus Thoracic Region Sympathetic Nerve Radiofrequency Ablation Destruction
+X053X4B	Destruction of the Brain Focused Ultrasound Therapy
+X053X4B	Brain Focused Ultrasound Therapy Destruction
+X0H	Insertion of the Nervous System
+X0H	Nervous System Insertion
+X0HK3Q8	Insertion of the Sphenopalatine Ganglion Neurostimulator Lead
+X0HK3Q8	Sphenopalatine Ganglion Neurostimulator Lead Insertion
+X0HQ3R8	Insertion of the Vagus Nerve Neurostimulator Lead With Paired Stimulation System
+X0HQ3R8	Vagus Nerve Neurostimulator Lead With Paired Stimulation System Insertion
+X0Z	Other Procedures of the Nervous System
+X0Z	Nervous System Other Procedures
+X0Z0X18	Other Procedures of the Prefrontal Cortex Computer-Assisted Transcranial Magnetic Stimulation
+X0Z0X18	Prefrontal Cortex Computer-Assisted Transcranial Magnetic Stimulation Other Procedures
+X27	Dilation of the Cardiovascular System
+X27	Cardiovascular System Dilation
+X2723CB	Dilation of the Inferior Vena Cava And Iliocaval Confluence Open-Structure Polymer Lattice Intraluminal Device
+X2723CB	Inferior Vena Cava And Iliocaval Confluence Open-Structure Polymer Lattice Intraluminal Device Dilation
+X27339B	Dilation of the Right Pulmonary Artery Expandable Intraluminal Device
+X27339B	Right Pulmonary Artery Expandable Intraluminal Device Dilation
+X27439B	Dilation of the Left Pulmonary Artery Expandable Intraluminal Device
+X27439B	Left Pulmonary Artery Expandable Intraluminal Device Dilation
+X27535B	Dilation of the Right Subclavian Vein Cell Impermeable Intraluminal Device
+X27535B	Right Subclavian Vein Cell Impermeable Intraluminal Device Dilation
+X27635B	Dilation of the Left Subclavian Vein Cell Impermeable Intraluminal Device
+X27635B	Left Subclavian Vein Cell Impermeable Intraluminal Device Dilation
+X27735B	Dilation of the Right Axillary Vein Cell Impermeable Intraluminal Device
+X27735B	Right Axillary Vein Cell Impermeable Intraluminal Device Dilation
+X27835B	Dilation of the Left Axillary Vein Cell Impermeable Intraluminal Device
+X27835B	Left Axillary Vein Cell Impermeable Intraluminal Device Dilation
+X27935B	Dilation of the Right Brachial Vein Cell Impermeable Intraluminal Device
+X27935B	Right Brachial Vein Cell Impermeable Intraluminal Device Dilation
+X27A35B	Dilation of the Left Brachial Vein Cell Impermeable Intraluminal Device
+X27A35B	Left Brachial Vein Cell Impermeable Intraluminal Device Dilation
+X27B35B	Dilation of the Right Basilic Vein Cell Impermeable Intraluminal Device
+X27B35B	Right Basilic Vein Cell Impermeable Intraluminal Device Dilation
+X27C35B	Dilation of the Left Basilic Vein Cell Impermeable Intraluminal Device
+X27C35B	Left Basilic Vein Cell Impermeable Intraluminal Device Dilation
+X27D35B	Dilation of the Right Cephalic Vein Cell Impermeable Intraluminal Device
+X27D35B	Right Cephalic Vein Cell Impermeable Intraluminal Device Dilation
+X27E35B	Dilation of the Left Cephalic Vein Cell Impermeable Intraluminal Device
+X27E35B	Left Cephalic Vein Cell Impermeable Intraluminal Device Dilation
+X27P3TA	Dilation of the Right Anterior Tibial Artery Everolimus-Eluting Resorbable Scaffold(S) Intraluminal Device
+X27P3TA	Right Anterior Tibial Artery Everolimus-Eluting Resorbable Scaffold(S) Intraluminal Device Dilation
+X27Q3TA	Dilation of the Left Anterior Tibial Artery Everolimus-Eluting Resorbable Scaffold(S) Intraluminal Device
+X27Q3TA	Left Anterior Tibial Artery Everolimus-Eluting Resorbable Scaffold(S) Intraluminal Device Dilation
+X27R3TA	Dilation of the Right Posterior Tibial Artery Everolimus-Eluting Resorbable Scaffold(S) Intraluminal Device
+X27R3TA	Right Posterior Tibial Artery Everolimus-Eluting Resorbable Scaffold(S) Intraluminal Device Dilation
+X27S3TA	Dilation of the Left Posterior Tibial Artery Everolimus-Eluting Resorbable Scaffold(S) Intraluminal Device
+X27S3TA	Left Posterior Tibial Artery Everolimus-Eluting Resorbable Scaffold(S) Intraluminal Device Dilation
+X27T3TA	Dilation of the Right Peroneal Artery Everolimus-Eluting Resorbable Scaffold(S) Intraluminal Device
+X27T3TA	Right Peroneal Artery Everolimus-Eluting Resorbable Scaffold(S) Intraluminal Device Dilation
+X27U3TA	Dilation of the Left Peroneal Artery Everolimus-Eluting Resorbable Scaffold(S) Intraluminal Device
+X27U3TA	Left Peroneal Artery Everolimus-Eluting Resorbable Scaffold(S) Intraluminal Device Dilation
+X27W39B	Dilation of the Descending Thoracic Region Aorta Expandable Intraluminal Device
+X27W39B	Descending Thoracic Region Aorta Expandable Intraluminal Device Dilation
+X27X39B	Dilation of the Ascending/Arch Thoracic Region Aorta Expandable Intraluminal Device
+X27X39B	Ascending/Arch Thoracic Region Aorta Expandable Intraluminal Device Dilation
+X28	Division of the Cardiovascular System
+X28	Cardiovascular System Division
+X28F3VA	Division of the Aortic Valve Intraluminal Bioprosthetic Valve Leaflet Splitting Technology In Existing Valve
+X28F3VA	Aortic Valve Intraluminal Bioprosthetic Valve Leaflet Splitting Technology In Existing Valve Division
+X28F3WB	Division of the Aortic Valve Radiofrequency Energy Leaflet Laceration
+X28F3WB	Aortic Valve Radiofrequency Energy Leaflet Laceration Division
+X2A	Assistance of the Cardiovascular System
+X2A	Cardiovascular System Assistance
+X2A7358	Assistance of the Coronary Sinus Intermittent Coronary Sinus Occlusion
+X2A7358	Coronary Sinus Intermittent Coronary Sinus Occlusion Assistance
+X2AH34B	Assistance of the Right Common Carotid Artery Single Integrated Distal Filter Cerebral Embolic Filtration
+X2AH34B	Right Common Carotid Artery Single Integrated Distal Filter Cerebral Embolic Filtration Assistance
+X2AJ34B	Assistance of the Left Common Carotid Artery Single Integrated Distal Filter Cerebral Embolic Filtration
+X2AJ34B	Left Common Carotid Artery Single Integrated Distal Filter Cerebral Embolic Filtration Assistance
+X2AK34B	Assistance of the Right Internal Carotid Artery Single Integrated Distal Filter Cerebral Embolic Filtration
+X2AK34B	Right Internal Carotid Artery Single Integrated Distal Filter Cerebral Embolic Filtration Assistance
+X2C	Extirpation of the Cardiovascular System
+X2C	Cardiovascular System Extirpation
+X2CP3T7	Extirpation of the Abdominal Aorta Computer-Aided Mechanical Aspiration
+X2CP3T7	Abdominal Aorta Computer-Aided Mechanical Aspiration Extirpation
+X2CQ3T7	Extirpation of the Right Upper Extremity Vein Computer-Aided Mechanical Aspiration
+X2CQ3T7	Right Upper Extremity Vein Computer-Aided Mechanical Aspiration Extirpation
+X2CR3T7	Extirpation of the Left Upper Extremity Vein Computer-Aided Mechanical Aspiration
+X2CR3T7	Left Upper Extremity Vein Computer-Aided Mechanical Aspiration Extirpation
+X2CS3T7	Extirpation of the Right Lower Extremity Artery Computer-Aided Mechanical Aspiration
+X2CS3T7	Right Lower Extremity Artery Computer-Aided Mechanical Aspiration Extirpation
+X2CT3T7	Extirpation of the Left Lower Extremity Artery Computer-Aided Mechanical Aspiration
+X2CT3T7	Left Lower Extremity Artery Computer-Aided Mechanical Aspiration Extirpation
+X2CU3T7	Extirpation of the Right Lower Extremity Vein Computer-Aided Mechanical Aspiration
+X2CU3T7	Right Lower Extremity Vein Computer-Aided Mechanical Aspiration Extirpation
+X2CV3T7	Extirpation of the Left Lower Extremity Vein Computer-Aided Mechanical Aspiration
+X2CV3T7	Left Lower Extremity Vein Computer-Aided Mechanical Aspiration Extirpation
+X2CY3T7	Extirpation of the Great Vessel Computer-Aided Mechanical Aspiration
+X2CY3T7	Great Vessel Computer-Aided Mechanical Aspiration Extirpation
+X2H	Insertion of the Cardiovascular System
+X2H	Cardiovascular System Insertion
+X2H03BB	Insertion of the Inferior Vena Cava Volume Sensor Management Device
+X2H03BB	Inferior Vena Cava Volume Sensor Management Device Insertion
+X2H03R9	Insertion of the Inferior Vena Cava Bioprosthetic Valve Intraluminal Device
+X2H03R9	Inferior Vena Cava Bioprosthetic Valve Intraluminal Device Insertion
+X2H13R9	Insertion of the Superior Vena Cava Bioprosthetic Valve Intraluminal Device
+X2H13R9	Superior Vena Cava Bioprosthetic Valve Intraluminal Device Insertion
+X2H13XB	Insertion of the Superior Vena Cava Temporary Phrenic Nerve/Diaphragm Stimulation Electrodes
+X2H13XB	Superior Vena Cava Temporary Phrenic Nerve/Diaphragm Stimulation Electrodes Insertion
+X2H20R9	Insertion of the Right Femoral Vein Bioprosthetic Valve Intraluminal Device
+X2H20R9	Right Femoral Vein Bioprosthetic Valve Intraluminal Device Insertion
+X2H30R9	Insertion of the Left Femoral Vein Bioprosthetic Valve Intraluminal Device
+X2H30R9	Left Femoral Vein Bioprosthetic Valve Intraluminal Device Insertion
+X2H63V9	Insertion of the Right Atrium Dual-Chamber Intracardiac Pacemaker
+X2H63V9	Right Atrium Dual-Chamber Intracardiac Pacemaker Insertion
+X2HK3V9	Insertion of the Right Ventricle Dual-Chamber Intracardiac Pacemaker
+X2HK3V9	Right Ventricle Dual-Chamber Intracardiac Pacemaker Insertion
+X2HM0F9	Insertion of the Ventricular Septum Conduit To Short-Term External Heart Assist System
+X2HM0F9	Ventricular Septum Conduit To Short-Term External Heart Assist System Insertion
+X2HM3GB	Insertion of the Ventricular Septum Lumenless Small-Diameter Defibrillator Lead
+X2HM3GB	Ventricular Septum Lumenless Small-Diameter Defibrillator Lead Insertion
+X2HN37B	Insertion of the Left Ventricle Endocardiac Pacing Electrode
+X2HN37B	Left Ventricle Endocardiac Pacing Electrode Insertion
+X2HP38B	Insertion of the Right Anterior Tibial Artery Temporary Intraluminal Device
+X2HP38B	Right Anterior Tibial Artery Temporary Intraluminal Device Insertion
+X2HQ38B	Insertion of the Left Anterior Tibial Artery Temporary Intraluminal Device
+X2HQ38B	Left Anterior Tibial Artery Temporary Intraluminal Device Insertion
+X2HR38B	Insertion of the Right Posterior Tibial Artery Temporary Intraluminal Device
+X2HR38B	Right Posterior Tibial Artery Temporary Intraluminal Device Insertion
+X2HS38B	Insertion of the Left Posterior Tibial Artery Temporary Intraluminal Device
+X2HS38B	Left Posterior Tibial Artery Temporary Intraluminal Device Insertion
+X2HT38B	Insertion of the Right Peroneal Artery Temporary Intraluminal Device
+X2HT38B	Right Peroneal Artery Temporary Intraluminal Device Insertion
+X2HU38B	Insertion of the Left Peroneal Artery Temporary Intraluminal Device
+X2HU38B	Left Peroneal Artery Temporary Intraluminal Device Insertion
+X2HV3GB	Insertion of the Right Ventricle Lumenless Small-Diameter Defibrillator Lead
+X2HV3GB	Right Ventricle Lumenless Small-Diameter Defibrillator Lead Insertion
+X2HX0F9	Insertion of the Ascending Thoracic Region Aorta Conduit To Short-Term External Heart Assist System
+X2HX0F9	Ascending Thoracic Region Aorta Conduit To Short-Term External Heart Assist System Insertion
+X2J	Inspection of the Cardiovascular System
+X2J	Cardiovascular System Inspection
+X2JAX47	Inspection of the Heart Computer-Aided Guidance Transthoracic Echocardiography
+X2JAX47	Heart Computer-Aided Guidance Transthoracic Echocardiography Inspection
+X2K	Bypass of the Cardiovascular System
+X2K	Cardiovascular System Bypass
+X2K00FB	Bypass of the Inferior Vena Cava Autologous Cell Seeded Tissue Engineered Resorbable Scaffold To Pulmonary Artery
+X2K00FB	Inferior Vena Cava Autologous Cell Seeded Tissue Engineered Resorbable Scaffold To Pulmonary Artery Bypass
+X2KA30A	Bypass of the Left Atrium Conduit Through Coronary Sinus To Right Atrium
+X2KA30A	Left Atrium Conduit Through Coronary Sinus To Right Atrium Bypass
+X2KB317	Bypass of the Right Radial Artery Thermal Resistance Energy
+X2KB317	Right Radial Artery Thermal Resistance Energy Bypass
+X2KC317	Bypass of the Left Radial Artery Thermal Resistance Energy
+X2KC317	Left Radial Artery Thermal Resistance Energy Bypass
+X2KG0FB	Bypass of the Hepatic Vein Autologous Cell Seeded Tissue Engineered Resorbable Scaffold To Pulmonary Artery
+X2KG0FB	Hepatic Vein Autologous Cell Seeded Tissue Engineered Resorbable Scaffold To Pulmonary Artery Bypass
+X2KH3D9	Bypass of the Right Femoral Artery Conduit Through Femoral Vein To Superficial Femoral Artery
+X2KH3D9	Right Femoral Artery Conduit Through Femoral Vein To Superficial Femoral Artery Bypass
+X2KH3E9	Bypass of the Right Femoral Artery Conduit Through Femoral Vein To Popliteal Artery
+X2KH3E9	Right Femoral Artery Conduit Through Femoral Vein To Popliteal Artery Bypass
+X2KJ3D9	Bypass of the Left Femoral Artery Conduit Through Femoral Vein To Superficial Femoral Artery
+X2KJ3D9	Left Femoral Artery Conduit Through Femoral Vein To Superficial Femoral Artery Bypass
+X2KJ3E9	Bypass of the Left Femoral Artery Conduit Through Femoral Vein To Popliteal Artery
+X2KJ3E9	Left Femoral Artery Conduit Through Femoral Vein To Popliteal Artery Bypass
+X2R	Replacement of the Cardiovascular System
+X2R	Cardiovascular System Replacement
+X2R50WA	Replacement of the Right Upper Extremity Artery Bioengineered Human Acellular Vessel
+X2R50WA	Right Upper Extremity Artery Bioengineered Human Acellular Vessel Replacement
+X2R60WA	Replacement of the Left Upper Extremity Artery Bioengineered Human Acellular Vessel
+X2R60WA	Left Upper Extremity Artery Bioengineered Human Acellular Vessel Replacement
+X2R70WA	Replacement of the Right Lower Extremity Artery Bioengineered Human Acellular Vessel
+X2R70WA	Right Lower Extremity Artery Bioengineered Human Acellular Vessel Replacement
+X2R80WA	Replacement of the Left Lower Extremity Artery Bioengineered Human Acellular Vessel
+X2R80WA	Left Lower Extremity Artery Bioengineered Human Acellular Vessel Replacement
+X2RJ3RA	Replacement of the Tricuspid Valve Multi-Plane Flex Technology Bioprosthetic Valve
+X2RJ3RA	Tricuspid Valve Multi-Plane Flex Technology Bioprosthetic Valve Replacement
+X2RX0N7	Replacement of the Arch Thoracic Region Aorta Branched Synthetic Substitute With Intraluminal Device
+X2RX0N7	Arch Thoracic Region Aorta Branched Synthetic Substitute With Intraluminal Device Replacement
+X2U	Supplement of the Cardiovascular System
+X2U	Cardiovascular System Supplement
+X2U4079	Supplement of the Coronary Artery/Arteries Vein Graft Extraluminal Support Device(S)
+X2U4079	Coronary Artery/Arteries Vein Graft Extraluminal Support Device(S) Supplement
+X2U93YA	Supplement of the Right Atrium Heterotopic Bioprosthetic Valve(S) Intraluminal Device
+X2U93YA	Right Atrium Heterotopic Bioprosthetic Valve(S) Intraluminal Device Supplement
+X2UQ0P9	Supplement of the Right Upper Extremity Vein Extraluminal Support Device Synthetic Substitute
+X2UQ0P9	Right Upper Extremity Vein Extraluminal Support Device Synthetic Substitute Supplement
+X2UR0P9	Supplement of the Left Upper Extremity Vein Extraluminal Support Device Synthetic Substitute
+X2UR0P9	Left Upper Extremity Vein Extraluminal Support Device Synthetic Substitute Supplement
+X2V	Restriction of the Cardiovascular System
+X2V	Cardiovascular System Restriction
+X2V73Q7	Restriction of the Coronary Sinus Reduction Device
+X2V73Q7	Coronary Sinus Reduction Device Restriction
+X2VE3SA	Restriction of the Descending Thoracic Region Aorta And Abdominal Aorta Branched Intraluminal Device, Manufactured Integrated System, Four Or More Arteries
+X2VE3SA	Descending Thoracic Region Aorta And Abdominal Aorta Branched Intraluminal Device, Manufactured Integrated System, Four Or More Arteries Restriction
+X2VW0N7	Restriction of the Descending Thoracic Region Aorta Branched Synthetic Substitute With Intraluminal Device
+X2VW0N7	Descending Thoracic Region Aorta Branched Synthetic Substitute With Intraluminal Device Restriction
+X2VY06B	Restriction of the Thoracic Region Aortic Arch And Descending Thoracic Region Aorta Uncovered With Support Cuff Intraluminal Device
+X2VY06B	Thoracic Region Aortic Arch And Descending Thoracic Region Aorta Uncovered With Support Cuff Intraluminal Device Restriction
+X9H	Insertion of the Ear, Nose, And Sinus
+X9H	Ear, Nose, And Sinus Insertion
+X9HD01B	Insertion of the Right Inner Ear Temporary Infusion Device
+X9HD01B	Right Inner Ear Temporary Infusion Device Insertion
+X9HE01B	Insertion of the Left Inner Ear Temporary Infusion Device
+X9HE01B	Left Inner Ear Temporary Infusion Device Insertion
+X9HF01B	Insertion of the Bilateral Inner Ear Temporary Infusion Device
+X9HF01B	Bilateral Inner Ear Temporary Infusion Device Insertion
+XD2	Monitoring of the Gastrointestinal System
+XD2	Gastrointestinal System Monitoring
+XD2G4V7	Monitoring of the Upper Gi Oxygen Saturation
+XD2G4V7	Upper Gi Oxygen Saturation Monitoring
+XD2G8V7	Monitoring of the Upper Gi Oxygen Saturation
+XD2G8V7	Upper Gi Oxygen Saturation Monitoring
+XD2H4V7	Monitoring of the Lower Gi Oxygen Saturation
+XD2H4V7	Lower Gi Oxygen Saturation Monitoring
+XD2H8V7	Monitoring of the Lower Gi Oxygen Saturation
+XD2H8V7	Lower Gi Oxygen Saturation Monitoring
+XDJ	Inspection of the Gastrointestinal System
+XDJ	Gastrointestinal System Inspection
+XDP	Irrigation of the Gastrointestinal System
+XDP	Gastrointestinal System Irrigation
+XDPH8K7	Irrigation of the Lower Gi Intraoperative Single-Use Oversleeve
+XDPH8K7	Lower Gi Intraoperative Single-Use Oversleeve Irrigation
+XF5	Destruction of the Hepatobiliary System And Pancreas
+XF5	Hepatobiliary System And Pancreas Destruction
+XF50X08	Destruction of the Liver Ultrasound-Guided Cavitation
+XF50X08	Liver Ultrasound-Guided Cavitation Destruction
+XF51X08	Destruction of the Right Lobe Liver Ultrasound-Guided Cavitation
+XF51X08	Right Lobe Liver Ultrasound-Guided Cavitation Destruction
+XF52X08	Destruction of the Left Lobe Liver Ultrasound-Guided Cavitation
+XF52X08	Left Lobe Liver Ultrasound-Guided Cavitation Destruction
+XFJ	Inspection of the Hepatobiliary System And Pancreas
+XFJ	Hepatobiliary System And Pancreas Inspection
+XFJB8A7	Inspection of the Hepatobiliary System Duct Single-Use Duodenoscope
+XFJB8A7	Hepatobiliary System Duct Single-Use Duodenoscope Inspection
+XFJD8A7	Inspection of the Pancreatic Duct Single-Use Duodenoscope
+XFJD8A7	Pancreatic Duct Single-Use Duodenoscope Inspection
+XHH	Insertion of the Skin, Subcutaneous Tissue, And Fascia And Breast
+XHH	Skin, Subcutaneous Tissue, And Fascia And Breast Insertion
+XHH80HB	Insertion of the Chest Subcutaneous Tissue And Fascia Ultrasound Transmitter And Battery For Endocardiac Pacing Electrode
+XHH80HB	Chest Subcutaneous Tissue And Fascia Ultrasound Transmitter And Battery For Endocardiac Pacing Electrode Insertion
+XHR	Replacement of the Skin, Subcutaneous Tissue, And Fascia And Breast
+XHR	Skin, Subcutaneous Tissue, And Fascia And Breast Replacement
+XHR0XGA	Replacement of the Head And Neck Skin Genetically Engineered Autologous Cell Therapy Prademagene Zamikeracel
+XHR0XGA	Head And Neck Skin Genetically Engineered Autologous Cell Therapy Prademagene Zamikeracel Replacement
+XHR1XGA	Replacement of the Chest Skin Genetically Engineered Autologous Cell Therapy Prademagene Zamikeracel
+XHR1XGA	Chest Skin Genetically Engineered Autologous Cell Therapy Prademagene Zamikeracel Replacement
+XHR2XGA	Replacement of the Abdomen Skin Genetically Engineered Autologous Cell Therapy Prademagene Zamikeracel
+XHR2XGA	Abdomen Skin Genetically Engineered Autologous Cell Therapy Prademagene Zamikeracel Replacement
+XHR3XGA	Replacement of the Back Skin Genetically Engineered Autologous Cell Therapy Prademagene Zamikeracel
+XHR3XGA	Back Skin Genetically Engineered Autologous Cell Therapy Prademagene Zamikeracel Replacement
+XHR4XGA	Replacement of the Right Upper Extremity Skin Genetically Engineered Autologous Cell Therapy Prademagene Zamikeracel
+XHR4XGA	Right Upper Extremity Skin Genetically Engineered Autologous Cell Therapy Prademagene Zamikeracel Replacement
+XHR5XGA	Replacement of the Left Upper Extremity Skin Genetically Engineered Autologous Cell Therapy Prademagene Zamikeracel
+XHR5XGA	Left Upper Extremity Skin Genetically Engineered Autologous Cell Therapy Prademagene Zamikeracel Replacement
+XHR6XGA	Replacement of the Right Lower Extremity Skin Genetically Engineered Autologous Cell Therapy Prademagene Zamikeracel
+XHR6XGA	Right Lower Extremity Skin Genetically Engineered Autologous Cell Therapy Prademagene Zamikeracel Replacement
+XHR7XGA	Replacement of the Left Lower Extremity Skin Genetically Engineered Autologous Cell Therapy Prademagene Zamikeracel
+XHR7XGA	Left Lower Extremity Skin Genetically Engineered Autologous Cell Therapy Prademagene Zamikeracel Replacement
+XHRPXF7	Replacement of the Skin Bioengineered Allogeneic Construct
+XHRPXF7	Skin Bioengineered Allogeneic Construct Replacement
+XKU	Supplement of the Muscles, Tendons, And Bursae And Ligaments
+XKU	Muscles, Tendons, And Bursae And Ligaments Supplement
+XKUC068	Supplement of the Upper Spine Bursa And Ligament Posterior Vertebral Tether
+XKUC068	Upper Spine Bursa And Ligament Posterior Vertebral Tether Supplement
+XKUD068	Supplement of the Lower Spine Bursa And Ligament Posterior Vertebral Tether
+XKUD068	Lower Spine Bursa And Ligament Posterior Vertebral Tether Supplement
+XNH	Insertion of the Bones
+XNH	Bones Insertion
+XNH6058	Insertion of the Right Pelvic Region Bone Internal Fixation Device With Tulip Connector
+XNH6058	Right Pelvic Region Bone Internal Fixation Device With Tulip Connector Insertion
+XNH60HB	Insertion of the Right Pelvic Region Bone Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device
+XNH60HB	Right Pelvic Region Bone Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device Insertion
+XNH6358	Insertion of the Right Pelvic Region Bone Internal Fixation Device With Tulip Connector
+XNH6358	Right Pelvic Region Bone Internal Fixation Device With Tulip Connector Insertion
+XNH63HB	Insertion of the Right Pelvic Region Bone Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device
+XNH63HB	Right Pelvic Region Bone Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device Insertion
+XNH7058	Insertion of the Left Pelvic Region Bone Internal Fixation Device With Tulip Connector
+XNH7058	Left Pelvic Region Bone Internal Fixation Device With Tulip Connector Insertion
+XNH70HB	Insertion of the Left Pelvic Region Bone Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device
+XNH70HB	Left Pelvic Region Bone Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device Insertion
+XNH7358	Insertion of the Left Pelvic Region Bone Internal Fixation Device With Tulip Connector
+XNH7358	Left Pelvic Region Bone Internal Fixation Device With Tulip Connector Insertion
+XNH73HB	Insertion of the Left Pelvic Region Bone Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device
+XNH73HB	Left Pelvic Region Bone Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device Insertion
+XNHG0F9	Insertion of the Right Tibia Tibial Extension With Motion Sensors
+XNHG0F9	Right Tibia Tibial Extension With Motion Sensors Insertion
+XNHH0F9	Insertion of the Left Tibia Tibial Extension With Motion Sensors
+XNHH0F9	Left Tibia Tibial Extension With Motion Sensors Insertion
+XNR	Replacement of the Bones
+XNR	Bones Replacement
+XNR80D9	Replacement of the Skull Ultrasound Penetrable Synthetic Substitute
+XNR80D9	Skull Ultrasound Penetrable Synthetic Substitute Replacement
+XNRM099	Replacement of the Left Tarsal Talar Prosthesis Synthetic Substitute
+XNRM099	Left Tarsal Talar Prosthesis Synthetic Substitute Replacement
+XNS	Reposition of the Bones
+XNS	Bones Reposition
+XNS0032	Reposition of the Lumbar Region Vertebra Magnetically Controlled Growth Rod(S)
+XNS0032	Lumbar Region Vertebra Magnetically Controlled Growth Rod(S) Reposition
+XNS00C7	Reposition of the Lumbar Region Vertebra Posterior (Dynamic) Distraction Device
+XNS00C7	Lumbar Region Vertebra Posterior (Dynamic) Distraction Device Reposition
+XNS0332	Reposition of the Lumbar Region Vertebra Magnetically Controlled Growth Rod(S)
+XNS0332	Lumbar Region Vertebra Magnetically Controlled Growth Rod(S) Reposition
+XNS03C7	Reposition of the Lumbar Region Vertebra Posterior (Dynamic) Distraction Device
+XNS03C7	Lumbar Region Vertebra Posterior (Dynamic) Distraction Device Reposition
+XNS3032	Reposition of the Cervical Region Vertebra Magnetically Controlled Growth Rod(S)
+XNS3032	Cervical Region Vertebra Magnetically Controlled Growth Rod(S) Reposition
+XNS3332	Reposition of the Cervical Region Vertebra Magnetically Controlled Growth Rod(S)
+XNS3332	Cervical Region Vertebra Magnetically Controlled Growth Rod(S) Reposition
+XNS4032	Reposition of the Right Humeral Shaft Magnetically Controlled Growth Rod(S)
+XNS4032	Right Humeral Shaft Magnetically Controlled Growth Rod(S) Reposition
+XNS40C7	Reposition of the Right Humeral Shaft Posterior (Dynamic) Distraction Device
+XNS40C7	Right Humeral Shaft Posterior (Dynamic) Distraction Device Reposition
+XNS40GA	Reposition of the Right Humeral Shaft Ring External Fixation Device With Automated Strut Adjustment
+XNS40GA	Right Humeral Shaft Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNS4332	Reposition of the Right Humeral Shaft Magnetically Controlled Growth Rod(S)
+XNS4332	Right Humeral Shaft Magnetically Controlled Growth Rod(S) Reposition
+XNS43C7	Reposition of the Right Humeral Shaft Posterior (Dynamic) Distraction Device
+XNS43C7	Right Humeral Shaft Posterior (Dynamic) Distraction Device Reposition
+XNS43GA	Reposition of the Right Humeral Shaft Ring External Fixation Device With Automated Strut Adjustment
+XNS43GA	Right Humeral Shaft Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNS50GA	Reposition of the Left Humeral Shaft Ring External Fixation Device With Automated Strut Adjustment
+XNS50GA	Left Humeral Shaft Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNS53GA	Reposition of the Left Humeral Shaft Ring External Fixation Device With Automated Strut Adjustment
+XNS53GA	Left Humeral Shaft Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNS60GA	Reposition of the Right Radius Ring External Fixation Device With Automated Strut Adjustment
+XNS60GA	Right Radius Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNS63GA	Reposition of the Right Radius Ring External Fixation Device With Automated Strut Adjustment
+XNS63GA	Right Radius Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNS70GA	Reposition of the Left Radius Ring External Fixation Device With Automated Strut Adjustment
+XNS70GA	Left Radius Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNS73GA	Reposition of the Left Radius Ring External Fixation Device With Automated Strut Adjustment
+XNS73GA	Left Radius Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNS80GA	Reposition of the Right Ulna Ring External Fixation Device With Automated Strut Adjustment
+XNS80GA	Right Ulna Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNS83GA	Reposition of the Right Ulna Ring External Fixation Device With Automated Strut Adjustment
+XNS83GA	Right Ulna Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNS90GA	Reposition of the Left Ulna Ring External Fixation Device With Automated Strut Adjustment
+XNS90GA	Left Ulna Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNS93GA	Reposition of the Left Ulna Ring External Fixation Device With Automated Strut Adjustment
+XNS93GA	Left Ulna Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSA0GA	Reposition of the Right Upper Femur Ring External Fixation Device With Automated Strut Adjustment
+XNSA0GA	Right Upper Femur Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSA3GA	Reposition of the Right Upper Femur Ring External Fixation Device With Automated Strut Adjustment
+XNSA3GA	Right Upper Femur Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSB0GA	Reposition of the Left Upper Femur Ring External Fixation Device With Automated Strut Adjustment
+XNSB0GA	Left Upper Femur Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSB3GA	Reposition of the Left Upper Femur Ring External Fixation Device With Automated Strut Adjustment
+XNSB3GA	Left Upper Femur Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSC0GA	Reposition of the Right Lower Femur Ring External Fixation Device With Automated Strut Adjustment
+XNSC0GA	Right Lower Femur Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSC3GA	Reposition of the Right Lower Femur Ring External Fixation Device With Automated Strut Adjustment
+XNSC3GA	Right Lower Femur Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSD0GA	Reposition of the Left Lower Femur Ring External Fixation Device With Automated Strut Adjustment
+XNSD0GA	Left Lower Femur Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSD3GA	Reposition of the Left Lower Femur Ring External Fixation Device With Automated Strut Adjustment
+XNSD3GA	Left Lower Femur Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSE0GA	Reposition of the Right Femoral Shaft Ring External Fixation Device With Automated Strut Adjustment
+XNSE0GA	Right Femoral Shaft Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSE3GA	Reposition of the Right Femoral Shaft Ring External Fixation Device With Automated Strut Adjustment
+XNSE3GA	Right Femoral Shaft Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSF0GA	Reposition of the Left Femoral Shaft Ring External Fixation Device With Automated Strut Adjustment
+XNSF0GA	Left Femoral Shaft Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSF3GA	Reposition of the Left Femoral Shaft Ring External Fixation Device With Automated Strut Adjustment
+XNSF3GA	Left Femoral Shaft Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSG0GA	Reposition of the Right Tibia Ring External Fixation Device With Automated Strut Adjustment
+XNSG0GA	Right Tibia Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSG3GA	Reposition of the Right Tibia Ring External Fixation Device With Automated Strut Adjustment
+XNSG3GA	Right Tibia Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSH0GA	Reposition of the Left Tibia Ring External Fixation Device With Automated Strut Adjustment
+XNSH0GA	Left Tibia Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSH3GA	Reposition of the Left Tibia Ring External Fixation Device With Automated Strut Adjustment
+XNSH3GA	Left Tibia Ring External Fixation Device With Automated Strut Adjustment Reposition
+XNSN0HB	Reposition of the Right Pelvic Region Bone Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device
+XNSN0HB	Right Pelvic Region Bone Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device Reposition
+XNSN3HB	Reposition of the Right Pelvic Region Bone Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device
+XNSN3HB	Right Pelvic Region Bone Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device Reposition
+XNSP0HB	Reposition of the Left Pelvic Region Bone Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device
+XNSP0HB	Left Pelvic Region Bone Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device Reposition
+XNSP3HB	Reposition of the Left Pelvic Region Bone Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device
+XNSP3HB	Left Pelvic Region Bone Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device Reposition
+XNU	Supplement of the Bones
+XNU	Bones Supplement
+XNU0356	Supplement of the Lumbar Region Vertebra Mechanically Expandable (Paired) Synthetic Substitute
+XNU0356	Lumbar Region Vertebra Mechanically Expandable (Paired) Synthetic Substitute Supplement
+XNU4356	Supplement of the Thoracic Region Vertebra Mechanically Expandable (Paired) Synthetic Substitute
+XNU4356	Thoracic Region Vertebra Mechanically Expandable (Paired) Synthetic Substitute Supplement
+XRG	Fusion of the Joints
+XRG	Joints Fusion
+XRG10RB	Fusion of the Cervical Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device
+XRG10RB	Cervical Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRG13RB	Fusion of the Cervical Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device
+XRG13RB	Cervical Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRG14RB	Fusion of the Cervical Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device
+XRG14RB	Cervical Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRG20RB	Fusion of the 2 Or More Cervical Region Vertebral Joints Custom-Made Anatomically Designed Interbody Fusion Device
+XRG20RB	2 Or More Cervical Region Vertebral Joints Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRG23RB	Fusion of the 2 Or More Cervical Region Vertebral Joints Custom-Made Anatomically Designed Interbody Fusion Device
+XRG23RB	2 Or More Cervical Region Vertebral Joints Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRG24RB	Fusion of the 2 Or More Cervical Region Vertebral Joints Custom-Made Anatomically Designed Interbody Fusion Device
+XRG24RB	2 Or More Cervical Region Vertebral Joints Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRG40RB	Fusion of the Cervicothoracic Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device
+XRG40RB	Cervicothoracic Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRG43RB	Fusion of the Cervicothoracic Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device
+XRG43RB	Cervicothoracic Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRG44RB	Fusion of the Cervicothoracic Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device
+XRG44RB	Cervicothoracic Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRGA0EA	Fusion of the Thoracolumbar Region Vertebral Joint Paired Titanium Cages Facet Joint Fusion Device
+XRGA0EA	Thoracolumbar Region Vertebral Joint Paired Titanium Cages Facet Joint Fusion Device Fusion
+XRGA0R7	Fusion of the Thoracolumbar Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device
+XRGA0R7	Thoracolumbar Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRGA3R7	Fusion of the Thoracolumbar Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device
+XRGA3R7	Thoracolumbar Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRGA4R7	Fusion of the Thoracolumbar Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device
+XRGA4R7	Thoracolumbar Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRGB0EA	Fusion of the Lumbar Region Vertebral Joint Paired Titanium Cages Facet Joint Fusion Device
+XRGB0EA	Lumbar Region Vertebral Joint Paired Titanium Cages Facet Joint Fusion Device Fusion
+XRGB0R7	Fusion of the Lumbar Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device
+XRGB0R7	Lumbar Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRGB3R7	Fusion of the Lumbar Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device
+XRGB3R7	Lumbar Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRGB4R7	Fusion of the Lumbar Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device
+XRGB4R7	Lumbar Region Vertebral Joint Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRGC0EA	Fusion of the 2 Or More Lumbar Region Vertebral Joints Paired Titanium Cages Facet Joint Fusion Device
+XRGC0EA	2 Or More Lumbar Region Vertebral Joints Paired Titanium Cages Facet Joint Fusion Device Fusion
+XRGC0R7	Fusion of the 2 Or More Lumbar Region Vertebral Joints Custom-Made Anatomically Designed Interbody Fusion Device
+XRGC0R7	2 Or More Lumbar Region Vertebral Joints Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRGC3R7	Fusion of the 2 Or More Lumbar Region Vertebral Joints Custom-Made Anatomically Designed Interbody Fusion Device
+XRGC3R7	2 Or More Lumbar Region Vertebral Joints Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRGC4R7	Fusion of the 2 Or More Lumbar Region Vertebral Joints Custom-Made Anatomically Designed Interbody Fusion Device
+XRGC4R7	2 Or More Lumbar Region Vertebral Joints Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRGD0EA	Fusion of the Lumbosacral Region Joint Paired Titanium Cages Facet Joint Fusion Device
+XRGD0EA	Lumbosacral Region Joint Paired Titanium Cages Facet Joint Fusion Device Fusion
+XRGD0R7	Fusion of the Lumbosacral Region Joint Custom-Made Anatomically Designed Interbody Fusion Device
+XRGD0R7	Lumbosacral Region Joint Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRGD3R7	Fusion of the Lumbosacral Region Joint Custom-Made Anatomically Designed Interbody Fusion Device
+XRGD3R7	Lumbosacral Region Joint Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRGD4R7	Fusion of the Lumbosacral Region Joint Custom-Made Anatomically Designed Interbody Fusion Device
+XRGD4R7	Lumbosacral Region Joint Custom-Made Anatomically Designed Interbody Fusion Device Fusion
+XRGE058	Fusion of the Right Sacroiliac Joint Internal Fixation Device With Tulip Connector
+XRGE058	Right Sacroiliac Joint Internal Fixation Device With Tulip Connector Fusion
+XRGE0HB	Fusion of the Right Sacroiliac Joint Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device
+XRGE0HB	Right Sacroiliac Joint Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device Fusion
+XRGE358	Fusion of the Right Sacroiliac Joint Internal Fixation Device With Tulip Connector
+XRGE358	Right Sacroiliac Joint Internal Fixation Device With Tulip Connector Fusion
+XRGE3HB	Fusion of the Right Sacroiliac Joint Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device
+XRGE3HB	Right Sacroiliac Joint Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device Fusion
+XRGF058	Fusion of the Left Sacroiliac Joint Internal Fixation Device With Tulip Connector
+XRGF058	Left Sacroiliac Joint Internal Fixation Device With Tulip Connector Fusion
+XRGF0HB	Fusion of the Left Sacroiliac Joint Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device
+XRGF0HB	Left Sacroiliac Joint Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device Fusion
+XRGF358	Fusion of the Left Sacroiliac Joint Internal Fixation Device With Tulip Connector
+XRGF358	Left Sacroiliac Joint Internal Fixation Device With Tulip Connector Fusion
+XRGF3HB	Fusion of the Left Sacroiliac Joint Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device
+XRGF3HB	Left Sacroiliac Joint Bone-Density-Specific Thread And Porosity Pattern Internal Fixation Device Fusion
+XRGJ0B9	Fusion of the Right Ankle Joint Open-Truss Design Internal Fixation Device
+XRGJ0B9	Right Ankle Joint Open-Truss Design Internal Fixation Device Fusion
+XRGJ0CA	Fusion of the Right Ankle Joint Gyroid-Sheet Lattice Design Internal Fixation Device
+XRGJ0CA	Right Ankle Joint Gyroid-Sheet Lattice Design Internal Fixation Device Fusion
+XRGK0B9	Fusion of the Left Ankle Joint Open-Truss Design Internal Fixation Device
+XRGK0B9	Left Ankle Joint Open-Truss Design Internal Fixation Device Fusion
+XRGK0CA	Fusion of the Left Ankle Joint Gyroid-Sheet Lattice Design Internal Fixation Device
+XRGK0CA	Left Ankle Joint Gyroid-Sheet Lattice Design Internal Fixation Device Fusion
+XRGM0B9	Fusion of the Left Tarsal Joint Open-Truss Design Internal Fixation Device
+XRGM0B9	Left Tarsal Joint Open-Truss Design Internal Fixation Device Fusion
+XRGM0CA	Fusion of the Left Tarsal Joint Gyroid-Sheet Lattice Design Internal Fixation Device
+XRGM0CA	Left Tarsal Joint Gyroid-Sheet Lattice Design Internal Fixation Device Fusion
+XRH	Insertion of the Joints
+XRH	Joints Insertion
+XRH10GB	Insertion of the Cervical Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device
+XRH10GB	Cervical Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device Insertion
+XRH13GB	Insertion of the Cervical Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device
+XRH13GB	Cervical Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device Insertion
+XRH14GB	Insertion of the Cervical Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device
+XRH14GB	Cervical Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device Insertion
+XRH20GB	Insertion of the 2 Or More Cervical Region Vertebral Joints Molybdenum Rhenium Alloy Spinal Stabilization Device
+XRH20GB	2 Or More Cervical Region Vertebral Joints Molybdenum Rhenium Alloy Spinal Stabilization Device Insertion
+XRH23GB	Insertion of the 2 Or More Cervical Region Vertebral Joints Molybdenum Rhenium Alloy Spinal Stabilization Device
+XRH23GB	2 Or More Cervical Region Vertebral Joints Molybdenum Rhenium Alloy Spinal Stabilization Device Insertion
+XRH24GB	Insertion of the 2 Or More Cervical Region Vertebral Joints Molybdenum Rhenium Alloy Spinal Stabilization Device
+XRH24GB	2 Or More Cervical Region Vertebral Joints Molybdenum Rhenium Alloy Spinal Stabilization Device Insertion
+XRH40GB	Insertion of the Cervicothoracic Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device
+XRH40GB	Cervicothoracic Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device Insertion
+XRH43GB	Insertion of the Cervicothoracic Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device
+XRH43GB	Cervicothoracic Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device Insertion
+XRH44GB	Insertion of the Cervicothoracic Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device
+XRH44GB	Cervicothoracic Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device Insertion
+XRH60FA	Insertion of the Thoracic Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRH60FA	Thoracic Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRH60GB	Insertion of the Thoracic Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device
+XRH60GB	Thoracic Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device Insertion
+XRH63FA	Insertion of the Thoracic Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRH63FA	Thoracic Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRH63GB	Insertion of the Thoracic Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device
+XRH63GB	Thoracic Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device Insertion
+XRH64FA	Insertion of the Thoracic Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRH64FA	Thoracic Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRH64GB	Insertion of the Thoracic Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device
+XRH64GB	Thoracic Region Vertebral Joint Molybdenum Rhenium Alloy Spinal Stabilization Device Insertion
+XRH70FA	Insertion of the 2 To 7 Thoracic Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRH70FA	2 To 7 Thoracic Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRH73FA	Insertion of the 2 To 7 Thoracic Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRH73FA	2 To 7 Thoracic Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRH74FA	Insertion of the 2 To 7 Thoracic Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRH74FA	2 To 7 Thoracic Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRH80FA	Insertion of the 8 Or More Thoracic Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRH80FA	8 Or More Thoracic Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRH83FA	Insertion of the 8 Or More Thoracic Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRH83FA	8 Or More Thoracic Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRH84FA	Insertion of the 8 Or More Thoracic Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRH84FA	8 Or More Thoracic Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRHA0FA	Insertion of the Thoracolumbar Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRHA0FA	Thoracolumbar Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRHA3FA	Insertion of the Thoracolumbar Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRHA3FA	Thoracolumbar Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRHA4FA	Insertion of the Thoracolumbar Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRHA4FA	Thoracolumbar Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRHB018	Insertion of the Lumbar Region Vertebral Joint Posterior Spinal Motion Preservation Device
+XRHB018	Lumbar Region Vertebral Joint Posterior Spinal Motion Preservation Device Insertion
+XRHB0FA	Insertion of the Lumbar Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRHB0FA	Lumbar Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRHB3FA	Insertion of the Lumbar Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRHB3FA	Lumbar Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRHB4FA	Insertion of the Lumbar Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRHB4FA	Lumbar Region Vertebral Joint Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRHC0FA	Insertion of the 2 Or More Lumbar Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRHC0FA	2 Or More Lumbar Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRHC3FA	Insertion of the 2 Or More Lumbar Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRHC3FA	2 Or More Lumbar Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRHC4FA	Insertion of the 2 Or More Lumbar Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRHC4FA	2 Or More Lumbar Region Vertebral Joints Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRHD018	Insertion of the Lumbosacral Region Joint Posterior Spinal Motion Preservation Device
+XRHD018	Lumbosacral Region Joint Posterior Spinal Motion Preservation Device Insertion
+XRHD0FA	Insertion of the Lumbosacral Region Joint Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRHD0FA	Lumbosacral Region Joint Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRHD3FA	Insertion of the Lumbosacral Region Joint Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRHD3FA	Lumbosacral Region Joint Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRHD4FA	Insertion of the Lumbosacral Region Joint Pedicle Based Carbon/Peek Spinal Stabilization Device
+XRHD4FA	Lumbosacral Region Joint Pedicle Based Carbon/Peek Spinal Stabilization Device Insertion
+XRR	Replacement of the Joints
+XRR	Joints Replacement
+XRRG0M8	Replacement of the Right Knee Joint Medial Meniscus Synthetic Substitute
+XRRG0M8	Right Knee Joint Medial Meniscus Synthetic Substitute Replacement
+XRRH0M8	Replacement of the Left Knee Joint Medial Meniscus Synthetic Substitute
+XRRH0M8	Left Knee Joint Medial Meniscus Synthetic Substitute Replacement
+XT2	Monitoring of the Urinary System
+XT2	Urinary System Monitoring
+XT25XE5	Monitoring of the Kidney Fluorescent Pyrazine
+XT25XE5	Kidney Fluorescent Pyrazine Monitoring
+XU7	Dilation of the Female Reproductive System
+XU7	Female Reproductive System Dilation
+XU7G71B	Dilation of the Vagina Temporary Electromechanical Intraluminal Device
+XU7G71B	Vagina Temporary Electromechanical Intraluminal Device Dilation
+XW0	Introduction of the Anatomical Regions
+XW0	Anatomical Regions Introduction
+XW00X27	Introduction of the Skin Cpi-601 Enzyme Replacement Therapy
+XW00X27	Skin Cpi-601 Enzyme Replacement Therapy Introduction
+XW01318	Introduction of the Subcutaneous Tissue Eladocagene Exuparvovec
+XW01318	Subcutaneous Tissue Eladocagene Exuparvovec Introduction
+XW01329	Introduction of the Subcutaneous Tissue Cpi-601 Enzyme Replacement Therapy
+XW01329	Subcutaneous Tissue Cpi-601 Enzyme Replacement Therapy Introduction
+XW01348	Introduction of the Subcutaneous Tissue Somatic Stem Cells
+XW01348	Subcutaneous Tissue Somatic Stem Cells Introduction
+XW0136A	Introduction of the Subcutaneous Tissue Afamitresgene Autoleucel Immunotherapy
+XW0136A	Subcutaneous Tissue Afamitresgene Autoleucel Immunotherapy Introduction
+XW01397	Introduction of the Subcutaneous Tissue Odronextamab Antineoplastic
+XW01397	Subcutaneous Tissue Odronextamab Antineoplastic Introduction
+XW013F5	Introduction of the Subcutaneous Tissue Other New Technology Therapeutic Substance
+XW013F5	Subcutaneous Tissue Other New Technology Therapeutic Substance Introduction
+XW013G6	Introduction of the Subcutaneous Tissue Temporary Irrigation Spacer System Vancomycin Hydrochloride And Tobramycin Sulfate Anti-Infective
+XW013G6	Subcutaneous Tissue Temporary Irrigation Spacer System Vancomycin Hydrochloride And Tobramycin Sulfate Anti-Infective Introduction
+XW013H6	Introduction of the Subcutaneous Tissue One Balloon Paclitaxel-Coated Balloon Technology
+XW013H6	Subcutaneous Tissue One Balloon Paclitaxel-Coated Balloon Technology Introduction
+XW013K6	Introduction of the Subcutaneous Tissue Three Balloons Paclitaxel-Coated Balloon Technology
+XW013K6	Subcutaneous Tissue Three Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW013S6	Introduction of the Subcutaneous Tissue Iobenguane I-131 Antineoplastic
+XW013S6	Subcutaneous Tissue Iobenguane I-131 Antineoplastic Introduction
+XW013S9	Introduction of the Subcutaneous Tissue Iobenguane I-131 Antineoplastic
+XW013S9	Subcutaneous Tissue Iobenguane I-131 Antineoplastic Introduction
+XW013T6	Introduction of the Subcutaneous Tissue Melphalan Hydrochloride Antineoplastic
+XW013T6	Subcutaneous Tissue Melphalan Hydrochloride Antineoplastic Introduction
+XW013TB	Introduction of the Subcutaneous Tissue Melphalan Hydrochloride Antineoplastic
+XW013TB	Subcutaneous Tissue Melphalan Hydrochloride Antineoplastic Introduction
+XW013U6	Introduction of the Subcutaneous Tissue Covid-19 Vaccine
+XW013U6	Subcutaneous Tissue Covid-19 Vaccine Introduction
+XW013V7	Introduction of the Subcutaneous Tissue Xanomeline And Trospium Chloride
+XW013V7	Subcutaneous Tissue Xanomeline And Trospium Chloride Introduction
+XW013W5	Introduction of the Subcutaneous Tissue Agn1 Bone Void Filler
+XW013W5	Subcutaneous Tissue Agn1 Bone Void Filler Introduction
+XW013W7	Introduction of the Subcutaneous Tissue Agn1 Bone Void Filler
+XW013W7	Subcutaneous Tissue Agn1 Bone Void Filler Introduction
+XW01X27	Introduction of the Subcutaneous Tissue Cpi-601 Enzyme Replacement Therapy
+XW01X27	Subcutaneous Tissue Cpi-601 Enzyme Replacement Therapy Introduction
+XW020D8	Introduction of the Muscle Donislecel-Jujn Allogeneic Pancreatic Islet Cellular Suspension
+XW020D8	Muscle Donislecel-Jujn Allogeneic Pancreatic Islet Cellular Suspension Introduction
+XW023S6	Introduction of the Muscle Iobenguane I-131 Antineoplastic
+XW023S6	Muscle Iobenguane I-131 Antineoplastic Introduction
+XW023T6	Introduction of the Muscle Melphalan Hydrochloride Antineoplastic
+XW023T6	Muscle Melphalan Hydrochloride Antineoplastic Introduction
+XW023U6	Introduction of the Muscle Covid-19 Vaccine
+XW023U6	Muscle Covid-19 Vaccine Introduction
+XW023V7	Introduction of the Muscle Xanomeline And Trospium Chloride
+XW023V7	Muscle Xanomeline And Trospium Chloride Introduction
+XW023W7	Introduction of the Muscle Agn1 Bone Void Filler
+XW023W7	Muscle Agn1 Bone Void Filler Introduction
+XW023X7	Introduction of the Muscle Peptide Enhanced Bone Void Filler
+XW023X7	Muscle Peptide Enhanced Bone Void Filler Introduction
+XW023Y7	Introduction of the Muscle Other New Technology Monoclonal Antibody
+XW023Y7	Muscle Other New Technology Monoclonal Antibody Introduction
+XW03308	Introduction of the Peripheral Vein Alpha1-Proteinase Inhibitor
+XW03308	Peripheral Vein Alpha1-Proteinase Inhibitor Introduction
+XW0330B	Introduction of the Peripheral Vein Alpha1-Proteinase Inhibitor
+XW0330B	Peripheral Vein Alpha1-Proteinase Inhibitor Introduction
+XW0331B	Introduction of the Peripheral Vein Eladocagene Exuparvovec
+XW0331B	Peripheral Vein Eladocagene Exuparvovec Introduction
+XW0333A	Introduction of the Peripheral Vein Maribavir Anti-Infective
+XW0333A	Peripheral Vein Maribavir Anti-Infective Introduction
+XW0334A	Introduction of the Peripheral Vein Somatic Stem Cells
+XW0334A	Peripheral Vein Somatic Stem Cells Introduction
+XW03357	Introduction of the Peripheral Vein Ceftobiprole Medocaril Anti-Infective
+XW03357	Peripheral Vein Ceftobiprole Medocaril Anti-Infective Introduction
+XW03358	Introduction of the Peripheral Vein Ceftobiprole Medocaril Anti-Infective
+XW03358	Peripheral Vein Ceftobiprole Medocaril Anti-Infective Introduction
+XW0335A	Introduction of the Peripheral Vein Ceftobiprole Medocaril Anti-Infective
+XW0335A	Peripheral Vein Ceftobiprole Medocaril Anti-Infective Introduction
+XW03367	Introduction of the Peripheral Vein Afamitresgene Autoleucel Immunotherapy
+XW03367	Peripheral Vein Afamitresgene Autoleucel Immunotherapy Introduction
+XW03368	Introduction of the Peripheral Vein Afamitresgene Autoleucel Immunotherapy
+XW03368	Peripheral Vein Afamitresgene Autoleucel Immunotherapy Introduction
+XW03372	Introduction of the Peripheral Vein Tabelecleucel Immunotherapy
+XW03372	Peripheral Vein Tabelecleucel Immunotherapy Introduction
+XW03377	Introduction of the Peripheral Vein Tabelecleucel Immunotherapy
+XW03377	Peripheral Vein Tabelecleucel Immunotherapy Introduction
+XW03378	Introduction of the Peripheral Vein Tabelecleucel Immunotherapy
+XW03378	Peripheral Vein Tabelecleucel Immunotherapy Introduction
+XW03387	Introduction of the Peripheral Vein Mineral-Based Topical Hemostatic Agent
+XW03387	Peripheral Vein Mineral-Based Topical Hemostatic Agent Introduction
+XW03388	Introduction of the Peripheral Vein Mineral-Based Topical Hemostatic Agent
+XW03388	Peripheral Vein Mineral-Based Topical Hemostatic Agent Introduction
+XW0338A	Introduction of the Peripheral Vein Mineral-Based Topical Hemostatic Agent
+XW0338A	Peripheral Vein Mineral-Based Topical Hemostatic Agent Introduction
+XW03396	Introduction of the Peripheral Vein Odronextamab Antineoplastic
+XW03396	Peripheral Vein Odronextamab Antineoplastic Introduction
+XW03398	Introduction of the Peripheral Vein Odronextamab Antineoplastic
+XW03398	Peripheral Vein Odronextamab Antineoplastic Introduction
+XW0339A	Introduction of the Peripheral Vein Odronextamab Antineoplastic
+XW0339A	Peripheral Vein Odronextamab Antineoplastic Introduction
+XW033A7	Introduction of the Peripheral Vein Ciltacabtagene Autoleucel
+XW033A7	Peripheral Vein Ciltacabtagene Autoleucel Introduction
+XW033B3	Introduction of the Peripheral Vein Orca-T Allogeneic T-Cell Immunotherapy
+XW033B3	Peripheral Vein Orca-T Allogeneic T-Cell Immunotherapy Introduction
+XW033B7	Introduction of the Peripheral Vein Orca-T Allogeneic T-Cell Immunotherapy
+XW033B7	Peripheral Vein Orca-T Allogeneic T-Cell Immunotherapy Introduction
+XW033BA	Introduction of the Peripheral Vein Orca-T Allogeneic T-Cell Immunotherapy
+XW033BA	Peripheral Vein Orca-T Allogeneic T-Cell Immunotherapy Introduction
+XW033C7	Introduction of the Peripheral Vein Zanidatamab Antineoplastic
+XW033C7	Peripheral Vein Zanidatamab Antineoplastic Introduction
+XW033CA	Introduction of the Peripheral Vein Zanidatamab Antineoplastic
+XW033CA	Peripheral Vein Zanidatamab Antineoplastic Introduction
+XW033DA	Introduction of the Peripheral Vein Donislecel-Jujn Allogeneic Pancreatic Islet Cellular Suspension
+XW033DA	Peripheral Vein Donislecel-Jujn Allogeneic Pancreatic Islet Cellular Suspension Introduction
+XW033E5	Introduction of the Peripheral Vein Remdesivir Anti-Infective
+XW033E5	Peripheral Vein Remdesivir Anti-Infective Introduction
+XW033F3	Introduction of the Peripheral Vein Other New Technology Therapeutic Substance
+XW033F3	Peripheral Vein Other New Technology Therapeutic Substance Introduction
+XW033F5	Introduction of the Peripheral Vein Other New Technology Therapeutic Substance
+XW033F5	Peripheral Vein Other New Technology Therapeutic Substance Introduction
+XW033FA	Introduction of the Peripheral Vein Other New Technology Therapeutic Substance
+XW033FA	Peripheral Vein Other New Technology Therapeutic Substance Introduction
+XW033FB	Introduction of the Peripheral Vein Other New Technology Therapeutic Substance
+XW033FB	Peripheral Vein Other New Technology Therapeutic Substance Introduction
+XW033G5	Introduction of the Peripheral Vein Temporary Irrigation Spacer System Vancomycin Hydrochloride And Tobramycin Sulfate Anti-Infective
+XW033G5	Peripheral Vein Temporary Irrigation Spacer System Vancomycin Hydrochloride And Tobramycin Sulfate Anti-Infective Introduction
+XW033G6	Introduction of the Peripheral Vein Temporary Irrigation Spacer System Vancomycin Hydrochloride And Tobramycin Sulfate Anti-Infective
+XW033G6	Peripheral Vein Temporary Irrigation Spacer System Vancomycin Hydrochloride And Tobramycin Sulfate Anti-Infective Introduction
+XW033G7	Introduction of the Peripheral Vein Temporary Irrigation Spacer System Vancomycin Hydrochloride And Tobramycin Sulfate Anti-Infective
+XW033G7	Peripheral Vein Temporary Irrigation Spacer System Vancomycin Hydrochloride And Tobramycin Sulfate Anti-Infective Introduction
+XW033H5	Introduction of the Peripheral Vein One Balloon Paclitaxel-Coated Balloon Technology
+XW033H5	Peripheral Vein One Balloon Paclitaxel-Coated Balloon Technology Introduction
+XW033H6	Introduction of the Peripheral Vein One Balloon Paclitaxel-Coated Balloon Technology
+XW033H6	Peripheral Vein One Balloon Paclitaxel-Coated Balloon Technology Introduction
+XW033H7	Introduction of the Peripheral Vein One Balloon Paclitaxel-Coated Balloon Technology
+XW033H7	Peripheral Vein One Balloon Paclitaxel-Coated Balloon Technology Introduction
+XW033J7	Introduction of the Peripheral Vein Two Balloons Paclitaxel-Coated Balloon Technology
+XW033J7	Peripheral Vein Two Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW033K7	Introduction of the Peripheral Vein Three Balloons Paclitaxel-Coated Balloon Technology
+XW033K7	Peripheral Vein Three Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW033K9	Introduction of the Peripheral Vein Three Balloons Paclitaxel-Coated Balloon Technology
+XW033K9	Peripheral Vein Three Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW033M7	Introduction of the Peripheral Vein Baricitinib
+XW033M7	Peripheral Vein Baricitinib Introduction
+XW033MA	Introduction of the Peripheral Vein Baricitinib
+XW033MA	Peripheral Vein Baricitinib Introduction
+XW033N7	Introduction of the Peripheral Vein Ser-109
+XW033N7	Peripheral Vein Ser-109 Introduction
+XW033NA	Introduction of the Peripheral Vein Ser-109
+XW033NA	Peripheral Vein Ser-109 Introduction
+XW033P9	Introduction of the Peripheral Vein Antibiotic-Eluting Bone Void Filler
+XW033P9	Peripheral Vein Antibiotic-Eluting Bone Void Filler Introduction
+XW033PB	Introduction of the Peripheral Vein Antibiotic-Eluting Bone Void Filler
+XW033PB	Peripheral Vein Antibiotic-Eluting Bone Void Filler Introduction
+XW033Q5	Introduction of the Peripheral Vein Iloprost
+XW033Q5	Peripheral Vein Iloprost Introduction
+XW033Q9	Introduction of the Peripheral Vein Iloprost
+XW033Q9	Peripheral Vein Iloprost Introduction
+XW033QB	Introduction of the Peripheral Vein Iloprost
+XW033QB	Peripheral Vein Iloprost Introduction
+XW033R9	Introduction of the Peripheral Vein Fostamatinib
+XW033R9	Peripheral Vein Fostamatinib Introduction
+XW033RB	Introduction of the Peripheral Vein Fostamatinib
+XW033RB	Peripheral Vein Fostamatinib Introduction
+XW033S5	Introduction of the Peripheral Vein Iobenguane I-131 Antineoplastic
+XW033S5	Peripheral Vein Iobenguane I-131 Antineoplastic Introduction
+XW033W5	Introduction of the Peripheral Vein Agn1 Bone Void Filler
+XW033W5	Peripheral Vein Agn1 Bone Void Filler Introduction
+XW033WB	Introduction of the Peripheral Vein Agn1 Bone Void Filler
+XW033WB	Peripheral Vein Agn1 Bone Void Filler Introduction
+XW04308	Introduction of the Central Vein Alpha1-Proteinase Inhibitor
+XW04308	Central Vein Alpha1-Proteinase Inhibitor Introduction
+XW0430B	Introduction of the Central Vein Alpha1-Proteinase Inhibitor
+XW0430B	Central Vein Alpha1-Proteinase Inhibitor Introduction
+XW0431B	Introduction of the Central Vein Eladocagene Exuparvovec
+XW0431B	Central Vein Eladocagene Exuparvovec Introduction
+XW0433A	Introduction of the Central Vein Maribavir Anti-Infective
+XW0433A	Central Vein Maribavir Anti-Infective Introduction
+XW0434A	Introduction of the Central Vein Somatic Stem Cells
+XW0434A	Central Vein Somatic Stem Cells Introduction
+XW04357	Introduction of the Central Vein Ceftobiprole Medocaril Anti-Infective
+XW04357	Central Vein Ceftobiprole Medocaril Anti-Infective Introduction
+XW04358	Introduction of the Central Vein Ceftobiprole Medocaril Anti-Infective
+XW04358	Central Vein Ceftobiprole Medocaril Anti-Infective Introduction
+XW0435A	Introduction of the Central Vein Ceftobiprole Medocaril Anti-Infective
+XW0435A	Central Vein Ceftobiprole Medocaril Anti-Infective Introduction
+XW04367	Introduction of the Central Vein Afamitresgene Autoleucel Immunotherapy
+XW04367	Central Vein Afamitresgene Autoleucel Immunotherapy Introduction
+XW04368	Introduction of the Central Vein Afamitresgene Autoleucel Immunotherapy
+XW04368	Central Vein Afamitresgene Autoleucel Immunotherapy Introduction
+XW04372	Introduction of the Central Vein Tabelecleucel Immunotherapy
+XW04372	Central Vein Tabelecleucel Immunotherapy Introduction
+XW04377	Introduction of the Central Vein Tabelecleucel Immunotherapy
+XW04377	Central Vein Tabelecleucel Immunotherapy Introduction
+XW04378	Introduction of the Central Vein Tabelecleucel Immunotherapy
+XW04378	Central Vein Tabelecleucel Immunotherapy Introduction
+XW04387	Introduction of the Central Vein Mineral-Based Topical Hemostatic Agent
+XW04387	Central Vein Mineral-Based Topical Hemostatic Agent Introduction
+XW04388	Introduction of the Central Vein Mineral-Based Topical Hemostatic Agent
+XW04388	Central Vein Mineral-Based Topical Hemostatic Agent Introduction
+XW0438A	Introduction of the Central Vein Mineral-Based Topical Hemostatic Agent
+XW0438A	Central Vein Mineral-Based Topical Hemostatic Agent Introduction
+XW04396	Introduction of the Central Vein Odronextamab Antineoplastic
+XW04396	Central Vein Odronextamab Antineoplastic Introduction
+XW04398	Introduction of the Central Vein Odronextamab Antineoplastic
+XW04398	Central Vein Odronextamab Antineoplastic Introduction
+XW0439A	Introduction of the Central Vein Odronextamab Antineoplastic
+XW0439A	Central Vein Odronextamab Antineoplastic Introduction
+XW043A7	Introduction of the Central Vein Ciltacabtagene Autoleucel
+XW043A7	Central Vein Ciltacabtagene Autoleucel Introduction
+XW043B3	Introduction of the Central Vein Orca-T Allogeneic T-Cell Immunotherapy
+XW043B3	Central Vein Orca-T Allogeneic T-Cell Immunotherapy Introduction
+XW043B7	Introduction of the Central Vein Orca-T Allogeneic T-Cell Immunotherapy
+XW043B7	Central Vein Orca-T Allogeneic T-Cell Immunotherapy Introduction
+XW043BA	Introduction of the Central Vein Orca-T Allogeneic T-Cell Immunotherapy
+XW043BA	Central Vein Orca-T Allogeneic T-Cell Immunotherapy Introduction
+XW043C7	Introduction of the Central Vein Zanidatamab Antineoplastic
+XW043C7	Central Vein Zanidatamab Antineoplastic Introduction
+XW043CA	Introduction of the Central Vein Zanidatamab Antineoplastic
+XW043CA	Central Vein Zanidatamab Antineoplastic Introduction
+XW043E5	Introduction of the Central Vein Remdesivir Anti-Infective
+XW043E5	Central Vein Remdesivir Anti-Infective Introduction
+XW043F3	Introduction of the Central Vein Other New Technology Therapeutic Substance
+XW043F3	Central Vein Other New Technology Therapeutic Substance Introduction
+XW043F5	Introduction of the Central Vein Other New Technology Therapeutic Substance
+XW043F5	Central Vein Other New Technology Therapeutic Substance Introduction
+XW043FA	Introduction of the Central Vein Other New Technology Therapeutic Substance
+XW043FA	Central Vein Other New Technology Therapeutic Substance Introduction
+XW043FB	Introduction of the Central Vein Other New Technology Therapeutic Substance
+XW043FB	Central Vein Other New Technology Therapeutic Substance Introduction
+XW043G5	Introduction of the Central Vein Temporary Irrigation Spacer System Vancomycin Hydrochloride And Tobramycin Sulfate Anti-Infective
+XW043G5	Central Vein Temporary Irrigation Spacer System Vancomycin Hydrochloride And Tobramycin Sulfate Anti-Infective Introduction
+XW043G6	Introduction of the Central Vein Temporary Irrigation Spacer System Vancomycin Hydrochloride And Tobramycin Sulfate Anti-Infective
+XW043G6	Central Vein Temporary Irrigation Spacer System Vancomycin Hydrochloride And Tobramycin Sulfate Anti-Infective Introduction
+XW043G7	Introduction of the Central Vein Temporary Irrigation Spacer System Vancomycin Hydrochloride And Tobramycin Sulfate Anti-Infective
+XW043G7	Central Vein Temporary Irrigation Spacer System Vancomycin Hydrochloride And Tobramycin Sulfate Anti-Infective Introduction
+XW043H5	Introduction of the Central Vein One Balloon Paclitaxel-Coated Balloon Technology
+XW043H5	Central Vein One Balloon Paclitaxel-Coated Balloon Technology Introduction
+XW043H6	Introduction of the Central Vein One Balloon Paclitaxel-Coated Balloon Technology
+XW043H6	Central Vein One Balloon Paclitaxel-Coated Balloon Technology Introduction
+XW043H7	Introduction of the Central Vein One Balloon Paclitaxel-Coated Balloon Technology
+XW043H7	Central Vein One Balloon Paclitaxel-Coated Balloon Technology Introduction
+XW043J7	Introduction of the Central Vein Two Balloons Paclitaxel-Coated Balloon Technology
+XW043J7	Central Vein Two Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW043K7	Introduction of the Central Vein Three Balloons Paclitaxel-Coated Balloon Technology
+XW043K7	Central Vein Three Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW043K9	Introduction of the Central Vein Three Balloons Paclitaxel-Coated Balloon Technology
+XW043K9	Central Vein Three Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW043M7	Introduction of the Central Vein Baricitinib
+XW043M7	Central Vein Baricitinib Introduction
+XW043MA	Introduction of the Central Vein Baricitinib
+XW043MA	Central Vein Baricitinib Introduction
+XW043N7	Introduction of the Central Vein Ser-109
+XW043N7	Central Vein Ser-109 Introduction
+XW043NA	Introduction of the Central Vein Ser-109
+XW043NA	Central Vein Ser-109 Introduction
+XW043P9	Introduction of the Central Vein Antibiotic-Eluting Bone Void Filler
+XW043P9	Central Vein Antibiotic-Eluting Bone Void Filler Introduction
+XW043PB	Introduction of the Central Vein Antibiotic-Eluting Bone Void Filler
+XW043PB	Central Vein Antibiotic-Eluting Bone Void Filler Introduction
+XW043Q5	Introduction of the Central Vein Iloprost
+XW043Q5	Central Vein Iloprost Introduction
+XW043Q9	Introduction of the Central Vein Iloprost
+XW043Q9	Central Vein Iloprost Introduction
+XW043QB	Introduction of the Central Vein Iloprost
+XW043QB	Central Vein Iloprost Introduction
+XW043R9	Introduction of the Central Vein Fostamatinib
+XW043R9	Central Vein Fostamatinib Introduction
+XW043RB	Introduction of the Central Vein Fostamatinib
+XW043RB	Central Vein Fostamatinib Introduction
+XW043S5	Introduction of the Central Vein Iobenguane I-131 Antineoplastic
+XW043S5	Central Vein Iobenguane I-131 Antineoplastic Introduction
+XW043W5	Introduction of the Central Vein Agn1 Bone Void Filler
+XW043W5	Central Vein Agn1 Bone Void Filler Introduction
+XW043WB	Introduction of the Central Vein Agn1 Bone Void Filler
+XW043WB	Central Vein Agn1 Bone Void Filler Introduction
+XW0534B	Introduction of the Peripheral Artery Somatic Stem Cells
+XW0534B	Peripheral Artery Somatic Stem Cells Introduction
+XW053T9	Introduction of the Peripheral Artery Melphalan Hydrochloride Antineoplastic
+XW053T9	Peripheral Artery Melphalan Hydrochloride Antineoplastic Introduction
+XW0632B	Introduction of the Cerebral Ventricle Cpi-601 Enzyme Replacement Therapy
+XW0632B	Cerebral Ventricle Cpi-601 Enzyme Replacement Therapy Introduction
+XW0DX38	Introduction of the Mouth And Pharynx Maribavir Anti-Infective
+XW0DX38	Mouth And Pharynx Maribavir Anti-Infective Introduction
+XW0DX82	Introduction of the Mouth And Pharynx Mineral-Based Topical Hemostatic Agent
+XW0DX82	Mouth And Pharynx Mineral-Based Topical Hemostatic Agent Introduction
+XW0DXF5	Introduction of the Mouth And Pharynx Other New Technology Therapeutic Substance
+XW0DXF5	Mouth And Pharynx Other New Technology Therapeutic Substance Introduction
+XW0DXJ9	Introduction of the Mouth And Pharynx Two Balloons Paclitaxel-Coated Balloon Technology
+XW0DXJ9	Mouth And Pharynx Two Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW0DXK8	Introduction of the Mouth And Pharynx Three Balloons Paclitaxel-Coated Balloon Technology
+XW0DXK8	Mouth And Pharynx Three Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW0DXM6	Introduction of the Mouth And Pharynx Baricitinib
+XW0DXM6	Mouth And Pharynx Baricitinib Introduction
+XW0DXN9	Introduction of the Mouth And Pharynx Ser-109
+XW0DXN9	Mouth And Pharynx Ser-109 Introduction
+XW0DXR7	Introduction of the Mouth And Pharynx Fostamatinib
+XW0DXR7	Mouth And Pharynx Fostamatinib Introduction
+XW0DXVB	Introduction of the Mouth And Pharynx Xanomeline And Trospium Chloride
+XW0DXVB	Mouth And Pharynx Xanomeline And Trospium Chloride Introduction
+XW0E33B	Introduction of the Ear(S) Maribavir Anti-Infective
+XW0E33B	Ear(S) Maribavir Anti-Infective Introduction
+XW0G738	Introduction of the Upper Gi Maribavir Anti-Infective
+XW0G738	Upper Gi Maribavir Anti-Infective Introduction
+XW0G7K8	Introduction of the Upper Gi Three Balloons Paclitaxel-Coated Balloon Technology
+XW0G7K8	Upper Gi Three Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW0G7M6	Introduction of the Upper Gi Baricitinib
+XW0G7M6	Upper Gi Baricitinib Introduction
+XW0G7R7	Introduction of the Upper Gi Fostamatinib
+XW0G7R7	Upper Gi Fostamatinib Introduction
+XW0G886	Introduction of the Upper Gi Mineral-Based Topical Hemostatic Agent
+XW0G886	Upper Gi Mineral-Based Topical Hemostatic Agent Introduction
+XW0H738	Introduction of the Lower Gi Maribavir Anti-Infective
+XW0H738	Lower Gi Maribavir Anti-Infective Introduction
+XW0H7K8	Introduction of the Lower Gi Three Balloons Paclitaxel-Coated Balloon Technology
+XW0H7K8	Lower Gi Three Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW0H7M6	Introduction of the Lower Gi Baricitinib
+XW0H7M6	Lower Gi Baricitinib Introduction
+XW0H7R7	Introduction of the Lower Gi Fostamatinib
+XW0H7R7	Lower Gi Fostamatinib Introduction
+XW0H7X8	Introduction of the Lower Gi Peptide Enhanced Bone Void Filler
+XW0H7X8	Lower Gi Peptide Enhanced Bone Void Filler Introduction
+XW0H886	Introduction of the Lower Gi Mineral-Based Topical Hemostatic Agent
+XW0H886	Lower Gi Mineral-Based Topical Hemostatic Agent Introduction
+XW0J3HA	Introduction of the Single Coronary Artery One Balloon Paclitaxel-Coated Balloon Technology
+XW0J3HA	Single Coronary Artery One Balloon Paclitaxel-Coated Balloon Technology Introduction
+XW0J3JA	Introduction of the Single Coronary Artery Two Balloons Paclitaxel-Coated Balloon Technology
+XW0J3JA	Single Coronary Artery Two Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW0J3KA	Introduction of the Single Coronary Artery Three Balloons Paclitaxel-Coated Balloon Technology
+XW0J3KA	Single Coronary Artery Three Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW0K3HA	Introduction of the Two Coronary Arteries One Balloon Paclitaxel-Coated Balloon Technology
+XW0K3HA	Two Coronary Arteries One Balloon Paclitaxel-Coated Balloon Technology Introduction
+XW0K3JA	Introduction of the Two Coronary Arteries Two Balloons Paclitaxel-Coated Balloon Technology
+XW0K3JA	Two Coronary Arteries Two Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW0K3KA	Introduction of the Two Coronary Arteries Three Balloons Paclitaxel-Coated Balloon Technology
+XW0K3KA	Two Coronary Arteries Three Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW0M3HA	Introduction of the Four Or More Coronary Arteries One Balloon Paclitaxel-Coated Balloon Technology
+XW0M3HA	Four Or More Coronary Arteries One Balloon Paclitaxel-Coated Balloon Technology Introduction
+XW0M3JA	Introduction of the Four Or More Coronary Arteries Two Balloons Paclitaxel-Coated Balloon Technology
+XW0M3JA	Four Or More Coronary Arteries Two Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW0M3KA	Introduction of the Four Or More Coronary Arteries Three Balloons Paclitaxel-Coated Balloon Technology
+XW0M3KA	Four Or More Coronary Arteries Three Balloons Paclitaxel-Coated Balloon Technology Introduction
+XW0Q316	Introduction of the Cranial Cavity And Brain Eladocagene Exuparvovec
+XW0Q316	Cranial Cavity And Brain Eladocagene Exuparvovec Introduction
+XW0U0GA	Introduction of the Joints Temporary Irrigation Spacer System Vancomycin Hydrochloride And Tobramycin Sulfate Anti-Infective
+XW0U0GA	Joints Temporary Irrigation Spacer System Vancomycin Hydrochloride And Tobramycin Sulfate Anti-Infective Introduction
+XW0U0XB	Introduction of the Joints Peptide Enhanced Bone Void Filler
+XW0U0XB	Joints Peptide Enhanced Bone Void Filler Introduction
+XW0U3XB	Introduction of the Joints Peptide Enhanced Bone Void Filler
+XW0U3XB	Joints Peptide Enhanced Bone Void Filler Introduction
+XW0U4XB	Introduction of the Joints Peptide Enhanced Bone Void Filler
+XW0U4XB	Joints Peptide Enhanced Bone Void Filler Introduction
+XW0V0P7	Introduction of the Bones Antibiotic-Eluting Bone Void Filler
+XW0V0P7	Bones Antibiotic-Eluting Bone Void Filler Introduction
+XW0V3WA	Introduction of the Bones Agn1 Bone Void Filler
+XW0V3WA	Bones Agn1 Bone Void Filler Introduction
+XW1	Transfusion of the Anatomical Regions
+XW1	Anatomical Regions Transfusion
+XW13325	Transfusion of the Peripheral Vein Convalescent (Nonautologous) Plasma
+XW13325	Peripheral Vein Convalescent (Nonautologous) Plasma Transfusion
+XW1337A	Transfusion of the Peripheral Vein Marnetegragene Autotemcel
+XW1337A	Peripheral Vein Marnetegragene Autotemcel Transfusion
+XW133B8	Transfusion of the Peripheral Vein Betibeglogene Autotemcel
+XW133B8	Peripheral Vein Betibeglogene Autotemcel Transfusion
+XW133C8	Transfusion of the Peripheral Vein Omidubicel
+XW133C8	Peripheral Vein Omidubicel Transfusion
+XW133D7	Transfusion of the Peripheral Vein High-Dose Intravenous Immune Globulin
+XW133D7	Peripheral Vein High-Dose Intravenous Immune Globulin Transfusion
+XW133E7	Transfusion of the Peripheral Vein Hyperimmune Globulin
+XW133E7	Peripheral Vein Hyperimmune Globulin Transfusion
+XW133F8	Transfusion of the Peripheral Vein Otl-103
+XW133F8	Peripheral Vein Otl-103 Transfusion
+XW133G8	Transfusion of the Peripheral Vein Atidarsagene Autotemcel
+XW133G8	Peripheral Vein Atidarsagene Autotemcel Transfusion
+XW133H9	Transfusion of the Peripheral Vein Lovotibeglogene Autotemcel
+XW133H9	Peripheral Vein Lovotibeglogene Autotemcel Transfusion
+XW133J8	Transfusion of the Peripheral Vein Exagamglogene Autotemcel
+XW133J8	Peripheral Vein Exagamglogene Autotemcel Transfusion
+XW133SB	Transfusion of the Peripheral Vein Mozafancogene Autotemcel
+XW133SB	Peripheral Vein Mozafancogene Autotemcel Transfusion
+XW133YB	Transfusion of the Peripheral Vein Shelf-Stable Nonautologous (Human) Fibrinogen Concentrate
+XW133YB	Peripheral Vein Shelf-Stable Nonautologous (Human) Fibrinogen Concentrate Transfusion
+XW14325	Transfusion of the Central Vein Convalescent (Nonautologous) Plasma
+XW14325	Central Vein Convalescent (Nonautologous) Plasma Transfusion
+XW1437A	Transfusion of the Central Vein Marnetegragene Autotemcel
+XW1437A	Central Vein Marnetegragene Autotemcel Transfusion
+XW143B8	Transfusion of the Central Vein Betibeglogene Autotemcel
+XW143B8	Central Vein Betibeglogene Autotemcel Transfusion
+XW143C8	Transfusion of the Central Vein Omidubicel
+XW143C8	Central Vein Omidubicel Transfusion
+XW143D7	Transfusion of the Central Vein High-Dose Intravenous Immune Globulin
+XW143D7	Central Vein High-Dose Intravenous Immune Globulin Transfusion
+XW143E7	Transfusion of the Central Vein Hyperimmune Globulin
+XW143E7	Central Vein Hyperimmune Globulin Transfusion
+XW143F8	Transfusion of the Central Vein Otl-103
+XW143F8	Central Vein Otl-103 Transfusion
+XW143G8	Transfusion of the Central Vein Atidarsagene Autotemcel
+XW143G8	Central Vein Atidarsagene Autotemcel Transfusion
+XW143H9	Transfusion of the Central Vein Lovotibeglogene Autotemcel
+XW143H9	Central Vein Lovotibeglogene Autotemcel Transfusion
+XW143J8	Transfusion of the Central Vein Exagamglogene Autotemcel
+XW143J8	Central Vein Exagamglogene Autotemcel Transfusion
+XW143SB	Transfusion of the Central Vein Mozafancogene Autotemcel
+XW143SB	Central Vein Mozafancogene Autotemcel Transfusion
+XW143YB	Transfusion of the Central Vein Shelf-Stable Nonautologous (Human) Fibrinogen Concentrate
+XW143YB	Central Vein Shelf-Stable Nonautologous (Human) Fibrinogen Concentrate Transfusion
+XWH	Insertion of the Anatomical Regions
+XWH	Anatomical Regions Insertion
+XWHD7Q7	Insertion of the Mouth And Pharynx Neurostimulator Lead
+XWHD7Q7	Mouth And Pharynx Neurostimulator Lead Insertion
+XX2	Monitoring of the Physiological Systems
+XX2	Physiological Systems Monitoring
+XX20X89	Monitoring of the Central Nervous System Computer-Aided Detection And Notification Brain Electrical Activity
+XX20X89	Central Nervous System Computer-Aided Detection And Notification Brain Electrical Activity Monitoring
+XX25X0A	Monitoring of the Circulatory System Adhesive Ultrasound Patch Technology Blood Flow
+XX25X0A	Circulatory System Adhesive Ultrasound Patch Technology Blood Flow Monitoring
+XX2KXDB	Monitoring of the Subcutaneous Tissue Wearable Sensor Interstitial Glucose
+XX2KXDB	Subcutaneous Tissue Wearable Sensor Interstitial Glucose Monitoring
+XX2KXP9	Monitoring of the Subcutaneous Tissue Sub-Epidermal Moisture Using Electrical Biocapacitance Interstitial Fluid Volume
+XX2KXP9	Subcutaneous Tissue Sub-Epidermal Moisture Using Electrical Biocapacitance Interstitial Fluid Volume Monitoring
+XXA	Assistance of the Physiological Systems
+XXA	Physiological Systems Assistance
+XXA536A	Assistance of the Circulatory System Blood Pathogens Filtration
+XXA536A	Circulatory System Blood Pathogens Filtration Assistance
+XXA539B	Assistance of the Circulatory System Ticagrelor Filtration
+XXA539B	Circulatory System Ticagrelor Filtration Assistance
+XXE	Measurement of the Physiological Systems
+XXE	Physiological Systems Measurement
+XXE0X07	Measurement of the Central Nervous System Computer-Aided Assessment Intracranial Vascular Activity
+XXE0X07	Central Nervous System Computer-Aided Assessment Intracranial Vascular Activity Measurement
+XXE0X1A	Measurement of the Central Nervous System Computer-Aided Assessment Output
+XXE0X1A	Central Nervous System Computer-Aided Assessment Output Measurement
+XXE0X48	Measurement of the Central Nervous System Positive Blood Culture Small Molecule Sensor Array Technology Infection
+XXE0X48	Central Nervous System Positive Blood Culture Small Molecule Sensor Array Technology Infection Measurement
+XXE2X19	Measurement of the Cardiac System Computer-Aided Assessment Output
+XXE2X19	Cardiac System Computer-Aided Assessment Output Measurement
+XXE3X27	Measurement of the Arterial System Phenotypic Fully Automated Rapid Susceptibility Technology With Controlled Inoculum Infection
+XXE3X27	Arterial System Phenotypic Fully Automated Rapid Susceptibility Technology With Controlled Inoculum Infection Measurement
+XXE3X58	Measurement of the Arterial System Whole Blood Cellular Assessment Via Microfluidic Deformability Immune Response
+XXE3X58	Arterial System Whole Blood Cellular Assessment Via Microfluidic Deformability Immune Response Measurement
+XXE3X68	Measurement of the Arterial System Computer-Aided Valve Modeling And Notification Coronary Artery Flow
+XXE3X68	Arterial System Computer-Aided Valve Modeling And Notification Coronary Artery Flow Measurement
+XXE5X2A	Measurement of the Circulatory System Phenotypic Fully Automated Rapid Susceptibility Technology With Controlled Inoculum Infection
+XXE5X2A	Circulatory System Phenotypic Fully Automated Rapid Susceptibility Technology With Controlled Inoculum Infection Measurement
+XXE5X38	Measurement of the Circulatory System Whole Blood Reverse Transcription And Quantitative Real-Time Polymerase Chain Reaction Infection
+XXE5X38	Circulatory System Whole Blood Reverse Transcription And Quantitative Real-Time Polymerase Chain Reaction Infection Measurement
+XXE5X4A	Measurement of the Circulatory System Positive Blood Culture Small Molecule Sensor Array Technology Infection
+XXE5X4A	Circulatory System Positive Blood Culture Small Molecule Sensor Array Technology Infection Measurement
+XXE5X5A	Measurement of the Circulatory System Whole Blood Cellular Assessment Via Microfluidic Deformability Immune Response
+XXE5X5A	Circulatory System Whole Blood Cellular Assessment Via Microfluidic Deformability Immune Response Measurement
+XXE5XBB	Measurement of the Circulatory System Gene Expression Testing System Infection And Immune Response
+XXE5XBB	Circulatory System Gene Expression Testing System Infection And Immune Response Measurement
+XXE5XR7	Measurement of the Circulatory System Mechanical Initial Specimen Diversion Technique Using Active Negative Pressure Infection
+XXE5XR7	Circulatory System Mechanical Initial Specimen Diversion Technique Using Active Negative Pressure Infection Measurement
+XXE5XT7	Measurement of the Circulatory System Whole Blood Mrna Intracranial Arterial Flow
+XXE5XT7	Circulatory System Whole Blood Mrna Intracranial Arterial Flow Measurement
+XXE5XV7	Measurement of the Circulatory System Serum/Plasma Nanoparticle Fluorescence Sars-Cov-2 Antibody Detection Infection
+XXE5XV7	Circulatory System Serum/Plasma Nanoparticle Fluorescence Sars-Cov-2 Antibody Detection Infection Measurement
+XXE5XY9	Measurement of the Circulatory System Other Positive Blood/Isolated Colonies Bimodal Phenotypic Susceptibility Technology Infection
+XXE5XY9	Circulatory System Other Positive Blood/Isolated Colonies Bimodal Phenotypic Susceptibility Technology Infection Measurement
+XXE97U7	Measurement of the Nose Nasopharyngeal Fluid Sars-Cov-2 Polymerase Chain Reaction Infection
+XXE97U7	Nose Nasopharyngeal Fluid Sars-Cov-2 Polymerase Chain Reaction Infection Measurement
+XY0	Introduction of the Extracorporeal Circuit
+XY0	Extracorporeal Circuit Introduction
+XY0VX83	Introduction of the Vein Graft Endothelial Damage Inhibitor
+XY0VX83	Vein Graft Endothelial Damage Inhibitor Introduction
+XY0YX28	Introduction of the Extracorporeal Circuit Taurolidine Anti-Infective And Heparin Anticoagulant
+XY0YX28	Extracorporeal Circuit Taurolidine Anti-Infective And Heparin Anticoagulant Introduction
+XY0YX37	Introduction of the Extracorporeal Circuit Nafamostat Anticoagulant
+XY0YX37	Extracorporeal Circuit Nafamostat Anticoagulant Introduction

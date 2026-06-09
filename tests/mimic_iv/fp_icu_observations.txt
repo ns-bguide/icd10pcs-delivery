@@ -1,0 +1,139 @@
+# ICU Observation/Monitoring Terms from MIMIC-IV d_items
+# These are measurements, assessments, and observations — NOT procedures
+# Grammar should NOT match these
+#
+Heart Rate
+Heart rate Alarm - High
+Heart Rate Alarm - Low
+Heart Rhythm
+Arterial Blood Pressure systolic
+Arterial Blood Pressure diastolic
+Arterial Blood Pressure mean
+Pulmonary Artery Pressure systolic
+Pulmonary Artery Pressure diastolic
+Pulmonary Artery Pressure mean
+Left Artrial Pressure
+Central Venous Pressure
+Cardiac Output (thermodilution)
+Left Ventricular Assit Device Flow
+Right Ventricular Assist Device Flow
+Non Invasive Blood Pressure systolic
+Non Invasive Blood Pressure diastolic
+Non Invasive Blood Pressure mean
+Respiratory Rate
+Vital Capacity
+Tidal Volume
+Peak Inspiratory Pressure
+Plateau Pressure
+PEEP set
+Mean Airway Pressure
+Minute Volume
+SpO2
+EtCO2
+Temperature
+Temperature Fahrenheit
+Skin Temperature
+Rectal Temperature
+Esophageal Temperature
+Bladder Temperature
+Intracranial Pressure
+Cerebral Perfusion Pressure
+Brain Temperature
+Central Line Days
+Ventilator Days
+Foley Days
+Urine Output
+Total Urine Output
+Stool Output
+Chest Tube Output
+Jackson Pratt Output
+Hemovac Output
+Wound Vac Output
+Gastric Residual Volume
+Daily Weight
+Height
+BMI
+Pain Score
+Sedation Scale
+GCS - Eye Opening
+GCS - Verbal Response
+GCS - Motor Response
+GCS Total
+Richmond Agitation Sedation Scale
+CAM-ICU Assessment
+Pupil Reaction Right
+Pupil Reaction Left
+Pupil Size Right
+Pupil Size Left
+Motor Assessment Right Upper Extremity
+Motor Assessment Left Upper Extremity
+Motor Assessment Right Lower Extremity
+Motor Assessment Left Lower Extremity
+Skin Color Assessment
+Skin Integrity Assessment
+Skin Turgor
+Wound Assessment
+Wound Drainage
+Pressure Ulcer Stage
+Capillary Refill
+Peripheral Pulses Assessment
+Pedal Pulse Right
+Pedal Pulse Left
+Radial Pulse Right
+Radial Pulse Left
+Bowel Sounds
+Abdomen Assessment
+Abdominal Girth
+Lung Sounds Right Upper
+Lung Sounds Right Lower
+Lung Sounds Left Upper
+Lung Sounds Left Lower
+Breath Sounds Bilateral
+Heart Sounds
+Edema Assessment
+Fluid Balance
+Intake Total
+Output Total
+Net Fluid Balance
+Blood Glucose
+Fingerstick Glucose
+Arterial pH
+Arterial pCO2
+Arterial pO2
+Venous pH
+Lactate
+Hemoglobin
+Hematocrit
+Platelet Count
+White Blood Cell Count
+INR
+PTT
+Fibrinogen
+D-Dimer
+BUN
+Creatinine
+Sodium
+Potassium
+Chloride
+Bicarbonate
+Calcium
+Magnesium
+Phosphorus
+Albumin
+Total Bilirubin
+Direct Bilirubin
+AST
+ALT
+Alkaline Phosphatase
+Troponin
+BNP
+Procalcitonin
+CRP
+Lactic Acid
+Mixed Venous O2 Saturation
+Cardiac Index
+Systemic Vascular Resistance
+Pulmonary Vascular Resistance
+Stroke Volume
+Stroke Volume Variation
+Pulse Pressure Variation

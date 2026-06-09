@@ -1,0 +1,57 @@
+102073Z	We changed the products of conception with a monitoring electrode.
+102073Z	We are changing the products of conception with a monitoring electrode.
+102073Z	We will change the products of conception with a monitoring electrode.
+10207YZ	We changed the products of conception with another device.
+10207YZ	We are changing the products of conception with another device.
+10207YZ	We will change the products of conception with another device.
+10900Z9	We drained the products of conception.
+10900Z9	We are draining the products of conception.
+10900Z9	We will drain the products of conception.
+10D00Z0	We extracted the products of conception.
+10D00Z0	We are extracting the products of conception.
+10D00Z0	We will extract the products of conception.
+10D10ZZ	We extracted the retained products of conception.
+10D10ZZ	We are extracting the retained products of conception.
+10D10ZZ	We will extract the retained products of conception.
+10D20ZZ	We extracted the ectopic products of conception.
+10D20ZZ	We are extracting the ectopic products of conception.
+10D20ZZ	We will extract the ectopic products of conception.
+10E0XZZ	We delivered the products of conception.
+10E0XZZ	We are delivering the products of conception.
+10E0XZZ	We will deliver the products of conception.
+10H003Z	We inserted the monitoring electrode into the products of conception.
+10H003Z	We are inserting the monitoring electrode into the products of conception.
+10H003Z	We will insert the monitoring electrode into the products of conception.
+10H00YZ	We inserted the other device into the products of conception.
+10H00YZ	We are inserting the other device into the products of conception.
+10H00YZ	We will insert the other device into the products of conception.
+10J00ZZ	We inspected the products of conception.
+10J00ZZ	We are inspecting the products of conception.
+10J00ZZ	We will inspect the products of conception.
+10J10ZZ	We inspected the retained products of conception.
+10J10ZZ	We are inspecting the retained products of conception.
+10J10ZZ	We will inspect the retained products of conception.
+10J20ZZ	We inspected the ectopic products of conception.
+10J20ZZ	We are inspecting the ectopic products of conception.
+10J20ZZ	We will inspect the ectopic products of conception.
+10P003Z	We removed the products of conception with a monitoring electrode.
+10P003Z	We are removing the products of conception with a monitoring electrode.
+10P003Z	We will remove the products of conception with a monitoring electrode.
+10P00YZ	We removed the products of conception with another device.
+10P00YZ	We are removing the products of conception with another device.
+10P00YZ	We will remove the products of conception with another device.
+10Q00YE	We repaired the products of conception with another device.
+10Q00YE	We are repairing the products of conception with another device.
+10Q00YE	We will repair the products of conception with another device.
+10Q00ZE	We repaired the products of conception.
+10Q00ZE	We are repairing the products of conception.
+10Q00ZE	We will repair the products of conception.
+10S07ZZ	We repositioned the products of conception.
+10S07ZZ	We are repositioning the products of conception.
+10S07ZZ	We will reposition the products of conception.
+10S20ZZ	We repositioned the ectopic products of conception.
+10S20ZZ	We are repositioning the ectopic products of conception.
+10S20ZZ	We will reposition the ectopic products of conception.
+10T20ZZ	We resected the ectopic products of conception.
+10T20ZZ	We are resecting the ectopic products of conception.
+10T20ZZ	We will resect the ectopic products of conception.

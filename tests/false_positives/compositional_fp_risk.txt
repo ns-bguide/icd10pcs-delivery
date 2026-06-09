@@ -1,0 +1,114 @@
+# Compositional False Positive Risk Test Set
+# These are sentences using anatomical/medical vocabulary in NON-medical contexts.
+# The grammar should NOT match these (or if it does, those are documented FP risks).
+#
+# Format: one test string per line
+# Lines starting with # are comments
+#
+# Category 1: Operation words in non-medical context (adjacent to body-part terms)
+the open reduction in workforce was announced today
+scheduled for release of the new product
+monitoring of the stock market trends
+bypass the normal approval channels
+division of labor in the factory
+creation of the new user account
+transfer of the bank funds between accounts
+insertion of the new clause into the contract
+removal of the old equipment from storage
+extraction of the key data points
+replacement of the broken window
+repair of the damaged fence
+inspection of the production line
+alteration of the building design
+the board approved the fusion of the two companies
+
+# Category 2: Anatomical terms in idioms and non-medical usage
+knee jerk reaction to the news
+shoulder the burden of responsibility
+arm of the law reached him
+finger pointing between departments
+eye of the storm passed over
+nose dive in stock prices
+lip service to the regulations
+tongue in cheek comment
+head of the department resigned
+neck of the woods where I grew up
+stomach for the fight
+foot of the mountain
+toe the line
+skin deep understanding
+bone dry after the drought
+hip flask hidden in his coat
+joint statement from both parties
+nerve agent detected
+muscle memory improved
+
+# Category 3: Medical anatomy adjectives in non-medical compound nouns
+cervical pillow for better sleep
+cardiac arrest of the suspect
+lumbar support cushion
+spinal column of the document
+thoracic duct tape
+femoral triangle offense strategy
+pelvic floor of the building
+cranial capacity of early humans
+orbital mechanics calculations
+nasal passage of air through the vent
+hepatic portal to another dimension
+celiac disease awareness month
+renal failure of the water treatment system
+pulmonary artery of commerce
+adrenal fatigue from overwork
+pineal gland conspiracy theories
+mesenteric root of the problem
+
+# Category 4: Operation verbs in non-medical sentences
+we need to excise the redundant paragraphs
+the team was fused together by the experience
+she bypassed the manager and went to the director
+the pipe was occluded by mineral buildup
+they released the prisoners at dawn
+the cells were dividing rapidly in the petri dish
+the surgeon resected the paragraph from the manuscript
+they drained the pool for winter
+he repaired the flat tire on the highway
+the company was restructured and divisions were created
+
+# Category 5: Ambiguous "procedure-like" phrases that are NOT procedures
+liver function test
+kidney function panel
+brain imaging study
+heart rate variability analysis
+lung function assessment
+thyroid stimulating hormone level
+bone density scan results
+nerve conduction study findings
+joint range of motion measurement
+blood pressure reading
+cardiac output measurement
+spinal cord injury assessment
+open fracture in the relationship
+open wound in the negotiations
+
+# Category 6: Device/instrument terms in non-medical context
+the stent was placed in the riverbank to prevent erosion
+catheter ray tube television
+the drain in the bathroom was blocked
+the graft from the old apple tree bore fruit
+the implant of the spy device was discovered
+the shunt in the electrical circuit failed
+the valve on the gas pipe was corroded
+the pump in the basement flooded
+the tube from the factory carried chemicals
+lead paint contamination in old buildings
+wire transfer completed successfully
+mesh network for wifi coverage
+plate tectonics caused the earthquake
+screw the lid on tightly
+rod of iron discipline
+cage match wrestling event
+spacer between the shelves
+plug the leak in the boat
+port wine stain on the tablecloth
+anchor point for the rope
+clip from the movie went viral

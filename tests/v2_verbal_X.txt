@@ -1,0 +1,1098 @@
+X05	We destroyed the nervous system.
+X05	We are destroying the nervous system.
+X05	We will destroy the nervous system.
+X051329	We destroyed the renal sympathetic nerve(s) with an ultrasound ablation.
+X051329	We are destroying the renal sympathetic nerve(s) with an ultrasound ablation.
+X051329	We will destroy the renal sympathetic nerve(s) with an ultrasound ablation.
+X05133A	We destroyed the renal sympathetic nerve(s) with a radiofrequency ablation.
+X05133A	We are destroying the renal sympathetic nerve(s) with a radiofrequency ablation.
+X05133A	We will destroy the renal sympathetic nerve(s) with a radiofrequency ablation.
+X05233B	We destroyed the cardiac system plexus thoracic region sympathetic nerve with a radiofrequency ablation.
+X05233B	We are destroying the cardiac system plexus thoracic region sympathetic nerve with a radiofrequency ablation.
+X05233B	We will destroy the cardiac system plexus thoracic region sympathetic nerve with a radiofrequency ablation.
+X053X4B	We destroyed the brain with focused ultrasound therapy.
+X053X4B	We are destroying the brain with focused ultrasound therapy.
+X053X4B	We will destroy the brain with focused ultrasound therapy.
+X0HK3Q8	We inserted the neurostimulator lead into the sphenopalatine ganglion.
+X0HK3Q8	We are inserting the neurostimulator lead into the sphenopalatine ganglion.
+X0HK3Q8	We will insert the neurostimulator lead into the sphenopalatine ganglion.
+X0HQ3R8	We inserted the neurostimulator lead with paired stimulation system into the vagus nerve.
+X0HQ3R8	We are inserting the neurostimulator lead with paired stimulation system into the vagus nerve.
+X0HQ3R8	We will insert the neurostimulator lead with paired stimulation system into the vagus nerve.
+X27	We dilated the cardiovascular system.
+X27	We are dilating the cardiovascular system.
+X27	We will dilate the cardiovascular system.
+X2723CB	We dilated the inferior vena cava and iliocaval confluence with an open-structure polymer lattice intraluminal device.
+X2723CB	We are dilating the inferior vena cava and iliocaval confluence with an open-structure polymer lattice intraluminal device.
+X2723CB	We will dilate the inferior vena cava and iliocaval confluence with an open-structure polymer lattice intraluminal device.
+X27339B	We dilated the right pulmonary artery with an expandable intraluminal device.
+X27339B	We are dilating the right pulmonary artery with an expandable intraluminal device.
+X27339B	We will dilate the right pulmonary artery with an expandable intraluminal device.
+X27439B	We dilated the left pulmonary artery with an expandable intraluminal device.
+X27439B	We are dilating the left pulmonary artery with an expandable intraluminal device.
+X27439B	We will dilate the left pulmonary artery with an expandable intraluminal device.
+X27535B	We dilated the right subclavian vein with a cell impermeable intraluminal device.
+X27535B	We are dilating the right subclavian vein with a cell impermeable intraluminal device.
+X27535B	We will dilate the right subclavian vein with a cell impermeable intraluminal device.
+X27635B	We dilated the left subclavian vein with a cell impermeable intraluminal device.
+X27635B	We are dilating the left subclavian vein with a cell impermeable intraluminal device.
+X27635B	We will dilate the left subclavian vein with a cell impermeable intraluminal device.
+X27735B	We dilated the right axillary vein with a cell impermeable intraluminal device.
+X27735B	We are dilating the right axillary vein with a cell impermeable intraluminal device.
+X27735B	We will dilate the right axillary vein with a cell impermeable intraluminal device.
+X27835B	We dilated the left axillary vein with a cell impermeable intraluminal device.
+X27835B	We are dilating the left axillary vein with a cell impermeable intraluminal device.
+X27835B	We will dilate the left axillary vein with a cell impermeable intraluminal device.
+X27935B	We dilated the right brachial vein with a cell impermeable intraluminal device.
+X27935B	We are dilating the right brachial vein with a cell impermeable intraluminal device.
+X27935B	We will dilate the right brachial vein with a cell impermeable intraluminal device.
+X27A35B	We dilated the left brachial vein with a cell impermeable intraluminal device.
+X27A35B	We are dilating the left brachial vein with a cell impermeable intraluminal device.
+X27A35B	We will dilate the left brachial vein with a cell impermeable intraluminal device.
+X27B35B	We dilated the right basilic vein with a cell impermeable intraluminal device.
+X27B35B	We are dilating the right basilic vein with a cell impermeable intraluminal device.
+X27B35B	We will dilate the right basilic vein with a cell impermeable intraluminal device.
+X27C35B	We dilated the left basilic vein with a cell impermeable intraluminal device.
+X27C35B	We are dilating the left basilic vein with a cell impermeable intraluminal device.
+X27C35B	We will dilate the left basilic vein with a cell impermeable intraluminal device.
+X27D35B	We dilated the right cephalic vein with a cell impermeable intraluminal device.
+X27D35B	We are dilating the right cephalic vein with a cell impermeable intraluminal device.
+X27D35B	We will dilate the right cephalic vein with a cell impermeable intraluminal device.
+X27E35B	We dilated the left cephalic vein with a cell impermeable intraluminal device.
+X27E35B	We are dilating the left cephalic vein with a cell impermeable intraluminal device.
+X27E35B	We will dilate the left cephalic vein with a cell impermeable intraluminal device.
+X27P3TA	We dilated the right anterior tibial artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27P3TA	We are dilating the right anterior tibial artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27P3TA	We will dilate the right anterior tibial artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27Q3TA	We dilated the left anterior tibial artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27Q3TA	We are dilating the left anterior tibial artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27Q3TA	We will dilate the left anterior tibial artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27R3TA	We dilated the right posterior tibial artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27R3TA	We are dilating the right posterior tibial artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27R3TA	We will dilate the right posterior tibial artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27S3TA	We dilated the left posterior tibial artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27S3TA	We are dilating the left posterior tibial artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27S3TA	We will dilate the left posterior tibial artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27T3TA	We dilated the right peroneal artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27T3TA	We are dilating the right peroneal artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27T3TA	We will dilate the right peroneal artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27U3TA	We dilated the left peroneal artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27U3TA	We are dilating the left peroneal artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27U3TA	We will dilate the left peroneal artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27W39B	We dilated the descending thoracic region aorta with an expandable intraluminal device.
+X27W39B	We are dilating the descending thoracic region aorta with an expandable intraluminal device.
+X27W39B	We will dilate the descending thoracic region aorta with an expandable intraluminal device.
+X27X39B	We dilated the ascending/arch thoracic region aorta with an expandable intraluminal device.
+X27X39B	We are dilating the ascending/arch thoracic region aorta with an expandable intraluminal device.
+X27X39B	We will dilate the ascending/arch thoracic region aorta with an expandable intraluminal device.
+X28	We divided the cardiovascular system.
+X28	We are dividing the cardiovascular system.
+X28	We will divide the cardiovascular system.
+X28F3VA	We divided the aortic valve with an intraluminal bioprosthetic valve leaflet splitting technology in existing valve.
+X28F3VA	We are dividing the aortic valve with an intraluminal bioprosthetic valve leaflet splitting technology in existing valve.
+X28F3VA	We will divide the aortic valve with an intraluminal bioprosthetic valve leaflet splitting technology in existing valve.
+X28F3WB	We divided the aortic valve with a radiofrequency energy leaflet laceration.
+X28F3WB	We are dividing the aortic valve with a radiofrequency energy leaflet laceration.
+X28F3WB	We will divide the aortic valve with a radiofrequency energy leaflet laceration.
+X2A	We assisted the cardiovascular system.
+X2A	We are assisting the cardiovascular system.
+X2A	We will assist the cardiovascular system.
+X2A7358	We assisted the coronary sinus with an intermittent coronary sinus occlusion.
+X2A7358	We are assisting the coronary sinus with an intermittent coronary sinus occlusion.
+X2A7358	We will assist the coronary sinus with an intermittent coronary sinus occlusion.
+X2AH34B	We assisted the right common carotid artery with single integrated distal filter cerebral embolic filtration.
+X2AH34B	We are assisting the right common carotid artery with single integrated distal filter cerebral embolic filtration.
+X2AH34B	We will assist the right common carotid artery with single integrated distal filter cerebral embolic filtration.
+X2AJ34B	We assisted the left common carotid artery with single integrated distal filter cerebral embolic filtration.
+X2AJ34B	We are assisting the left common carotid artery with single integrated distal filter cerebral embolic filtration.
+X2AJ34B	We will assist the left common carotid artery with single integrated distal filter cerebral embolic filtration.
+X2AK34B	We assisted the right internal carotid artery with single integrated distal filter cerebral embolic filtration.
+X2AK34B	We are assisting the right internal carotid artery with single integrated distal filter cerebral embolic filtration.
+X2AK34B	We will assist the right internal carotid artery with single integrated distal filter cerebral embolic filtration.
+X2C	We extirpated the cardiovascular system.
+X2C	We are extirpating the cardiovascular system.
+X2C	We will extirpate the cardiovascular system.
+X2CP3T7	We extirpated the abdominal aorta with a computer-aided mechanical aspiration.
+X2CP3T7	We are extirpating the abdominal aorta with a computer-aided mechanical aspiration.
+X2CP3T7	We will extirpate the abdominal aorta with a computer-aided mechanical aspiration.
+X2CQ3T7	We extirpated the right upper extremity vein with a computer-aided mechanical aspiration.
+X2CQ3T7	We are extirpating the right upper extremity vein with a computer-aided mechanical aspiration.
+X2CQ3T7	We will extirpate the right upper extremity vein with a computer-aided mechanical aspiration.
+X2CR3T7	We extirpated the left upper extremity vein with a computer-aided mechanical aspiration.
+X2CR3T7	We are extirpating the left upper extremity vein with a computer-aided mechanical aspiration.
+X2CR3T7	We will extirpate the left upper extremity vein with a computer-aided mechanical aspiration.
+X2CS3T7	We extirpated the right lower extremity artery with a computer-aided mechanical aspiration.
+X2CS3T7	We are extirpating the right lower extremity artery with a computer-aided mechanical aspiration.
+X2CS3T7	We will extirpate the right lower extremity artery with a computer-aided mechanical aspiration.
+X2CT3T7	We extirpated the left lower extremity artery with a computer-aided mechanical aspiration.
+X2CT3T7	We are extirpating the left lower extremity artery with a computer-aided mechanical aspiration.
+X2CT3T7	We will extirpate the left lower extremity artery with a computer-aided mechanical aspiration.
+X2CU3T7	We extirpated the right lower extremity vein with a computer-aided mechanical aspiration.
+X2CU3T7	We are extirpating the right lower extremity vein with a computer-aided mechanical aspiration.
+X2CU3T7	We will extirpate the right lower extremity vein with a computer-aided mechanical aspiration.
+X2CV3T7	We extirpated the left lower extremity vein with a computer-aided mechanical aspiration.
+X2CV3T7	We are extirpating the left lower extremity vein with a computer-aided mechanical aspiration.
+X2CV3T7	We will extirpate the left lower extremity vein with a computer-aided mechanical aspiration.
+X2CY3T7	We extirpated the great vessel with a computer-aided mechanical aspiration.
+X2CY3T7	We are extirpating the great vessel with a computer-aided mechanical aspiration.
+X2CY3T7	We will extirpate the great vessel with a computer-aided mechanical aspiration.
+X2H03BB	We inserted the volume sensor management device into the inferior vena cava.
+X2H03BB	We are inserting the volume sensor management device into the inferior vena cava.
+X2H03BB	We will insert the volume sensor management device into the inferior vena cava.
+X2H03R9	We inserted the bioprosthetic valve intraluminal device into the inferior vena cava.
+X2H03R9	We are inserting the bioprosthetic valve intraluminal device into the inferior vena cava.
+X2H03R9	We will insert the bioprosthetic valve intraluminal device into the inferior vena cava.
+X2H13R9	We inserted the bioprosthetic valve intraluminal device into the superior vena cava.
+X2H13R9	We are inserting the bioprosthetic valve intraluminal device into the superior vena cava.
+X2H13R9	We will insert the bioprosthetic valve intraluminal device into the superior vena cava.
+X2H13XB	We inserted the temporary phrenic nerve/diaphragm stimulation electrodes into the superior vena cava.
+X2H13XB	We are inserting the temporary phrenic nerve/diaphragm stimulation electrodes into the superior vena cava.
+X2H13XB	We will insert the temporary phrenic nerve/diaphragm stimulation electrodes into the superior vena cava.
+X2H20R9	We inserted the bioprosthetic valve intraluminal device into the right femoral vein.
+X2H20R9	We are inserting the bioprosthetic valve intraluminal device into the right femoral vein.
+X2H20R9	We will insert the bioprosthetic valve intraluminal device into the right femoral vein.
+X2H30R9	We inserted the bioprosthetic valve intraluminal device into the left femoral vein.
+X2H30R9	We are inserting the bioprosthetic valve intraluminal device into the left femoral vein.
+X2H30R9	We will insert the bioprosthetic valve intraluminal device into the left femoral vein.
+X2H63V9	We inserted the dual-chamber intracardiac pacemaker into the right atrium.
+X2H63V9	We are inserting the dual-chamber intracardiac pacemaker into the right atrium.
+X2H63V9	We will insert the dual-chamber intracardiac pacemaker into the right atrium.
+X2HK3V9	We inserted the dual-chamber intracardiac pacemaker into the right ventricle.
+X2HK3V9	We are inserting the dual-chamber intracardiac pacemaker into the right ventricle.
+X2HK3V9	We will insert the dual-chamber intracardiac pacemaker into the right ventricle.
+X2HM0F9	We inserted the conduit to short-term external heart assist system into the ventricular septum.
+X2HM0F9	We are inserting the conduit to short-term external heart assist system into the ventricular septum.
+X2HM0F9	We will insert the conduit to short-term external heart assist system into the ventricular septum.
+X2HM3GB	We inserted the lumenless small-diameter defibrillator lead into the ventricular septum.
+X2HM3GB	We are inserting the lumenless small-diameter defibrillator lead into the ventricular septum.
+X2HM3GB	We will insert the lumenless small-diameter defibrillator lead into the ventricular septum.
+X2HN37B	We inserted the endocardiac pacing electrode into the left ventricle.
+X2HN37B	We are inserting the endocardiac pacing electrode into the left ventricle.
+X2HN37B	We will insert the endocardiac pacing electrode into the left ventricle.
+X2HP38B	We inserted the temporary intraluminal device into the right anterior tibial artery.
+X2HP38B	We are inserting the temporary intraluminal device into the right anterior tibial artery.
+X2HP38B	We will insert the temporary intraluminal device into the right anterior tibial artery.
+X2HQ38B	We inserted the temporary intraluminal device into the left anterior tibial artery.
+X2HQ38B	We are inserting the temporary intraluminal device into the left anterior tibial artery.
+X2HQ38B	We will insert the temporary intraluminal device into the left anterior tibial artery.
+X2HR38B	We inserted the temporary intraluminal device into the right posterior tibial artery.
+X2HR38B	We are inserting the temporary intraluminal device into the right posterior tibial artery.
+X2HR38B	We will insert the temporary intraluminal device into the right posterior tibial artery.
+X2HS38B	We inserted the temporary intraluminal device into the left posterior tibial artery.
+X2HS38B	We are inserting the temporary intraluminal device into the left posterior tibial artery.
+X2HS38B	We will insert the temporary intraluminal device into the left posterior tibial artery.
+X2HT38B	We inserted the temporary intraluminal device into the right peroneal artery.
+X2HT38B	We are inserting the temporary intraluminal device into the right peroneal artery.
+X2HT38B	We will insert the temporary intraluminal device into the right peroneal artery.
+X2HU38B	We inserted the temporary intraluminal device into the left peroneal artery.
+X2HU38B	We are inserting the temporary intraluminal device into the left peroneal artery.
+X2HU38B	We will insert the temporary intraluminal device into the left peroneal artery.
+X2HV3GB	We inserted the lumenless small-diameter defibrillator lead into the right ventricle.
+X2HV3GB	We are inserting the lumenless small-diameter defibrillator lead into the right ventricle.
+X2HV3GB	We will insert the lumenless small-diameter defibrillator lead into the right ventricle.
+X2HX0F9	We inserted the conduit to short-term external heart assist system into the ascending thoracic region aorta.
+X2HX0F9	We are inserting the conduit to short-term external heart assist system into the ascending thoracic region aorta.
+X2HX0F9	We will insert the conduit to short-term external heart assist system into the ascending thoracic region aorta.
+X2J	We inspected the cardiovascular system.
+X2J	We are inspecting the cardiovascular system.
+X2J	We will inspect the cardiovascular system.
+X2JAX47	We inspected the heart with a computer-aided guidance transthoracic echocardiography.
+X2JAX47	We are inspecting the heart with a computer-aided guidance transthoracic echocardiography.
+X2JAX47	We will inspect the heart with a computer-aided guidance transthoracic echocardiography.
+X2K	We bypassed the cardiovascular system.
+X2K	We are bypassing the cardiovascular system.
+X2K	We will bypass the cardiovascular system.
+X2K00FB	We bypassed the inferior vena cava with an autologous cell seeded tissue engineered resorbable scaffold to pulmonary artery.
+X2K00FB	We are bypassing the inferior vena cava with an autologous cell seeded tissue engineered resorbable scaffold to pulmonary artery.
+X2K00FB	We will bypass the inferior vena cava with an autologous cell seeded tissue engineered resorbable scaffold to pulmonary artery.
+X2KA30A	We bypassed the left atrium with a conduit through coronary sinus to right atrium.
+X2KA30A	We are bypassing the left atrium with a conduit through coronary sinus to right atrium.
+X2KA30A	We will bypass the left atrium with a conduit through coronary sinus to right atrium.
+X2KB317	We bypassed the right radial artery with a thermal resistance energy.
+X2KB317	We are bypassing the right radial artery with a thermal resistance energy.
+X2KB317	We will bypass the right radial artery with a thermal resistance energy.
+X2KC317	We bypassed the left radial artery with a thermal resistance energy.
+X2KC317	We are bypassing the left radial artery with a thermal resistance energy.
+X2KC317	We will bypass the left radial artery with a thermal resistance energy.
+X2KG0FB	We bypassed the hepatic vein with an autologous cell seeded tissue engineered resorbable scaffold to pulmonary artery.
+X2KG0FB	We are bypassing the hepatic vein with an autologous cell seeded tissue engineered resorbable scaffold to pulmonary artery.
+X2KG0FB	We will bypass the hepatic vein with an autologous cell seeded tissue engineered resorbable scaffold to pulmonary artery.
+X2KH3D9	We bypassed the right femoral artery with a conduit through femoral vein to superficial femoral artery.
+X2KH3D9	We are bypassing the right femoral artery with a conduit through femoral vein to superficial femoral artery.
+X2KH3D9	We will bypass the right femoral artery with a conduit through femoral vein to superficial femoral artery.
+X2KH3E9	We bypassed the right femoral artery with a conduit through femoral vein to popliteal artery.
+X2KH3E9	We are bypassing the right femoral artery with a conduit through femoral vein to popliteal artery.
+X2KH3E9	We will bypass the right femoral artery with a conduit through femoral vein to popliteal artery.
+X2KJ3D9	We bypassed the left femoral artery with a conduit through femoral vein to superficial femoral artery.
+X2KJ3D9	We are bypassing the left femoral artery with a conduit through femoral vein to superficial femoral artery.
+X2KJ3D9	We will bypass the left femoral artery with a conduit through femoral vein to superficial femoral artery.
+X2KJ3E9	We bypassed the left femoral artery with a conduit through femoral vein to popliteal artery.
+X2KJ3E9	We are bypassing the left femoral artery with a conduit through femoral vein to popliteal artery.
+X2KJ3E9	We will bypass the left femoral artery with a conduit through femoral vein to popliteal artery.
+X2R	We replaced the cardiovascular system.
+X2R	We are replacing the cardiovascular system.
+X2R	We will replace the cardiovascular system.
+X2R50WA	We replaced the right upper extremity artery with a bioengineered human acellular vessel.
+X2R50WA	We are replacing the right upper extremity artery with a bioengineered human acellular vessel.
+X2R50WA	We will replace the right upper extremity artery with a bioengineered human acellular vessel.
+X2R60WA	We replaced the left upper extremity artery with a bioengineered human acellular vessel.
+X2R60WA	We are replacing the left upper extremity artery with a bioengineered human acellular vessel.
+X2R60WA	We will replace the left upper extremity artery with a bioengineered human acellular vessel.
+X2R70WA	We replaced the right lower extremity artery with a bioengineered human acellular vessel.
+X2R70WA	We are replacing the right lower extremity artery with a bioengineered human acellular vessel.
+X2R70WA	We will replace the right lower extremity artery with a bioengineered human acellular vessel.
+X2R80WA	We replaced the left lower extremity artery with a bioengineered human acellular vessel.
+X2R80WA	We are replacing the left lower extremity artery with a bioengineered human acellular vessel.
+X2R80WA	We will replace the left lower extremity artery with a bioengineered human acellular vessel.
+X2RJ3RA	We replaced the tricuspid valve with a multi-plane flex technology bioprosthetic valve.
+X2RJ3RA	We are replacing the tricuspid valve with a multi-plane flex technology bioprosthetic valve.
+X2RJ3RA	We will replace the tricuspid valve with a multi-plane flex technology bioprosthetic valve.
+X2RX0N7	We replaced the arch thoracic region aorta with a branched synthetic substitute with intraluminal device.
+X2RX0N7	We are replacing the arch thoracic region aorta with a branched synthetic substitute with intraluminal device.
+X2RX0N7	We will replace the arch thoracic region aorta with a branched synthetic substitute with intraluminal device.
+X2U	We supplemented the cardiovascular system.
+X2U	We are supplementing the cardiovascular system.
+X2U	We will supplement the cardiovascular system.
+X2U4079	We supplemented the coronary artery/arteries with a vein graft extraluminal support device(s).
+X2U4079	We are supplementing the coronary artery/arteries with a vein graft extraluminal support device(s).
+X2U4079	We will supplement the coronary artery/arteries with a vein graft extraluminal support device(s).
+X2U93YA	We supplemented the right atrium with a heterotopic bioprosthetic valve(s) intraluminal device.
+X2U93YA	We are supplementing the right atrium with a heterotopic bioprosthetic valve(s) intraluminal device.
+X2U93YA	We will supplement the right atrium with a heterotopic bioprosthetic valve(s) intraluminal device.
+X2UQ0P9	We supplemented the right upper extremity vein with an extraluminal support device synthetic substitute.
+X2UQ0P9	We are supplementing the right upper extremity vein with an extraluminal support device synthetic substitute.
+X2UQ0P9	We will supplement the right upper extremity vein with an extraluminal support device synthetic substitute.
+X2UR0P9	We supplemented the left upper extremity vein with an extraluminal support device synthetic substitute.
+X2UR0P9	We are supplementing the left upper extremity vein with an extraluminal support device synthetic substitute.
+X2UR0P9	We will supplement the left upper extremity vein with an extraluminal support device synthetic substitute.
+X2V	We restricted the cardiovascular system.
+X2V	We are restricting the cardiovascular system.
+X2V	We will restrict the cardiovascular system.
+X2V73Q7	We restricted the coronary sinus with a reduction device.
+X2V73Q7	We are restricting the coronary sinus with a reduction device.
+X2V73Q7	We will restrict the coronary sinus with a reduction device.
+X2VE3SA	We restricted the descending thoracic region aorta and abdominal aorta with a branched intraluminal device, manufactured integrated system, four or more arteries.
+X2VE3SA	We are restricting the descending thoracic region aorta and abdominal aorta with a branched intraluminal device, manufactured integrated system, four or more arteries.
+X2VE3SA	We will restrict the descending thoracic region aorta and abdominal aorta with a branched intraluminal device, manufactured integrated system, four or more arteries.
+X2VW0N7	We restricted the descending thoracic region aorta with a branched synthetic substitute with intraluminal device.
+X2VW0N7	We are restricting the descending thoracic region aorta with a branched synthetic substitute with intraluminal device.
+X2VW0N7	We will restrict the descending thoracic region aorta with a branched synthetic substitute with intraluminal device.
+X2VY06B	We restricted the thoracic region aortic arch and descending thoracic region aorta with an uncovered with support cuff intraluminal device.
+X2VY06B	We are restricting the thoracic region aortic arch and descending thoracic region aorta with an uncovered with support cuff intraluminal device.
+X2VY06B	We will restrict the thoracic region aortic arch and descending thoracic region aorta with an uncovered with support cuff intraluminal device.
+X9HD01B	We inserted the temporary infusion device into the right inner ear.
+X9HD01B	We are inserting the temporary infusion device into the right inner ear.
+X9HD01B	We will insert the temporary infusion device into the right inner ear.
+X9HE01B	We inserted the temporary infusion device into the left inner ear.
+X9HE01B	We are inserting the temporary infusion device into the left inner ear.
+X9HE01B	We will insert the temporary infusion device into the left inner ear.
+X9HF01B	We inserted the temporary infusion device into the bilateral inner ear.
+X9HF01B	We are inserting the temporary infusion device into the bilateral inner ear.
+X9HF01B	We will insert the temporary infusion device into the bilateral inner ear.
+XD2	We monitored the gastrointestinal system.
+XD2	We are monitoring the gastrointestinal system.
+XD2	We will monitor the gastrointestinal system.
+XD2G4V7	We monitored the upper gi with oxygen saturation.
+XD2G4V7	We are monitoring the upper gi with oxygen saturation.
+XD2G4V7	We will monitor the upper gi with oxygen saturation.
+XD2H4V7	We monitored the lower gi with oxygen saturation.
+XD2H4V7	We are monitoring the lower gi with oxygen saturation.
+XD2H4V7	We will monitor the lower gi with oxygen saturation.
+XDJ	We inspected the gastrointestinal system.
+XDJ	We are inspecting the gastrointestinal system.
+XDJ	We will inspect the gastrointestinal system.
+XDP	We irrigated the gastrointestinal system.
+XDP	We are irrigating the gastrointestinal system.
+XDP	We will irrigate the gastrointestinal system.
+XDPH8K7	We irrigated the lower gi with an intraoperative single-use oversleeve.
+XDPH8K7	We are irrigating the lower gi with an intraoperative single-use oversleeve.
+XDPH8K7	We will irrigate the lower gi with an intraoperative single-use oversleeve.
+XF5	We destroyed the hepatobiliary system and pancreas.
+XF5	We are destroying the hepatobiliary system and pancreas.
+XF5	We will destroy the hepatobiliary system and pancreas.
+XF50X08	We destroyed the liver with an ultrasound-guided cavitation.
+XF50X08	We are destroying the liver with an ultrasound-guided cavitation.
+XF50X08	We will destroy the liver with an ultrasound-guided cavitation.
+XF51X08	We destroyed the right lobe liver with an ultrasound-guided cavitation.
+XF51X08	We are destroying the right lobe liver with an ultrasound-guided cavitation.
+XF51X08	We will destroy the right lobe liver with an ultrasound-guided cavitation.
+XF52X08	We destroyed the left lobe liver with an ultrasound-guided cavitation.
+XF52X08	We are destroying the left lobe liver with an ultrasound-guided cavitation.
+XF52X08	We will destroy the left lobe liver with an ultrasound-guided cavitation.
+XFJ	We inspected the hepatobiliary system and pancreas.
+XFJ	We are inspecting the hepatobiliary system and pancreas.
+XFJ	We will inspect the hepatobiliary system and pancreas.
+XFJB8A7	We inspected the hepatobiliary system duct with a single-use duodenoscope.
+XFJB8A7	We are inspecting the hepatobiliary system duct with a single-use duodenoscope.
+XFJB8A7	We will inspect the hepatobiliary system duct with a single-use duodenoscope.
+XFJD8A7	We inspected the pancreatic duct with a single-use duodenoscope.
+XFJD8A7	We are inspecting the pancreatic duct with a single-use duodenoscope.
+XFJD8A7	We will inspect the pancreatic duct with a single-use duodenoscope.
+XHH80HB	We inserted the ultrasound transmitter and battery for endocardiac pacing electrode into the chest subcutaneous tissue and fascia.
+XHH80HB	We are inserting the ultrasound transmitter and battery for endocardiac pacing electrode into the chest subcutaneous tissue and fascia.
+XHH80HB	We will insert the ultrasound transmitter and battery for endocardiac pacing electrode into the chest subcutaneous tissue and fascia.
+XHR	We replaced the skin, subcutaneous tissue, and fascia and breast.
+XHR	We are replacing the skin, subcutaneous tissue, and fascia and breast.
+XHR	We will replace the skin, subcutaneous tissue, and fascia and breast.
+XHR0XGA	We replaced the head and neck skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR0XGA	We are replacing the head and neck skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR0XGA	We will replace the head and neck skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR1XGA	We replaced the chest skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR1XGA	We are replacing the chest skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR1XGA	We will replace the chest skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR2XGA	We replaced the abdomen skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR2XGA	We are replacing the abdomen skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR2XGA	We will replace the abdomen skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR3XGA	We replaced the back skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR3XGA	We are replacing the back skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR3XGA	We will replace the back skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR4XGA	We replaced the right upper extremity skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR4XGA	We are replacing the right upper extremity skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR4XGA	We will replace the right upper extremity skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR5XGA	We replaced the left upper extremity skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR5XGA	We are replacing the left upper extremity skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR5XGA	We will replace the left upper extremity skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR6XGA	We replaced the right lower extremity skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR6XGA	We are replacing the right lower extremity skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR6XGA	We will replace the right lower extremity skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR7XGA	We replaced the left lower extremity skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR7XGA	We are replacing the left lower extremity skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR7XGA	We will replace the left lower extremity skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHRPXF7	We replaced the skin with a bioengineered allogeneic construct.
+XHRPXF7	We are replacing the skin with a bioengineered allogeneic construct.
+XHRPXF7	We will replace the skin with a bioengineered allogeneic construct.
+XKU	We supplemented the muscles, tendons, and bursae and ligaments.
+XKU	We are supplementing the muscles, tendons, and bursae and ligaments.
+XKU	We will supplement the muscles, tendons, and bursae and ligaments.
+XKUC068	We supplemented the upper spine bursa and ligament with a posterior vertebral tether.
+XKUC068	We are supplementing the upper spine bursa and ligament with a posterior vertebral tether.
+XKUC068	We will supplement the upper spine bursa and ligament with a posterior vertebral tether.
+XKUD068	We supplemented the lower spine bursa and ligament with a posterior vertebral tether.
+XKUD068	We are supplementing the lower spine bursa and ligament with a posterior vertebral tether.
+XKUD068	We will supplement the lower spine bursa and ligament with a posterior vertebral tether.
+XNH6058	We inserted the internal fixation device with tulip connector into the right pelvic region bone.
+XNH6058	We are inserting the internal fixation device with tulip connector into the right pelvic region bone.
+XNH6058	We will insert the internal fixation device with tulip connector into the right pelvic region bone.
+XNH60HB	We inserted the bone-density-specific thread and porosity pattern internal fixation device into the right pelvic region bone.
+XNH60HB	We are inserting the bone-density-specific thread and porosity pattern internal fixation device into the right pelvic region bone.
+XNH60HB	We will insert the bone-density-specific thread and porosity pattern internal fixation device into the right pelvic region bone.
+XNH7058	We inserted the internal fixation device with tulip connector into the left pelvic region bone.
+XNH7058	We are inserting the internal fixation device with tulip connector into the left pelvic region bone.
+XNH7058	We will insert the internal fixation device with tulip connector into the left pelvic region bone.
+XNH70HB	We inserted the bone-density-specific thread and porosity pattern internal fixation device into the left pelvic region bone.
+XNH70HB	We are inserting the bone-density-specific thread and porosity pattern internal fixation device into the left pelvic region bone.
+XNH70HB	We will insert the bone-density-specific thread and porosity pattern internal fixation device into the left pelvic region bone.
+XNHG0F9	We inserted the tibial extension with motion sensors into the right tibia.
+XNHG0F9	We are inserting the tibial extension with motion sensors into the right tibia.
+XNHG0F9	We will insert the tibial extension with motion sensors into the right tibia.
+XNHH0F9	We inserted the tibial extension with motion sensors into the left tibia.
+XNHH0F9	We are inserting the tibial extension with motion sensors into the left tibia.
+XNHH0F9	We will insert the tibial extension with motion sensors into the left tibia.
+XNR	We replaced the bones.
+XNR	We are replacing the bones.
+XNR	We will replace the bones.
+XNR80D9	We replaced the skull with an ultrasound penetrable synthetic substitute.
+XNR80D9	We are replacing the skull with an ultrasound penetrable synthetic substitute.
+XNR80D9	We will replace the skull with an ultrasound penetrable synthetic substitute.
+XNRM099	We replaced the left tarsal with a talar prosthesis synthetic substitute.
+XNRM099	We are replacing the left tarsal with a talar prosthesis synthetic substitute.
+XNRM099	We will replace the left tarsal with a talar prosthesis synthetic substitute.
+XNS	We repositioned the bones.
+XNS	We are repositioning the bones.
+XNS	We will reposition the bones.
+XNS0032	We repositioned the lumbar region vertebra with a magnetically controlled growth rod(s).
+XNS0032	We are repositioning the lumbar region vertebra with a magnetically controlled growth rod(s).
+XNS0032	We will reposition the lumbar region vertebra with a magnetically controlled growth rod(s).
+XNS00C7	We repositioned the lumbar region vertebra with a posterior (dynamic) distraction device.
+XNS00C7	We are repositioning the lumbar region vertebra with a posterior (dynamic) distraction device.
+XNS00C7	We will reposition the lumbar region vertebra with a posterior (dynamic) distraction device.
+XNS3032	We repositioned the cervical region vertebra with a magnetically controlled growth rod(s).
+XNS3032	We are repositioning the cervical region vertebra with a magnetically controlled growth rod(s).
+XNS3032	We will reposition the cervical region vertebra with a magnetically controlled growth rod(s).
+XNS4032	We repositioned the right humeral shaft with a magnetically controlled growth rod(s).
+XNS4032	We are repositioning the right humeral shaft with a magnetically controlled growth rod(s).
+XNS4032	We will reposition the right humeral shaft with a magnetically controlled growth rod(s).
+XNS40C7	We repositioned the right humeral shaft with a posterior (dynamic) distraction device.
+XNS40C7	We are repositioning the right humeral shaft with a posterior (dynamic) distraction device.
+XNS40C7	We will reposition the right humeral shaft with a posterior (dynamic) distraction device.
+XNS40GA	We repositioned the right humeral shaft with a ring external fixation device with automated strut adjustment.
+XNS40GA	We are repositioning the right humeral shaft with a ring external fixation device with automated strut adjustment.
+XNS40GA	We will reposition the right humeral shaft with a ring external fixation device with automated strut adjustment.
+XNS50GA	We repositioned the left humeral shaft with a ring external fixation device with automated strut adjustment.
+XNS50GA	We are repositioning the left humeral shaft with a ring external fixation device with automated strut adjustment.
+XNS50GA	We will reposition the left humeral shaft with a ring external fixation device with automated strut adjustment.
+XNS60GA	We repositioned the right radius with a ring external fixation device with automated strut adjustment.
+XNS60GA	We are repositioning the right radius with a ring external fixation device with automated strut adjustment.
+XNS60GA	We will reposition the right radius with a ring external fixation device with automated strut adjustment.
+XNS70GA	We repositioned the left radius with a ring external fixation device with automated strut adjustment.
+XNS70GA	We are repositioning the left radius with a ring external fixation device with automated strut adjustment.
+XNS70GA	We will reposition the left radius with a ring external fixation device with automated strut adjustment.
+XNS80GA	We repositioned the right ulna with a ring external fixation device with automated strut adjustment.
+XNS80GA	We are repositioning the right ulna with a ring external fixation device with automated strut adjustment.
+XNS80GA	We will reposition the right ulna with a ring external fixation device with automated strut adjustment.
+XNS90GA	We repositioned the left ulna with a ring external fixation device with automated strut adjustment.
+XNS90GA	We are repositioning the left ulna with a ring external fixation device with automated strut adjustment.
+XNS90GA	We will reposition the left ulna with a ring external fixation device with automated strut adjustment.
+XNSA0GA	We repositioned the right upper femur with a ring external fixation device with automated strut adjustment.
+XNSA0GA	We are repositioning the right upper femur with a ring external fixation device with automated strut adjustment.
+XNSA0GA	We will reposition the right upper femur with a ring external fixation device with automated strut adjustment.
+XNSB0GA	We repositioned the left upper femur with a ring external fixation device with automated strut adjustment.
+XNSB0GA	We are repositioning the left upper femur with a ring external fixation device with automated strut adjustment.
+XNSB0GA	We will reposition the left upper femur with a ring external fixation device with automated strut adjustment.
+XNSC0GA	We repositioned the right lower femur with a ring external fixation device with automated strut adjustment.
+XNSC0GA	We are repositioning the right lower femur with a ring external fixation device with automated strut adjustment.
+XNSC0GA	We will reposition the right lower femur with a ring external fixation device with automated strut adjustment.
+XNSD0GA	We repositioned the left lower femur with a ring external fixation device with automated strut adjustment.
+XNSD0GA	We are repositioning the left lower femur with a ring external fixation device with automated strut adjustment.
+XNSD0GA	We will reposition the left lower femur with a ring external fixation device with automated strut adjustment.
+XNSE0GA	We repositioned the right femoral shaft with a ring external fixation device with automated strut adjustment.
+XNSE0GA	We are repositioning the right femoral shaft with a ring external fixation device with automated strut adjustment.
+XNSE0GA	We will reposition the right femoral shaft with a ring external fixation device with automated strut adjustment.
+XNSF0GA	We repositioned the left femoral shaft with a ring external fixation device with automated strut adjustment.
+XNSF0GA	We are repositioning the left femoral shaft with a ring external fixation device with automated strut adjustment.
+XNSF0GA	We will reposition the left femoral shaft with a ring external fixation device with automated strut adjustment.
+XNSG0GA	We repositioned the right tibia with a ring external fixation device with automated strut adjustment.
+XNSG0GA	We are repositioning the right tibia with a ring external fixation device with automated strut adjustment.
+XNSG0GA	We will reposition the right tibia with a ring external fixation device with automated strut adjustment.
+XNSH0GA	We repositioned the left tibia with a ring external fixation device with automated strut adjustment.
+XNSH0GA	We are repositioning the left tibia with a ring external fixation device with automated strut adjustment.
+XNSH0GA	We will reposition the left tibia with a ring external fixation device with automated strut adjustment.
+XNSN0HB	We repositioned the right pelvic region bone with a bone-density-specific thread and porosity pattern internal fixation device.
+XNSN0HB	We are repositioning the right pelvic region bone with a bone-density-specific thread and porosity pattern internal fixation device.
+XNSN0HB	We will reposition the right pelvic region bone with a bone-density-specific thread and porosity pattern internal fixation device.
+XNSP0HB	We repositioned the left pelvic region bone with a bone-density-specific thread and porosity pattern internal fixation device.
+XNSP0HB	We are repositioning the left pelvic region bone with a bone-density-specific thread and porosity pattern internal fixation device.
+XNSP0HB	We will reposition the left pelvic region bone with a bone-density-specific thread and porosity pattern internal fixation device.
+XNU	We supplemented the bones.
+XNU	We are supplementing the bones.
+XNU	We will supplement the bones.
+XNU0356	We supplemented the lumbar region vertebra with a mechanically expandable (paired) synthetic substitute.
+XNU0356	We are supplementing the lumbar region vertebra with a mechanically expandable (paired) synthetic substitute.
+XNU0356	We will supplement the lumbar region vertebra with a mechanically expandable (paired) synthetic substitute.
+XNU4356	We supplemented the thoracic region vertebra with a mechanically expandable (paired) synthetic substitute.
+XNU4356	We are supplementing the thoracic region vertebra with a mechanically expandable (paired) synthetic substitute.
+XNU4356	We will supplement the thoracic region vertebra with a mechanically expandable (paired) synthetic substitute.
+XRG	We fused the joints.
+XRG	We are fusing the joints.
+XRG	We will fuse the joints.
+XRG10RB	We fused the cervical region vertebral joint with a custom-made anatomically designed interbody fusion device.
+XRG10RB	We are fusing the cervical region vertebral joint with a custom-made anatomically designed interbody fusion device.
+XRG10RB	We will fuse the cervical region vertebral joint with a custom-made anatomically designed interbody fusion device.
+XRG20RB	We fused 2 or more cervical region vertebral joints with a custom-made anatomically designed interbody fusion device.
+XRG20RB	We are fusing 2 or more cervical region vertebral joints with a custom-made anatomically designed interbody fusion device.
+XRG20RB	We will fuse 2 or more cervical region vertebral joints with a custom-made anatomically designed interbody fusion device.
+XRG40RB	We fused the cervicothoracic region vertebral joint with a custom-made anatomically designed interbody fusion device.
+XRG40RB	We are fusing the cervicothoracic region vertebral joint with a custom-made anatomically designed interbody fusion device.
+XRG40RB	We will fuse the cervicothoracic region vertebral joint with a custom-made anatomically designed interbody fusion device.
+XRGA0EA	We fused the thoracolumbar region vertebral joint with a paired titanium cages facet joint fusion device.
+XRGA0EA	We are fusing the thoracolumbar region vertebral joint with a paired titanium cages facet joint fusion device.
+XRGA0EA	We will fuse the thoracolumbar region vertebral joint with a paired titanium cages facet joint fusion device.
+XRGA0R7	We fused the thoracolumbar region vertebral joint with a custom-made anatomically designed interbody fusion device.
+XRGA0R7	We are fusing the thoracolumbar region vertebral joint with a custom-made anatomically designed interbody fusion device.
+XRGA0R7	We will fuse the thoracolumbar region vertebral joint with a custom-made anatomically designed interbody fusion device.
+XRGB0EA	We fused the lumbar region vertebral joint with a paired titanium cages facet joint fusion device.
+XRGB0EA	We are fusing the lumbar region vertebral joint with a paired titanium cages facet joint fusion device.
+XRGB0EA	We will fuse the lumbar region vertebral joint with a paired titanium cages facet joint fusion device.
+XRGB0R7	We fused the lumbar region vertebral joint with a custom-made anatomically designed interbody fusion device.
+XRGB0R7	We are fusing the lumbar region vertebral joint with a custom-made anatomically designed interbody fusion device.
+XRGB0R7	We will fuse the lumbar region vertebral joint with a custom-made anatomically designed interbody fusion device.
+XRGC0EA	We fused 2 or more lumbar region vertebral joints with a paired titanium cages facet joint fusion device.
+XRGC0EA	We are fusing 2 or more lumbar region vertebral joints with a paired titanium cages facet joint fusion device.
+XRGC0EA	We will fuse 2 or more lumbar region vertebral joints with a paired titanium cages facet joint fusion device.
+XRGC0R7	We fused 2 or more lumbar region vertebral joints with a custom-made anatomically designed interbody fusion device.
+XRGC0R7	We are fusing 2 or more lumbar region vertebral joints with a custom-made anatomically designed interbody fusion device.
+XRGC0R7	We will fuse 2 or more lumbar region vertebral joints with a custom-made anatomically designed interbody fusion device.
+XRGD0EA	We fused the lumbosacral region joint with a paired titanium cages facet joint fusion device.
+XRGD0EA	We are fusing the lumbosacral region joint with a paired titanium cages facet joint fusion device.
+XRGD0EA	We will fuse the lumbosacral region joint with a paired titanium cages facet joint fusion device.
+XRGD0R7	We fused the lumbosacral region joint with a custom-made anatomically designed interbody fusion device.
+XRGD0R7	We are fusing the lumbosacral region joint with a custom-made anatomically designed interbody fusion device.
+XRGD0R7	We will fuse the lumbosacral region joint with a custom-made anatomically designed interbody fusion device.
+XRGE058	We fused the right sacroiliac joint with an internal fixation device with tulip connector.
+XRGE058	We are fusing the right sacroiliac joint with an internal fixation device with tulip connector.
+XRGE058	We will fuse the right sacroiliac joint with an internal fixation device with tulip connector.
+XRGE0HB	We fused the right sacroiliac joint with a bone-density-specific thread and porosity pattern internal fixation device.
+XRGE0HB	We are fusing the right sacroiliac joint with a bone-density-specific thread and porosity pattern internal fixation device.
+XRGE0HB	We will fuse the right sacroiliac joint with a bone-density-specific thread and porosity pattern internal fixation device.
+XRGF058	We fused the left sacroiliac joint with an internal fixation device with tulip connector.
+XRGF058	We are fusing the left sacroiliac joint with an internal fixation device with tulip connector.
+XRGF058	We will fuse the left sacroiliac joint with an internal fixation device with tulip connector.
+XRGF0HB	We fused the left sacroiliac joint with a bone-density-specific thread and porosity pattern internal fixation device.
+XRGF0HB	We are fusing the left sacroiliac joint with a bone-density-specific thread and porosity pattern internal fixation device.
+XRGF0HB	We will fuse the left sacroiliac joint with a bone-density-specific thread and porosity pattern internal fixation device.
+XRGJ0B9	We fused the right ankle joint with an open-truss design internal fixation device.
+XRGJ0B9	We are fusing the right ankle joint with an open-truss design internal fixation device.
+XRGJ0B9	We will fuse the right ankle joint with an open-truss design internal fixation device.
+XRGJ0CA	We fused the right ankle joint with a gyroid-sheet lattice design internal fixation device.
+XRGJ0CA	We are fusing the right ankle joint with a gyroid-sheet lattice design internal fixation device.
+XRGJ0CA	We will fuse the right ankle joint with a gyroid-sheet lattice design internal fixation device.
+XRGK0B9	We fused the left ankle joint with an open-truss design internal fixation device.
+XRGK0B9	We are fusing the left ankle joint with an open-truss design internal fixation device.
+XRGK0B9	We will fuse the left ankle joint with an open-truss design internal fixation device.
+XRGK0CA	We fused the left ankle joint with a gyroid-sheet lattice design internal fixation device.
+XRGK0CA	We are fusing the left ankle joint with a gyroid-sheet lattice design internal fixation device.
+XRGK0CA	We will fuse the left ankle joint with a gyroid-sheet lattice design internal fixation device.
+XRGM0B9	We fused the left tarsal joint with an open-truss design internal fixation device.
+XRGM0B9	We are fusing the left tarsal joint with an open-truss design internal fixation device.
+XRGM0B9	We will fuse the left tarsal joint with an open-truss design internal fixation device.
+XRGM0CA	We fused the left tarsal joint with a gyroid-sheet lattice design internal fixation device.
+XRGM0CA	We are fusing the left tarsal joint with a gyroid-sheet lattice design internal fixation device.
+XRGM0CA	We will fuse the left tarsal joint with a gyroid-sheet lattice design internal fixation device.
+XRH10GB	We inserted the molybdenum rhenium alloy spinal stabilization device into the cervical region vertebral joint.
+XRH10GB	We are inserting the molybdenum rhenium alloy spinal stabilization device into the cervical region vertebral joint.
+XRH10GB	We will insert the molybdenum rhenium alloy spinal stabilization device into the cervical region vertebral joint.
+XRH20GB	We inserted the molybdenum rhenium alloy spinal stabilization device into 2 or more cervical region vertebral joints.
+XRH20GB	We are inserting the molybdenum rhenium alloy spinal stabilization device into 2 or more cervical region vertebral joints.
+XRH20GB	We will insert the molybdenum rhenium alloy spinal stabilization device into 2 or more cervical region vertebral joints.
+XRH40GB	We inserted the molybdenum rhenium alloy spinal stabilization device into the cervicothoracic region vertebral joint.
+XRH40GB	We are inserting the molybdenum rhenium alloy spinal stabilization device into the cervicothoracic region vertebral joint.
+XRH40GB	We will insert the molybdenum rhenium alloy spinal stabilization device into the cervicothoracic region vertebral joint.
+XRH60FA	We inserted the pedicle based carbon/peek spinal stabilization device into the thoracic region vertebral joint.
+XRH60FA	We are inserting the pedicle based carbon/peek spinal stabilization device into the thoracic region vertebral joint.
+XRH60FA	We will insert the pedicle based carbon/peek spinal stabilization device into the thoracic region vertebral joint.
+XRH60GB	We inserted the molybdenum rhenium alloy spinal stabilization device into the thoracic region vertebral joint.
+XRH60GB	We are inserting the molybdenum rhenium alloy spinal stabilization device into the thoracic region vertebral joint.
+XRH60GB	We will insert the molybdenum rhenium alloy spinal stabilization device into the thoracic region vertebral joint.
+XRH70FA	We inserted the pedicle based carbon/peek spinal stabilization device into 2 to 7 thoracic region vertebral joints.
+XRH70FA	We are inserting the pedicle based carbon/peek spinal stabilization device into 2 to 7 thoracic region vertebral joints.
+XRH70FA	We will insert the pedicle based carbon/peek spinal stabilization device into 2 to 7 thoracic region vertebral joints.
+XRH80FA	We inserted the pedicle based carbon/peek spinal stabilization device into the 8 or more thoracic region vertebral joints.
+XRH80FA	We are inserting the pedicle based carbon/peek spinal stabilization device into the 8 or more thoracic region vertebral joints.
+XRH80FA	We will insert the pedicle based carbon/peek spinal stabilization device into the 8 or more thoracic region vertebral joints.
+XRHA0FA	We inserted the pedicle based carbon/peek spinal stabilization device into the thoracolumbar region vertebral joint.
+XRHA0FA	We are inserting the pedicle based carbon/peek spinal stabilization device into the thoracolumbar region vertebral joint.
+XRHA0FA	We will insert the pedicle based carbon/peek spinal stabilization device into the thoracolumbar region vertebral joint.
+XRHB018	We inserted the posterior spinal motion preservation device into the lumbar region vertebral joint.
+XRHB018	We are inserting the posterior spinal motion preservation device into the lumbar region vertebral joint.
+XRHB018	We will insert the posterior spinal motion preservation device into the lumbar region vertebral joint.
+XRHB0FA	We inserted the pedicle based carbon/peek spinal stabilization device into the lumbar region vertebral joint.
+XRHB0FA	We are inserting the pedicle based carbon/peek spinal stabilization device into the lumbar region vertebral joint.
+XRHB0FA	We will insert the pedicle based carbon/peek spinal stabilization device into the lumbar region vertebral joint.
+XRHC0FA	We inserted the pedicle based carbon/peek spinal stabilization device into 2 or more lumbar region vertebral joints.
+XRHC0FA	We are inserting the pedicle based carbon/peek spinal stabilization device into 2 or more lumbar region vertebral joints.
+XRHC0FA	We will insert the pedicle based carbon/peek spinal stabilization device into 2 or more lumbar region vertebral joints.
+XRHD018	We inserted the posterior spinal motion preservation device into the lumbosacral region joint.
+XRHD018	We are inserting the posterior spinal motion preservation device into the lumbosacral region joint.
+XRHD018	We will insert the posterior spinal motion preservation device into the lumbosacral region joint.
+XRHD0FA	We inserted the pedicle based carbon/peek spinal stabilization device into the lumbosacral region joint.
+XRHD0FA	We are inserting the pedicle based carbon/peek spinal stabilization device into the lumbosacral region joint.
+XRHD0FA	We will insert the pedicle based carbon/peek spinal stabilization device into the lumbosacral region joint.
+XRR	We replaced the joints.
+XRR	We are replacing the joints.
+XRR	We will replace the joints.
+XRRG0M8	We replaced the right knee joint with a medial meniscus synthetic substitute.
+XRRG0M8	We are replacing the right knee joint with a medial meniscus synthetic substitute.
+XRRG0M8	We will replace the right knee joint with a medial meniscus synthetic substitute.
+XRRH0M8	We replaced the left knee joint with a medial meniscus synthetic substitute.
+XRRH0M8	We are replacing the left knee joint with a medial meniscus synthetic substitute.
+XRRH0M8	We will replace the left knee joint with a medial meniscus synthetic substitute.
+XT2	We monitored the urinary system.
+XT2	We are monitoring the urinary system.
+XT2	We will monitor the urinary system.
+XT25XE5	We monitored the kidney with a fluorescent pyrazine.
+XT25XE5	We are monitoring the kidney with a fluorescent pyrazine.
+XT25XE5	We will monitor the kidney with a fluorescent pyrazine.
+XU7	We dilated the female reproductive system.
+XU7	We are dilating the female reproductive system.
+XU7	We will dilate the female reproductive system.
+XU7G71B	We dilated the vagina with a temporary electromechanical intraluminal device.
+XU7G71B	We are dilating the vagina with a temporary electromechanical intraluminal device.
+XU7G71B	We will dilate the vagina with a temporary electromechanical intraluminal device.
+XW00X27	We introduced the cpi-601 enzyme replacement therapy into the skin.
+XW00X27	We are introducing the cpi-601 enzyme replacement therapy into the skin.
+XW00X27	We will introduce the cpi-601 enzyme replacement therapy into the skin.
+XW01318	We introduced the eladocagene exuparvovec into the subcutaneous tissue.
+XW01318	We are introducing the eladocagene exuparvovec into the subcutaneous tissue.
+XW01318	We will introduce the eladocagene exuparvovec into the subcutaneous tissue.
+XW01329	We introduced the cpi-601 enzyme replacement therapy into the subcutaneous tissue.
+XW01329	We are introducing the cpi-601 enzyme replacement therapy into the subcutaneous tissue.
+XW01329	We will introduce the cpi-601 enzyme replacement therapy into the subcutaneous tissue.
+XW01348	We introduced the somatic stem cells into the subcutaneous tissue.
+XW01348	We are introducing the somatic stem cells into the subcutaneous tissue.
+XW01348	We will introduce the somatic stem cells into the subcutaneous tissue.
+XW0136A	We introduced the afamitresgene autoleucel immunotherapy into the subcutaneous tissue.
+XW0136A	We are introducing the afamitresgene autoleucel immunotherapy into the subcutaneous tissue.
+XW0136A	We will introduce the afamitresgene autoleucel immunotherapy into the subcutaneous tissue.
+XW01397	We introduced the odronextamab antineoplastic into the subcutaneous tissue.
+XW01397	We are introducing the odronextamab antineoplastic into the subcutaneous tissue.
+XW01397	We will introduce the odronextamab antineoplastic into the subcutaneous tissue.
+XW013F5	We introduced the other new technology therapeutic substance into the subcutaneous tissue.
+XW013F5	We are introducing the other new technology therapeutic substance into the subcutaneous tissue.
+XW013F5	We will introduce the other new technology therapeutic substance into the subcutaneous tissue.
+XW013G6	We introduced the temporary irrigation spacer system vancomycin hydrochloride and tobramycin sulfate anti-infective into the subcutaneous tissue.
+XW013G6	We are introducing the temporary irrigation spacer system vancomycin hydrochloride and tobramycin sulfate anti-infective into the subcutaneous tissue.
+XW013G6	We will introduce the temporary irrigation spacer system vancomycin hydrochloride and tobramycin sulfate anti-infective into the subcutaneous tissue.
+XW013H6	We introduced the one balloon paclitaxel-coated balloon technology into the subcutaneous tissue.
+XW013H6	We are introducing the one balloon paclitaxel-coated balloon technology into the subcutaneous tissue.
+XW013H6	We will introduce the one balloon paclitaxel-coated balloon technology into the subcutaneous tissue.
+XW013K6	We introduced three balloons paclitaxel-coated balloon technology into the subcutaneous tissue.
+XW013K6	We are introducing three balloons paclitaxel-coated balloon technology into the subcutaneous tissue.
+XW013K6	We will introduce three balloons paclitaxel-coated balloon technology into the subcutaneous tissue.
+XW013S6	We introduced the iobenguane i-131 antineoplastic into the subcutaneous tissue.
+XW013S6	We are introducing the iobenguane i-131 antineoplastic into the subcutaneous tissue.
+XW013S6	We will introduce the iobenguane i-131 antineoplastic into the subcutaneous tissue.
+XW013T6	We introduced the melphalan hydrochloride antineoplastic into the subcutaneous tissue.
+XW013T6	We are introducing the melphalan hydrochloride antineoplastic into the subcutaneous tissue.
+XW013T6	We will introduce the melphalan hydrochloride antineoplastic into the subcutaneous tissue.
+XW013U6	We introduced the covid-19 vaccine into the subcutaneous tissue.
+XW013U6	We are introducing the covid-19 vaccine into the subcutaneous tissue.
+XW013U6	We will introduce the covid-19 vaccine into the subcutaneous tissue.
+XW013V7	We introduced the xanomeline and trospium chloride into the subcutaneous tissue.
+XW013V7	We are introducing the xanomeline and trospium chloride into the subcutaneous tissue.
+XW013V7	We will introduce the xanomeline and trospium chloride into the subcutaneous tissue.
+XW013W5	We introduced the agn1 bone void filler into the subcutaneous tissue.
+XW013W5	We are introducing the agn1 bone void filler into the subcutaneous tissue.
+XW013W5	We will introduce the agn1 bone void filler into the subcutaneous tissue.
+XW020D8	We introduced the donislecel-jujn allogeneic pancreatic islet cellular suspension into the muscle.
+XW020D8	We are introducing the donislecel-jujn allogeneic pancreatic islet cellular suspension into the muscle.
+XW020D8	We will introduce the donislecel-jujn allogeneic pancreatic islet cellular suspension into the muscle.
+XW023S6	We introduced the iobenguane i-131 antineoplastic into the muscle.
+XW023S6	We are introducing the iobenguane i-131 antineoplastic into the muscle.
+XW023S6	We will introduce the iobenguane i-131 antineoplastic into the muscle.
+XW023T6	We introduced the melphalan hydrochloride antineoplastic into the muscle.
+XW023T6	We are introducing the melphalan hydrochloride antineoplastic into the muscle.
+XW023T6	We will introduce the melphalan hydrochloride antineoplastic into the muscle.
+XW023U6	We introduced the covid-19 vaccine into the muscle.
+XW023U6	We are introducing the covid-19 vaccine into the muscle.
+XW023U6	We will introduce the covid-19 vaccine into the muscle.
+XW023V7	We introduced the xanomeline and trospium chloride into the muscle.
+XW023V7	We are introducing the xanomeline and trospium chloride into the muscle.
+XW023V7	We will introduce the xanomeline and trospium chloride into the muscle.
+XW023W7	We introduced the agn1 bone void filler into the muscle.
+XW023W7	We are introducing the agn1 bone void filler into the muscle.
+XW023W7	We will introduce the agn1 bone void filler into the muscle.
+XW023X7	We introduced the peptide enhanced bone void filler into the muscle.
+XW023X7	We are introducing the peptide enhanced bone void filler into the muscle.
+XW023X7	We will introduce the peptide enhanced bone void filler into the muscle.
+XW023Y7	We introduced the other new technology monoclonal antibody into the muscle.
+XW023Y7	We are introducing the other new technology monoclonal antibody into the muscle.
+XW023Y7	We will introduce the other new technology monoclonal antibody into the muscle.
+XW03308	We introduced the alpha1-proteinase inhibitor into the peripheral vein.
+XW03308	We are introducing the alpha1-proteinase inhibitor into the peripheral vein.
+XW03308	We will introduce the alpha1-proteinase inhibitor into the peripheral vein.
+XW0331B	We introduced the eladocagene exuparvovec into the peripheral vein.
+XW0331B	We are introducing the eladocagene exuparvovec into the peripheral vein.
+XW0331B	We will introduce the eladocagene exuparvovec into the peripheral vein.
+XW0333A	We introduced the maribavir anti-infective into the peripheral vein.
+XW0333A	We are introducing the maribavir anti-infective into the peripheral vein.
+XW0333A	We will introduce the maribavir anti-infective into the peripheral vein.
+XW0334A	We introduced the somatic stem cells into the peripheral vein.
+XW0334A	We are introducing the somatic stem cells into the peripheral vein.
+XW0334A	We will introduce the somatic stem cells into the peripheral vein.
+XW03357	We introduced the ceftobiprole medocaril anti-infective into the peripheral vein.
+XW03357	We are introducing the ceftobiprole medocaril anti-infective into the peripheral vein.
+XW03357	We will introduce the ceftobiprole medocaril anti-infective into the peripheral vein.
+XW03367	We introduced the afamitresgene autoleucel immunotherapy into the peripheral vein.
+XW03367	We are introducing the afamitresgene autoleucel immunotherapy into the peripheral vein.
+XW03367	We will introduce the afamitresgene autoleucel immunotherapy into the peripheral vein.
+XW03372	We introduced the tabelecleucel immunotherapy into the peripheral vein.
+XW03372	We are introducing the tabelecleucel immunotherapy into the peripheral vein.
+XW03372	We will introduce the tabelecleucel immunotherapy into the peripheral vein.
+XW03387	We introduced the mineral-based topical hemostatic agent into the peripheral vein.
+XW03387	We are introducing the mineral-based topical hemostatic agent into the peripheral vein.
+XW03387	We will introduce the mineral-based topical hemostatic agent into the peripheral vein.
+XW03396	We introduced the odronextamab antineoplastic into the peripheral vein.
+XW03396	We are introducing the odronextamab antineoplastic into the peripheral vein.
+XW03396	We will introduce the odronextamab antineoplastic into the peripheral vein.
+XW033A7	We introduced the ciltacabtagene autoleucel into the peripheral vein.
+XW033A7	We are introducing the ciltacabtagene autoleucel into the peripheral vein.
+XW033A7	We will introduce the ciltacabtagene autoleucel into the peripheral vein.
+XW033B3	We introduced the orca-t allogeneic t-cell immunotherapy into the peripheral vein.
+XW033B3	We are introducing the orca-t allogeneic t-cell immunotherapy into the peripheral vein.
+XW033B3	We will introduce the orca-t allogeneic t-cell immunotherapy into the peripheral vein.
+XW033C7	We introduced the zanidatamab antineoplastic into the peripheral vein.
+XW033C7	We are introducing the zanidatamab antineoplastic into the peripheral vein.
+XW033C7	We will introduce the zanidatamab antineoplastic into the peripheral vein.
+XW033DA	We introduced the donislecel-jujn allogeneic pancreatic islet cellular suspension into the peripheral vein.
+XW033DA	We are introducing the donislecel-jujn allogeneic pancreatic islet cellular suspension into the peripheral vein.
+XW033DA	We will introduce the donislecel-jujn allogeneic pancreatic islet cellular suspension into the peripheral vein.
+XW033E5	We introduced the remdesivir anti-infective into the peripheral vein.
+XW033E5	We are introducing the remdesivir anti-infective into the peripheral vein.
+XW033E5	We will introduce the remdesivir anti-infective into the peripheral vein.
+XW033F3	We introduced the other new technology therapeutic substance into the peripheral vein.
+XW033F3	We are introducing the other new technology therapeutic substance into the peripheral vein.
+XW033F3	We will introduce the other new technology therapeutic substance into the peripheral vein.
+XW033G5	We introduced the temporary irrigation spacer system vancomycin hydrochloride and tobramycin sulfate anti-infective into the peripheral vein.
+XW033G5	We are introducing the temporary irrigation spacer system vancomycin hydrochloride and tobramycin sulfate anti-infective into the peripheral vein.
+XW033G5	We will introduce the temporary irrigation spacer system vancomycin hydrochloride and tobramycin sulfate anti-infective into the peripheral vein.
+XW033H5	We introduced the one balloon paclitaxel-coated balloon technology into the peripheral vein.
+XW033H5	We are introducing the one balloon paclitaxel-coated balloon technology into the peripheral vein.
+XW033H5	We will introduce the one balloon paclitaxel-coated balloon technology into the peripheral vein.
+XW033J7	We introduced two balloons paclitaxel-coated balloon technology into the peripheral vein.
+XW033J7	We are introducing two balloons paclitaxel-coated balloon technology into the peripheral vein.
+XW033J7	We will introduce two balloons paclitaxel-coated balloon technology into the peripheral vein.
+XW033K7	We introduced three balloons paclitaxel-coated balloon technology into the peripheral vein.
+XW033K7	We are introducing three balloons paclitaxel-coated balloon technology into the peripheral vein.
+XW033K7	We will introduce three balloons paclitaxel-coated balloon technology into the peripheral vein.
+XW033M7	We introduced the baricitinib into the peripheral vein.
+XW033M7	We are introducing the baricitinib into the peripheral vein.
+XW033M7	We will introduce the baricitinib into the peripheral vein.
+XW033N7	We introduced the ser-109 into the peripheral vein.
+XW033N7	We are introducing the ser-109 into the peripheral vein.
+XW033N7	We will introduce the ser-109 into the peripheral vein.
+XW033P9	We introduced the antibiotic-eluting bone void filler into the peripheral vein.
+XW033P9	We are introducing the antibiotic-eluting bone void filler into the peripheral vein.
+XW033P9	We will introduce the antibiotic-eluting bone void filler into the peripheral vein.
+XW033Q5	We introduced the iloprost into the peripheral vein.
+XW033Q5	We are introducing the iloprost into the peripheral vein.
+XW033Q5	We will introduce the iloprost into the peripheral vein.
+XW033R9	We introduced the fostamatinib into the peripheral vein.
+XW033R9	We are introducing the fostamatinib into the peripheral vein.
+XW033R9	We will introduce the fostamatinib into the peripheral vein.
+XW033S5	We introduced the iobenguane i-131 antineoplastic into the peripheral vein.
+XW033S5	We are introducing the iobenguane i-131 antineoplastic into the peripheral vein.
+XW033S5	We will introduce the iobenguane i-131 antineoplastic into the peripheral vein.
+XW033W5	We introduced the agn1 bone void filler into the peripheral vein.
+XW033W5	We are introducing the agn1 bone void filler into the peripheral vein.
+XW033W5	We will introduce the agn1 bone void filler into the peripheral vein.
+XW04308	We introduced the alpha1-proteinase inhibitor into the central vein.
+XW04308	We are introducing the alpha1-proteinase inhibitor into the central vein.
+XW04308	We will introduce the alpha1-proteinase inhibitor into the central vein.
+XW0431B	We introduced the eladocagene exuparvovec into the central vein.
+XW0431B	We are introducing the eladocagene exuparvovec into the central vein.
+XW0431B	We will introduce the eladocagene exuparvovec into the central vein.
+XW0433A	We introduced the maribavir anti-infective into the central vein.
+XW0433A	We are introducing the maribavir anti-infective into the central vein.
+XW0433A	We will introduce the maribavir anti-infective into the central vein.
+XW0434A	We introduced the somatic stem cells into the central vein.
+XW0434A	We are introducing the somatic stem cells into the central vein.
+XW0434A	We will introduce the somatic stem cells into the central vein.
+XW04357	We introduced the ceftobiprole medocaril anti-infective into the central vein.
+XW04357	We are introducing the ceftobiprole medocaril anti-infective into the central vein.
+XW04357	We will introduce the ceftobiprole medocaril anti-infective into the central vein.
+XW04367	We introduced the afamitresgene autoleucel immunotherapy into the central vein.
+XW04367	We are introducing the afamitresgene autoleucel immunotherapy into the central vein.
+XW04367	We will introduce the afamitresgene autoleucel immunotherapy into the central vein.
+XW04372	We introduced the tabelecleucel immunotherapy into the central vein.
+XW04372	We are introducing the tabelecleucel immunotherapy into the central vein.
+XW04372	We will introduce the tabelecleucel immunotherapy into the central vein.
+XW04387	We introduced the mineral-based topical hemostatic agent into the central vein.
+XW04387	We are introducing the mineral-based topical hemostatic agent into the central vein.
+XW04387	We will introduce the mineral-based topical hemostatic agent into the central vein.
+XW04396	We introduced the odronextamab antineoplastic into the central vein.
+XW04396	We are introducing the odronextamab antineoplastic into the central vein.
+XW04396	We will introduce the odronextamab antineoplastic into the central vein.
+XW043A7	We introduced the ciltacabtagene autoleucel into the central vein.
+XW043A7	We are introducing the ciltacabtagene autoleucel into the central vein.
+XW043A7	We will introduce the ciltacabtagene autoleucel into the central vein.
+XW043B3	We introduced the orca-t allogeneic t-cell immunotherapy into the central vein.
+XW043B3	We are introducing the orca-t allogeneic t-cell immunotherapy into the central vein.
+XW043B3	We will introduce the orca-t allogeneic t-cell immunotherapy into the central vein.
+XW043C7	We introduced the zanidatamab antineoplastic into the central vein.
+XW043C7	We are introducing the zanidatamab antineoplastic into the central vein.
+XW043C7	We will introduce the zanidatamab antineoplastic into the central vein.
+XW043E5	We introduced the remdesivir anti-infective into the central vein.
+XW043E5	We are introducing the remdesivir anti-infective into the central vein.
+XW043E5	We will introduce the remdesivir anti-infective into the central vein.
+XW043F3	We introduced the other new technology therapeutic substance into the central vein.
+XW043F3	We are introducing the other new technology therapeutic substance into the central vein.
+XW043F3	We will introduce the other new technology therapeutic substance into the central vein.
+XW043G5	We introduced the temporary irrigation spacer system vancomycin hydrochloride and tobramycin sulfate anti-infective into the central vein.
+XW043G5	We are introducing the temporary irrigation spacer system vancomycin hydrochloride and tobramycin sulfate anti-infective into the central vein.
+XW043G5	We will introduce the temporary irrigation spacer system vancomycin hydrochloride and tobramycin sulfate anti-infective into the central vein.
+XW043H5	We introduced the one balloon paclitaxel-coated balloon technology into the central vein.
+XW043H5	We are introducing the one balloon paclitaxel-coated balloon technology into the central vein.
+XW043H5	We will introduce the one balloon paclitaxel-coated balloon technology into the central vein.
+XW043J7	We introduced two balloons paclitaxel-coated balloon technology into the central vein.
+XW043J7	We are introducing two balloons paclitaxel-coated balloon technology into the central vein.
+XW043J7	We will introduce two balloons paclitaxel-coated balloon technology into the central vein.
+XW043K7	We introduced three balloons paclitaxel-coated balloon technology into the central vein.
+XW043K7	We are introducing three balloons paclitaxel-coated balloon technology into the central vein.
+XW043K7	We will introduce three balloons paclitaxel-coated balloon technology into the central vein.
+XW043M7	We introduced the baricitinib into the central vein.
+XW043M7	We are introducing the baricitinib into the central vein.
+XW043M7	We will introduce the baricitinib into the central vein.
+XW043N7	We introduced the ser-109 into the central vein.
+XW043N7	We are introducing the ser-109 into the central vein.
+XW043N7	We will introduce the ser-109 into the central vein.
+XW043P9	We introduced the antibiotic-eluting bone void filler into the central vein.
+XW043P9	We are introducing the antibiotic-eluting bone void filler into the central vein.
+XW043P9	We will introduce the antibiotic-eluting bone void filler into the central vein.
+XW043Q5	We introduced the iloprost into the central vein.
+XW043Q5	We are introducing the iloprost into the central vein.
+XW043Q5	We will introduce the iloprost into the central vein.
+XW043R9	We introduced the fostamatinib into the central vein.
+XW043R9	We are introducing the fostamatinib into the central vein.
+XW043R9	We will introduce the fostamatinib into the central vein.
+XW043S5	We introduced the iobenguane i-131 antineoplastic into the central vein.
+XW043S5	We are introducing the iobenguane i-131 antineoplastic into the central vein.
+XW043S5	We will introduce the iobenguane i-131 antineoplastic into the central vein.
+XW043W5	We introduced the agn1 bone void filler into the central vein.
+XW043W5	We are introducing the agn1 bone void filler into the central vein.
+XW043W5	We will introduce the agn1 bone void filler into the central vein.
+XW0534B	We introduced the somatic stem cells into the peripheral artery.
+XW0534B	We are introducing the somatic stem cells into the peripheral artery.
+XW0534B	We will introduce the somatic stem cells into the peripheral artery.
+XW053T9	We introduced the melphalan hydrochloride antineoplastic into the peripheral artery.
+XW053T9	We are introducing the melphalan hydrochloride antineoplastic into the peripheral artery.
+XW053T9	We will introduce the melphalan hydrochloride antineoplastic into the peripheral artery.
+XW0632B	We introduced the cpi-601 enzyme replacement therapy into the cerebral ventricle.
+XW0632B	We are introducing the cpi-601 enzyme replacement therapy into the cerebral ventricle.
+XW0632B	We will introduce the cpi-601 enzyme replacement therapy into the cerebral ventricle.
+XW0DX38	We introduced the maribavir anti-infective into the mouth and pharynx.
+XW0DX38	We are introducing the maribavir anti-infective into the mouth and pharynx.
+XW0DX38	We will introduce the maribavir anti-infective into the mouth and pharynx.
+XW0DX82	We introduced the mineral-based topical hemostatic agent into the mouth and pharynx.
+XW0DX82	We are introducing the mineral-based topical hemostatic agent into the mouth and pharynx.
+XW0DX82	We will introduce the mineral-based topical hemostatic agent into the mouth and pharynx.
+XW0DXF5	We introduced the other new technology therapeutic substance into the mouth and pharynx.
+XW0DXF5	We are introducing the other new technology therapeutic substance into the mouth and pharynx.
+XW0DXF5	We will introduce the other new technology therapeutic substance into the mouth and pharynx.
+XW0DXJ9	We introduced two balloons paclitaxel-coated balloon technology into the mouth and pharynx.
+XW0DXJ9	We are introducing two balloons paclitaxel-coated balloon technology into the mouth and pharynx.
+XW0DXJ9	We will introduce two balloons paclitaxel-coated balloon technology into the mouth and pharynx.
+XW0DXK8	We introduced three balloons paclitaxel-coated balloon technology into the mouth and pharynx.
+XW0DXK8	We are introducing three balloons paclitaxel-coated balloon technology into the mouth and pharynx.
+XW0DXK8	We will introduce three balloons paclitaxel-coated balloon technology into the mouth and pharynx.
+XW0DXM6	We introduced the baricitinib into the mouth and pharynx.
+XW0DXM6	We are introducing the baricitinib into the mouth and pharynx.
+XW0DXM6	We will introduce the baricitinib into the mouth and pharynx.
+XW0DXN9	We introduced the ser-109 into the mouth and pharynx.
+XW0DXN9	We are introducing the ser-109 into the mouth and pharynx.
+XW0DXN9	We will introduce the ser-109 into the mouth and pharynx.
+XW0DXR7	We introduced the fostamatinib into the mouth and pharynx.
+XW0DXR7	We are introducing the fostamatinib into the mouth and pharynx.
+XW0DXR7	We will introduce the fostamatinib into the mouth and pharynx.
+XW0DXVB	We introduced the xanomeline and trospium chloride into the mouth and pharynx.
+XW0DXVB	We are introducing the xanomeline and trospium chloride into the mouth and pharynx.
+XW0DXVB	We will introduce the xanomeline and trospium chloride into the mouth and pharynx.
+XW0E33B	We introduced the maribavir anti-infective into the ear(s).
+XW0E33B	We are introducing the maribavir anti-infective into the ear(s).
+XW0E33B	We will introduce the maribavir anti-infective into the ear(s).
+XW0G738	We introduced the maribavir anti-infective into the upper gi.
+XW0G738	We are introducing the maribavir anti-infective into the upper gi.
+XW0G738	We will introduce the maribavir anti-infective into the upper gi.
+XW0G7K8	We introduced three balloons paclitaxel-coated balloon technology into the upper gi.
+XW0G7K8	We are introducing three balloons paclitaxel-coated balloon technology into the upper gi.
+XW0G7K8	We will introduce three balloons paclitaxel-coated balloon technology into the upper gi.
+XW0G7M6	We introduced the baricitinib into the upper gi.
+XW0G7M6	We are introducing the baricitinib into the upper gi.
+XW0G7M6	We will introduce the baricitinib into the upper gi.
+XW0G7R7	We introduced the fostamatinib into the upper gi.
+XW0G7R7	We are introducing the fostamatinib into the upper gi.
+XW0G7R7	We will introduce the fostamatinib into the upper gi.
+XW0G886	We introduced the mineral-based topical hemostatic agent into the upper gi.
+XW0G886	We are introducing the mineral-based topical hemostatic agent into the upper gi.
+XW0G886	We will introduce the mineral-based topical hemostatic agent into the upper gi.
+XW0H738	We introduced the maribavir anti-infective into the lower gi.
+XW0H738	We are introducing the maribavir anti-infective into the lower gi.
+XW0H738	We will introduce the maribavir anti-infective into the lower gi.
+XW0H7K8	We introduced three balloons paclitaxel-coated balloon technology into the lower gi.
+XW0H7K8	We are introducing three balloons paclitaxel-coated balloon technology into the lower gi.
+XW0H7K8	We will introduce three balloons paclitaxel-coated balloon technology into the lower gi.
+XW0H7M6	We introduced the baricitinib into the lower gi.
+XW0H7M6	We are introducing the baricitinib into the lower gi.
+XW0H7M6	We will introduce the baricitinib into the lower gi.
+XW0H7R7	We introduced the fostamatinib into the lower gi.
+XW0H7R7	We are introducing the fostamatinib into the lower gi.
+XW0H7R7	We will introduce the fostamatinib into the lower gi.
+XW0H7X8	We introduced the peptide enhanced bone void filler into the lower gi.
+XW0H7X8	We are introducing the peptide enhanced bone void filler into the lower gi.
+XW0H7X8	We will introduce the peptide enhanced bone void filler into the lower gi.
+XW0H886	We introduced the mineral-based topical hemostatic agent into the lower gi.
+XW0H886	We are introducing the mineral-based topical hemostatic agent into the lower gi.
+XW0H886	We will introduce the mineral-based topical hemostatic agent into the lower gi.
+XW0J3HA	We introduced the one balloon paclitaxel-coated balloon technology into the single coronary artery.
+XW0J3HA	We are introducing the one balloon paclitaxel-coated balloon technology into the single coronary artery.
+XW0J3HA	We will introduce the one balloon paclitaxel-coated balloon technology into the single coronary artery.
+XW0J3JA	We introduced two balloons paclitaxel-coated balloon technology into the single coronary artery.
+XW0J3JA	We are introducing two balloons paclitaxel-coated balloon technology into the single coronary artery.
+XW0J3JA	We will introduce two balloons paclitaxel-coated balloon technology into the single coronary artery.
+XW0J3KA	We introduced three balloons paclitaxel-coated balloon technology into the single coronary artery.
+XW0J3KA	We are introducing three balloons paclitaxel-coated balloon technology into the single coronary artery.
+XW0J3KA	We will introduce three balloons paclitaxel-coated balloon technology into the single coronary artery.
+XW0K3HA	We introduced the one balloon paclitaxel-coated balloon technology into two coronary arteries.
+XW0K3HA	We are introducing the one balloon paclitaxel-coated balloon technology into two coronary arteries.
+XW0K3HA	We will introduce the one balloon paclitaxel-coated balloon technology into two coronary arteries.
+XW0K3JA	We introduced two balloons paclitaxel-coated balloon technology into two coronary arteries.
+XW0K3JA	We are introducing two balloons paclitaxel-coated balloon technology into two coronary arteries.
+XW0K3JA	We will introduce two balloons paclitaxel-coated balloon technology into two coronary arteries.
+XW0K3KA	We introduced three balloons paclitaxel-coated balloon technology into two coronary arteries.
+XW0K3KA	We are introducing three balloons paclitaxel-coated balloon technology into two coronary arteries.
+XW0K3KA	We will introduce three balloons paclitaxel-coated balloon technology into two coronary arteries.
+XW0M3HA	We introduced the one balloon paclitaxel-coated balloon technology into four or more coronary arteries.
+XW0M3HA	We are introducing the one balloon paclitaxel-coated balloon technology into four or more coronary arteries.
+XW0M3HA	We will introduce the one balloon paclitaxel-coated balloon technology into four or more coronary arteries.
+XW0M3JA	We introduced two balloons paclitaxel-coated balloon technology into four or more coronary arteries.
+XW0M3JA	We are introducing two balloons paclitaxel-coated balloon technology into four or more coronary arteries.
+XW0M3JA	We will introduce two balloons paclitaxel-coated balloon technology into four or more coronary arteries.
+XW0M3KA	We introduced three balloons paclitaxel-coated balloon technology into four or more coronary arteries.
+XW0M3KA	We are introducing three balloons paclitaxel-coated balloon technology into four or more coronary arteries.
+XW0M3KA	We will introduce three balloons paclitaxel-coated balloon technology into four or more coronary arteries.
+XW0Q316	We introduced the eladocagene exuparvovec into the cranial cavity and brain.
+XW0Q316	We are introducing the eladocagene exuparvovec into the cranial cavity and brain.
+XW0Q316	We will introduce the eladocagene exuparvovec into the cranial cavity and brain.
+XW0U0GA	We introduced the temporary irrigation spacer system vancomycin hydrochloride and tobramycin sulfate anti-infective into the joints.
+XW0U0GA	We are introducing the temporary irrigation spacer system vancomycin hydrochloride and tobramycin sulfate anti-infective into the joints.
+XW0U0GA	We will introduce the temporary irrigation spacer system vancomycin hydrochloride and tobramycin sulfate anti-infective into the joints.
+XW0U0XB	We introduced the peptide enhanced bone void filler into the joints.
+XW0U0XB	We are introducing the peptide enhanced bone void filler into the joints.
+XW0U0XB	We will introduce the peptide enhanced bone void filler into the joints.
+XW0V0P7	We introduced the antibiotic-eluting bone void filler into the bones.
+XW0V0P7	We are introducing the antibiotic-eluting bone void filler into the bones.
+XW0V0P7	We will introduce the antibiotic-eluting bone void filler into the bones.
+XW0V3WA	We introduced the agn1 bone void filler into the bones.
+XW0V3WA	We are introducing the agn1 bone void filler into the bones.
+XW0V3WA	We will introduce the agn1 bone void filler into the bones.
+XW13325	We transfused the convalescent (nonautologous) plasma into the peripheral vein.
+XW13325	We are transfusing the convalescent (nonautologous) plasma into the peripheral vein.
+XW13325	We will transfuse the convalescent (nonautologous) plasma into the peripheral vein.
+XW1337A	We transfused the marnetegragene autotemcel into the peripheral vein.
+XW1337A	We are transfusing the marnetegragene autotemcel into the peripheral vein.
+XW1337A	We will transfuse the marnetegragene autotemcel into the peripheral vein.
+XW133B8	We transfused the betibeglogene autotemcel into the peripheral vein.
+XW133B8	We are transfusing the betibeglogene autotemcel into the peripheral vein.
+XW133B8	We will transfuse the betibeglogene autotemcel into the peripheral vein.
+XW133C8	We transfused the omidubicel into the peripheral vein.
+XW133C8	We are transfusing the omidubicel into the peripheral vein.
+XW133C8	We will transfuse the omidubicel into the peripheral vein.
+XW133D7	We transfused the high-dose intravenous immune globulin into the peripheral vein.
+XW133D7	We are transfusing the high-dose intravenous immune globulin into the peripheral vein.
+XW133D7	We will transfuse the high-dose intravenous immune globulin into the peripheral vein.
+XW133E7	We transfused the hyperimmune globulin into the peripheral vein.
+XW133E7	We are transfusing the hyperimmune globulin into the peripheral vein.
+XW133E7	We will transfuse the hyperimmune globulin into the peripheral vein.
+XW133F8	We transfused the otl-103 into the peripheral vein.
+XW133F8	We are transfusing the otl-103 into the peripheral vein.
+XW133F8	We will transfuse the otl-103 into the peripheral vein.
+XW133G8	We transfused the atidarsagene autotemcel into the peripheral vein.
+XW133G8	We are transfusing the atidarsagene autotemcel into the peripheral vein.
+XW133G8	We will transfuse the atidarsagene autotemcel into the peripheral vein.
+XW133H9	We transfused the lovotibeglogene autotemcel into the peripheral vein.
+XW133H9	We are transfusing the lovotibeglogene autotemcel into the peripheral vein.
+XW133H9	We will transfuse the lovotibeglogene autotemcel into the peripheral vein.
+XW133J8	We transfused the exagamglogene autotemcel into the peripheral vein.
+XW133J8	We are transfusing the exagamglogene autotemcel into the peripheral vein.
+XW133J8	We will transfuse the exagamglogene autotemcel into the peripheral vein.
+XW133SB	We transfused the mozafancogene autotemcel into the peripheral vein.
+XW133SB	We are transfusing the mozafancogene autotemcel into the peripheral vein.
+XW133SB	We will transfuse the mozafancogene autotemcel into the peripheral vein.
+XW133YB	We transfused the shelf-stable nonautologous (human) fibrinogen concentrate into the peripheral vein.
+XW133YB	We are transfusing the shelf-stable nonautologous (human) fibrinogen concentrate into the peripheral vein.
+XW133YB	We will transfuse the shelf-stable nonautologous (human) fibrinogen concentrate into the peripheral vein.
+XW14325	We transfused the convalescent (nonautologous) plasma into the central vein.
+XW14325	We are transfusing the convalescent (nonautologous) plasma into the central vein.
+XW14325	We will transfuse the convalescent (nonautologous) plasma into the central vein.
+XW1437A	We transfused the marnetegragene autotemcel into the central vein.
+XW1437A	We are transfusing the marnetegragene autotemcel into the central vein.
+XW1437A	We will transfuse the marnetegragene autotemcel into the central vein.
+XW143B8	We transfused the betibeglogene autotemcel into the central vein.
+XW143B8	We are transfusing the betibeglogene autotemcel into the central vein.
+XW143B8	We will transfuse the betibeglogene autotemcel into the central vein.
+XW143C8	We transfused the omidubicel into the central vein.
+XW143C8	We are transfusing the omidubicel into the central vein.
+XW143C8	We will transfuse the omidubicel into the central vein.
+XW143D7	We transfused the high-dose intravenous immune globulin into the central vein.
+XW143D7	We are transfusing the high-dose intravenous immune globulin into the central vein.
+XW143D7	We will transfuse the high-dose intravenous immune globulin into the central vein.
+XW143E7	We transfused the hyperimmune globulin into the central vein.
+XW143E7	We are transfusing the hyperimmune globulin into the central vein.
+XW143E7	We will transfuse the hyperimmune globulin into the central vein.
+XW143F8	We transfused the otl-103 into the central vein.
+XW143F8	We are transfusing the otl-103 into the central vein.
+XW143F8	We will transfuse the otl-103 into the central vein.
+XW143G8	We transfused the atidarsagene autotemcel into the central vein.
+XW143G8	We are transfusing the atidarsagene autotemcel into the central vein.
+XW143G8	We will transfuse the atidarsagene autotemcel into the central vein.
+XW143H9	We transfused the lovotibeglogene autotemcel into the central vein.
+XW143H9	We are transfusing the lovotibeglogene autotemcel into the central vein.
+XW143H9	We will transfuse the lovotibeglogene autotemcel into the central vein.
+XW143J8	We transfused the exagamglogene autotemcel into the central vein.
+XW143J8	We are transfusing the exagamglogene autotemcel into the central vein.
+XW143J8	We will transfuse the exagamglogene autotemcel into the central vein.
+XW143SB	We transfused the mozafancogene autotemcel into the central vein.
+XW143SB	We are transfusing the mozafancogene autotemcel into the central vein.
+XW143SB	We will transfuse the mozafancogene autotemcel into the central vein.
+XW143YB	We transfused the shelf-stable nonautologous (human) fibrinogen concentrate into the central vein.
+XW143YB	We are transfusing the shelf-stable nonautologous (human) fibrinogen concentrate into the central vein.
+XW143YB	We will transfuse the shelf-stable nonautologous (human) fibrinogen concentrate into the central vein.
+XWHD7Q7	We inserted the neurostimulator lead into the mouth and pharynx.
+XWHD7Q7	We are inserting the neurostimulator lead into the mouth and pharynx.
+XWHD7Q7	We will insert the neurostimulator lead into the mouth and pharynx.
+XX2	We monitored the physiological systems.
+XX2	We are monitoring the physiological systems.
+XX2	We will monitor the physiological systems.
+XX20X89	We monitored the central nervous system with computer-aided detection and notification brain electrical activity.
+XX20X89	We are monitoring the central nervous system with computer-aided detection and notification brain electrical activity.
+XX20X89	We will monitor the central nervous system with computer-aided detection and notification brain electrical activity.
+XX25X0A	We monitored the circulatory system with adhesive ultrasound patch technology blood flow.
+XX25X0A	We are monitoring the circulatory system with adhesive ultrasound patch technology blood flow.
+XX25X0A	We will monitor the circulatory system with adhesive ultrasound patch technology blood flow.
+XX2KXDB	We monitored the subcutaneous tissue with a wearable sensor interstitial glucose.
+XX2KXDB	We are monitoring the subcutaneous tissue with a wearable sensor interstitial glucose.
+XX2KXDB	We will monitor the subcutaneous tissue with a wearable sensor interstitial glucose.
+XX2KXP9	We monitored the subcutaneous tissue with sub-epidermal moisture using electrical biocapacitance interstitial fluid volume.
+XX2KXP9	We are monitoring the subcutaneous tissue with sub-epidermal moisture using electrical biocapacitance interstitial fluid volume.
+XX2KXP9	We will monitor the subcutaneous tissue with sub-epidermal moisture using electrical biocapacitance interstitial fluid volume.
+XXA	We assisted the physiological systems.
+XXA	We are assisting the physiological systems.
+XXA	We will assist the physiological systems.
+XXA536A	We assisted the circulatory system with blood pathogens filtration.
+XXA536A	We are assisting the circulatory system with blood pathogens filtration.
+XXA536A	We will assist the circulatory system with blood pathogens filtration.
+XXA539B	We assisted the circulatory system with ticagrelor filtration.
+XXA539B	We are assisting the circulatory system with ticagrelor filtration.
+XXA539B	We will assist the circulatory system with ticagrelor filtration.
+XXE	We measured the physiological systems.
+XXE	We are measuring the physiological systems.
+XXE	We will measure the physiological systems.
+XXE0X07	We measured the central nervous system with computer-aided assessment intracranial vascular activity.
+XXE0X07	We are measuring the central nervous system with computer-aided assessment intracranial vascular activity.
+XXE0X07	We will measure the central nervous system with computer-aided assessment intracranial vascular activity.
+XXE0X1A	We measured the central nervous system with computer-aided assessment output.
+XXE0X1A	We are measuring the central nervous system with computer-aided assessment output.
+XXE0X1A	We will measure the central nervous system with computer-aided assessment output.
+XXE0X48	We measured the central nervous system with a positive blood culture small molecule sensor array technology infection.
+XXE0X48	We are measuring the central nervous system with a positive blood culture small molecule sensor array technology infection.
+XXE0X48	We will measure the central nervous system with a positive blood culture small molecule sensor array technology infection.
+XXE2X19	We measured the cardiac system with computer-aided assessment output.
+XXE2X19	We are measuring the cardiac system with computer-aided assessment output.
+XXE2X19	We will measure the cardiac system with computer-aided assessment output.
+XXE3X27	We measured the arterial system with a phenotypic fully automated rapid susceptibility technology with controlled inoculum infection.
+XXE3X27	We are measuring the arterial system with a phenotypic fully automated rapid susceptibility technology with controlled inoculum infection.
+XXE3X27	We will measure the arterial system with a phenotypic fully automated rapid susceptibility technology with controlled inoculum infection.
+XXE3X58	We measured the arterial system with a whole blood cellular assessment via microfluidic deformability immune response.
+XXE3X58	We are measuring the arterial system with a whole blood cellular assessment via microfluidic deformability immune response.
+XXE3X58	We will measure the arterial system with a whole blood cellular assessment via microfluidic deformability immune response.
+XXE3X68	We measured the arterial system with computer-aided valve modeling and notification coronary artery flow.
+XXE3X68	We are measuring the arterial system with computer-aided valve modeling and notification coronary artery flow.
+XXE3X68	We will measure the arterial system with computer-aided valve modeling and notification coronary artery flow.
+XXE5X2A	We measured the circulatory system with a phenotypic fully automated rapid susceptibility technology with controlled inoculum infection.
+XXE5X2A	We are measuring the circulatory system with a phenotypic fully automated rapid susceptibility technology with controlled inoculum infection.
+XXE5X2A	We will measure the circulatory system with a phenotypic fully automated rapid susceptibility technology with controlled inoculum infection.
+XXE5X38	We measured the circulatory system with a whole blood reverse transcription and quantitative real-time polymerase chain reaction infection.
+XXE5X38	We are measuring the circulatory system with a whole blood reverse transcription and quantitative real-time polymerase chain reaction infection.
+XXE5X38	We will measure the circulatory system with a whole blood reverse transcription and quantitative real-time polymerase chain reaction infection.
+XXE5X4A	We measured the circulatory system with a positive blood culture small molecule sensor array technology infection.
+XXE5X4A	We are measuring the circulatory system with a positive blood culture small molecule sensor array technology infection.
+XXE5X4A	We will measure the circulatory system with a positive blood culture small molecule sensor array technology infection.
+XXE5X5A	We measured the circulatory system with a whole blood cellular assessment via microfluidic deformability immune response.
+XXE5X5A	We are measuring the circulatory system with a whole blood cellular assessment via microfluidic deformability immune response.
+XXE5X5A	We will measure the circulatory system with a whole blood cellular assessment via microfluidic deformability immune response.
+XXE5XBB	We measured the circulatory system with a gene expression testing system infection and immune response.
+XXE5XBB	We are measuring the circulatory system with a gene expression testing system infection and immune response.
+XXE5XBB	We will measure the circulatory system with a gene expression testing system infection and immune response.
+XXE5XR7	We measured the circulatory system with a mechanical initial specimen diversion technique using active negative pressure infection.
+XXE5XR7	We are measuring the circulatory system with a mechanical initial specimen diversion technique using active negative pressure infection.
+XXE5XR7	We will measure the circulatory system with a mechanical initial specimen diversion technique using active negative pressure infection.
+XXE5XT7	We measured the circulatory system with whole blood mrna intracranial arterial flow.
+XXE5XT7	We are measuring the circulatory system with whole blood mrna intracranial arterial flow.
+XXE5XT7	We will measure the circulatory system with whole blood mrna intracranial arterial flow.
+XXE5XV7	We measured the circulatory system with a serum/plasma nanoparticle fluorescence sars-cov-2 antibody detection infection.
+XXE5XV7	We are measuring the circulatory system with a serum/plasma nanoparticle fluorescence sars-cov-2 antibody detection infection.
+XXE5XV7	We will measure the circulatory system with a serum/plasma nanoparticle fluorescence sars-cov-2 antibody detection infection.
+XXE5XY9	We measured the circulatory system with another positive blood/isolated colonies bimodal phenotypic susceptibility technology infection.
+XXE5XY9	We are measuring the circulatory system with another positive blood/isolated colonies bimodal phenotypic susceptibility technology infection.
+XXE5XY9	We will measure the circulatory system with another positive blood/isolated colonies bimodal phenotypic susceptibility technology infection.
+XXE97U7	We measured the nose with a nasopharyngeal fluid sars-cov-2 polymerase chain reaction infection.
+XXE97U7	We are measuring the nose with a nasopharyngeal fluid sars-cov-2 polymerase chain reaction infection.
+XXE97U7	We will measure the nose with a nasopharyngeal fluid sars-cov-2 polymerase chain reaction infection.
+XY0VX83	We introduced the endothelial damage inhibitor into the vein graft.
+XY0VX83	We are introducing the endothelial damage inhibitor into the vein graft.
+XY0VX83	We will introduce the endothelial damage inhibitor into the vein graft.
+XY0YX28	We introduced the taurolidine anti-infective and heparin anticoagulant into the extracorporeal circuit.
+XY0YX28	We are introducing the taurolidine anti-infective and heparin anticoagulant into the extracorporeal circuit.
+XY0YX28	We will introduce the taurolidine anti-infective and heparin anticoagulant into the extracorporeal circuit.
+XY0YX37	We introduced the nafamostat anticoagulant into the extracorporeal circuit.
+XY0YX37	We are introducing the nafamostat anticoagulant into the extracorporeal circuit.
+XY0YX37	We will introduce the nafamostat anticoagulant into the extracorporeal circuit.

@@ -1,0 +1,183 @@
+00900ZX	We performed a diagnostic drainage.
+00900ZX	Diagnostic drainage was performed.
+00900ZX	Diagnostic drainage.
+00B	We performed an excision.
+00B	Excision was performed.
+00B	Excision.
+00B00ZX	We performed a diagnostic excision.
+00B00ZX	Diagnostic excision was performed.
+00B00ZX	Diagnostic excision.
+00C	We performed an extirpation.
+00C	Extirpation was performed.
+00C	Extirpation.
+00T	We performed a resection.
+00T	Resection was performed.
+00T	Resection.
+02Y	We performed a transplantation.
+02Y	Transplantation was performed.
+02Y	Transplantation.
+07D03ZX	We performed a diagnostic extraction.
+07D03ZX	Diagnostic extraction was performed.
+07D03ZX	Diagnostic extraction.
+10A00ZZ	We performed an abortion.
+10A00ZZ	Abortion was performed.
+10A00ZZ	Abortion.
+302	We performed a transfusion.
+302	Transfusion was performed.
+302	Transfusion.
+3E1038X	We performed a diagnostic irrigation.
+3E1038X	Diagnostic irrigation was performed.
+3E1038X	Diagnostic irrigation.
+6A2	We performed electromagnetic therapy.
+6A2	Electromagnetic therapy was performed.
+6A2	Electromagnetic therapy.
+6A5	We performed a pheresis.
+6A5	Pheresis was performed.
+6A5	Pheresis.
+6A6	We performed a phototherapy.
+6A6	Phototherapy was performed.
+6A6	Phototherapy.
+6A7	We performed ultrasound therapy.
+6A7	Ultrasound therapy was performed.
+6A7	Ultrasound therapy.
+6A8	We performed ultraviolet light therapy.
+6A8	Ultraviolet light therapy was performed.
+6A8	Ultraviolet light therapy.
+6A9	We performed shock wave therapy.
+6A9	Shock wave therapy was performed.
+6A9	Shock wave therapy.
+6AB	We performed a perfusion.
+6AB	Perfusion was performed.
+6AB	Perfusion.
+B00	We performed a plain radiography.
+B00	Plain radiography was performed.
+B00	Plain radiography.
+B01	We performed a fluoroscopy.
+B01	Fluoroscopy was performed.
+B01	Fluoroscopy.
+B02	We performed a computerized tomography (ct scan).
+B02	Computerized tomography (ct scan) was performed.
+B02	Computerized tomography (ct scan).
+B03	We performed a magnetic resonance imaging (mri).
+B03	Magnetic resonance imaging (mri) was performed.
+B03	Magnetic resonance imaging (mri).
+B04	We performed an ultrasonography.
+B04	Ultrasonography was performed.
+B04	Ultrasonography.
+C01	We performed a planar nuclear medicine imaging.
+C01	Planar nuclear medicine imaging was performed.
+C01	Planar nuclear medicine imaging.
+C02	We performed a tomographic (tomo) nuclear medicine imaging.
+C02	Tomographic (tomo) nuclear medicine imaging was performed.
+C02	Tomographic (tomo) nuclear medicine imaging.
+C03	We performed a positron emission tomographic (pet) imaging.
+C03	Positron emission tomographic (pet) imaging was performed.
+C03	Positron emission tomographic (pet) imaging.
+C05	We performed a nonimaging nuclear medicine probe.
+C05	Nonimaging nuclear medicine probe was performed.
+C05	Nonimaging nuclear medicine probe.
+C76	We performed a nonimaging nuclear medicine assay.
+C76	Nonimaging nuclear medicine assay was performed.
+C76	Nonimaging nuclear medicine assay.
+CG4	We performed a nonimaging nuclear medicine uptake.
+CG4	Nonimaging nuclear medicine uptake was performed.
+CG4	Nonimaging nuclear medicine uptake.
+CW7	We performed systemic nuclear medicine therapy.
+CW7	Systemic nuclear medicine therapy was performed.
+CW7	Systemic nuclear medicine therapy.
+D00	We performed beam radiation.
+D00	Beam radiation was performed.
+D00	Beam radiation.
+D01	We performed brachytherapy.
+D01	Brachytherapy was performed.
+D01	Brachytherapy.
+D02	We performed stereotactic radiosurgery.
+D02	Stereotactic radiosurgery was performed.
+D02	Stereotactic radiosurgery.
+F00	We performed a speech assessment.
+F00	Speech assessment was performed.
+F00	Speech assessment.
+F01	We performed a motor and/or nerve function assessment.
+F01	Motor and/or nerve function assessment was performed.
+F01	Motor and/or nerve function assessment.
+F02	We performed an activities of daily living assessment.
+F02	Activities of daily living assessment was performed.
+F02	Activities of daily living assessment.
+F02	Daily living assessment activities.
+F02	We performed a daily living assessment activities.
+F02	Daily living activities assessment.
+F02	We performed a daily living activities assessment.
+F02	Adl assessment.
+F02	We performed an ADL assessment.
+F06	We performed a speech treatment.
+F06	Speech treatment was performed.
+F06	Speech treatment.
+F07	We performed a motor treatment.
+F07	Motor treatment was performed.
+F07	Motor treatment.
+F08	We performed an activities of daily living treatment.
+F08	Activities of daily living treatment was performed.
+F08	Activities of daily living treatment.
+F08	Daily living treatment activities.
+F08	We performed a daily living treatment activities.
+F08	Daily living activities treatment.
+F08	We performed a daily living activities treatment.
+F08	Adl treatment.
+F08	We performed an ADL treatment.
+F09	We performed a hearing treatment.
+F09	Hearing treatment was performed.
+F09	Hearing treatment.
+F0B	We performed a cochlear implant treatment.
+F0B	Cochlear implant treatment was performed.
+F0B	Cochlear implant treatment.
+F0C	We performed a vestibular treatment.
+F0C	Vestibular treatment was performed.
+F0C	Vestibular treatment.
+F13	We performed a hearing assessment.
+F13	Hearing assessment was performed.
+F13	Hearing assessment.
+F14	We performed a hearing aid assessment.
+F14	Hearing aid assessment was performed.
+F14	Hearing aid assessment.
+F15	We performed a vestibular assessment.
+F15	Vestibular assessment was performed.
+F15	Vestibular assessment.
+GZ1	We performed a psychological tests.
+GZ1	Psychological tests was performed.
+GZ1	Psychological tests.
+GZ2	We performed a crisis intervention.
+GZ2	Crisis intervention was performed.
+GZ2	Crisis intervention.
+GZ3	We performed medication management.
+GZ3	Medication management was performed.
+GZ3	Medication management.
+GZ5	We performed an individual psychotherapy.
+GZ5	Individual psychotherapy was performed.
+GZ5	Individual psychotherapy.
+GZ7	We performed a family psychotherapy.
+GZ7	Family psychotherapy was performed.
+GZ7	Family psychotherapy.
+GZB	We performed electroconvulsive therapy.
+GZB	Electroconvulsive therapy was performed.
+GZB	Electroconvulsive therapy.
+GZC	We performed a biofeedback.
+GZC	Biofeedback was performed.
+GZC	Biofeedback.
+GZF	We performed a hypnosis.
+GZF	Hypnosis was performed.
+GZF	Hypnosis.
+GZG	We performed a narcosynthesis.
+GZG	Narcosynthesis was performed.
+GZG	Narcosynthesis.
+GZH	We performed a group psychotherapy.
+GZH	Group psychotherapy was performed.
+GZH	Group psychotherapy.
+GZJ	We performed light therapy.
+GZJ	Light therapy was performed.
+GZJ	Light therapy.
+HZ2	We performed a detoxification services.
+HZ2	Detoxification services was performed.
+HZ2	Detoxification services.
+HZ9	We performed a pharmacotherapy.
+HZ9	Pharmacotherapy was performed.
+HZ9	Pharmacotherapy.

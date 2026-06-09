@@ -1,0 +1,33 @@
+9WB	We manipulated the anatomical regions.
+9WB	We are manipulating the anatomical regions.
+9WB	We will manipulate the anatomical regions.
+9WB0XBZ	We manipulated the head.
+9WB0XBZ	We are manipulating the head.
+9WB0XBZ	We will manipulate the head.
+9WB1XBZ	We manipulated the cervical region.
+9WB1XBZ	We are manipulating the cervical region.
+9WB1XBZ	We will manipulate the cervical region.
+9WB2XBZ	We manipulated the thoracic region.
+9WB2XBZ	We are manipulating the thoracic region.
+9WB2XBZ	We will manipulate the thoracic region.
+9WB3XBZ	We manipulated the lumbar region.
+9WB3XBZ	We are manipulating the lumbar region.
+9WB3XBZ	We will manipulate the lumbar region.
+9WB4XBZ	We manipulated the sacrum.
+9WB4XBZ	We are manipulating the sacrum.
+9WB4XBZ	We will manipulate the sacrum.
+9WB5XBZ	We manipulated the pelvis.
+9WB5XBZ	We are manipulating the pelvis.
+9WB5XBZ	We will manipulate the pelvis.
+9WB6XBZ	We manipulated the lower extremities.
+9WB6XBZ	We are manipulating the lower extremities.
+9WB6XBZ	We will manipulate the lower extremities.
+9WB7XBZ	We manipulated the upper extremities.
+9WB7XBZ	We are manipulating the upper extremities.
+9WB7XBZ	We will manipulate the upper extremities.
+9WB8XBZ	We manipulated the rib cage.
+9WB8XBZ	We are manipulating the rib cage.
+9WB8XBZ	We will manipulate the rib cage.
+9WB9XBZ	We manipulated the abdomen.
+9WB9XBZ	We are manipulating the abdomen.
+9WB9XBZ	We will manipulate the abdomen.

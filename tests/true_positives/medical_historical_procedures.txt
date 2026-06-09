@@ -1,0 +1,109 @@
+# Historical / status-post procedure mentions — SHOULD match (policy: include-historical)
+#
+# Decision 2026-06-09 (working default, R&D confirmation pending): for DLP purposes the
+# medical-procedures entity reports historical procedures too — "history of appendectomy"
+# is still PHI. These were previously (mis)filed as false positives; under include-historical
+# they are CORRECT matches. Mirror of the FP-5 migration. See ROADMAP.md / BACKLOG FP-1.
+#
+# NOTE: negated forms ("no history of appendectomy", "denies …", "… not performed") are a
+# separate edge case — they currently match (the procedure noun fires regardless of negation).
+# Whether negation should suppress is a finer policy question; kept here as accepted-match for
+# now since the mention still surfaces medical content. Flagged for the R&D note.
+#
+# ── status post ──────────────────────────────────────────────────────────────
+status post coronary artery bypass grafting
+status post appendectomy
+status post cholecystectomy
+status post knee arthroplasty
+status post total knee replacement
+status post total hip arthroplasty
+status post nephrectomy
+status post hysterectomy
+status post mastectomy
+status post coronary artery bypass graft
+status post aortic valve replacement
+status post laminectomy
+status post lumbar laminectomy
+status post tonsillectomy
+status post whipple procedure
+status post liver transplant
+status post kidney transplant
+status post bilateral salpingo-oophorectomy
+status post cardiac stent placement
+status post colostomy reversal
+status post hernia repair
+status post pacemaker insertion
+# ── s/p · s.p. ───────────────────────────────────────────────────────────────
+s/p appendectomy
+s/p cholecystectomy
+s/p cabg
+s/p hip replacement
+s/p knee arthroplasty
+s/p hysterectomy
+s/p colectomy
+s/p gastric bypass
+s.p. cholecystectomy
+s.p. coronary artery bypass
+# ── history of · h/o ─────────────────────────────────────────────────────────
+history of appendectomy
+history of cholecystectomy
+history of hysterectomy
+history of coronary artery bypass
+history of hip replacement
+history of knee replacement
+history of mastectomy
+history of nephrectomy
+history of colectomy
+history of tonsillectomy
+history of laminectomy
+history of spinal fusion
+history of cesarean delivery
+history of craniotomy
+h/o appendectomy
+h/o cholecystectomy
+h/o cabg
+h/o hysterectomy
+h/o hip replacement
+past medical history of cholecystectomy
+past surgical history of appendectomy
+surgical history includes hysterectomy
+remote history of cholecystectomy
+remote history of mastectomy
+distant history of appendectomy
+# ── prior · previous · past · former ─────────────────────────────────────────
+prior cholecystectomy
+prior appendectomy
+prior hysterectomy
+prior coronary artery bypass
+prior knee replacement
+prior mastectomy
+prior carotid endarterectomy
+prior gastric bypass
+prior nephrectomy
+previous hip replacement
+previous appendectomy
+previous cholecystectomy
+previous hysterectomy
+previous coronary artery bypass graft
+previous hip arthroplasty
+past appendectomy
+past cholecystectomy
+former colostomy
+# ── post / post-op ───────────────────────────────────────────────────────────
+post thyroidectomy hypothyroidism
+post appendectomy
+post cholecystectomy
+post hysterectomy
+post-op cholecystectomy
+post-op coronary artery bypass
+postoperative appendectomy
+post-cabg
+post hip replacement
+# ── negated (edge case — flagged; currently match) ───────────────────────────
+no history of appendectomy
+no prior cholecystectomy
+denies previous hysterectomy
+declined hip replacement
+deferred cholecystectomy
+appendectomy not performed
+no surgical history of mastectomy

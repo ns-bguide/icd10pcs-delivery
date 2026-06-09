@@ -1,0 +1,1966 @@
+1 to 2 ribs
+12-step
+1st toe, left
+1st toe, right
+2 or more cervical region vertebral joints
+2 or more lumbar region vertebral joints
+2 to 7 thoracic region vertebral joints
+2nd toe, left
+2nd toe, right
+3 or more ribs
+3rd toe, left
+3rd toe, right
+4th toe, left
+4th toe, right
+5th toe, left
+5th toe, right
+8 or more thoracic region vertebral joints
+abdomen
+abdomen and pelvis
+abdomen and pelvis chest
+abdomen and pelvis subcutaneous tissue
+abdomen bursa and ligament, left
+abdomen bursa and ligament, right
+abdomen integumentary system
+abdomen lymphatic systems
+abdomen muscle, right
+abdomen musculoskeletal system
+abdomen skin
+abdomen subcutaneous tissue and fascia
+abdominal
+abdominal aorta
+abdominal sympathetic nerve
+abdominal wall
+abdominal/retroperitoneal lymphatic systems, bilateral
+abdominal/retroperitoneal lymphatic systems, unilateral
+accessory nerve
+accessory pancreatic duct
+accessory sinus
+acetabulum, left
+acetabulum, right
+acoustic nerve
+acoustic nerves
+acromioclavicular joint, left
+acromioclavicular joint, right
+acromioclavicular joints, bilateral
+adenoids
+adrenal gland
+adrenal gland, left
+adrenal gland, right
+adrenal glands
+adrenal glands, bilateral
+airways
+all hepatobiliary system
+all long bones
+all musculoskeletal system
+all teeth
+ampulla of vater
+anal sphincter
+anatomical regions
+and left heart, right
+ankle bursa and ligament, left
+ankle bursa and ligament, right
+ankle joint, left
+ankle joint, right
+ankle region, right
+ankle, left
+ankle, right
+anorectal
+antabuse
+anterior chamber, left
+anterior chamber, right
+anterior tibial artery, left
+anterior tibial artery, right
+anus
+aorta and bilateral lower extremity arteries
+aortic body
+aortic lymphatic system
+aortic valve
+appendix
+arch thoracic region aorta
+arm skin
+arterial system
+arteries
+ascending
+ascending colon
+ascending thoracic region aorta
+ascending/arch thoracic region aorta
+atrial septum
+atrium, left
+atrium, right
+auditory ossicle, left
+auditory ossicle, right
+axilla, left
+axilla, right
+axillary artery, left
+axillary artery, right
+axillary lymphatic system, left
+axillary lymphatic system, right
+axillary lymphatic systems
+axillary vein, left
+axillary vein, right
+azygos vein
+back
+back skin
+back subcutaneous tissue and fascia
+basal ganglia
+basilic vein, left
+basilic vein, right
+behavioral
+bilateral abdominal
+bilateral abdominal/retroperitoneal lymphatic systems
+bilateral acromioclavicular joints
+bilateral adrenal glands
+bilateral breast
+bilateral breasts
+bilateral carotid bodies
+bilateral common carotid arteries
+bilateral external carotid arteries
+bilateral external ear
+bilateral eyes
+bilateral fallopian tubes
+bilateral femoral region
+bilateral hands and wrists
+bilateral hindquarter
+bilateral hips
+bilateral inguinal region
+bilateral inner ear
+bilateral internal carotid arteries
+bilateral jugular veins
+bilateral kidneys
+bilateral knees
+bilateral lacrimal ducts
+bilateral lower extremities
+bilateral lower extremity arteries
+bilateral lower extremity lymphatic systems
+bilateral lower extremity veins
+bilateral lungs
+bilateral orbits
+bilateral ovaries
+bilateral parotid glands
+bilateral pelvic iliac veins
+bilateral pelvic region (iliac) veins
+bilateral pelvic region veins
+bilateral pulmonary veins
+bilateral renal arteries
+bilateral salivary glands
+bilateral seminal vesicles
+bilateral spermatic cords
+bilateral sternoclavicular joints
+bilateral submandibular glands
+bilateral temporomandibular joints
+bilateral testes
+bilateral testicles
+bilateral tracheobronchial trees
+bilateral upper extremities
+bilateral upper extremity arteries
+bilateral upper extremity lymphatic systems
+bilateral upper extremity veins
+bilateral ureters
+bilateral vas deferens
+bilateral vertebral arteries
+bilateral zygomatic arches
+bilateral-single seizure
+bile ducts
+bile ducts and pancreatic ducts gallbladder
+biliary system
+biliary system and pancreatic ducts
+biliary system and pancreatic tract
+bladder
+bladder and ureters
+bladder and urethra
+bladder neck
+blood
+bone marrow
+bones
+brachial artery, left
+brachial artery, right
+brachial plexus
+brachial vein, left
+brachial vein, right
+brachiocephalic-subclavian artery, right
+brain
+brain stem
+breast
+breast, bilateral
+breast, left
+breast, right
+breasts, bilateral
+bronchus
+buccal mucosa
+bupropion
+bursae and ligaments
+buttock skin
+buttock subcutaneous tissue and fascia
+buttock, left
+buttock, right
+calcaneus, left
+calcaneus, right
+cardiac system
+cardiac system plexus thoracic region sympathetic nerve
+cardiovascular system
+carina
+carotid bodies, bilateral
+carotid body, left
+carotid body, right
+carpal joint, left
+carpal joint, right
+carpal, left
+carpal, right
+carpometacarpal joint, left
+carpometacarpal joint, right
+cecum
+celiac and mesenteric arteries
+celiac artery
+central and the peripheral nervous system
+central artery
+central nervous system
+central nervous system and the cranial nerves
+central vein
+central veins
+cephalic vein, left
+cephalic vein, right
+cerebellum
+cerebral and cerebellar veins
+cerebral hemisphere
+cerebral meninges
+cerebral s
+cerebral ventricle
+cerebral ventricle(s)
+cerebral ventricles
+cerebrospinal fluid
+cervical region
+cervical region disc
+cervical region disc(s)
+cervical region discs
+cervical region facet joint
+cervical region facet joint(s)
+cervical region facet joints
+cervical region facet s
+cervical region nerve
+cervical region plexus
+cervical region s
+cervical region spinal cord
+cervical region spine
+cervical region vertebra
+cervical region vertebral disc
+cervical region vertebral joint
+cervico-cerebral arch
+cervicothoracic region vertebral disc
+cervicothoracic region vertebral joint
+cervix
+chest
+chest and abdomen
+chest and neck
+chest skin
+chest subcutaneous tissue and fascia
+chest wall
+chordae tendineae
+choroid, left
+choroid, right
+circulatory system
+cisterna
+clavicle, left
+clavicle, right
+clitoris
+clonidine
+coccygeal glomus
+coccygeal joint
+coccyx
+cognitive-behavioral
+colic artery, left
+colic artery, right
+colic vein
+colon
+common bile duct
+common carotid arteries, bilateral
+common carotid artery, left
+common carotid artery, right
+common hepatic duct
+common iliac artery, left
+common iliac artery, right
+common iliac vein, left
+common iliac vein, right
+conduction mechanism
+confrontational
+conjunctiva, left
+conjunctiva, right
+connective tissue
+cornea, left
+cornea, right
+coronary artery
+coronary artery/arteries
+coronary sinus
+coronary vein
+corpora cavernosa
+cranial cavity
+cranial cavity and brain
+cranial nerve
+cranial nerves
+cul-de-sac
+cystic duct
+descending colon
+descending thoracic region aorta
+descending thoracic region aorta and abdominal aorta
+developmental
+dialysis shunt
+dialysis shunt/fistula
+diaphragm
+digestive system
+duodenum
+dura mater
+ear
+ear skin, left
+ear skin, right
+ear(s)
+ear, left
+ear, nose, and mouth and throat
+ear, nose, and sinus
+ear, right
+ears
+ectopic products of conception
+eight or more thoracic region vertebral joints
+elbow bursa and ligament, left
+elbow bursa and ligament, right
+elbow joint, left
+elbow region, left
+elbow region, right
+elbow, left
+elbow, right
+endocrine gland
+endocrine system
+endometrium
+epididymis and spermatic cord
+epididymis, left
+epididymis, right
+epidural space
+epidural veins
+epiglottis
+esophageal vein
+esophagogastric junction
+esophagus
+ethmoid bone, left
+ethmoid bone, right
+ethmoid sinus, left
+ethmoid sinus, right
+eustachian tube, left
+eustachian tube, right
+except skull and facial bones axial skeleton
+external auditory canal, left
+external auditory canal, right
+external carotid arteries, bilateral
+external carotid artery, left
+external carotid artery, right
+external ear, bilateral
+external ear, left
+external ear, right
+external iliac artery, left
+external iliac artery, right
+external iliac vein, left
+external iliac vein, right
+external jugular vein, left
+external jugular vein, right
+extracorporeal circuit
+extraocular muscle, left
+eye
+eye, left
+eye, right
+eyes, bilateral
+face
+face artery
+face skin
+face subcutaneous tissue and fascia
+face vein, left
+face vein, right
+facial bone
+facial bones
+facial muscle
+facial nerve
+fallopian tube
+fallopian tube, left
+fallopian tube, right
+fallopian tubes, bilateral
+female genital tract
+female perineum
+female reproductive
+female reproductive system
+femoral artery, left
+femoral artery, right
+femoral nerve
+femoral region, bilateral
+femoral region, left
+femoral region, right
+femoral shaft, left
+femoral shaft, right
+femoral vein, left
+femoral vein, right
+femur
+femur, left
+femur, right
+fetal abdomen
+fetal extremities
+fetal head
+fetal heart
+fetal spine
+fetal thorax
+fetal umbilical cord
+fetus and obstetrical
+fibula
+fibula, left
+fibula, right
+fifth toe, left
+fifth toe, right
+finger joint
+finger joint, left
+finger joint, right
+finger nail
+finger phalangeal joint, left
+finger phalangeal joint, right
+finger phalanx, left
+finger phalanx, right
+finger(s), left
+finger(s), right
+finger, left
+finger, right
+fingers, left
+fingers, right
+first toe, left
+first toe, right
+fistula
+foot
+foot artery, left
+foot artery, right
+foot bursa and ligament, left
+foot bursa and ligament, right
+foot muscle, left
+foot muscle, right
+foot skin
+foot skin, left
+foot skin, right
+foot subcutaneous tissue and fascia, left
+foot subcutaneous tissue and fascia, right
+foot vein, left
+foot vein, right
+foot, left
+foot, right
+foot/toe joint, left
+foot/toe joint, right
+forearm, left
+forearm, right
+forequarter, left
+forequarter, right
+four or more coronary arteries
+fourth toe, left
+fourth toe, right
+frontal bone
+frontal sinus, left
+frontal sinus, right
+gallbladder
+gallbladder and bile ducts
+gastric artery
+gastric vein
+gastrointestinal system
+gastrointestinal tract
+general anatomical regions
+genitourinary system
+genitourinary system tract
+glenoid cavity, left
+glenoid cavity, right
+glomus jugulare
+glossopharyngeal nerve
+great vessel
+hair
+hand
+hand artery, left
+hand artery, right
+hand bursa and ligament, left
+hand bursa and ligament, right
+hand muscle, left
+hand muscle, right
+hand skin
+hand skin, left
+hand skin, right
+hand subcutaneous tissue and fascia, left
+hand subcutaneous tissue and fascia, right
+hand vein, left
+hand vein, right
+hand, left
+hand, right
+hand/finger joint, left
+hand/finger joint, right
+hands and wrists, bilateral
+hard palate
+head
+head and facial bones
+head and neck
+head and neck bursa and ligament
+head and neck circulatory system
+head and neck integumentary system
+head and neck lymphatic systems
+head and neck musculoskeletal system
+head and neck neurological system
+head and neck region
+head and neck respiratory system
+head and neck skin
+head and neck subcutaneous tissue and fascia
+head and neck sympathetic nerve
+head lymphatic system
+head lymphatic systems
+head muscle
+head/neck subcutaneous tissue
+heart
+heart and great vessels
+heart with aorta
+heart, left
+heart, right
+hemiazygos vein
+hemibody
+hepatic artery
+hepatic duct, left
+hepatic duct, right
+hepatic vein
+hepatobiliary system and pancreas
+hepatobiliary system duct
+hindquarter, bilateral
+hindquarter, left
+hindquarter, right
+hip bursa and ligament, left
+hip joint, acetabular surface, and left
+hip joint, acetabular surface, and right
+hip joint, femoral surface, and left
+hip joint, femoral surface, and right
+hip joint, left
+hip joint, right
+hip muscle, left
+hip muscle, right
+hip, left
+hip, right
+hips, bilateral
+humeral head, left
+humeral head, right
+humeral shaft, left
+humeral shaft, right
+humerus
+humerus, left
+humerus, right
+hymen
+hyoid bone
+hypogastric vein, left
+hypogastric vein, right
+hypoglossal nerve
+hypopharynx
+hypothalamus
+ileal diversion loop
+ileocecal valve
+ileum
+iliac bone marrow
+iliac veins
+iliac veins, bilateral
+iliac veins, left
+iliac veins, right
+index finger, left
+index finger, right
+indwelling device
+infant whole body
+inferior mesenteric artery
+inferior mesenteric vein
+inferior parathyroid gland, left
+inferior parathyroid gland, right
+inferior vena cava
+inferior vena cava and iliocaval confluence
+inguinal lymphatic system, left
+inguinal lymphatic system, right
+inguinal lymphatic systems
+inguinal region, bilateral
+inguinal region, left
+inguinal region, right
+inguinal skin
+inner ear, bilateral
+inner ear, left
+inner ear, right
+innominate artery
+innominate vein, left
+innominate vein, right
+integumentary system and breast
+intellectual and psychoeducational
+interactive
+internal carotid arteries, bilateral
+internal carotid artery, left
+internal carotid artery, right
+internal iliac artery, left
+internal iliac artery, right
+internal jugular vein, left
+internal jugular vein, right
+internal mammary artery, left
+internal mammary artery, right
+internal mammary bypass graft, left
+internal mammary bypass graft, right
+interpersonal
+intracranial arteries
+intracranial artery
+intracranial epidural space
+intracranial sinuses
+intracranial subarachnoid space
+intracranial subdural space
+iris, left
+iris, right
+jejunum
+joints
+jugular veins, bilateral
+jugular veins, left
+jugular veins, right
+kidney
+kidney pelvis, left
+kidney pelvis, right
+kidney transplant
+kidney, left
+kidney, right
+kidney, ureter and bladder, and left
+kidney, ureter and bladder, and right
+kidneys and bladder
+kidneys, bilateral
+knee bursa and ligament, left
+knee bursa and ligament, right
+knee joint, femoral surface, and left
+knee joint, femoral surface, and right
+knee joint, left
+knee joint, right
+knee joint, tibial surface, and left
+knee joint, tibial surface, and right
+knee region, left
+knee region, right
+knee, left
+knee, right
+knees, bilateral
+laam
+lacrimal bone, left
+lacrimal bone, right
+lacrimal duct, left
+lacrimal duct, right
+lacrimal ducts, bilateral
+lacrimal gland, left
+lacrimal gland, right
+large intestine
+large intestine, left
+large intestine, right
+larynx
+left 1st toe
+left 2nd toe
+left 3rd toe
+left 4th toe
+left 5th toe
+left abdomen bursa and ligament
+left acetabulum
+left acromioclavicular joint
+left adrenal gland
+left ankle
+left ankle bursa and ligament
+left ankle joint
+left anterior chamber
+left anterior tibial artery
+left atrium
+left auditory ossicle
+left axilla
+left axillary artery
+left axillary lymphatic system
+left axillary vein
+left basilic vein
+left brachial artery
+left brachial vein
+left breast
+left buttock
+left calcaneus
+left carotid body
+left carpal
+left carpal joint
+left carpometacarpal joint
+left cephalic vein
+left choroid
+left clavicle
+left colic artery
+left common carotid artery
+left common iliac artery
+left common iliac vein
+left conjunctiva
+left cornea
+left ear
+left ear skin
+left elbow
+left elbow bursa and ligament
+left elbow joint
+left elbow region
+left epididymis
+left ethmoid bone
+left ethmoid sinus
+left eustachian tube
+left external auditory canal
+left external carotid artery
+left external ear
+left external iliac artery
+left external iliac vein
+left external jugular vein
+left extraocular muscle
+left eye
+left face vein
+left fallopian tube
+left femoral artery
+left femoral region
+left femoral shaft
+left femoral vein
+left femur
+left fibula
+left fifth toe
+left finger
+left finger phalangeal joint
+left finger phalanx
+left finger(s)
+left fingers
+left first toe
+left foot
+left foot artery
+left foot bursa and ligament
+left foot muscle
+left foot skin
+left foot subcutaneous tissue and fascia
+left foot vein
+left foot/toe joint
+left forearm
+left forequarter
+left fourth toe
+left frontal sinus
+left glenoid cavity
+left hand
+left hand artery
+left hand bursa and ligament
+left hand muscle
+left hand skin
+left hand subcutaneous tissue and fascia
+left hand vein
+left hand/finger joint
+left heart
+left hepatic duct
+left hindquarter
+left hip
+left hip bursa and ligament
+left hip joint
+left hip muscle
+left humeral head
+left humeral shaft
+left humerus
+left hypogastric vein
+left index finger
+left inferior parathyroid gland
+left inguinal lymphatic system
+left inguinal region
+left inner ear
+left innominate vein
+left internal carotid artery
+left internal iliac artery
+left internal jugular vein
+left internal mammary artery
+left internal mammary bypass graft
+left iris
+left jugular veins
+left kidney
+left kidney pelvis
+left knee
+left knee bursa and ligament
+left knee joint
+left knee region
+left lacrimal bone
+left lacrimal duct
+left lacrimal gland
+left large intestine
+left lens
+left little finger
+left lobe liver
+left lower arm
+left lower arm and wrist muscle
+left lower arm skin
+left lower arm subcutaneous tissue and fascia
+left lower extremity
+left lower extremity arteries
+left lower extremity artery
+left lower extremity bursa and ligament
+left lower extremity lymphatic system
+left lower extremity lymphatic systems
+left lower extremity skin
+left lower extremity vein
+left lower extremity veins
+left lower eyelid
+left lower femur
+left lower leg
+left lower leg muscle
+left lower leg subcutaneous tissue and fascia
+left lower lobe bronchus
+left lower lung lobe
+left lung
+left main bronchus
+left mandible
+left mastoid sinus
+left maxillary sinus
+left metacarpal
+left metacarpophalangeal joint
+left metatarsal
+left metatarsal-phalangeal joint
+left middle ear
+left middle finger
+left multiple mammary ducts
+left neck lymphatic system
+left neck muscle
+left neck subcutaneous tissue and fascia
+left nipple
+left optic foramina
+left orbit
+left ovary
+left parietal bone
+left parotid duct
+left parotid gland
+left patella
+left pelvic iliac veins
+left pelvic region (iliac) veins
+left pelvic region bone
+left pelvic region veins
+left peroneal artery
+left pleura
+left pleural cavity
+left popliteal artery
+left posterior tibial artery
+left pulmonary artery
+left pulmonary vein
+left radial artery
+left radius
+left renal artery
+left renal vein
+left retina
+left retinal vessel
+left ribs
+left ring finger
+left s
+left sacroiliac joint
+left salivary gland
+left saphenous vein
+left scapula
+left sclera
+left second toe
+left seminal vesicle
+left shoulder
+left shoulder bursa and ligament
+left shoulder joint
+left shoulder muscle
+left shoulder region
+left single mammary duct
+left spermatic cord
+left sphenoid sinus
+left sternoclavicular joint
+left subclavian artery
+left subclavian vein
+left sublingual gland
+left submandibular gland
+left submaxillary gland
+left superior parathyroid gland
+left tarsal
+left tarsal joint
+left temporal artery
+left temporal bone
+left temporomandibular joint
+left testicle
+left testis
+left third toe
+left thorax muscle
+left thumb
+left thumb phalanx
+left thyroid artery
+left thyroid gland lobe
+left tibia
+left tibia/fibula
+left toe
+left toe phalangeal joint
+left toe phalanx
+left toe(s)
+left toes
+left tracheobronchial tree
+left trunk muscle
+left tunica vaginalis
+left tympanic membrane
+left ulna
+left ulnar artery
+left upper arm
+left upper arm muscle
+left upper arm skin
+left upper arm subcutaneous tissue and fascia
+left upper extremity
+left upper extremity arteries
+left upper extremity artery
+left upper extremity bursa and ligament
+left upper extremity lymphatic system
+left upper extremity lymphatic systems
+left upper extremity skin
+left upper extremity vein
+left upper extremity veins
+left upper eyelid
+left upper femur
+left upper leg
+left upper leg muscle
+left upper leg skin
+left upper leg subcutaneous tissue and fascia
+left upper lobe bronchus
+left upper lung lobe
+left ureter
+left vas deferens
+left ventricle
+left vertebral artery
+left vertebral vein
+left vitreous
+left vocal cord
+left wrist
+left wrist bursa and ligament
+left wrist joint
+left wrist region
+left zygomatic arch
+left zygomatic bone
+leg skin
+lens, left
+lens, right
+levo-alpha-acetyl-methadol
+levo-alpha-acetyl-methadol (laam)
+lingula bronchus
+little finger, left
+little finger, right
+liver
+liver and spleen
+lobe liver, left
+lobe liver, right
+lower arm and wrist muscle, left
+lower arm and wrist muscle, right
+lower arm skin, left
+lower arm skin, right
+lower arm subcutaneous tissue and fascia, left
+lower arm subcutaneous tissue and fascia, right
+lower arm, left
+lower arm, right
+lower arteries
+lower back
+lower back / lower extremity circulatory system
+lower back / lower extremity integumentary system
+lower back / lower extremity neurological system
+lower back / lower extremity respiratory system
+lower bone
+lower bones
+lower bursa and ligament
+lower esophagus
+lower extremities
+lower extremities anatomical regions
+lower extremities, bilateral
+lower extremity
+lower extremity arteries, bilateral
+lower extremity arteries, left
+lower extremity arteries, right
+lower extremity artery, left
+lower extremity artery, right
+lower extremity bursa and ligament, left
+lower extremity bursa and ligament, right
+lower extremity circulatory system
+lower extremity integumentary system
+lower extremity lymphatic system, left
+lower extremity lymphatic system, right
+lower extremity lymphatic systems
+lower extremity lymphatic systems, bilateral
+lower extremity lymphatic systems, left
+lower extremity lymphatic systems, right
+lower extremity neurological system
+lower extremity respiratory system
+lower extremity skin, left
+lower extremity skin, right
+lower extremity subcutaneous tissue
+lower extremity subcutaneous tissue and fascia
+lower extremity vein, left
+lower extremity vein, right
+lower extremity veins, bilateral
+lower extremity veins, left
+lower extremity veins, right
+lower extremity, left
+lower extremity, right
+lower eyelid, left
+lower eyelid, right
+lower femur, left
+lower femur, right
+lower gi
+lower gingiva
+lower intestinal tract
+lower jaw
+lower joint
+lower joints
+lower leg artery
+lower leg muscle
+lower leg muscle, left
+lower leg muscle, right
+lower leg skin, right
+lower leg subcutaneous tissue and fascia, left
+lower leg subcutaneous tissue and fascia, right
+lower leg, left
+lower leg, right
+lower lip
+lower lobe bronchus, left
+lower lobe bronchus, right
+lower lung lobe, left
+lower lung lobe, right
+lower spine bursa and ligament
+lower tooth
+lower vein
+lower veins
+lumbar region
+lumbar region arteries
+lumbar region disc
+lumbar region disc(s)
+lumbar region discs
+lumbar region facet joint
+lumbar region facet joint(s)
+lumbar region facet joints
+lumbar region facet s
+lumbar region nerve
+lumbar region plexus
+lumbar region s
+lumbar region spinal cord
+lumbar region spine
+lumbar region sympathetic nerve
+lumbar region vertebra
+lumbar region vertebral disc
+lumbar region vertebral joint
+lumbosacral region disc
+lumbosacral region joint
+lumbosacral region plexus
+lung
+lung apices
+lung lingula
+lung, left
+lung, right
+lungs and bronchi
+lungs, bilateral
+lymphatic system
+lymphatic system and hematologic system
+lymphatic system and hemic systems
+lymphatic system, internal mammary, and left
+lymphatic system, internal mammary, and right
+lymphatic systems
+main bronchus, left
+main bronchus, right
+male perineum
+male reproductive
+male reproductive system
+mandible
+mandible, left
+mandible, right
+mastoid sinus, left
+mastoid sinus, right
+mastoids
+maxilla
+maxillary sinus, left
+maxillary sinus, right
+median nerve
+mediastinum
+medulla oblongata
+mesenteric lymphatic system
+mesentery
+metacarpal, left
+metacarpal, right
+metacarpophalangeal joint, left
+metacarpophalangeal joint, right
+metatarsal, left
+metatarsal, right
+metatarsal-phalangeal joint, left
+metatarsal-phalangeal joint, right
+methadone maintenance
+middle colic artery
+middle ear, left
+middle ear, right
+middle esophagus
+middle finger, left
+middle finger, right
+middle lobe bronchus, right
+middle lung lobe, right
+minor salivary gland
+mitral valve
+motivational enhancement
+mouth
+mouth and pharynx
+mouth and throat
+mouth/oropharynx
+multiple anatomical regions
+multiple coronary arteries
+multiple coronary artery bypass grafts
+multiple gestation first trimester
+multiple gestation second trimester
+multiple gestation third trimester
+multiple mammary ducts, left
+multiple mammary ducts, right
+multiple parathyroid glands
+multiple teeth
+muscle
+muscles
+muscles, tendons, and bursae and ligaments
+musculoskeletal system
+myocardium
+naloxone
+naltrexone
+nasal
+nasal bone
+nasal bones
+nasal mucosa and soft tissue
+nasal septum
+nasopharynx
+nasopharynx/oropharynx
+neck
+neck lymphatic system, left
+neck lymphatic system, right
+neck lymphatic systems
+neck muscle, left
+neck muscle, right
+neck skin
+neck subcutaneous tissue
+neck subcutaneous tissue and fascia, left
+neck subcutaneous tissue and fascia, right
+nervous system
+neurobehavioral and cognitive status
+neuropsychological
+nicotine replacement
+nipple, left
+nipple, right
+non-axial lower bones
+non-axial upper bones
+nose
+occipital bone
+occipital-cervical region joint
+oculomotor nerve
+olfactory
+olfactory nerve
+omentum
+one to two ribs
+ophthalmic arteries
+optic foramina, left
+optic foramina, right
+optic nerve
+oral cavity and throat
+orbit, left
+orbit, right
+orbits, bilateral
+oropharynx
+other anatomical region
+other biofeedback
+other bone
+other bypass graft
+other counseling
+other electroconvulsive therapy
+other family counseling
+other family psychotherapy
+other intra-abdominal arteries
+other lower arteries
+other musculoskeletal system
+other replacement medication
+other upper arteries
+other veins
+ova
+ovaries, bilateral
+ovary
+ovary, left
+ovary, right
+palatine bone, right
+pancreas
+pancreatic duct
+pancreatic ducts
+papillary muscle
+para-aortic body
+paraganglion extremity
+paranasal sinuses
+parathyroid gland
+parathyroid glands
+parietal bone, left
+parietal bone, right
+parotid duct, left
+parotid duct, right
+parotid gland, left
+parotid gland, right
+parotid glands, bilateral
+patella, left
+patella, right
+pediatric heart
+pelvic iliac veins, bilateral
+pelvic iliac veins, left
+pelvic iliac veins, right
+pelvic region (iliac) veins, bilateral
+pelvic region (iliac) veins, left
+pelvic region (iliac) veins, right
+pelvic region arteries
+pelvic region bone, left
+pelvic region bone, right
+pelvic region bones
+pelvic region cavity
+pelvic region lymphatic systems
+pelvic region region
+pelvic region region subcutaneous tissue and fascia
+pelvic region veins, bilateral
+pelvic region veins, left
+pelvic region veins, right
+pelvis
+pelvis lymphatic system
+pelvis lymphatic systems
+penile arteries
+penis
+pericardial cavity
+pericardium
+perineum bursa and ligament
+perineum muscle
+perineum skin
+perineum subcutaneous tissue and fascia
+peripheral artery
+peripheral nerve
+peripheral nerves and plexi
+peripheral nervous system
+peripheral vein
+peritoneal cavity
+peritoneum
+peroneal artery, left
+peroneal artery, right
+peroneal nerve
+pharynx
+pharynx and epiglottis
+phrenic nerve
+physiological devices
+physiological systems
+physiological systems and anatomical regions
+pineal body
+pituitary gland
+placenta
+pleura
+pleura, left
+pleura, right
+pleural cavity, left
+pleural cavity, right
+pons
+popliteal artery, left
+popliteal artery, right
+portal and splanchnic veins
+portal vein
+post-test infectious disease
+posterior tibial artery, left
+posterior tibial artery, right
+pre
+pre/post-test infectious disease
+prefrontal cortex
+pregnant uterus
+prepuce
+products of conception
+prostate
+prostate and seminal vesicles
+psychiatric medication
+psychoanalysis
+psychodynamic
+psychoeducation
+psychophysiological
+pudendal nerve
+pulmonary artery, left
+pulmonary artery, right
+pulmonary trunk
+pulmonary valve
+pulmonary vein, left
+pulmonary vein, right
+pulmonary veins, bilateral
+pylorus stomach
+radial artery, left
+radial artery, right
+radial nerve
+radius
+radius, left
+radius, right
+radius/ulna
+rectum
+renal arteries, bilateral
+renal artery transplant
+renal artery, left
+renal artery, right
+renal sympathetic nerve
+renal sympathetic nerve(s)
+renal sympathetic nerves
+renal sympathetic s
+renal vein, left
+renal vein, right
+respiratory system
+respiratory system tract
+retained products of conception
+retina, left
+retina, right
+retinal vessel, left
+retinal vessel, right
+retroperitoneal lymphatic systems
+retroperitoneal lymphatic systems, bilateral
+retroperitoneal lymphatic systems, unilateral
+retroperitoneum
+rib
+rib bursa and ligament
+rib cage
+rib(s)
+rib(s) bursa and ligament
+ribs
+ribs bursa and ligament
+ribs, left
+ribs, right
+right 1st toe
+right 2nd toe
+right 3rd toe
+right 4th toe
+right 5th toe
+right abdomen bursa and ligament
+right abdomen muscle
+right acetabulum
+right acromioclavicular joint
+right adrenal gland
+right and left heart
+right ankle
+right ankle bursa and ligament
+right ankle joint
+right ankle region
+right anterior chamber
+right anterior tibial artery
+right atrium
+right auditory ossicle
+right axilla
+right axillary artery
+right axillary lymphatic system
+right axillary vein
+right basilic vein
+right brachial artery
+right brachial vein
+right brachiocephalic-subclavian artery
+right breast
+right buttock
+right calcaneus
+right carotid body
+right carpal
+right carpal joint
+right carpometacarpal joint
+right cephalic vein
+right choroid
+right clavicle
+right colic artery
+right common carotid artery
+right common iliac artery
+right common iliac vein
+right conjunctiva
+right cornea
+right ear
+right ear skin
+right elbow
+right elbow bursa and ligament
+right elbow region
+right epididymis
+right ethmoid bone
+right ethmoid sinus
+right eustachian tube
+right external auditory canal
+right external carotid artery
+right external ear
+right external iliac artery
+right external iliac vein
+right external jugular vein
+right eye
+right face vein
+right fallopian tube
+right femoral artery
+right femoral region
+right femoral shaft
+right femoral vein
+right femur
+right fibula
+right fifth toe
+right finger
+right finger phalangeal joint
+right finger phalanx
+right finger(s)
+right fingers
+right first toe
+right foot
+right foot artery
+right foot bursa and ligament
+right foot muscle
+right foot skin
+right foot subcutaneous tissue and fascia
+right foot vein
+right foot/toe joint
+right forearm
+right forequarter
+right fourth toe
+right frontal sinus
+right glenoid cavity
+right hand
+right hand artery
+right hand bursa and ligament
+right hand muscle
+right hand skin
+right hand subcutaneous tissue and fascia
+right hand vein
+right hand/finger joint
+right heart
+right hepatic duct
+right hindquarter
+right hip
+right hip joint
+right hip muscle
+right humeral head
+right humeral shaft
+right humerus
+right hypogastric vein
+right index finger
+right inferior parathyroid gland
+right inguinal lymphatic system
+right inguinal region
+right inner ear
+right innominate vein
+right internal carotid artery
+right internal iliac artery
+right internal jugular vein
+right internal mammary artery
+right internal mammary bypass graft
+right iris
+right jugular veins
+right kidney
+right kidney pelvis
+right knee
+right knee bursa and ligament
+right knee joint
+right knee region
+right lacrimal bone
+right lacrimal duct
+right lacrimal gland
+right large intestine
+right lens
+right little finger
+right lobe liver
+right lower arm
+right lower arm and wrist muscle
+right lower arm skin
+right lower arm subcutaneous tissue and fascia
+right lower extremity
+right lower extremity arteries
+right lower extremity artery
+right lower extremity bursa and ligament
+right lower extremity lymphatic system
+right lower extremity lymphatic systems
+right lower extremity skin
+right lower extremity vein
+right lower extremity veins
+right lower eyelid
+right lower femur
+right lower leg
+right lower leg muscle
+right lower leg skin
+right lower leg subcutaneous tissue and fascia
+right lower lobe bronchus
+right lower lung lobe
+right lung
+right main bronchus
+right mandible
+right mastoid sinus
+right maxillary sinus
+right metacarpal
+right metacarpophalangeal joint
+right metatarsal
+right metatarsal-phalangeal joint
+right middle ear
+right middle finger
+right middle lobe bronchus
+right middle lung lobe
+right multiple mammary ducts
+right neck lymphatic system
+right neck muscle
+right neck subcutaneous tissue and fascia
+right nipple
+right optic foramina
+right orbit
+right ovary
+right palatine bone
+right parietal bone
+right parotid duct
+right parotid gland
+right patella
+right pelvic iliac veins
+right pelvic region (iliac) veins
+right pelvic region bone
+right pelvic region veins
+right peroneal artery
+right pleura
+right pleural cavity
+right popliteal artery
+right posterior tibial artery
+right pulmonary artery
+right pulmonary vein
+right radial artery
+right radius
+right renal artery
+right renal vein
+right retina
+right retinal vessel
+right ribs
+right ring finger
+right s
+right sacroiliac joint
+right salivary gland
+right saphenous vein
+right scapula
+right sclera
+right second toe
+right seminal vesicle
+right shoulder
+right shoulder bursa and ligament
+right shoulder joint
+right shoulder muscle
+right shoulder region
+right single mammary duct
+right spermatic cord
+right sphenoid sinus
+right sternoclavicular joint
+right subclavian artery
+right subclavian vein
+right sublingual gland
+right submandibular gland
+right submaxillary gland
+right tarsal joint
+right tarsometatarsal joint
+right temporal artery
+right temporal bone
+right temporomandibular joint
+right testicle
+right testis
+right third toe
+right thorax muscle
+right thumb
+right thumb phalanx
+right thyroid artery
+right thyroid gland lobe
+right tibia
+right tibia/fibula
+right toe
+right toe phalangeal joint
+right toe phalanx
+right toe(s)
+right toes
+right tracheobronchial tree
+right trunk muscle
+right tunica vaginalis
+right tympanic membrane
+right ulna
+right ulnar artery
+right upper arm
+right upper arm muscle
+right upper arm skin
+right upper arm subcutaneous tissue and fascia
+right upper extremity
+right upper extremity arteries
+right upper extremity artery
+right upper extremity bursa and ligament
+right upper extremity lymphatic system
+right upper extremity lymphatic systems
+right upper extremity skin
+right upper extremity vein
+right upper extremity veins
+right upper eyelid
+right upper femur
+right upper leg
+right upper leg muscle
+right upper leg skin
+right upper lobe bronchus
+right upper lung lobe
+right ureter
+right vas deferens
+right ventricle
+right vertebral artery
+right vertebral vein
+right vitreous
+right vocal cord
+right wrist bursa and ligament
+right wrist joint
+right wrist region
+right zygomatic arch
+right zygomatic bone
+ring finger, left
+ring finger, right
+s
+s , left
+s , right
+s bursa and ligament
+sacral region nerve
+sacral region plexus
+sacral region sympathetic nerve
+sacrococcygeal joint
+sacroiliac joint, left
+sacroiliac joint, right
+sacroiliac joints
+sacrum
+sacrum and coccyx
+salivary gland
+salivary gland, left
+salivary gland, right
+salivary glands
+salivary glands, bilateral
+saphenous vein, left
+saphenous vein, right
+scalp skin
+scalp subcutaneous tissue and fascia
+scapula, left
+scapula, right
+sciatic nerve
+sclera, left
+sclera, right
+scrotum
+scrotum and tunica vaginalis
+second toe, left
+second toe, right
+sella turcica
+sella turcica/pituitary gland
+seminal vesicle, left
+seminal vesicle, right
+seminal vesicles, bilateral
+shoulder bursa and ligament, left
+shoulder bursa and ligament, right
+shoulder joint, left
+shoulder joint, right
+shoulder muscle, left
+shoulder muscle, right
+shoulder region, left
+shoulder region, right
+shoulder, left
+shoulder, right
+sigmoid colon
+single coronary artery
+single coronary artery bypass graft
+single fetus first trimester
+single fetus second trimester
+single fetus third trimester
+single mammary duct, left
+single mammary duct, right
+single tooth
+sinus
+sinuses
+skin
+skin and breast
+skin and mucous membranes
+skin, subcutaneous tissue, and fascia and breast
+skull
+skull and cervical region spine
+skull and facial bones
+small bowel
+small intestine
+soft palate
+spermatic cord, left
+spermatic cord, right
+spermatic cords, bilateral
+sphenoid bone
+sphenoid sinus, left
+sphenoid sinus, right
+sphenopalatine ganglion
+spinal arteries
+spinal canal
+spinal cord
+spinal meninges
+spine
+spine and pelvis
+spiritual
+spleen
+splenic arteries
+splenic artery
+splenic vein
+sternoclavicular joint, left
+sternoclavicular joint, right
+sternoclavicular joints, bilateral
+sternum
+sternum bone marrow
+sternum bursa and ligament
+stomach
+subclavian artery, left
+subclavian artery, right
+subclavian vein, left
+subclavian vein, right
+subcutaneous tissue
+subcutaneous tissue and breast skin
+subcutaneous tissue and fascia
+sublingual gland, left
+sublingual gland, right
+submandibular gland, left
+submandibular gland, right
+submandibular glands, bilateral
+submaxillary gland, left
+submaxillary gland, right
+superior mesenteric artery
+superior mesenteric vein
+superior parathyroid gland, left
+superior vena cava
+supernumerary breast
+supportive
+tarsal joint, left
+tarsal joint, right
+tarsal, left
+tarsometatarsal joint, right
+temporal artery, left
+temporal artery, right
+temporal bone, left
+temporal bone, right
+temporal bones
+temporomandibular joint, left
+temporomandibular joint, right
+temporomandibular joints, bilateral
+tendons
+testes, bilateral
+testicle, left
+testicle, right
+testicles, bilateral
+testis
+testis, left
+testis, right
+thalamus
+third toe, left
+third toe, right
+thoracic region
+thoracic region aorta
+thoracic region aortic arch and descending thoracic region aorta
+thoracic region disc
+thoracic region disc(s)
+thoracic region discs
+thoracic region duct
+thoracic region facet joint
+thoracic region facet joint(s)
+thoracic region facet joints
+thoracic region facet s
+thoracic region nerve
+thoracic region s
+thoracic region spinal cord
+thoracic region spine
+thoracic region vertebra
+thoracic region vertebral disc
+thoracic region vertebral joint
+thoraco-abdominal aorta
+thoracolumbar region joint
+thoracolumbar region spine
+thoracolumbar region vertebral disc
+thoracolumbar region vertebral joint
+thorax
+thorax / abdomen integumentary system
+thorax / abdomen musculoskeletal system
+thorax lymphatic system
+thorax lymphatic systems
+thorax muscle, left
+thorax muscle, right
+thorax subcutaneous tissue
+three coronary arteries
+three or more ribs
+thumb phalanx, left
+thumb phalanx, right
+thumb, left
+thumb, right
+thymus
+thyroid
+thyroid artery, left
+thyroid artery, right
+thyroid gland
+thyroid gland isthmus
+thyroid gland lobe, left
+thyroid gland lobe, right
+tibia
+tibia, left
+tibia, right
+tibia/fibula
+tibia/fibula, left
+tibia/fibula, right
+tibial nerve
+toe joint
+toe joint, left
+toe joint, right
+toe nail
+toe phalangeal joint, left
+toe phalangeal joint, right
+toe phalanx, left
+toe phalanx, right
+toe(s), left
+toe(s), right
+toe, left
+toe, right
+toes, left
+toes, right
+tongue
+tongue, palate, and pharynx muscle
+tonsils
+trachea
+trachea/airways
+tracheobronchial tree
+tracheobronchial tree, left
+tracheobronchial tree, right
+tracheobronchial trees, bilateral
+tricuspid valve
+trigeminal nerve
+trochlear nerve
+trunk
+trunk lymphatic systems
+trunk muscle, left
+trunk muscle, right
+trunk region
+trunk subcutaneous tissue and fascia
+tunica vaginalis, left
+tunica vaginalis, right
+twelve-step
+two coronary arteries
+two or more cervical region vertebral joints
+two or more lumbar region vertebral joints
+two to seven thoracic region vertebral joints
+tympanic membrane, left
+tympanic membrane, right
+ulna
+ulna, left
+ulna, right
+ulnar artery, left
+ulnar artery, right
+ulnar nerve
+unilateral abdominal
+unilateral abdominal/retroperitoneal lymphatic systems
+unilateral-single seizure
+upper airways
+upper arm artery
+upper arm muscle
+upper arm muscle, left
+upper arm muscle, right
+upper arm skin, left
+upper arm skin, right
+upper arm subcutaneous tissue and fascia, left
+upper arm subcutaneous tissue and fascia, right
+upper arm, left
+upper arm, right
+upper arteries
+upper back
+upper back / upper extremity circulatory system
+upper back / upper extremity integumentary system
+upper back / upper extremity musculoskeletal system
+upper back / upper extremity neurological system
+upper back / upper extremity respiratory system
+upper bone
+upper bones
+upper bursa and ligament
+upper esophagus
+upper extremities
+upper extremities anatomical regions
+upper extremities, bilateral
+upper extremity
+upper extremity arteries, bilateral
+upper extremity arteries, left
+upper extremity arteries, right
+upper extremity artery, left
+upper extremity artery, right
+upper extremity bursa and ligament, left
+upper extremity bursa and ligament, right
+upper extremity circulatory system
+upper extremity integumentary system
+upper extremity lymphatic system, left
+upper extremity lymphatic system, right
+upper extremity lymphatic systems
+upper extremity lymphatic systems, bilateral
+upper extremity lymphatic systems, left
+upper extremity lymphatic systems, right
+upper extremity musculoskeletal system
+upper extremity neurological system
+upper extremity respiratory system
+upper extremity skin, left
+upper extremity skin, right
+upper extremity subcutaneous tissue
+upper extremity subcutaneous tissue and fascia
+upper extremity vein, left
+upper extremity vein, right
+upper extremity veins, bilateral
+upper extremity veins, left
+upper extremity veins, right
+upper extremity, left
+upper extremity, right
+upper eyelid, left
+upper eyelid, right
+upper femur, left
+upper femur, right
+upper gastrointestinal tract
+upper gi
+upper gi and small bowel
+upper gingiva
+upper intestinal tract
+upper jaw
+upper joint
+upper joints
+upper leg muscle, left
+upper leg muscle, right
+upper leg skin, left
+upper leg skin, right
+upper leg subcutaneous tissue and fascia, left
+upper leg, left
+upper leg, right
+upper lip
+upper lobe bronchus, left
+upper lobe bronchus, right
+upper lung lobe, left
+upper lung lobe, right
+upper spine bursa and ligament
+upper tooth
+upper vein
+upper veins
+ureter
+ureter, left
+ureter, right
+ureters and bladder kidneys
+ureters and kidneys ileal loop
+ureters, bilateral
+urethra
+urinary system
+uterine supporting structure
+uterus
+uterus and cervix
+uterus and fallopian tubes
+uterus and ovaries
+uvula
+vagina
+vagina and cul-de-sac
+vagus nerve
+vas deferens
+vas deferens, bilateral
+vas deferens, left
+vas deferens, right
+vasa vasorum
+vein
+vein graft
+veins
+venous system
+ventricle, left
+ventricle, right
+ventricular septum
+vertebral arteries, bilateral
+vertebral artery, left
+vertebral artery, right
+vertebral bone marrow
+vertebral vein, left
+vertebral vein, right
+visual
+vitreous, left
+vitreous, right
+vocal cord, left
+vocal cord, right
+vulva
+whole body
+whole body circulatory system
+whole body integumentary system
+whole body musculoskeletal system
+whole body neurological system
+whole body respiratory system
+whole fetus
+whole spine
+wrist bursa and ligament, left
+wrist bursa and ligament, right
+wrist joint, left
+wrist joint, right
+wrist region, left
+wrist region, right
+wrist, left
+zygomatic arch, left
+zygomatic arch, right
+zygomatic arches, bilateral
+zygomatic bone, left
+zygomatic bone, right

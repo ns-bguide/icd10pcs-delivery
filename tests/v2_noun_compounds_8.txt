@@ -1,0 +1,170 @@
+8C0	Other Procedures of the Indwelling Device
+8C0	Indwelling Device Other Procedures
+8C01X6J	Other Procedures of the Nervous System Collection
+8C01X6J	Nervous System Collection Other Procedures
+8C02X6K	Other Procedures of the Circulatory System Collection
+8C02X6K	Circulatory System Collection Other Procedures
+8E0	Other Procedures of the Physiological Systems And Anatomical Regions
+8E0	Physiological Systems And Anatomical Regions Other Procedures
+8E01XY7	Other Procedures of the Nervous System Other Method
+8E01XY7	Nervous System Other Method Other Procedures
+8E023DZ	Other Procedures of the Circulatory System Near Infrared Spectroscopy
+8E023DZ	Circulatory System Near Infrared Spectroscopy Other Procedures
+8E023FZ	Other Procedures of the Circulatory System Fiber Optic 3D Guided Procedure
+8E023FZ	Circulatory System Fiber Optic 3D Guided Procedure Other Procedures
+8E02XDZ	Other Procedures of the Circulatory System Near Infrared Spectroscopy
+8E02XDZ	Circulatory System Near Infrared Spectroscopy Other Procedures
+8E090CZ	Other Procedures of the Head And Neck Region Robotic Assisted Procedure
+8E090CZ	Head And Neck Region Robotic Assisted Procedure Other Procedures
+8E090EM	Other Procedures of the Head And Neck Region Fluorescence Guided Procedure
+8E090EM	Head And Neck Region Fluorescence Guided Procedure Other Procedures
+8E090EZ	Other Procedures of the Head And Neck Region Fluorescence Guided Procedure
+8E090EZ	Head And Neck Region Fluorescence Guided Procedure Other Procedures
+8E093CZ	Other Procedures of the Head And Neck Region Robotic Assisted Procedure
+8E093CZ	Head And Neck Region Robotic Assisted Procedure Other Procedures
+8E093EZ	Other Procedures of the Head And Neck Region Fluorescence Guided Procedure
+8E093EZ	Head And Neck Region Fluorescence Guided Procedure Other Procedures
+8E094CZ	Other Procedures of the Head And Neck Region Robotic Assisted Procedure
+8E094CZ	Head And Neck Region Robotic Assisted Procedure Other Procedures
+8E094EZ	Other Procedures of the Head And Neck Region Fluorescence Guided Procedure
+8E094EZ	Head And Neck Region Fluorescence Guided Procedure Other Procedures
+8E097CZ	Other Procedures of the Head And Neck Region Robotic Assisted Procedure
+8E097CZ	Head And Neck Region Robotic Assisted Procedure Other Procedures
+8E097EZ	Other Procedures of the Head And Neck Region Fluorescence Guided Procedure
+8E097EZ	Head And Neck Region Fluorescence Guided Procedure Other Procedures
+8E098CZ	Other Procedures of the Head And Neck Region Robotic Assisted Procedure
+8E098CZ	Head And Neck Region Robotic Assisted Procedure Other Procedures
+8E098EZ	Other Procedures of the Head And Neck Region Fluorescence Guided Procedure
+8E098EZ	Head And Neck Region Fluorescence Guided Procedure Other Procedures
+8E09XBF	Other Procedures of the Head And Neck Region Computer Assisted Procedure
+8E09XBF	Head And Neck Region Computer Assisted Procedure Other Procedures
+8E09XBG	Other Procedures of the Head And Neck Region Computer Assisted Procedure
+8E09XBG	Head And Neck Region Computer Assisted Procedure Other Procedures
+8E09XBH	Other Procedures of the Head And Neck Region Computer Assisted Procedure
+8E09XBH	Head And Neck Region Computer Assisted Procedure Other Procedures
+8E09XBZ	Other Procedures of the Head And Neck Region Computer Assisted Procedure
+8E09XBZ	Head And Neck Region Computer Assisted Procedure Other Procedures
+8E09XCZ	Other Procedures of the Head And Neck Region Robotic Assisted Procedure
+8E09XCZ	Head And Neck Region Robotic Assisted Procedure Other Procedures
+8E09XY8	Other Procedures of the Head And Neck Region Other Method
+8E09XY8	Head And Neck Region Other Method Other Procedures
+8E0H300	Other Procedures of the Integumentary System And Breast Acupuncture
+8E0H300	Integumentary System And Breast Acupuncture Other Procedures
+8E0H30Z	Other Procedures of the Integumentary System And Breast Acupuncture
+8E0H30Z	Integumentary System And Breast Acupuncture Other Procedures
+8E0HX62	Other Procedures of the Integumentary System And Breast Collection
+8E0HX62	Integumentary System And Breast Collection Other Procedures
+8E0HXY9	Other Procedures of the Integumentary System And Breast Other Method
+8E0HXY9	Integumentary System And Breast Other Method Other Procedures
+8E0KX1Z	Other Procedures of the Musculoskeletal System Therapeutic Massage
+8E0KX1Z	Musculoskeletal System Therapeutic Massage Other Procedures
+8E0KXY7	Other Procedures of the Musculoskeletal System Other Method
+8E0KXY7	Musculoskeletal System Other Method Other Procedures
+8E0U0EN	Other Procedures of the Female Reproductive System Fluorescence Guided Procedure
+8E0U0EN	Female Reproductive System Fluorescence Guided Procedure Other Procedures
+8E0U3EN	Other Procedures of the Female Reproductive System Fluorescence Guided Procedure
+8E0U3EN	Female Reproductive System Fluorescence Guided Procedure Other Procedures
+8E0U4EN	Other Procedures of the Female Reproductive System Fluorescence Guided Procedure
+8E0U4EN	Female Reproductive System Fluorescence Guided Procedure Other Procedures
+8E0U7EN	Other Procedures of the Female Reproductive System Fluorescence Guided Procedure
+8E0U7EN	Female Reproductive System Fluorescence Guided Procedure Other Procedures
+8E0U8EN	Other Procedures of the Female Reproductive System Fluorescence Guided Procedure
+8E0U8EN	Female Reproductive System Fluorescence Guided Procedure Other Procedures
+8E0UXY7	Other Procedures of the Female Reproductive System Other Method
+8E0UXY7	Female Reproductive System Other Method Other Procedures
+8E0VX1C	Other Procedures of the Male Reproductive System Therapeutic Massage
+8E0VX1C	Male Reproductive System Therapeutic Massage Other Procedures
+8E0VX1D	Other Procedures of the Male Reproductive System Therapeutic Massage
+8E0VX1D	Male Reproductive System Therapeutic Massage Other Procedures
+8E0VX63	Other Procedures of the Male Reproductive System Collection
+8E0VX63	Male Reproductive System Collection Other Procedures
+8E0W0CZ	Other Procedures of the Trunk Region Robotic Assisted Procedure
+8E0W0CZ	Trunk Region Robotic Assisted Procedure Other Procedures
+8E0W0EN	Other Procedures of the Trunk Region Fluorescence Guided Procedure
+8E0W0EN	Trunk Region Fluorescence Guided Procedure Other Procedures
+8E0W0EZ	Other Procedures of the Trunk Region Fluorescence Guided Procedure
+8E0W0EZ	Trunk Region Fluorescence Guided Procedure Other Procedures
+8E0W3CZ	Other Procedures of the Trunk Region Robotic Assisted Procedure
+8E0W3CZ	Trunk Region Robotic Assisted Procedure Other Procedures
+8E0W3EN	Other Procedures of the Trunk Region Fluorescence Guided Procedure
+8E0W3EN	Trunk Region Fluorescence Guided Procedure Other Procedures
+8E0W3EZ	Other Procedures of the Trunk Region Fluorescence Guided Procedure
+8E0W3EZ	Trunk Region Fluorescence Guided Procedure Other Procedures
+8E0W4CZ	Other Procedures of the Trunk Region Robotic Assisted Procedure
+8E0W4CZ	Trunk Region Robotic Assisted Procedure Other Procedures
+8E0W4EN	Other Procedures of the Trunk Region Fluorescence Guided Procedure
+8E0W4EN	Trunk Region Fluorescence Guided Procedure Other Procedures
+8E0W4EZ	Other Procedures of the Trunk Region Fluorescence Guided Procedure
+8E0W4EZ	Trunk Region Fluorescence Guided Procedure Other Procedures
+8E0W7CZ	Other Procedures of the Trunk Region Robotic Assisted Procedure
+8E0W7CZ	Trunk Region Robotic Assisted Procedure Other Procedures
+8E0W7EN	Other Procedures of the Trunk Region Fluorescence Guided Procedure
+8E0W7EN	Trunk Region Fluorescence Guided Procedure Other Procedures
+8E0W7EZ	Other Procedures of the Trunk Region Fluorescence Guided Procedure
+8E0W7EZ	Trunk Region Fluorescence Guided Procedure Other Procedures
+8E0W8CZ	Other Procedures of the Trunk Region Robotic Assisted Procedure
+8E0W8CZ	Trunk Region Robotic Assisted Procedure Other Procedures
+8E0W8EN	Other Procedures of the Trunk Region Fluorescence Guided Procedure
+8E0W8EN	Trunk Region Fluorescence Guided Procedure Other Procedures
+8E0W8EZ	Other Procedures of the Trunk Region Fluorescence Guided Procedure
+8E0W8EZ	Trunk Region Fluorescence Guided Procedure Other Procedures
+8E0WXBF	Other Procedures of the Trunk Region Computer Assisted Procedure
+8E0WXBF	Trunk Region Computer Assisted Procedure Other Procedures
+8E0WXBG	Other Procedures of the Trunk Region Computer Assisted Procedure
+8E0WXBG	Trunk Region Computer Assisted Procedure Other Procedures
+8E0WXBH	Other Procedures of the Trunk Region Computer Assisted Procedure
+8E0WXBH	Trunk Region Computer Assisted Procedure Other Procedures
+8E0WXBZ	Other Procedures of the Trunk Region Computer Assisted Procedure
+8E0WXBZ	Trunk Region Computer Assisted Procedure Other Procedures
+8E0WXCZ	Other Procedures of the Trunk Region Robotic Assisted Procedure
+8E0WXCZ	Trunk Region Robotic Assisted Procedure Other Procedures
+8E0WXY8	Other Procedures of the Trunk Region Other Method
+8E0WXY8	Trunk Region Other Method Other Procedures
+8E0X0CZ	Other Procedures of the Upper Extremity Robotic Assisted Procedure
+8E0X0CZ	Upper Extremity Robotic Assisted Procedure Other Procedures
+8E0X0EZ	Other Procedures of the Upper Extremity Fluorescence Guided Procedure
+8E0X0EZ	Upper Extremity Fluorescence Guided Procedure Other Procedures
+8E0X3CZ	Other Procedures of the Upper Extremity Robotic Assisted Procedure
+8E0X3CZ	Upper Extremity Robotic Assisted Procedure Other Procedures
+8E0X3EZ	Other Procedures of the Upper Extremity Fluorescence Guided Procedure
+8E0X3EZ	Upper Extremity Fluorescence Guided Procedure Other Procedures
+8E0X4CZ	Other Procedures of the Upper Extremity Robotic Assisted Procedure
+8E0X4CZ	Upper Extremity Robotic Assisted Procedure Other Procedures
+8E0X4EZ	Other Procedures of the Upper Extremity Fluorescence Guided Procedure
+8E0X4EZ	Upper Extremity Fluorescence Guided Procedure Other Procedures
+8E0XXBF	Other Procedures of the Upper Extremity Computer Assisted Procedure
+8E0XXBF	Upper Extremity Computer Assisted Procedure Other Procedures
+8E0XXBG	Other Procedures of the Upper Extremity Computer Assisted Procedure
+8E0XXBG	Upper Extremity Computer Assisted Procedure Other Procedures
+8E0XXBH	Other Procedures of the Upper Extremity Computer Assisted Procedure
+8E0XXBH	Upper Extremity Computer Assisted Procedure Other Procedures
+8E0XXBZ	Other Procedures of the Upper Extremity Computer Assisted Procedure
+8E0XXBZ	Upper Extremity Computer Assisted Procedure Other Procedures
+8E0XXCZ	Other Procedures of the Upper Extremity Robotic Assisted Procedure
+8E0XXCZ	Upper Extremity Robotic Assisted Procedure Other Procedures
+8E0XXY8	Other Procedures of the Upper Extremity Other Method
+8E0XXY8	Upper Extremity Other Method Other Procedures
+8E0Y0CZ	Other Procedures of the Lower Extremity Robotic Assisted Procedure
+8E0Y0CZ	Lower Extremity Robotic Assisted Procedure Other Procedures
+8E0Y0EZ	Other Procedures of the Lower Extremity Fluorescence Guided Procedure
+8E0Y0EZ	Lower Extremity Fluorescence Guided Procedure Other Procedures
+8E0Y3CZ	Other Procedures of the Lower Extremity Robotic Assisted Procedure
+8E0Y3CZ	Lower Extremity Robotic Assisted Procedure Other Procedures
+8E0Y3EZ	Other Procedures of the Lower Extremity Fluorescence Guided Procedure
+8E0Y3EZ	Lower Extremity Fluorescence Guided Procedure Other Procedures
+8E0Y4CZ	Other Procedures of the Lower Extremity Robotic Assisted Procedure
+8E0Y4CZ	Lower Extremity Robotic Assisted Procedure Other Procedures
+8E0Y4EZ	Other Procedures of the Lower Extremity Fluorescence Guided Procedure
+8E0Y4EZ	Lower Extremity Fluorescence Guided Procedure Other Procedures
+8E0YXBF	Other Procedures of the Lower Extremity Computer Assisted Procedure
+8E0YXBF	Lower Extremity Computer Assisted Procedure Other Procedures
+8E0YXBG	Other Procedures of the Lower Extremity Computer Assisted Procedure
+8E0YXBG	Lower Extremity Computer Assisted Procedure Other Procedures
+8E0YXBH	Other Procedures of the Lower Extremity Computer Assisted Procedure
+8E0YXBH	Lower Extremity Computer Assisted Procedure Other Procedures
+8E0YXBZ	Other Procedures of the Lower Extremity Computer Assisted Procedure
+8E0YXBZ	Lower Extremity Computer Assisted Procedure Other Procedures
+8E0YXCZ	Other Procedures of the Lower Extremity Robotic Assisted Procedure
+8E0YXCZ	Lower Extremity Robotic Assisted Procedure Other Procedures
+8E0YXY8	Other Procedures of the Lower Extremity Other Method
+8E0YXY8	Lower Extremity Other Method Other Procedures

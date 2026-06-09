@@ -1,0 +1,162 @@
+9WB	Manipulation of the Anatomical Regions
+9WB	Anatomical Regions Manipulation
+9WB0XBZ	Manipulation of the Head Non-Manual
+9WB0XBZ	Head Non-Manual Manipulation
+9WB0XCZ	Manipulation of the Head Indirect Visceral
+9WB0XCZ	Head Indirect Visceral Manipulation
+9WB0XDZ	Manipulation of the Head Extra-Articular
+9WB0XDZ	Head Extra-Articular Manipulation
+9WB0XFZ	Manipulation of the Head Direct Visceral
+9WB0XFZ	Head Direct Visceral Manipulation
+9WB0XGZ	Manipulation of the Head Long Lever Specific Contact
+9WB0XGZ	Head Long Lever Specific Contact Manipulation
+9WB0XHZ	Manipulation of the Head Short Lever Specific Contact
+9WB0XHZ	Head Short Lever Specific Contact Manipulation
+9WB0XJZ	Manipulation of the Head Long And Short Lever Specific Contact
+9WB0XJZ	Head Long And Short Lever Specific Contact Manipulation
+9WB0XKZ	Manipulation of the Head Mechanically Assisted
+9WB0XKZ	Head Mechanically Assisted Manipulation
+9WB1XBZ	Manipulation of the Cervical Region Non-Manual
+9WB1XBZ	Cervical Region Non-Manual Manipulation
+9WB1XCZ	Manipulation of the Cervical Region Indirect Visceral
+9WB1XCZ	Cervical Region Indirect Visceral Manipulation
+9WB1XDZ	Manipulation of the Cervical Region Extra-Articular
+9WB1XDZ	Cervical Region Extra-Articular Manipulation
+9WB1XFZ	Manipulation of the Cervical Region Direct Visceral
+9WB1XFZ	Cervical Region Direct Visceral Manipulation
+9WB1XGZ	Manipulation of the Cervical Region Long Lever Specific Contact
+9WB1XGZ	Cervical Region Long Lever Specific Contact Manipulation
+9WB1XHZ	Manipulation of the Cervical Region Short Lever Specific Contact
+9WB1XHZ	Cervical Region Short Lever Specific Contact Manipulation
+9WB1XJZ	Manipulation of the Cervical Region Long And Short Lever Specific Contact
+9WB1XJZ	Cervical Region Long And Short Lever Specific Contact Manipulation
+9WB1XKZ	Manipulation of the Cervical Region Mechanically Assisted
+9WB1XKZ	Cervical Region Mechanically Assisted Manipulation
+9WB2XBZ	Manipulation of the Thoracic Region Non-Manual
+9WB2XBZ	Thoracic Region Non-Manual Manipulation
+9WB2XCZ	Manipulation of the Thoracic Region Indirect Visceral
+9WB2XCZ	Thoracic Region Indirect Visceral Manipulation
+9WB2XDZ	Manipulation of the Thoracic Region Extra-Articular
+9WB2XDZ	Thoracic Region Extra-Articular Manipulation
+9WB2XFZ	Manipulation of the Thoracic Region Direct Visceral
+9WB2XFZ	Thoracic Region Direct Visceral Manipulation
+9WB2XGZ	Manipulation of the Thoracic Region Long Lever Specific Contact
+9WB2XGZ	Thoracic Region Long Lever Specific Contact Manipulation
+9WB2XHZ	Manipulation of the Thoracic Region Short Lever Specific Contact
+9WB2XHZ	Thoracic Region Short Lever Specific Contact Manipulation
+9WB2XJZ	Manipulation of the Thoracic Region Long And Short Lever Specific Contact
+9WB2XJZ	Thoracic Region Long And Short Lever Specific Contact Manipulation
+9WB2XKZ	Manipulation of the Thoracic Region Mechanically Assisted
+9WB2XKZ	Thoracic Region Mechanically Assisted Manipulation
+9WB3XBZ	Manipulation of the Lumbar Region Non-Manual
+9WB3XBZ	Lumbar Region Non-Manual Manipulation
+9WB3XCZ	Manipulation of the Lumbar Region Indirect Visceral
+9WB3XCZ	Lumbar Region Indirect Visceral Manipulation
+9WB3XDZ	Manipulation of the Lumbar Region Extra-Articular
+9WB3XDZ	Lumbar Region Extra-Articular Manipulation
+9WB3XFZ	Manipulation of the Lumbar Region Direct Visceral
+9WB3XFZ	Lumbar Region Direct Visceral Manipulation
+9WB3XGZ	Manipulation of the Lumbar Region Long Lever Specific Contact
+9WB3XGZ	Lumbar Region Long Lever Specific Contact Manipulation
+9WB3XHZ	Manipulation of the Lumbar Region Short Lever Specific Contact
+9WB3XHZ	Lumbar Region Short Lever Specific Contact Manipulation
+9WB3XJZ	Manipulation of the Lumbar Region Long And Short Lever Specific Contact
+9WB3XJZ	Lumbar Region Long And Short Lever Specific Contact Manipulation
+9WB3XKZ	Manipulation of the Lumbar Region Mechanically Assisted
+9WB3XKZ	Lumbar Region Mechanically Assisted Manipulation
+9WB4XBZ	Manipulation of the Sacrum Non-Manual
+9WB4XBZ	Sacrum Non-Manual Manipulation
+9WB4XCZ	Manipulation of the Sacrum Indirect Visceral
+9WB4XCZ	Sacrum Indirect Visceral Manipulation
+9WB4XDZ	Manipulation of the Sacrum Extra-Articular
+9WB4XDZ	Sacrum Extra-Articular Manipulation
+9WB4XFZ	Manipulation of the Sacrum Direct Visceral
+9WB4XFZ	Sacrum Direct Visceral Manipulation
+9WB4XGZ	Manipulation of the Sacrum Long Lever Specific Contact
+9WB4XGZ	Sacrum Long Lever Specific Contact Manipulation
+9WB4XHZ	Manipulation of the Sacrum Short Lever Specific Contact
+9WB4XHZ	Sacrum Short Lever Specific Contact Manipulation
+9WB4XJZ	Manipulation of the Sacrum Long And Short Lever Specific Contact
+9WB4XJZ	Sacrum Long And Short Lever Specific Contact Manipulation
+9WB4XKZ	Manipulation of the Sacrum Mechanically Assisted
+9WB4XKZ	Sacrum Mechanically Assisted Manipulation
+9WB5XBZ	Manipulation of the Pelvis Non-Manual
+9WB5XBZ	Pelvis Non-Manual Manipulation
+9WB5XCZ	Manipulation of the Pelvis Indirect Visceral
+9WB5XCZ	Pelvis Indirect Visceral Manipulation
+9WB5XDZ	Manipulation of the Pelvis Extra-Articular
+9WB5XDZ	Pelvis Extra-Articular Manipulation
+9WB5XFZ	Manipulation of the Pelvis Direct Visceral
+9WB5XFZ	Pelvis Direct Visceral Manipulation
+9WB5XGZ	Manipulation of the Pelvis Long Lever Specific Contact
+9WB5XGZ	Pelvis Long Lever Specific Contact Manipulation
+9WB5XHZ	Manipulation of the Pelvis Short Lever Specific Contact
+9WB5XHZ	Pelvis Short Lever Specific Contact Manipulation
+9WB5XJZ	Manipulation of the Pelvis Long And Short Lever Specific Contact
+9WB5XJZ	Pelvis Long And Short Lever Specific Contact Manipulation
+9WB5XKZ	Manipulation of the Pelvis Mechanically Assisted
+9WB5XKZ	Pelvis Mechanically Assisted Manipulation
+9WB6XBZ	Manipulation of the Lower Extremities Non-Manual
+9WB6XBZ	Lower Extremities Non-Manual Manipulation
+9WB6XCZ	Manipulation of the Lower Extremities Indirect Visceral
+9WB6XCZ	Lower Extremities Indirect Visceral Manipulation
+9WB6XDZ	Manipulation of the Lower Extremities Extra-Articular
+9WB6XDZ	Lower Extremities Extra-Articular Manipulation
+9WB6XFZ	Manipulation of the Lower Extremities Direct Visceral
+9WB6XFZ	Lower Extremities Direct Visceral Manipulation
+9WB6XGZ	Manipulation of the Lower Extremities Long Lever Specific Contact
+9WB6XGZ	Lower Extremities Long Lever Specific Contact Manipulation
+9WB6XHZ	Manipulation of the Lower Extremities Short Lever Specific Contact
+9WB6XHZ	Lower Extremities Short Lever Specific Contact Manipulation
+9WB6XJZ	Manipulation of the Lower Extremities Long And Short Lever Specific Contact
+9WB6XJZ	Lower Extremities Long And Short Lever Specific Contact Manipulation
+9WB6XKZ	Manipulation of the Lower Extremities Mechanically Assisted
+9WB6XKZ	Lower Extremities Mechanically Assisted Manipulation
+9WB7XBZ	Manipulation of the Upper Extremities Non-Manual
+9WB7XBZ	Upper Extremities Non-Manual Manipulation
+9WB7XCZ	Manipulation of the Upper Extremities Indirect Visceral
+9WB7XCZ	Upper Extremities Indirect Visceral Manipulation
+9WB7XDZ	Manipulation of the Upper Extremities Extra-Articular
+9WB7XDZ	Upper Extremities Extra-Articular Manipulation
+9WB7XFZ	Manipulation of the Upper Extremities Direct Visceral
+9WB7XFZ	Upper Extremities Direct Visceral Manipulation
+9WB7XGZ	Manipulation of the Upper Extremities Long Lever Specific Contact
+9WB7XGZ	Upper Extremities Long Lever Specific Contact Manipulation
+9WB7XHZ	Manipulation of the Upper Extremities Short Lever Specific Contact
+9WB7XHZ	Upper Extremities Short Lever Specific Contact Manipulation
+9WB7XJZ	Manipulation of the Upper Extremities Long And Short Lever Specific Contact
+9WB7XJZ	Upper Extremities Long And Short Lever Specific Contact Manipulation
+9WB7XKZ	Manipulation of the Upper Extremities Mechanically Assisted
+9WB7XKZ	Upper Extremities Mechanically Assisted Manipulation
+9WB8XBZ	Manipulation of the Rib Cage Non-Manual
+9WB8XBZ	Rib Cage Non-Manual Manipulation
+9WB8XCZ	Manipulation of the Rib Cage Indirect Visceral
+9WB8XCZ	Rib Cage Indirect Visceral Manipulation
+9WB8XDZ	Manipulation of the Rib Cage Extra-Articular
+9WB8XDZ	Rib Cage Extra-Articular Manipulation
+9WB8XFZ	Manipulation of the Rib Cage Direct Visceral
+9WB8XFZ	Rib Cage Direct Visceral Manipulation
+9WB8XGZ	Manipulation of the Rib Cage Long Lever Specific Contact
+9WB8XGZ	Rib Cage Long Lever Specific Contact Manipulation
+9WB8XHZ	Manipulation of the Rib Cage Short Lever Specific Contact
+9WB8XHZ	Rib Cage Short Lever Specific Contact Manipulation
+9WB8XJZ	Manipulation of the Rib Cage Long And Short Lever Specific Contact
+9WB8XJZ	Rib Cage Long And Short Lever Specific Contact Manipulation
+9WB8XKZ	Manipulation of the Rib Cage Mechanically Assisted
+9WB8XKZ	Rib Cage Mechanically Assisted Manipulation
+9WB9XBZ	Manipulation of the Abdomen Non-Manual
+9WB9XBZ	Abdomen Non-Manual Manipulation
+9WB9XCZ	Manipulation of the Abdomen Indirect Visceral
+9WB9XCZ	Abdomen Indirect Visceral Manipulation
+9WB9XDZ	Manipulation of the Abdomen Extra-Articular
+9WB9XDZ	Abdomen Extra-Articular Manipulation
+9WB9XFZ	Manipulation of the Abdomen Direct Visceral
+9WB9XFZ	Abdomen Direct Visceral Manipulation
+9WB9XGZ	Manipulation of the Abdomen Long Lever Specific Contact
+9WB9XGZ	Abdomen Long Lever Specific Contact Manipulation
+9WB9XHZ	Manipulation of the Abdomen Short Lever Specific Contact
+9WB9XHZ	Abdomen Short Lever Specific Contact Manipulation
+9WB9XJZ	Manipulation of the Abdomen Long And Short Lever Specific Contact
+9WB9XJZ	Abdomen Long And Short Lever Specific Contact Manipulation
+9WB9XKZ	Manipulation of the Abdomen Mechanically Assisted
+9WB9XKZ	Abdomen Mechanically Assisted Manipulation

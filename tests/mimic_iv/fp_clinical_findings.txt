@@ -1,0 +1,208 @@
+# Clinical Findings and Assessment Phrases
+# These use medical vocabulary but describe conditions/findings, NOT procedures
+# Grammar should NOT match these
+#
+aortic dissection type A
+aortic dissection type B
+acute aortic dissection
+chronic aortic dissection
+carotid artery dissection
+vertebral artery dissection
+coronary artery dissection
+iliac artery dissection
+renal artery dissection
+splenic artery dissection
+mesenteric artery dissection
+femoral artery dissection
+spontaneous coronary artery dissection
+internal carotid artery dissection
+venous occlusion
+arterial occlusion
+retinal artery occlusion
+central retinal vein occlusion
+branch retinal vein occlusion
+mesenteric artery occlusion
+iliac artery occlusion
+basilar artery occlusion
+superior mesenteric artery occlusion
+deep vein thrombosis
+pulmonary embolism
+aortic aneurysm
+cerebral aneurysm
+abdominal aortic aneurysm
+thoracic aortic aneurysm
+ruptured aortic aneurysm
+ruptured cerebral aneurysm
+intracranial aneurysm
+myocardial infarction
+acute myocardial infarction
+ST elevation myocardial infarction
+non-ST elevation myocardial infarction
+cerebrovascular accident
+transient ischemic attack
+subarachnoid hemorrhage
+subdural hematoma
+epidural hematoma
+intracerebral hemorrhage
+pneumothorax
+tension pneumothorax
+hemothorax
+pleural effusion
+pericardial effusion
+cardiac tamponade
+atrial fibrillation
+ventricular tachycardia
+ventricular fibrillation
+heart failure
+congestive heart failure
+aortic stenosis
+mitral regurgitation
+tricuspid regurgitation
+pulmonary hypertension
+portal hypertension
+renal failure
+acute kidney injury
+chronic kidney disease
+hepatic failure
+liver cirrhosis
+pancreatitis
+acute pancreatitis
+chronic pancreatitis
+cholecystitis
+appendicitis
+diverticulitis
+bowel obstruction
+small bowel obstruction
+large bowel obstruction
+intestinal perforation
+gastric perforation
+duodenal perforation
+esophageal perforation
+sigmoid perforation
+cecal perforation
+colonic perforation
+bladder perforation
+uterine perforation
+tympanic membrane perforation
+septal perforation
+corneal perforation
+gastric ulcer perforation
+peptic ulcer perforation
+open fracture of the tibia
+open fracture of the femur
+open fracture of the humerus
+open fracture of the radius
+open fracture of the ulna
+closed fracture of the ankle
+displaced fracture of the patella
+comminuted fracture of the hip
+pathological fracture of the vertebra
+stress fracture of the metatarsal
+compression fracture of the spine
+avulsion fracture of the pelvis
+spiral fracture of the fibula
+greenstick fracture of the forearm
+ligament tear of the knee
+ACL tear
+meniscal tear
+rotator cuff tear
+Achilles tendon rupture
+biceps tendon rupture
+quadriceps tendon rupture
+patellar tendon rupture
+spinal cord compression
+nerve root compression
+cervical radiculopathy
+lumbar radiculopathy
+carpal tunnel syndrome
+cubital tunnel syndrome
+herniated disc
+disc herniation
+spinal stenosis
+cervical stenosis
+lumbar stenosis
+aortic valve stenosis
+mitral valve stenosis
+pyloric stenosis
+tracheal stenosis
+urethral stricture
+esophageal stricture
+biliary stricture
+anal stricture
+rectal stricture
+bowel adhesions
+peritoneal adhesions
+pleural adhesions
+pericardial adhesions
+joint effusion
+knee effusion
+ankle effusion
+hip effusion
+shoulder impingement
+rotator cuff impingement
+subacromial impingement
+nerve impingement
+spinal cord injury
+traumatic brain injury
+diffuse axonal injury
+closed head injury
+blunt abdominal trauma
+penetrating chest trauma
+splenic laceration
+hepatic laceration
+renal laceration
+cardiac contusion
+pulmonary contusion
+cerebral contusion
+bone marrow edema
+soft tissue edema
+cerebral edema
+pulmonary edema
+macular edema
+peripheral edema
+lymphedema
+angioedema
+abscess formation
+perianal abscess
+peritonsillar abscess
+hepatic abscess
+lung abscess
+brain abscess
+renal abscess
+epidural abscess
+subdural empyema
+wound dehiscence
+surgical site infection
+anastomotic leak
+bile leak
+CSF leak
+air leak
+urine leak
+lymph leak
+fistula formation
+arteriovenous fistula
+tracheoesophageal fistula
+rectovaginal fistula
+vesicovaginal fistula
+enterocutaneous fistula
+pancreatic fistula
+bronchopleural fistula
+colovesical fistula
+gastric outlet obstruction
+urinary retention
+urinary obstruction
+biliary obstruction
+airway obstruction
+nasal obstruction
+ureteral obstruction
+lymphatic obstruction
+venous insufficiency
+arterial insufficiency
+adrenal insufficiency
+pancreatic insufficiency
+hepatic insufficiency
+respiratory insufficiency
+cardiac insufficiency
+valve insufficiency
+placental insufficiency
+cervical insufficiency

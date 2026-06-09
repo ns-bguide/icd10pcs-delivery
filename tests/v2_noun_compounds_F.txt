@@ -1,0 +1,1452 @@
+F003GKZ	Speech Assessment of the Whole Body Neurological System Audiovisual Equipment
+F003GKZ	Whole Body Neurological System Audiovisual Equipment Speech Assessment
+F003GMZ	Speech Assessment of the Whole Body Neurological System Augmentative / Alternative Communication
+F003GMZ	Whole Body Neurological System Augmentative / Alternative Communication Speech Assessment
+F003GPZ	Speech Assessment of the Whole Body Neurological System Computer
+F003GPZ	Whole Body Neurological System Computer Speech Assessment
+F003GYZ	Speech Assessment of the Whole Body Neurological System Other Equipment
+F003GYZ	Whole Body Neurological System Other Equipment Speech Assessment
+F003GZZ	Speech Assessment of the Whole Body Neurological System
+F003GZZ	Whole Body Neurological System Speech Assessment
+F0100EZ	Motor And/Or Nerve Function Assessment of the Head And Neck Neurological System Orthosis
+F0100EZ	Head And Neck Neurological System Orthosis Motor And/Or Nerve Function Assessment
+F0100FZ	Motor And/Or Nerve Function Assessment of the Head And Neck Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0100FZ	Head And Neck Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor And/Or Nerve Function Assessment
+F0100UZ	Motor And/Or Nerve Function Assessment of the Head And Neck Neurological System Prosthesis
+F0100UZ	Head And Neck Neurological System Prosthesis Motor And/Or Nerve Function Assessment
+F0100YZ	Motor And/Or Nerve Function Assessment of the Head And Neck Neurological System Other Equipment
+F0100YZ	Head And Neck Neurological System Other Equipment Motor And/Or Nerve Function Assessment
+F0100ZZ	Motor And/Or Nerve Function Assessment of the Head And Neck Neurological System
+F0100ZZ	Head And Neck Neurological System Motor And/Or Nerve Function Assessment
+F0101ZZ	Motor And/Or Nerve Function Assessment of the Head And Neck Neurological System
+F0101ZZ	Head And Neck Neurological System Motor And/Or Nerve Function Assessment
+F0103ZZ	Motor And/Or Nerve Function Assessment of the Head And Neck Neurological System
+F0103ZZ	Head And Neck Neurological System Motor And/Or Nerve Function Assessment
+F0104ZZ	Motor And/Or Nerve Function Assessment of the Head And Neck Neurological System
+F0104ZZ	Head And Neck Neurological System Motor And/Or Nerve Function Assessment
+F0105YZ	Motor And/Or Nerve Function Assessment of the Head And Neck Neurological System Other Equipment
+F0105YZ	Head And Neck Neurological System Other Equipment Motor And/Or Nerve Function Assessment
+F0105ZZ	Motor And/Or Nerve Function Assessment of the Head And Neck Neurological System
+F0105ZZ	Head And Neck Neurological System Motor And/Or Nerve Function Assessment
+F0106YZ	Motor And/Or Nerve Function Assessment of the Head And Neck Neurological System Other Equipment
+F0106YZ	Head And Neck Neurological System Other Equipment Motor And/Or Nerve Function Assessment
+F0106ZZ	Motor And/Or Nerve Function Assessment of the Head And Neck Neurological System
+F0106ZZ	Head And Neck Neurological System Motor And/Or Nerve Function Assessment
+F010GZZ	Motor And/Or Nerve Function Assessment of the Head And Neck Neurological System
+F010GZZ	Head And Neck Neurological System Motor And/Or Nerve Function Assessment
+F0110EZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Neurological System Orthosis
+F0110EZ	Upper Back / Upper Extremity Neurological System Orthosis Motor And/Or Nerve Function Assessment
+F0110FZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0110FZ	Upper Back / Upper Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor And/Or Nerve Function Assessment
+F0110UZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Neurological System Prosthesis
+F0110UZ	Upper Back / Upper Extremity Neurological System Prosthesis Motor And/Or Nerve Function Assessment
+F0110YZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Neurological System Other Equipment
+F0110YZ	Upper Back / Upper Extremity Neurological System Other Equipment Motor And/Or Nerve Function Assessment
+F0110ZZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Neurological System
+F0110ZZ	Upper Back / Upper Extremity Neurological System Motor And/Or Nerve Function Assessment
+F0111ZZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Neurological System
+F0111ZZ	Upper Back / Upper Extremity Neurological System Motor And/Or Nerve Function Assessment
+F0113ZZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Neurological System
+F0113ZZ	Upper Back / Upper Extremity Neurological System Motor And/Or Nerve Function Assessment
+F0114ZZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Neurological System
+F0114ZZ	Upper Back / Upper Extremity Neurological System Motor And/Or Nerve Function Assessment
+F0115YZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Neurological System Other Equipment
+F0115YZ	Upper Back / Upper Extremity Neurological System Other Equipment Motor And/Or Nerve Function Assessment
+F0115ZZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Neurological System
+F0115ZZ	Upper Back / Upper Extremity Neurological System Motor And/Or Nerve Function Assessment
+F0116YZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Neurological System Other Equipment
+F0116YZ	Upper Back / Upper Extremity Neurological System Other Equipment Motor And/Or Nerve Function Assessment
+F0116ZZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Neurological System
+F0116ZZ	Upper Back / Upper Extremity Neurological System Motor And/Or Nerve Function Assessment
+F011GZZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Neurological System
+F011GZZ	Upper Back / Upper Extremity Neurological System Motor And/Or Nerve Function Assessment
+F0120EZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Neurological System Orthosis
+F0120EZ	Lower Back / Lower Extremity Neurological System Orthosis Motor And/Or Nerve Function Assessment
+F0120FZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0120FZ	Lower Back / Lower Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor And/Or Nerve Function Assessment
+F0120UZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Neurological System Prosthesis
+F0120UZ	Lower Back / Lower Extremity Neurological System Prosthesis Motor And/Or Nerve Function Assessment
+F0120YZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Neurological System Other Equipment
+F0120YZ	Lower Back / Lower Extremity Neurological System Other Equipment Motor And/Or Nerve Function Assessment
+F0120ZZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Neurological System
+F0120ZZ	Lower Back / Lower Extremity Neurological System Motor And/Or Nerve Function Assessment
+F0121ZZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Neurological System
+F0121ZZ	Lower Back / Lower Extremity Neurological System Motor And/Or Nerve Function Assessment
+F0123ZZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Neurological System
+F0123ZZ	Lower Back / Lower Extremity Neurological System Motor And/Or Nerve Function Assessment
+F0124ZZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Neurological System
+F0124ZZ	Lower Back / Lower Extremity Neurological System Motor And/Or Nerve Function Assessment
+F0125YZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Neurological System Other Equipment
+F0125YZ	Lower Back / Lower Extremity Neurological System Other Equipment Motor And/Or Nerve Function Assessment
+F0125ZZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Neurological System
+F0125ZZ	Lower Back / Lower Extremity Neurological System Motor And/Or Nerve Function Assessment
+F0126YZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Neurological System Other Equipment
+F0126YZ	Lower Back / Lower Extremity Neurological System Other Equipment Motor And/Or Nerve Function Assessment
+F0126ZZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Neurological System
+F0126ZZ	Lower Back / Lower Extremity Neurological System Motor And/Or Nerve Function Assessment
+F012GZZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Neurological System
+F012GZZ	Lower Back / Lower Extremity Neurological System Motor And/Or Nerve Function Assessment
+F0130EZ	Motor And/Or Nerve Function Assessment of the Whole Body Neurological System Orthosis
+F0130EZ	Whole Body Neurological System Orthosis Motor And/Or Nerve Function Assessment
+F0130FZ	Motor And/Or Nerve Function Assessment of the Whole Body Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0130FZ	Whole Body Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor And/Or Nerve Function Assessment
+F0130UZ	Motor And/Or Nerve Function Assessment of the Whole Body Neurological System Prosthesis
+F0130UZ	Whole Body Neurological System Prosthesis Motor And/Or Nerve Function Assessment
+F0130YZ	Motor And/Or Nerve Function Assessment of the Whole Body Neurological System Other Equipment
+F0130YZ	Whole Body Neurological System Other Equipment Motor And/Or Nerve Function Assessment
+F0130ZZ	Motor And/Or Nerve Function Assessment of the Whole Body Neurological System
+F0130ZZ	Whole Body Neurological System Motor And/Or Nerve Function Assessment
+F0131ZZ	Motor And/Or Nerve Function Assessment of the Whole Body Neurological System
+F0131ZZ	Whole Body Neurological System Motor And/Or Nerve Function Assessment
+F0133ZZ	Motor And/Or Nerve Function Assessment of the Whole Body Neurological System
+F0133ZZ	Whole Body Neurological System Motor And/Or Nerve Function Assessment
+F0134ZZ	Motor And/Or Nerve Function Assessment of the Whole Body Neurological System
+F0134ZZ	Whole Body Neurological System Motor And/Or Nerve Function Assessment
+F0135YZ	Motor And/Or Nerve Function Assessment of the Whole Body Neurological System Other Equipment
+F0135YZ	Whole Body Neurological System Other Equipment Motor And/Or Nerve Function Assessment
+F0135ZZ	Motor And/Or Nerve Function Assessment of the Whole Body Neurological System
+F0135ZZ	Whole Body Neurological System Motor And/Or Nerve Function Assessment
+F0136YZ	Motor And/Or Nerve Function Assessment of the Whole Body Neurological System Other Equipment
+F0136YZ	Whole Body Neurological System Other Equipment Motor And/Or Nerve Function Assessment
+F0136ZZ	Motor And/Or Nerve Function Assessment of the Whole Body Neurological System
+F0136ZZ	Whole Body Neurological System Motor And/Or Nerve Function Assessment
+F013GZZ	Motor And/Or Nerve Function Assessment of the Whole Body Neurological System
+F013GZZ	Whole Body Neurological System Motor And/Or Nerve Function Assessment
+F01D0EZ	Motor And/Or Nerve Function Assessment of the Head And Neck Integumentary System Orthosis
+F01D0EZ	Head And Neck Integumentary System Orthosis Motor And/Or Nerve Function Assessment
+F01D0FZ	Motor And/Or Nerve Function Assessment of the Head And Neck Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F01D0FZ	Head And Neck Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor And/Or Nerve Function Assessment
+F01D0UZ	Motor And/Or Nerve Function Assessment of the Head And Neck Integumentary System Prosthesis
+F01D0UZ	Head And Neck Integumentary System Prosthesis Motor And/Or Nerve Function Assessment
+F01D0YZ	Motor And/Or Nerve Function Assessment of the Head And Neck Integumentary System Other Equipment
+F01D0YZ	Head And Neck Integumentary System Other Equipment Motor And/Or Nerve Function Assessment
+F01D0ZZ	Motor And/Or Nerve Function Assessment of the Head And Neck Integumentary System
+F01D0ZZ	Head And Neck Integumentary System Motor And/Or Nerve Function Assessment
+F01D1ZZ	Motor And/Or Nerve Function Assessment of the Head And Neck Integumentary System
+F01D1ZZ	Head And Neck Integumentary System Motor And/Or Nerve Function Assessment
+F01D5YZ	Motor And/Or Nerve Function Assessment of the Head And Neck Integumentary System Other Equipment
+F01D5YZ	Head And Neck Integumentary System Other Equipment Motor And/Or Nerve Function Assessment
+F01D5ZZ	Motor And/Or Nerve Function Assessment of the Head And Neck Integumentary System
+F01D5ZZ	Head And Neck Integumentary System Motor And/Or Nerve Function Assessment
+F01D6YZ	Motor And/Or Nerve Function Assessment of the Head And Neck Integumentary System Other Equipment
+F01D6YZ	Head And Neck Integumentary System Other Equipment Motor And/Or Nerve Function Assessment
+F01D6ZZ	Motor And/Or Nerve Function Assessment of the Head And Neck Integumentary System
+F01D6ZZ	Head And Neck Integumentary System Motor And/Or Nerve Function Assessment
+F01F0EZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Integumentary System Orthosis
+F01F0EZ	Upper Back / Upper Extremity Integumentary System Orthosis Motor And/Or Nerve Function Assessment
+F01F0FZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F01F0FZ	Upper Back / Upper Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor And/Or Nerve Function Assessment
+F01F0UZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Integumentary System Prosthesis
+F01F0UZ	Upper Back / Upper Extremity Integumentary System Prosthesis Motor And/Or Nerve Function Assessment
+F01F0YZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Integumentary System Other Equipment
+F01F0YZ	Upper Back / Upper Extremity Integumentary System Other Equipment Motor And/Or Nerve Function Assessment
+F01F0ZZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Integumentary System
+F01F0ZZ	Upper Back / Upper Extremity Integumentary System Motor And/Or Nerve Function Assessment
+F01F1ZZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Integumentary System
+F01F1ZZ	Upper Back / Upper Extremity Integumentary System Motor And/Or Nerve Function Assessment
+F01F5YZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Integumentary System Other Equipment
+F01F5YZ	Upper Back / Upper Extremity Integumentary System Other Equipment Motor And/Or Nerve Function Assessment
+F01F5ZZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Integumentary System
+F01F5ZZ	Upper Back / Upper Extremity Integumentary System Motor And/Or Nerve Function Assessment
+F01F6YZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Integumentary System Other Equipment
+F01F6YZ	Upper Back / Upper Extremity Integumentary System Other Equipment Motor And/Or Nerve Function Assessment
+F01F6ZZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Integumentary System
+F01F6ZZ	Upper Back / Upper Extremity Integumentary System Motor And/Or Nerve Function Assessment
+F01G0EZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Integumentary System Orthosis
+F01G0EZ	Lower Back / Lower Extremity Integumentary System Orthosis Motor And/Or Nerve Function Assessment
+F01G0FZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F01G0FZ	Lower Back / Lower Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor And/Or Nerve Function Assessment
+F01G0UZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Integumentary System Prosthesis
+F01G0UZ	Lower Back / Lower Extremity Integumentary System Prosthesis Motor And/Or Nerve Function Assessment
+F01G0YZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Integumentary System Other Equipment
+F01G0YZ	Lower Back / Lower Extremity Integumentary System Other Equipment Motor And/Or Nerve Function Assessment
+F01G0ZZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Integumentary System
+F01G0ZZ	Lower Back / Lower Extremity Integumentary System Motor And/Or Nerve Function Assessment
+F01G1ZZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Integumentary System
+F01G1ZZ	Lower Back / Lower Extremity Integumentary System Motor And/Or Nerve Function Assessment
+F01G5YZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Integumentary System Other Equipment
+F01G5YZ	Lower Back / Lower Extremity Integumentary System Other Equipment Motor And/Or Nerve Function Assessment
+F01G5ZZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Integumentary System
+F01G5ZZ	Lower Back / Lower Extremity Integumentary System Motor And/Or Nerve Function Assessment
+F01G6YZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Integumentary System Other Equipment
+F01G6YZ	Lower Back / Lower Extremity Integumentary System Other Equipment Motor And/Or Nerve Function Assessment
+F01G6ZZ	Motor And/Or Nerve Function Assessment of the Lower Back / Lower Extremity Integumentary System
+F01G6ZZ	Lower Back / Lower Extremity Integumentary System Motor And/Or Nerve Function Assessment
+F01H0EZ	Motor And/Or Nerve Function Assessment of the Whole Body Integumentary System Orthosis
+F01H0EZ	Whole Body Integumentary System Orthosis Motor And/Or Nerve Function Assessment
+F01H0FZ	Motor And/Or Nerve Function Assessment of the Whole Body Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F01H0FZ	Whole Body Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor And/Or Nerve Function Assessment
+F01H0UZ	Motor And/Or Nerve Function Assessment of the Whole Body Integumentary System Prosthesis
+F01H0UZ	Whole Body Integumentary System Prosthesis Motor And/Or Nerve Function Assessment
+F01H0YZ	Motor And/Or Nerve Function Assessment of the Whole Body Integumentary System Other Equipment
+F01H0YZ	Whole Body Integumentary System Other Equipment Motor And/Or Nerve Function Assessment
+F01H0ZZ	Motor And/Or Nerve Function Assessment of the Whole Body Integumentary System
+F01H0ZZ	Whole Body Integumentary System Motor And/Or Nerve Function Assessment
+F01H1ZZ	Motor And/Or Nerve Function Assessment of the Whole Body Integumentary System
+F01H1ZZ	Whole Body Integumentary System Motor And/Or Nerve Function Assessment
+F01H5YZ	Motor And/Or Nerve Function Assessment of the Whole Body Integumentary System Other Equipment
+F01H5YZ	Whole Body Integumentary System Other Equipment Motor And/Or Nerve Function Assessment
+F01H5ZZ	Motor And/Or Nerve Function Assessment of the Whole Body Integumentary System
+F01H5ZZ	Whole Body Integumentary System Motor And/Or Nerve Function Assessment
+F01H6YZ	Motor And/Or Nerve Function Assessment of the Whole Body Integumentary System Other Equipment
+F01H6YZ	Whole Body Integumentary System Other Equipment Motor And/Or Nerve Function Assessment
+F01H6ZZ	Motor And/Or Nerve Function Assessment of the Whole Body Integumentary System
+F01H6ZZ	Whole Body Integumentary System Motor And/Or Nerve Function Assessment
+F01J0EZ	Motor And/Or Nerve Function Assessment of the Head And Neck Musculoskeletal System Orthosis
+F01J0EZ	Head And Neck Musculoskeletal System Orthosis Motor And/Or Nerve Function Assessment
+F01J0FZ	Motor And/Or Nerve Function Assessment of the Head And Neck Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F01J0FZ	Head And Neck Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor And/Or Nerve Function Assessment
+F01J0UZ	Motor And/Or Nerve Function Assessment of the Head And Neck Musculoskeletal System Prosthesis
+F01J0UZ	Head And Neck Musculoskeletal System Prosthesis Motor And/Or Nerve Function Assessment
+F01J0YZ	Motor And/Or Nerve Function Assessment of the Head And Neck Musculoskeletal System Other Equipment
+F01J0YZ	Head And Neck Musculoskeletal System Other Equipment Motor And/Or Nerve Function Assessment
+F01J0ZZ	Motor And/Or Nerve Function Assessment of the Head And Neck Musculoskeletal System
+F01J0ZZ	Head And Neck Musculoskeletal System Motor And/Or Nerve Function Assessment
+F01J1ZZ	Motor And/Or Nerve Function Assessment of the Head And Neck Musculoskeletal System
+F01J1ZZ	Head And Neck Musculoskeletal System Motor And/Or Nerve Function Assessment
+F01J5YZ	Motor And/Or Nerve Function Assessment of the Head And Neck Musculoskeletal System Other Equipment
+F01J5YZ	Head And Neck Musculoskeletal System Other Equipment Motor And/Or Nerve Function Assessment
+F01J5ZZ	Motor And/Or Nerve Function Assessment of the Head And Neck Musculoskeletal System
+F01J5ZZ	Head And Neck Musculoskeletal System Motor And/Or Nerve Function Assessment
+F01J6YZ	Motor And/Or Nerve Function Assessment of the Head And Neck Musculoskeletal System Other Equipment
+F01J6YZ	Head And Neck Musculoskeletal System Other Equipment Motor And/Or Nerve Function Assessment
+F01J6ZZ	Motor And/Or Nerve Function Assessment of the Head And Neck Musculoskeletal System
+F01J6ZZ	Head And Neck Musculoskeletal System Motor And/Or Nerve Function Assessment
+F01K0EZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Musculoskeletal System Orthosis
+F01K0EZ	Upper Back / Upper Extremity Musculoskeletal System Orthosis Motor And/Or Nerve Function Assessment
+F01K0FZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F01K0FZ	Upper Back / Upper Extremity Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor And/Or Nerve Function Assessment
+F01K0UZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Musculoskeletal System Prosthesis
+F01K0UZ	Upper Back / Upper Extremity Musculoskeletal System Prosthesis Motor And/Or Nerve Function Assessment
+F01K0YZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Musculoskeletal System Other Equipment
+F01K0YZ	Upper Back / Upper Extremity Musculoskeletal System Other Equipment Motor And/Or Nerve Function Assessment
+F01K0ZZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Musculoskeletal System
+F01K0ZZ	Upper Back / Upper Extremity Musculoskeletal System Motor And/Or Nerve Function Assessment
+F01K1ZZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Musculoskeletal System
+F01K1ZZ	Upper Back / Upper Extremity Musculoskeletal System Motor And/Or Nerve Function Assessment
+F01K5YZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Musculoskeletal System Other Equipment
+F01K5YZ	Upper Back / Upper Extremity Musculoskeletal System Other Equipment Motor And/Or Nerve Function Assessment
+F01K5ZZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Musculoskeletal System
+F01K5ZZ	Upper Back / Upper Extremity Musculoskeletal System Motor And/Or Nerve Function Assessment
+F01K6YZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Musculoskeletal System Other Equipment
+F01K6YZ	Upper Back / Upper Extremity Musculoskeletal System Other Equipment Motor And/Or Nerve Function Assessment
+F01K6ZZ	Motor And/Or Nerve Function Assessment of the Upper Back / Upper Extremity Musculoskeletal System
+F01K6ZZ	Upper Back / Upper Extremity Musculoskeletal System Motor And/Or Nerve Function Assessment
+F01M0EZ	Motor And/Or Nerve Function Assessment of the Whole Body Musculoskeletal System Orthosis
+F01M0EZ	Whole Body Musculoskeletal System Orthosis Motor And/Or Nerve Function Assessment
+F01M0FZ	Motor And/Or Nerve Function Assessment of the Whole Body Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F01M0FZ	Whole Body Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor And/Or Nerve Function Assessment
+F01M0UZ	Motor And/Or Nerve Function Assessment of the Whole Body Musculoskeletal System Prosthesis
+F01M0UZ	Whole Body Musculoskeletal System Prosthesis Motor And/Or Nerve Function Assessment
+F01M0YZ	Motor And/Or Nerve Function Assessment of the Whole Body Musculoskeletal System Other Equipment
+F01M0YZ	Whole Body Musculoskeletal System Other Equipment Motor And/Or Nerve Function Assessment
+F01M0ZZ	Motor And/Or Nerve Function Assessment of the Whole Body Musculoskeletal System
+F01M0ZZ	Whole Body Musculoskeletal System Motor And/Or Nerve Function Assessment
+F01M1ZZ	Motor And/Or Nerve Function Assessment of the Whole Body Musculoskeletal System
+F01M1ZZ	Whole Body Musculoskeletal System Motor And/Or Nerve Function Assessment
+F01M5YZ	Motor And/Or Nerve Function Assessment of the Whole Body Musculoskeletal System Other Equipment
+F01M5YZ	Whole Body Musculoskeletal System Other Equipment Motor And/Or Nerve Function Assessment
+F01M5ZZ	Motor And/Or Nerve Function Assessment of the Whole Body Musculoskeletal System
+F01M5ZZ	Whole Body Musculoskeletal System Motor And/Or Nerve Function Assessment
+F01M6YZ	Motor And/Or Nerve Function Assessment of the Whole Body Musculoskeletal System Other Equipment
+F01M6YZ	Whole Body Musculoskeletal System Other Equipment Motor And/Or Nerve Function Assessment
+F01M6ZZ	Motor And/Or Nerve Function Assessment of the Whole Body Musculoskeletal System
+F01M6ZZ	Whole Body Musculoskeletal System Motor And/Or Nerve Function Assessment
+F01N0EZ	Motor And/Or Nerve Function Assessment of the Genitourinary System Orthosis
+F01N0EZ	Genitourinary System Orthosis Motor And/Or Nerve Function Assessment
+F01N0FZ	Motor And/Or Nerve Function Assessment of the Genitourinary System Assistive, Adaptive, Supportive Or Protective Equipment
+F01N0FZ	Genitourinary System Assistive, Adaptive, Supportive Or Protective Equipment Motor And/Or Nerve Function Assessment
+F01N0UZ	Motor And/Or Nerve Function Assessment of the Genitourinary System Prosthesis
+F01N0UZ	Genitourinary System Prosthesis Motor And/Or Nerve Function Assessment
+F01N0YZ	Motor And/Or Nerve Function Assessment of the Genitourinary System Other Equipment
+F01N0YZ	Genitourinary System Other Equipment Motor And/Or Nerve Function Assessment
+F01N0ZZ	Motor And/Or Nerve Function Assessment of the Genitourinary System
+F01N0ZZ	Genitourinary System Motor And/Or Nerve Function Assessment
+F0209YZ	Activities Of Daily Living Assessment of the Head And Neck Neurological System Other Equipment
+F0209YZ	Head And Neck Neurological System Other Equipment Activities Of Daily Living Assessment
+F0209ZZ	Activities Of Daily Living Assessment of the Head And Neck Neurological System
+F0209ZZ	Head And Neck Neurological System Activities Of Daily Living Assessment
+F020DYZ	Activities Of Daily Living Assessment of the Head And Neck Neurological System Other Equipment
+F020DYZ	Head And Neck Neurological System Other Equipment Activities Of Daily Living Assessment
+F020DZZ	Activities Of Daily Living Assessment of the Head And Neck Neurological System
+F020DZZ	Head And Neck Neurological System Activities Of Daily Living Assessment
+F021DYZ	Activities Of Daily Living Assessment of the Upper Back / Upper Extremity Neurological System Other Equipment
+F021DYZ	Upper Back / Upper Extremity Neurological System Other Equipment Activities Of Daily Living Assessment
+F021DZZ	Activities Of Daily Living Assessment of the Upper Back / Upper Extremity Neurological System
+F021DZZ	Upper Back / Upper Extremity Neurological System Activities Of Daily Living Assessment
+F022DYZ	Activities Of Daily Living Assessment of the Lower Back / Lower Extremity Neurological System Other Equipment
+F022DYZ	Lower Back / Lower Extremity Neurological System Other Equipment Activities Of Daily Living Assessment
+F022DZZ	Activities Of Daily Living Assessment of the Lower Back / Lower Extremity Neurological System
+F022DZZ	Lower Back / Lower Extremity Neurological System Activities Of Daily Living Assessment
+F023DYZ	Activities Of Daily Living Assessment of the Whole Body Neurological System Other Equipment
+F023DYZ	Whole Body Neurological System Other Equipment Activities Of Daily Living Assessment
+F023DZZ	Activities Of Daily Living Assessment of the Whole Body Neurological System
+F023DZZ	Whole Body Neurological System Activities Of Daily Living Assessment
+F024GCZ	Activities Of Daily Living Assessment of the Head And Neck Circulatory System Mechanical
+F024GCZ	Head And Neck Circulatory System Mechanical Activities Of Daily Living Assessment
+F024GGZ	Activities Of Daily Living Assessment of the Head And Neck Circulatory System Aerobic Endurance And Conditioning
+F024GGZ	Head And Neck Circulatory System Aerobic Endurance And Conditioning Activities Of Daily Living Assessment
+F024GYZ	Activities Of Daily Living Assessment of the Head And Neck Circulatory System Other Equipment
+F024GYZ	Head And Neck Circulatory System Other Equipment Activities Of Daily Living Assessment
+F024GZZ	Activities Of Daily Living Assessment of the Head And Neck Circulatory System
+F024GZZ	Head And Neck Circulatory System Activities Of Daily Living Assessment
+F025GCZ	Activities Of Daily Living Assessment of the Upper Back / Upper Extremity Circulatory System Mechanical
+F025GCZ	Upper Back / Upper Extremity Circulatory System Mechanical Activities Of Daily Living Assessment
+F025GGZ	Activities Of Daily Living Assessment of the Upper Back / Upper Extremity Circulatory System Aerobic Endurance And Conditioning
+F025GGZ	Upper Back / Upper Extremity Circulatory System Aerobic Endurance And Conditioning Activities Of Daily Living Assessment
+F025GYZ	Activities Of Daily Living Assessment of the Upper Back / Upper Extremity Circulatory System Other Equipment
+F025GYZ	Upper Back / Upper Extremity Circulatory System Other Equipment Activities Of Daily Living Assessment
+F025GZZ	Activities Of Daily Living Assessment of the Upper Back / Upper Extremity Circulatory System
+F025GZZ	Upper Back / Upper Extremity Circulatory System Activities Of Daily Living Assessment
+F026GCZ	Activities Of Daily Living Assessment of the Lower Back / Lower Extremity Circulatory System Mechanical
+F026GCZ	Lower Back / Lower Extremity Circulatory System Mechanical Activities Of Daily Living Assessment
+F026GGZ	Activities Of Daily Living Assessment of the Lower Back / Lower Extremity Circulatory System Aerobic Endurance And Conditioning
+F026GGZ	Lower Back / Lower Extremity Circulatory System Aerobic Endurance And Conditioning Activities Of Daily Living Assessment
+F026GYZ	Activities Of Daily Living Assessment of the Lower Back / Lower Extremity Circulatory System Other Equipment
+F026GYZ	Lower Back / Lower Extremity Circulatory System Other Equipment Activities Of Daily Living Assessment
+F026GZZ	Activities Of Daily Living Assessment of the Lower Back / Lower Extremity Circulatory System
+F026GZZ	Lower Back / Lower Extremity Circulatory System Activities Of Daily Living Assessment
+F0277EZ	Activities Of Daily Living Assessment of the Whole Body Circulatory System Orthosis
+F0277EZ	Whole Body Circulatory System Orthosis Activities Of Daily Living Assessment
+F0277GZ	Activities Of Daily Living Assessment of the Whole Body Circulatory System Aerobic Endurance And Conditioning
+F0277GZ	Whole Body Circulatory System Aerobic Endurance And Conditioning Activities Of Daily Living Assessment
+F0277UZ	Activities Of Daily Living Assessment of the Whole Body Circulatory System Prosthesis
+F0277UZ	Whole Body Circulatory System Prosthesis Activities Of Daily Living Assessment
+F0277YZ	Activities Of Daily Living Assessment of the Whole Body Circulatory System Other Equipment
+F0277YZ	Whole Body Circulatory System Other Equipment Activities Of Daily Living Assessment
+F0277ZZ	Activities Of Daily Living Assessment of the Whole Body Circulatory System
+F0277ZZ	Whole Body Circulatory System Activities Of Daily Living Assessment
+F027GCZ	Activities Of Daily Living Assessment of the Whole Body Circulatory System Mechanical
+F027GCZ	Whole Body Circulatory System Mechanical Activities Of Daily Living Assessment
+F027GGZ	Activities Of Daily Living Assessment of the Whole Body Circulatory System Aerobic Endurance And Conditioning
+F027GGZ	Whole Body Circulatory System Aerobic Endurance And Conditioning Activities Of Daily Living Assessment
+F027GYZ	Activities Of Daily Living Assessment of the Whole Body Circulatory System Other Equipment
+F027GYZ	Whole Body Circulatory System Other Equipment Activities Of Daily Living Assessment
+F027GZZ	Activities Of Daily Living Assessment of the Whole Body Circulatory System
+F027GZZ	Whole Body Circulatory System Activities Of Daily Living Assessment
+F028GCZ	Activities Of Daily Living Assessment of the Head And Neck Respiratory System Mechanical
+F028GCZ	Head And Neck Respiratory System Mechanical Activities Of Daily Living Assessment
+F028GGZ	Activities Of Daily Living Assessment of the Head And Neck Respiratory System Aerobic Endurance And Conditioning
+F028GGZ	Head And Neck Respiratory System Aerobic Endurance And Conditioning Activities Of Daily Living Assessment
+F028GYZ	Activities Of Daily Living Assessment of the Head And Neck Respiratory System Other Equipment
+F028GYZ	Head And Neck Respiratory System Other Equipment Activities Of Daily Living Assessment
+F028GZZ	Activities Of Daily Living Assessment of the Head And Neck Respiratory System
+F028GZZ	Head And Neck Respiratory System Activities Of Daily Living Assessment
+F029GCZ	Activities Of Daily Living Assessment of the Upper Back / Upper Extremity Respiratory System Mechanical
+F029GCZ	Upper Back / Upper Extremity Respiratory System Mechanical Activities Of Daily Living Assessment
+F029GGZ	Activities Of Daily Living Assessment of the Upper Back / Upper Extremity Respiratory System Aerobic Endurance And Conditioning
+F029GGZ	Upper Back / Upper Extremity Respiratory System Aerobic Endurance And Conditioning Activities Of Daily Living Assessment
+F029GYZ	Activities Of Daily Living Assessment of the Upper Back / Upper Extremity Respiratory System Other Equipment
+F029GYZ	Upper Back / Upper Extremity Respiratory System Other Equipment Activities Of Daily Living Assessment
+F029GZZ	Activities Of Daily Living Assessment of the Upper Back / Upper Extremity Respiratory System
+F029GZZ	Upper Back / Upper Extremity Respiratory System Activities Of Daily Living Assessment
+F02BGCZ	Activities Of Daily Living Assessment of the Lower Back / Lower Extremity Respiratory System Mechanical
+F02BGCZ	Lower Back / Lower Extremity Respiratory System Mechanical Activities Of Daily Living Assessment
+F02BGGZ	Activities Of Daily Living Assessment of the Lower Back / Lower Extremity Respiratory System Aerobic Endurance And Conditioning
+F02BGGZ	Lower Back / Lower Extremity Respiratory System Aerobic Endurance And Conditioning Activities Of Daily Living Assessment
+F02BGYZ	Activities Of Daily Living Assessment of the Lower Back / Lower Extremity Respiratory System Other Equipment
+F02BGYZ	Lower Back / Lower Extremity Respiratory System Other Equipment Activities Of Daily Living Assessment
+F02BGZZ	Activities Of Daily Living Assessment of the Lower Back / Lower Extremity Respiratory System
+F02BGZZ	Lower Back / Lower Extremity Respiratory System Activities Of Daily Living Assessment
+F02C7EZ	Activities Of Daily Living Assessment of the Whole Body Respiratory System Orthosis
+F02C7EZ	Whole Body Respiratory System Orthosis Activities Of Daily Living Assessment
+F02C7GZ	Activities Of Daily Living Assessment of the Whole Body Respiratory System Aerobic Endurance And Conditioning
+F02C7GZ	Whole Body Respiratory System Aerobic Endurance And Conditioning Activities Of Daily Living Assessment
+F02C7UZ	Activities Of Daily Living Assessment of the Whole Body Respiratory System Prosthesis
+F02C7UZ	Whole Body Respiratory System Prosthesis Activities Of Daily Living Assessment
+F02C7YZ	Activities Of Daily Living Assessment of the Whole Body Respiratory System Other Equipment
+F02C7YZ	Whole Body Respiratory System Other Equipment Activities Of Daily Living Assessment
+F02C7ZZ	Activities Of Daily Living Assessment of the Whole Body Respiratory System
+F02C7ZZ	Whole Body Respiratory System Activities Of Daily Living Assessment
+F02CGCZ	Activities Of Daily Living Assessment of the Whole Body Respiratory System Mechanical
+F02CGCZ	Whole Body Respiratory System Mechanical Activities Of Daily Living Assessment
+F02CGGZ	Activities Of Daily Living Assessment of the Whole Body Respiratory System Aerobic Endurance And Conditioning
+F02CGGZ	Whole Body Respiratory System Aerobic Endurance And Conditioning Activities Of Daily Living Assessment
+F02CGYZ	Activities Of Daily Living Assessment of the Whole Body Respiratory System Other Equipment
+F02CGYZ	Whole Body Respiratory System Other Equipment Activities Of Daily Living Assessment
+F02CGZZ	Activities Of Daily Living Assessment of the Whole Body Respiratory System
+F02CGZZ	Whole Body Respiratory System Activities Of Daily Living Assessment
+F0636KZ	Speech Treatment of the Whole Body Neurological System Audiovisual Equipment
+F0636KZ	Whole Body Neurological System Audiovisual Equipment Speech Treatment
+F0636MZ	Speech Treatment of the Whole Body Neurological System Augmentative / Alternative Communication
+F0636MZ	Whole Body Neurological System Augmentative / Alternative Communication Speech Treatment
+F0636PZ	Speech Treatment of the Whole Body Neurological System Computer
+F0636PZ	Whole Body Neurological System Computer Speech Treatment
+F0636YZ	Speech Treatment of the Whole Body Neurological System Other Equipment
+F0636YZ	Whole Body Neurological System Other Equipment Speech Treatment
+F0636ZZ	Speech Treatment of the Whole Body Neurological System
+F0636ZZ	Whole Body Neurological System Speech Treatment
+F0700EZ	Motor Treatment of the Head And Neck Neurological System Orthosis
+F0700EZ	Head And Neck Neurological System Orthosis Motor Treatment
+F0700FZ	Motor Treatment of the Head And Neck Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0700FZ	Head And Neck Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0700UZ	Motor Treatment of the Head And Neck Neurological System Prosthesis
+F0700UZ	Head And Neck Neurological System Prosthesis Motor Treatment
+F0700YZ	Motor Treatment of the Head And Neck Neurological System Other Equipment
+F0700YZ	Head And Neck Neurological System Other Equipment Motor Treatment
+F0700ZZ	Motor Treatment of the Head And Neck Neurological System
+F0700ZZ	Head And Neck Neurological System Motor Treatment
+F0701EZ	Motor Treatment of the Head And Neck Neurological System Orthosis
+F0701EZ	Head And Neck Neurological System Orthosis Motor Treatment
+F0701FZ	Motor Treatment of the Head And Neck Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0701FZ	Head And Neck Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0701UZ	Motor Treatment of the Head And Neck Neurological System Prosthesis
+F0701UZ	Head And Neck Neurological System Prosthesis Motor Treatment
+F0701YZ	Motor Treatment of the Head And Neck Neurological System Other Equipment
+F0701YZ	Head And Neck Neurological System Other Equipment Motor Treatment
+F0701ZZ	Motor Treatment of the Head And Neck Neurological System
+F0701ZZ	Head And Neck Neurological System Motor Treatment
+F0702EZ	Motor Treatment of the Head And Neck Neurological System Orthosis
+F0702EZ	Head And Neck Neurological System Orthosis Motor Treatment
+F0702FZ	Motor Treatment of the Head And Neck Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0702FZ	Head And Neck Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0702UZ	Motor Treatment of the Head And Neck Neurological System Prosthesis
+F0702UZ	Head And Neck Neurological System Prosthesis Motor Treatment
+F0702YZ	Motor Treatment of the Head And Neck Neurological System Other Equipment
+F0702YZ	Head And Neck Neurological System Other Equipment Motor Treatment
+F0702ZZ	Motor Treatment of the Head And Neck Neurological System
+F0702ZZ	Head And Neck Neurological System Motor Treatment
+F0703EZ	Motor Treatment of the Head And Neck Neurological System Orthosis
+F0703EZ	Head And Neck Neurological System Orthosis Motor Treatment
+F0703FZ	Motor Treatment of the Head And Neck Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0703FZ	Head And Neck Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0703UZ	Motor Treatment of the Head And Neck Neurological System Prosthesis
+F0703UZ	Head And Neck Neurological System Prosthesis Motor Treatment
+F0703YZ	Motor Treatment of the Head And Neck Neurological System Other Equipment
+F0703YZ	Head And Neck Neurological System Other Equipment Motor Treatment
+F0703ZZ	Motor Treatment of the Head And Neck Neurological System
+F0703ZZ	Head And Neck Neurological System Motor Treatment
+F0706BZ	Motor Treatment of the Head And Neck Neurological System Physical Agents
+F0706BZ	Head And Neck Neurological System Physical Agents Motor Treatment
+F0706CZ	Motor Treatment of the Head And Neck Neurological System Mechanical
+F0706CZ	Head And Neck Neurological System Mechanical Motor Treatment
+F0706DZ	Motor Treatment of the Head And Neck Neurological System Electrotherapeutic
+F0706DZ	Head And Neck Neurological System Electrotherapeutic Motor Treatment
+F0706EZ	Motor Treatment of the Head And Neck Neurological System Orthosis
+F0706EZ	Head And Neck Neurological System Orthosis Motor Treatment
+F0706FZ	Motor Treatment of the Head And Neck Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0706FZ	Head And Neck Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0706GZ	Motor Treatment of the Head And Neck Neurological System Aerobic Endurance And Conditioning
+F0706GZ	Head And Neck Neurological System Aerobic Endurance And Conditioning Motor Treatment
+F0706HZ	Motor Treatment of the Head And Neck Neurological System Mechanical Or Electromechanical
+F0706HZ	Head And Neck Neurological System Mechanical Or Electromechanical Motor Treatment
+F0706UZ	Motor Treatment of the Head And Neck Neurological System Prosthesis
+F0706UZ	Head And Neck Neurological System Prosthesis Motor Treatment
+F0706YZ	Motor Treatment of the Head And Neck Neurological System Other Equipment
+F0706YZ	Head And Neck Neurological System Other Equipment Motor Treatment
+F0706ZZ	Motor Treatment of the Head And Neck Neurological System
+F0706ZZ	Head And Neck Neurological System Motor Treatment
+F0707ZZ	Motor Treatment of the Head And Neck Neurological System
+F0707ZZ	Head And Neck Neurological System Motor Treatment
+F0710EZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Orthosis
+F0710EZ	Upper Back / Upper Extremity Neurological System Orthosis Motor Treatment
+F0710FZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0710FZ	Upper Back / Upper Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0710UZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Prosthesis
+F0710UZ	Upper Back / Upper Extremity Neurological System Prosthesis Motor Treatment
+F0710YZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Other Equipment
+F0710YZ	Upper Back / Upper Extremity Neurological System Other Equipment Motor Treatment
+F0710ZZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System
+F0710ZZ	Upper Back / Upper Extremity Neurological System Motor Treatment
+F0711EZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Orthosis
+F0711EZ	Upper Back / Upper Extremity Neurological System Orthosis Motor Treatment
+F0711FZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0711FZ	Upper Back / Upper Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0711UZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Prosthesis
+F0711UZ	Upper Back / Upper Extremity Neurological System Prosthesis Motor Treatment
+F0711YZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Other Equipment
+F0711YZ	Upper Back / Upper Extremity Neurological System Other Equipment Motor Treatment
+F0711ZZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System
+F0711ZZ	Upper Back / Upper Extremity Neurological System Motor Treatment
+F0712EZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Orthosis
+F0712EZ	Upper Back / Upper Extremity Neurological System Orthosis Motor Treatment
+F0712FZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0712FZ	Upper Back / Upper Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0712UZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Prosthesis
+F0712UZ	Upper Back / Upper Extremity Neurological System Prosthesis Motor Treatment
+F0712YZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Other Equipment
+F0712YZ	Upper Back / Upper Extremity Neurological System Other Equipment Motor Treatment
+F0712ZZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System
+F0712ZZ	Upper Back / Upper Extremity Neurological System Motor Treatment
+F0713EZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Orthosis
+F0713EZ	Upper Back / Upper Extremity Neurological System Orthosis Motor Treatment
+F0713FZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0713FZ	Upper Back / Upper Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0713UZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Prosthesis
+F0713UZ	Upper Back / Upper Extremity Neurological System Prosthesis Motor Treatment
+F0713YZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Other Equipment
+F0713YZ	Upper Back / Upper Extremity Neurological System Other Equipment Motor Treatment
+F0713ZZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System
+F0713ZZ	Upper Back / Upper Extremity Neurological System Motor Treatment
+F0716BZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Physical Agents
+F0716BZ	Upper Back / Upper Extremity Neurological System Physical Agents Motor Treatment
+F0716CZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Mechanical
+F0716CZ	Upper Back / Upper Extremity Neurological System Mechanical Motor Treatment
+F0716DZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Electrotherapeutic
+F0716DZ	Upper Back / Upper Extremity Neurological System Electrotherapeutic Motor Treatment
+F0716EZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Orthosis
+F0716EZ	Upper Back / Upper Extremity Neurological System Orthosis Motor Treatment
+F0716FZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0716FZ	Upper Back / Upper Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0716GZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Aerobic Endurance And Conditioning
+F0716GZ	Upper Back / Upper Extremity Neurological System Aerobic Endurance And Conditioning Motor Treatment
+F0716HZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Mechanical Or Electromechanical
+F0716HZ	Upper Back / Upper Extremity Neurological System Mechanical Or Electromechanical Motor Treatment
+F0716UZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Prosthesis
+F0716UZ	Upper Back / Upper Extremity Neurological System Prosthesis Motor Treatment
+F0716YZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System Other Equipment
+F0716YZ	Upper Back / Upper Extremity Neurological System Other Equipment Motor Treatment
+F0716ZZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System
+F0716ZZ	Upper Back / Upper Extremity Neurological System Motor Treatment
+F0717ZZ	Motor Treatment of the Upper Back / Upper Extremity Neurological System
+F0717ZZ	Upper Back / Upper Extremity Neurological System Motor Treatment
+F0720EZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Orthosis
+F0720EZ	Lower Back / Lower Extremity Neurological System Orthosis Motor Treatment
+F0720FZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0720FZ	Lower Back / Lower Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0720UZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Prosthesis
+F0720UZ	Lower Back / Lower Extremity Neurological System Prosthesis Motor Treatment
+F0720YZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Other Equipment
+F0720YZ	Lower Back / Lower Extremity Neurological System Other Equipment Motor Treatment
+F0720ZZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System
+F0720ZZ	Lower Back / Lower Extremity Neurological System Motor Treatment
+F0721EZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Orthosis
+F0721EZ	Lower Back / Lower Extremity Neurological System Orthosis Motor Treatment
+F0721FZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0721FZ	Lower Back / Lower Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0721UZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Prosthesis
+F0721UZ	Lower Back / Lower Extremity Neurological System Prosthesis Motor Treatment
+F0721YZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Other Equipment
+F0721YZ	Lower Back / Lower Extremity Neurological System Other Equipment Motor Treatment
+F0721ZZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System
+F0721ZZ	Lower Back / Lower Extremity Neurological System Motor Treatment
+F0722EZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Orthosis
+F0722EZ	Lower Back / Lower Extremity Neurological System Orthosis Motor Treatment
+F0722FZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0722FZ	Lower Back / Lower Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0722UZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Prosthesis
+F0722UZ	Lower Back / Lower Extremity Neurological System Prosthesis Motor Treatment
+F0722YZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Other Equipment
+F0722YZ	Lower Back / Lower Extremity Neurological System Other Equipment Motor Treatment
+F0722ZZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System
+F0722ZZ	Lower Back / Lower Extremity Neurological System Motor Treatment
+F0723EZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Orthosis
+F0723EZ	Lower Back / Lower Extremity Neurological System Orthosis Motor Treatment
+F0723FZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0723FZ	Lower Back / Lower Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0723UZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Prosthesis
+F0723UZ	Lower Back / Lower Extremity Neurological System Prosthesis Motor Treatment
+F0723YZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Other Equipment
+F0723YZ	Lower Back / Lower Extremity Neurological System Other Equipment Motor Treatment
+F0723ZZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System
+F0723ZZ	Lower Back / Lower Extremity Neurological System Motor Treatment
+F0726BZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Physical Agents
+F0726BZ	Lower Back / Lower Extremity Neurological System Physical Agents Motor Treatment
+F0726CZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Mechanical
+F0726CZ	Lower Back / Lower Extremity Neurological System Mechanical Motor Treatment
+F0726DZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Electrotherapeutic
+F0726DZ	Lower Back / Lower Extremity Neurological System Electrotherapeutic Motor Treatment
+F0726EZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Orthosis
+F0726EZ	Lower Back / Lower Extremity Neurological System Orthosis Motor Treatment
+F0726FZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0726FZ	Lower Back / Lower Extremity Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0726GZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Aerobic Endurance And Conditioning
+F0726GZ	Lower Back / Lower Extremity Neurological System Aerobic Endurance And Conditioning Motor Treatment
+F0726HZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Mechanical Or Electromechanical
+F0726HZ	Lower Back / Lower Extremity Neurological System Mechanical Or Electromechanical Motor Treatment
+F0726UZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Prosthesis
+F0726UZ	Lower Back / Lower Extremity Neurological System Prosthesis Motor Treatment
+F0726YZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System Other Equipment
+F0726YZ	Lower Back / Lower Extremity Neurological System Other Equipment Motor Treatment
+F0726ZZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System
+F0726ZZ	Lower Back / Lower Extremity Neurological System Motor Treatment
+F0727ZZ	Motor Treatment of the Lower Back / Lower Extremity Neurological System
+F0727ZZ	Lower Back / Lower Extremity Neurological System Motor Treatment
+F0730EZ	Motor Treatment of the Whole Body Neurological System Orthosis
+F0730EZ	Whole Body Neurological System Orthosis Motor Treatment
+F0730FZ	Motor Treatment of the Whole Body Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0730FZ	Whole Body Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0730UZ	Motor Treatment of the Whole Body Neurological System Prosthesis
+F0730UZ	Whole Body Neurological System Prosthesis Motor Treatment
+F0730YZ	Motor Treatment of the Whole Body Neurological System Other Equipment
+F0730YZ	Whole Body Neurological System Other Equipment Motor Treatment
+F0730ZZ	Motor Treatment of the Whole Body Neurological System
+F0730ZZ	Whole Body Neurological System Motor Treatment
+F0731EZ	Motor Treatment of the Whole Body Neurological System Orthosis
+F0731EZ	Whole Body Neurological System Orthosis Motor Treatment
+F0731FZ	Motor Treatment of the Whole Body Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0731FZ	Whole Body Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0731UZ	Motor Treatment of the Whole Body Neurological System Prosthesis
+F0731UZ	Whole Body Neurological System Prosthesis Motor Treatment
+F0731YZ	Motor Treatment of the Whole Body Neurological System Other Equipment
+F0731YZ	Whole Body Neurological System Other Equipment Motor Treatment
+F0731ZZ	Motor Treatment of the Whole Body Neurological System
+F0731ZZ	Whole Body Neurological System Motor Treatment
+F0732EZ	Motor Treatment of the Whole Body Neurological System Orthosis
+F0732EZ	Whole Body Neurological System Orthosis Motor Treatment
+F0732FZ	Motor Treatment of the Whole Body Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0732FZ	Whole Body Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0732UZ	Motor Treatment of the Whole Body Neurological System Prosthesis
+F0732UZ	Whole Body Neurological System Prosthesis Motor Treatment
+F0732YZ	Motor Treatment of the Whole Body Neurological System Other Equipment
+F0732YZ	Whole Body Neurological System Other Equipment Motor Treatment
+F0732ZZ	Motor Treatment of the Whole Body Neurological System
+F0732ZZ	Whole Body Neurological System Motor Treatment
+F0733EZ	Motor Treatment of the Whole Body Neurological System Orthosis
+F0733EZ	Whole Body Neurological System Orthosis Motor Treatment
+F0733FZ	Motor Treatment of the Whole Body Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0733FZ	Whole Body Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0733UZ	Motor Treatment of the Whole Body Neurological System Prosthesis
+F0733UZ	Whole Body Neurological System Prosthesis Motor Treatment
+F0733YZ	Motor Treatment of the Whole Body Neurological System Other Equipment
+F0733YZ	Whole Body Neurological System Other Equipment Motor Treatment
+F0733ZZ	Motor Treatment of the Whole Body Neurological System
+F0733ZZ	Whole Body Neurological System Motor Treatment
+F0736BZ	Motor Treatment of the Whole Body Neurological System Physical Agents
+F0736BZ	Whole Body Neurological System Physical Agents Motor Treatment
+F0736CZ	Motor Treatment of the Whole Body Neurological System Mechanical
+F0736CZ	Whole Body Neurological System Mechanical Motor Treatment
+F0736DZ	Motor Treatment of the Whole Body Neurological System Electrotherapeutic
+F0736DZ	Whole Body Neurological System Electrotherapeutic Motor Treatment
+F0736EZ	Motor Treatment of the Whole Body Neurological System Orthosis
+F0736EZ	Whole Body Neurological System Orthosis Motor Treatment
+F0736FZ	Motor Treatment of the Whole Body Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0736FZ	Whole Body Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0736GZ	Motor Treatment of the Whole Body Neurological System Aerobic Endurance And Conditioning
+F0736GZ	Whole Body Neurological System Aerobic Endurance And Conditioning Motor Treatment
+F0736HZ	Motor Treatment of the Whole Body Neurological System Mechanical Or Electromechanical
+F0736HZ	Whole Body Neurological System Mechanical Or Electromechanical Motor Treatment
+F0736UZ	Motor Treatment of the Whole Body Neurological System Prosthesis
+F0736UZ	Whole Body Neurological System Prosthesis Motor Treatment
+F0736YZ	Motor Treatment of the Whole Body Neurological System Other Equipment
+F0736YZ	Whole Body Neurological System Other Equipment Motor Treatment
+F0736ZZ	Motor Treatment of the Whole Body Neurological System
+F0736ZZ	Whole Body Neurological System Motor Treatment
+F0737ZZ	Motor Treatment of the Whole Body Neurological System
+F0737ZZ	Whole Body Neurological System Motor Treatment
+F0746BZ	Motor Treatment of the Head And Neck Circulatory System Physical Agents
+F0746BZ	Head And Neck Circulatory System Physical Agents Motor Treatment
+F0746CZ	Motor Treatment of the Head And Neck Circulatory System Mechanical
+F0746CZ	Head And Neck Circulatory System Mechanical Motor Treatment
+F0746DZ	Motor Treatment of the Head And Neck Circulatory System Electrotherapeutic
+F0746DZ	Head And Neck Circulatory System Electrotherapeutic Motor Treatment
+F0746EZ	Motor Treatment of the Head And Neck Circulatory System Orthosis
+F0746EZ	Head And Neck Circulatory System Orthosis Motor Treatment
+F0746FZ	Motor Treatment of the Head And Neck Circulatory System Assistive, Adaptive, Supportive Or Protective Equipment
+F0746FZ	Head And Neck Circulatory System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0746GZ	Motor Treatment of the Head And Neck Circulatory System Aerobic Endurance And Conditioning
+F0746GZ	Head And Neck Circulatory System Aerobic Endurance And Conditioning Motor Treatment
+F0746HZ	Motor Treatment of the Head And Neck Circulatory System Mechanical Or Electromechanical
+F0746HZ	Head And Neck Circulatory System Mechanical Or Electromechanical Motor Treatment
+F0746UZ	Motor Treatment of the Head And Neck Circulatory System Prosthesis
+F0746UZ	Head And Neck Circulatory System Prosthesis Motor Treatment
+F0746YZ	Motor Treatment of the Head And Neck Circulatory System Other Equipment
+F0746YZ	Head And Neck Circulatory System Other Equipment Motor Treatment
+F0746ZZ	Motor Treatment of the Head And Neck Circulatory System
+F0746ZZ	Head And Neck Circulatory System Motor Treatment
+F0756BZ	Motor Treatment of the Upper Back / Upper Extremity Circulatory System Physical Agents
+F0756BZ	Upper Back / Upper Extremity Circulatory System Physical Agents Motor Treatment
+F0756CZ	Motor Treatment of the Upper Back / Upper Extremity Circulatory System Mechanical
+F0756CZ	Upper Back / Upper Extremity Circulatory System Mechanical Motor Treatment
+F0756DZ	Motor Treatment of the Upper Back / Upper Extremity Circulatory System Electrotherapeutic
+F0756DZ	Upper Back / Upper Extremity Circulatory System Electrotherapeutic Motor Treatment
+F0756EZ	Motor Treatment of the Upper Back / Upper Extremity Circulatory System Orthosis
+F0756EZ	Upper Back / Upper Extremity Circulatory System Orthosis Motor Treatment
+F0756FZ	Motor Treatment of the Upper Back / Upper Extremity Circulatory System Assistive, Adaptive, Supportive Or Protective Equipment
+F0756FZ	Upper Back / Upper Extremity Circulatory System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0756GZ	Motor Treatment of the Upper Back / Upper Extremity Circulatory System Aerobic Endurance And Conditioning
+F0756GZ	Upper Back / Upper Extremity Circulatory System Aerobic Endurance And Conditioning Motor Treatment
+F0756HZ	Motor Treatment of the Upper Back / Upper Extremity Circulatory System Mechanical Or Electromechanical
+F0756HZ	Upper Back / Upper Extremity Circulatory System Mechanical Or Electromechanical Motor Treatment
+F0756UZ	Motor Treatment of the Upper Back / Upper Extremity Circulatory System Prosthesis
+F0756UZ	Upper Back / Upper Extremity Circulatory System Prosthesis Motor Treatment
+F0756YZ	Motor Treatment of the Upper Back / Upper Extremity Circulatory System Other Equipment
+F0756YZ	Upper Back / Upper Extremity Circulatory System Other Equipment Motor Treatment
+F0756ZZ	Motor Treatment of the Upper Back / Upper Extremity Circulatory System
+F0756ZZ	Upper Back / Upper Extremity Circulatory System Motor Treatment
+F0766BZ	Motor Treatment of the Lower Back / Lower Extremity Circulatory System Physical Agents
+F0766BZ	Lower Back / Lower Extremity Circulatory System Physical Agents Motor Treatment
+F0766CZ	Motor Treatment of the Lower Back / Lower Extremity Circulatory System Mechanical
+F0766CZ	Lower Back / Lower Extremity Circulatory System Mechanical Motor Treatment
+F0766DZ	Motor Treatment of the Lower Back / Lower Extremity Circulatory System Electrotherapeutic
+F0766DZ	Lower Back / Lower Extremity Circulatory System Electrotherapeutic Motor Treatment
+F0766EZ	Motor Treatment of the Lower Back / Lower Extremity Circulatory System Orthosis
+F0766EZ	Lower Back / Lower Extremity Circulatory System Orthosis Motor Treatment
+F0766FZ	Motor Treatment of the Lower Back / Lower Extremity Circulatory System Assistive, Adaptive, Supportive Or Protective Equipment
+F0766FZ	Lower Back / Lower Extremity Circulatory System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0766GZ	Motor Treatment of the Lower Back / Lower Extremity Circulatory System Aerobic Endurance And Conditioning
+F0766GZ	Lower Back / Lower Extremity Circulatory System Aerobic Endurance And Conditioning Motor Treatment
+F0766HZ	Motor Treatment of the Lower Back / Lower Extremity Circulatory System Mechanical Or Electromechanical
+F0766HZ	Lower Back / Lower Extremity Circulatory System Mechanical Or Electromechanical Motor Treatment
+F0766UZ	Motor Treatment of the Lower Back / Lower Extremity Circulatory System Prosthesis
+F0766UZ	Lower Back / Lower Extremity Circulatory System Prosthesis Motor Treatment
+F0766YZ	Motor Treatment of the Lower Back / Lower Extremity Circulatory System Other Equipment
+F0766YZ	Lower Back / Lower Extremity Circulatory System Other Equipment Motor Treatment
+F0766ZZ	Motor Treatment of the Lower Back / Lower Extremity Circulatory System
+F0766ZZ	Lower Back / Lower Extremity Circulatory System Motor Treatment
+F0776BZ	Motor Treatment of the Whole Body Circulatory System Physical Agents
+F0776BZ	Whole Body Circulatory System Physical Agents Motor Treatment
+F0776CZ	Motor Treatment of the Whole Body Circulatory System Mechanical
+F0776CZ	Whole Body Circulatory System Mechanical Motor Treatment
+F0776DZ	Motor Treatment of the Whole Body Circulatory System Electrotherapeutic
+F0776DZ	Whole Body Circulatory System Electrotherapeutic Motor Treatment
+F0776EZ	Motor Treatment of the Whole Body Circulatory System Orthosis
+F0776EZ	Whole Body Circulatory System Orthosis Motor Treatment
+F0776FZ	Motor Treatment of the Whole Body Circulatory System Assistive, Adaptive, Supportive Or Protective Equipment
+F0776FZ	Whole Body Circulatory System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0776GZ	Motor Treatment of the Whole Body Circulatory System Aerobic Endurance And Conditioning
+F0776GZ	Whole Body Circulatory System Aerobic Endurance And Conditioning Motor Treatment
+F0776HZ	Motor Treatment of the Whole Body Circulatory System Mechanical Or Electromechanical
+F0776HZ	Whole Body Circulatory System Mechanical Or Electromechanical Motor Treatment
+F0776UZ	Motor Treatment of the Whole Body Circulatory System Prosthesis
+F0776UZ	Whole Body Circulatory System Prosthesis Motor Treatment
+F0776YZ	Motor Treatment of the Whole Body Circulatory System Other Equipment
+F0776YZ	Whole Body Circulatory System Other Equipment Motor Treatment
+F0776ZZ	Motor Treatment of the Whole Body Circulatory System
+F0776ZZ	Whole Body Circulatory System Motor Treatment
+F0786BZ	Motor Treatment of the Head And Neck Respiratory System Physical Agents
+F0786BZ	Head And Neck Respiratory System Physical Agents Motor Treatment
+F0786CZ	Motor Treatment of the Head And Neck Respiratory System Mechanical
+F0786CZ	Head And Neck Respiratory System Mechanical Motor Treatment
+F0786DZ	Motor Treatment of the Head And Neck Respiratory System Electrotherapeutic
+F0786DZ	Head And Neck Respiratory System Electrotherapeutic Motor Treatment
+F0786EZ	Motor Treatment of the Head And Neck Respiratory System Orthosis
+F0786EZ	Head And Neck Respiratory System Orthosis Motor Treatment
+F0786FZ	Motor Treatment of the Head And Neck Respiratory System Assistive, Adaptive, Supportive Or Protective Equipment
+F0786FZ	Head And Neck Respiratory System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0786GZ	Motor Treatment of the Head And Neck Respiratory System Aerobic Endurance And Conditioning
+F0786GZ	Head And Neck Respiratory System Aerobic Endurance And Conditioning Motor Treatment
+F0786HZ	Motor Treatment of the Head And Neck Respiratory System Mechanical Or Electromechanical
+F0786HZ	Head And Neck Respiratory System Mechanical Or Electromechanical Motor Treatment
+F0786UZ	Motor Treatment of the Head And Neck Respiratory System Prosthesis
+F0786UZ	Head And Neck Respiratory System Prosthesis Motor Treatment
+F0786YZ	Motor Treatment of the Head And Neck Respiratory System Other Equipment
+F0786YZ	Head And Neck Respiratory System Other Equipment Motor Treatment
+F0786ZZ	Motor Treatment of the Head And Neck Respiratory System
+F0786ZZ	Head And Neck Respiratory System Motor Treatment
+F0796BZ	Motor Treatment of the Upper Back / Upper Extremity Respiratory System Physical Agents
+F0796BZ	Upper Back / Upper Extremity Respiratory System Physical Agents Motor Treatment
+F0796CZ	Motor Treatment of the Upper Back / Upper Extremity Respiratory System Mechanical
+F0796CZ	Upper Back / Upper Extremity Respiratory System Mechanical Motor Treatment
+F0796DZ	Motor Treatment of the Upper Back / Upper Extremity Respiratory System Electrotherapeutic
+F0796DZ	Upper Back / Upper Extremity Respiratory System Electrotherapeutic Motor Treatment
+F0796EZ	Motor Treatment of the Upper Back / Upper Extremity Respiratory System Orthosis
+F0796EZ	Upper Back / Upper Extremity Respiratory System Orthosis Motor Treatment
+F0796FZ	Motor Treatment of the Upper Back / Upper Extremity Respiratory System Assistive, Adaptive, Supportive Or Protective Equipment
+F0796FZ	Upper Back / Upper Extremity Respiratory System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F0796GZ	Motor Treatment of the Upper Back / Upper Extremity Respiratory System Aerobic Endurance And Conditioning
+F0796GZ	Upper Back / Upper Extremity Respiratory System Aerobic Endurance And Conditioning Motor Treatment
+F0796HZ	Motor Treatment of the Upper Back / Upper Extremity Respiratory System Mechanical Or Electromechanical
+F0796HZ	Upper Back / Upper Extremity Respiratory System Mechanical Or Electromechanical Motor Treatment
+F0796UZ	Motor Treatment of the Upper Back / Upper Extremity Respiratory System Prosthesis
+F0796UZ	Upper Back / Upper Extremity Respiratory System Prosthesis Motor Treatment
+F0796YZ	Motor Treatment of the Upper Back / Upper Extremity Respiratory System Other Equipment
+F0796YZ	Upper Back / Upper Extremity Respiratory System Other Equipment Motor Treatment
+F0796ZZ	Motor Treatment of the Upper Back / Upper Extremity Respiratory System
+F0796ZZ	Upper Back / Upper Extremity Respiratory System Motor Treatment
+F07B6BZ	Motor Treatment of the Lower Back / Lower Extremity Respiratory System Physical Agents
+F07B6BZ	Lower Back / Lower Extremity Respiratory System Physical Agents Motor Treatment
+F07B6CZ	Motor Treatment of the Lower Back / Lower Extremity Respiratory System Mechanical
+F07B6CZ	Lower Back / Lower Extremity Respiratory System Mechanical Motor Treatment
+F07B6DZ	Motor Treatment of the Lower Back / Lower Extremity Respiratory System Electrotherapeutic
+F07B6DZ	Lower Back / Lower Extremity Respiratory System Electrotherapeutic Motor Treatment
+F07B6EZ	Motor Treatment of the Lower Back / Lower Extremity Respiratory System Orthosis
+F07B6EZ	Lower Back / Lower Extremity Respiratory System Orthosis Motor Treatment
+F07B6FZ	Motor Treatment of the Lower Back / Lower Extremity Respiratory System Assistive, Adaptive, Supportive Or Protective Equipment
+F07B6FZ	Lower Back / Lower Extremity Respiratory System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07B6GZ	Motor Treatment of the Lower Back / Lower Extremity Respiratory System Aerobic Endurance And Conditioning
+F07B6GZ	Lower Back / Lower Extremity Respiratory System Aerobic Endurance And Conditioning Motor Treatment
+F07B6HZ	Motor Treatment of the Lower Back / Lower Extremity Respiratory System Mechanical Or Electromechanical
+F07B6HZ	Lower Back / Lower Extremity Respiratory System Mechanical Or Electromechanical Motor Treatment
+F07B6UZ	Motor Treatment of the Lower Back / Lower Extremity Respiratory System Prosthesis
+F07B6UZ	Lower Back / Lower Extremity Respiratory System Prosthesis Motor Treatment
+F07B6YZ	Motor Treatment of the Lower Back / Lower Extremity Respiratory System Other Equipment
+F07B6YZ	Lower Back / Lower Extremity Respiratory System Other Equipment Motor Treatment
+F07B6ZZ	Motor Treatment of the Lower Back / Lower Extremity Respiratory System
+F07B6ZZ	Lower Back / Lower Extremity Respiratory System Motor Treatment
+F07C6BZ	Motor Treatment of the Whole Body Respiratory System Physical Agents
+F07C6BZ	Whole Body Respiratory System Physical Agents Motor Treatment
+F07C6CZ	Motor Treatment of the Whole Body Respiratory System Mechanical
+F07C6CZ	Whole Body Respiratory System Mechanical Motor Treatment
+F07C6DZ	Motor Treatment of the Whole Body Respiratory System Electrotherapeutic
+F07C6DZ	Whole Body Respiratory System Electrotherapeutic Motor Treatment
+F07C6EZ	Motor Treatment of the Whole Body Respiratory System Orthosis
+F07C6EZ	Whole Body Respiratory System Orthosis Motor Treatment
+F07C6FZ	Motor Treatment of the Whole Body Respiratory System Assistive, Adaptive, Supportive Or Protective Equipment
+F07C6FZ	Whole Body Respiratory System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07C6GZ	Motor Treatment of the Whole Body Respiratory System Aerobic Endurance And Conditioning
+F07C6GZ	Whole Body Respiratory System Aerobic Endurance And Conditioning Motor Treatment
+F07C6HZ	Motor Treatment of the Whole Body Respiratory System Mechanical Or Electromechanical
+F07C6HZ	Whole Body Respiratory System Mechanical Or Electromechanical Motor Treatment
+F07C6UZ	Motor Treatment of the Whole Body Respiratory System Prosthesis
+F07C6UZ	Whole Body Respiratory System Prosthesis Motor Treatment
+F07C6YZ	Motor Treatment of the Whole Body Respiratory System Other Equipment
+F07C6YZ	Whole Body Respiratory System Other Equipment Motor Treatment
+F07C6ZZ	Motor Treatment of the Whole Body Respiratory System
+F07C6ZZ	Whole Body Respiratory System Motor Treatment
+F07D0EZ	Motor Treatment of the Head And Neck Integumentary System Orthosis
+F07D0EZ	Head And Neck Integumentary System Orthosis Motor Treatment
+F07D0FZ	Motor Treatment of the Head And Neck Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07D0FZ	Head And Neck Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07D0UZ	Motor Treatment of the Head And Neck Integumentary System Prosthesis
+F07D0UZ	Head And Neck Integumentary System Prosthesis Motor Treatment
+F07D0YZ	Motor Treatment of the Head And Neck Integumentary System Other Equipment
+F07D0YZ	Head And Neck Integumentary System Other Equipment Motor Treatment
+F07D0ZZ	Motor Treatment of the Head And Neck Integumentary System
+F07D0ZZ	Head And Neck Integumentary System Motor Treatment
+F07D1EZ	Motor Treatment of the Head And Neck Integumentary System Orthosis
+F07D1EZ	Head And Neck Integumentary System Orthosis Motor Treatment
+F07D1FZ	Motor Treatment of the Head And Neck Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07D1FZ	Head And Neck Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07D1UZ	Motor Treatment of the Head And Neck Integumentary System Prosthesis
+F07D1UZ	Head And Neck Integumentary System Prosthesis Motor Treatment
+F07D1YZ	Motor Treatment of the Head And Neck Integumentary System Other Equipment
+F07D1YZ	Head And Neck Integumentary System Other Equipment Motor Treatment
+F07D1ZZ	Motor Treatment of the Head And Neck Integumentary System
+F07D1ZZ	Head And Neck Integumentary System Motor Treatment
+F07D2EZ	Motor Treatment of the Head And Neck Integumentary System Orthosis
+F07D2EZ	Head And Neck Integumentary System Orthosis Motor Treatment
+F07D2FZ	Motor Treatment of the Head And Neck Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07D2FZ	Head And Neck Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07D2UZ	Motor Treatment of the Head And Neck Integumentary System Prosthesis
+F07D2UZ	Head And Neck Integumentary System Prosthesis Motor Treatment
+F07D2YZ	Motor Treatment of the Head And Neck Integumentary System Other Equipment
+F07D2YZ	Head And Neck Integumentary System Other Equipment Motor Treatment
+F07D2ZZ	Motor Treatment of the Head And Neck Integumentary System
+F07D2ZZ	Head And Neck Integumentary System Motor Treatment
+F07D3EZ	Motor Treatment of the Head And Neck Integumentary System Orthosis
+F07D3EZ	Head And Neck Integumentary System Orthosis Motor Treatment
+F07D3FZ	Motor Treatment of the Head And Neck Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07D3FZ	Head And Neck Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07D3UZ	Motor Treatment of the Head And Neck Integumentary System Prosthesis
+F07D3UZ	Head And Neck Integumentary System Prosthesis Motor Treatment
+F07D3YZ	Motor Treatment of the Head And Neck Integumentary System Other Equipment
+F07D3YZ	Head And Neck Integumentary System Other Equipment Motor Treatment
+F07D3ZZ	Motor Treatment of the Head And Neck Integumentary System
+F07D3ZZ	Head And Neck Integumentary System Motor Treatment
+F07D6BZ	Motor Treatment of the Head And Neck Integumentary System Physical Agents
+F07D6BZ	Head And Neck Integumentary System Physical Agents Motor Treatment
+F07D6CZ	Motor Treatment of the Head And Neck Integumentary System Mechanical
+F07D6CZ	Head And Neck Integumentary System Mechanical Motor Treatment
+F07D6DZ	Motor Treatment of the Head And Neck Integumentary System Electrotherapeutic
+F07D6DZ	Head And Neck Integumentary System Electrotherapeutic Motor Treatment
+F07D6EZ	Motor Treatment of the Head And Neck Integumentary System Orthosis
+F07D6EZ	Head And Neck Integumentary System Orthosis Motor Treatment
+F07D6FZ	Motor Treatment of the Head And Neck Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07D6FZ	Head And Neck Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07D6GZ	Motor Treatment of the Head And Neck Integumentary System Aerobic Endurance And Conditioning
+F07D6GZ	Head And Neck Integumentary System Aerobic Endurance And Conditioning Motor Treatment
+F07D6HZ	Motor Treatment of the Head And Neck Integumentary System Mechanical Or Electromechanical
+F07D6HZ	Head And Neck Integumentary System Mechanical Or Electromechanical Motor Treatment
+F07D6UZ	Motor Treatment of the Head And Neck Integumentary System Prosthesis
+F07D6UZ	Head And Neck Integumentary System Prosthesis Motor Treatment
+F07D6YZ	Motor Treatment of the Head And Neck Integumentary System Other Equipment
+F07D6YZ	Head And Neck Integumentary System Other Equipment Motor Treatment
+F07D6ZZ	Motor Treatment of the Head And Neck Integumentary System
+F07D6ZZ	Head And Neck Integumentary System Motor Treatment
+F07D7ZZ	Motor Treatment of the Head And Neck Integumentary System
+F07D7ZZ	Head And Neck Integumentary System Motor Treatment
+F07DYD0	Motor Treatment of the Head And Neck Integumentary System Electrotherapeutic
+F07DYD0	Head And Neck Integumentary System Electrotherapeutic Motor Treatment
+F07EYD0	Motor Treatment of the Thorax / Abdomen Integumentary System Electrotherapeutic
+F07EYD0	Thorax / Abdomen Integumentary System Electrotherapeutic Motor Treatment
+F07F0EZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Orthosis
+F07F0EZ	Upper Back / Upper Extremity Integumentary System Orthosis Motor Treatment
+F07F0FZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07F0FZ	Upper Back / Upper Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07F0UZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Prosthesis
+F07F0UZ	Upper Back / Upper Extremity Integumentary System Prosthesis Motor Treatment
+F07F0YZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Other Equipment
+F07F0YZ	Upper Back / Upper Extremity Integumentary System Other Equipment Motor Treatment
+F07F0ZZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System
+F07F0ZZ	Upper Back / Upper Extremity Integumentary System Motor Treatment
+F07F1EZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Orthosis
+F07F1EZ	Upper Back / Upper Extremity Integumentary System Orthosis Motor Treatment
+F07F1FZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07F1FZ	Upper Back / Upper Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07F1UZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Prosthesis
+F07F1UZ	Upper Back / Upper Extremity Integumentary System Prosthesis Motor Treatment
+F07F1YZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Other Equipment
+F07F1YZ	Upper Back / Upper Extremity Integumentary System Other Equipment Motor Treatment
+F07F1ZZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System
+F07F1ZZ	Upper Back / Upper Extremity Integumentary System Motor Treatment
+F07F2EZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Orthosis
+F07F2EZ	Upper Back / Upper Extremity Integumentary System Orthosis Motor Treatment
+F07F2FZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07F2FZ	Upper Back / Upper Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07F2UZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Prosthesis
+F07F2UZ	Upper Back / Upper Extremity Integumentary System Prosthesis Motor Treatment
+F07F2YZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Other Equipment
+F07F2YZ	Upper Back / Upper Extremity Integumentary System Other Equipment Motor Treatment
+F07F2ZZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System
+F07F2ZZ	Upper Back / Upper Extremity Integumentary System Motor Treatment
+F07F3EZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Orthosis
+F07F3EZ	Upper Back / Upper Extremity Integumentary System Orthosis Motor Treatment
+F07F3FZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07F3FZ	Upper Back / Upper Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07F3UZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Prosthesis
+F07F3UZ	Upper Back / Upper Extremity Integumentary System Prosthesis Motor Treatment
+F07F3YZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Other Equipment
+F07F3YZ	Upper Back / Upper Extremity Integumentary System Other Equipment Motor Treatment
+F07F3ZZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System
+F07F3ZZ	Upper Back / Upper Extremity Integumentary System Motor Treatment
+F07F6BZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Physical Agents
+F07F6BZ	Upper Back / Upper Extremity Integumentary System Physical Agents Motor Treatment
+F07F6CZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Mechanical
+F07F6CZ	Upper Back / Upper Extremity Integumentary System Mechanical Motor Treatment
+F07F6DZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Electrotherapeutic
+F07F6DZ	Upper Back / Upper Extremity Integumentary System Electrotherapeutic Motor Treatment
+F07F6EZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Orthosis
+F07F6EZ	Upper Back / Upper Extremity Integumentary System Orthosis Motor Treatment
+F07F6FZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07F6FZ	Upper Back / Upper Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07F6GZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Aerobic Endurance And Conditioning
+F07F6GZ	Upper Back / Upper Extremity Integumentary System Aerobic Endurance And Conditioning Motor Treatment
+F07F6HZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Mechanical Or Electromechanical
+F07F6HZ	Upper Back / Upper Extremity Integumentary System Mechanical Or Electromechanical Motor Treatment
+F07F6UZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Prosthesis
+F07F6UZ	Upper Back / Upper Extremity Integumentary System Prosthesis Motor Treatment
+F07F6YZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Other Equipment
+F07F6YZ	Upper Back / Upper Extremity Integumentary System Other Equipment Motor Treatment
+F07F6ZZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System
+F07F6ZZ	Upper Back / Upper Extremity Integumentary System Motor Treatment
+F07F7ZZ	Motor Treatment of the Upper Back / Upper Extremity Integumentary System
+F07F7ZZ	Upper Back / Upper Extremity Integumentary System Motor Treatment
+F07FYD0	Motor Treatment of the Upper Back / Upper Extremity Integumentary System Electrotherapeutic
+F07FYD0	Upper Back / Upper Extremity Integumentary System Electrotherapeutic Motor Treatment
+F07G0EZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Orthosis
+F07G0EZ	Lower Back / Lower Extremity Integumentary System Orthosis Motor Treatment
+F07G0FZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07G0FZ	Lower Back / Lower Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07G0UZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Prosthesis
+F07G0UZ	Lower Back / Lower Extremity Integumentary System Prosthesis Motor Treatment
+F07G0YZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Other Equipment
+F07G0YZ	Lower Back / Lower Extremity Integumentary System Other Equipment Motor Treatment
+F07G0ZZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System
+F07G0ZZ	Lower Back / Lower Extremity Integumentary System Motor Treatment
+F07G1EZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Orthosis
+F07G1EZ	Lower Back / Lower Extremity Integumentary System Orthosis Motor Treatment
+F07G1FZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07G1FZ	Lower Back / Lower Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07G1UZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Prosthesis
+F07G1UZ	Lower Back / Lower Extremity Integumentary System Prosthesis Motor Treatment
+F07G1YZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Other Equipment
+F07G1YZ	Lower Back / Lower Extremity Integumentary System Other Equipment Motor Treatment
+F07G1ZZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System
+F07G1ZZ	Lower Back / Lower Extremity Integumentary System Motor Treatment
+F07G2EZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Orthosis
+F07G2EZ	Lower Back / Lower Extremity Integumentary System Orthosis Motor Treatment
+F07G2FZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07G2FZ	Lower Back / Lower Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07G2UZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Prosthesis
+F07G2UZ	Lower Back / Lower Extremity Integumentary System Prosthesis Motor Treatment
+F07G2YZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Other Equipment
+F07G2YZ	Lower Back / Lower Extremity Integumentary System Other Equipment Motor Treatment
+F07G2ZZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System
+F07G2ZZ	Lower Back / Lower Extremity Integumentary System Motor Treatment
+F07G3EZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Orthosis
+F07G3EZ	Lower Back / Lower Extremity Integumentary System Orthosis Motor Treatment
+F07G3FZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07G3FZ	Lower Back / Lower Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07G3UZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Prosthesis
+F07G3UZ	Lower Back / Lower Extremity Integumentary System Prosthesis Motor Treatment
+F07G3YZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Other Equipment
+F07G3YZ	Lower Back / Lower Extremity Integumentary System Other Equipment Motor Treatment
+F07G3ZZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System
+F07G3ZZ	Lower Back / Lower Extremity Integumentary System Motor Treatment
+F07G6BZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Physical Agents
+F07G6BZ	Lower Back / Lower Extremity Integumentary System Physical Agents Motor Treatment
+F07G6CZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Mechanical
+F07G6CZ	Lower Back / Lower Extremity Integumentary System Mechanical Motor Treatment
+F07G6DZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Electrotherapeutic
+F07G6DZ	Lower Back / Lower Extremity Integumentary System Electrotherapeutic Motor Treatment
+F07G6EZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Orthosis
+F07G6EZ	Lower Back / Lower Extremity Integumentary System Orthosis Motor Treatment
+F07G6FZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07G6FZ	Lower Back / Lower Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07G6GZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Aerobic Endurance And Conditioning
+F07G6GZ	Lower Back / Lower Extremity Integumentary System Aerobic Endurance And Conditioning Motor Treatment
+F07G6HZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Mechanical Or Electromechanical
+F07G6HZ	Lower Back / Lower Extremity Integumentary System Mechanical Or Electromechanical Motor Treatment
+F07G6UZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Prosthesis
+F07G6UZ	Lower Back / Lower Extremity Integumentary System Prosthesis Motor Treatment
+F07G6YZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Other Equipment
+F07G6YZ	Lower Back / Lower Extremity Integumentary System Other Equipment Motor Treatment
+F07G6ZZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System
+F07G6ZZ	Lower Back / Lower Extremity Integumentary System Motor Treatment
+F07G7ZZ	Motor Treatment of the Lower Back / Lower Extremity Integumentary System
+F07G7ZZ	Lower Back / Lower Extremity Integumentary System Motor Treatment
+F07GYD0	Motor Treatment of the Lower Back / Lower Extremity Integumentary System Electrotherapeutic
+F07GYD0	Lower Back / Lower Extremity Integumentary System Electrotherapeutic Motor Treatment
+F07H0EZ	Motor Treatment of the Whole Body Integumentary System Orthosis
+F07H0EZ	Whole Body Integumentary System Orthosis Motor Treatment
+F07H0FZ	Motor Treatment of the Whole Body Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07H0FZ	Whole Body Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07H0UZ	Motor Treatment of the Whole Body Integumentary System Prosthesis
+F07H0UZ	Whole Body Integumentary System Prosthesis Motor Treatment
+F07H0YZ	Motor Treatment of the Whole Body Integumentary System Other Equipment
+F07H0YZ	Whole Body Integumentary System Other Equipment Motor Treatment
+F07H0ZZ	Motor Treatment of the Whole Body Integumentary System
+F07H0ZZ	Whole Body Integumentary System Motor Treatment
+F07H1EZ	Motor Treatment of the Whole Body Integumentary System Orthosis
+F07H1EZ	Whole Body Integumentary System Orthosis Motor Treatment
+F07H1FZ	Motor Treatment of the Whole Body Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07H1FZ	Whole Body Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07H1UZ	Motor Treatment of the Whole Body Integumentary System Prosthesis
+F07H1UZ	Whole Body Integumentary System Prosthesis Motor Treatment
+F07H1YZ	Motor Treatment of the Whole Body Integumentary System Other Equipment
+F07H1YZ	Whole Body Integumentary System Other Equipment Motor Treatment
+F07H1ZZ	Motor Treatment of the Whole Body Integumentary System
+F07H1ZZ	Whole Body Integumentary System Motor Treatment
+F07H2EZ	Motor Treatment of the Whole Body Integumentary System Orthosis
+F07H2EZ	Whole Body Integumentary System Orthosis Motor Treatment
+F07H2FZ	Motor Treatment of the Whole Body Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07H2FZ	Whole Body Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07H2UZ	Motor Treatment of the Whole Body Integumentary System Prosthesis
+F07H2UZ	Whole Body Integumentary System Prosthesis Motor Treatment
+F07H2YZ	Motor Treatment of the Whole Body Integumentary System Other Equipment
+F07H2YZ	Whole Body Integumentary System Other Equipment Motor Treatment
+F07H2ZZ	Motor Treatment of the Whole Body Integumentary System
+F07H2ZZ	Whole Body Integumentary System Motor Treatment
+F07H3EZ	Motor Treatment of the Whole Body Integumentary System Orthosis
+F07H3EZ	Whole Body Integumentary System Orthosis Motor Treatment
+F07H3FZ	Motor Treatment of the Whole Body Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07H3FZ	Whole Body Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07H3UZ	Motor Treatment of the Whole Body Integumentary System Prosthesis
+F07H3UZ	Whole Body Integumentary System Prosthesis Motor Treatment
+F07H3YZ	Motor Treatment of the Whole Body Integumentary System Other Equipment
+F07H3YZ	Whole Body Integumentary System Other Equipment Motor Treatment
+F07H3ZZ	Motor Treatment of the Whole Body Integumentary System
+F07H3ZZ	Whole Body Integumentary System Motor Treatment
+F07H6BZ	Motor Treatment of the Whole Body Integumentary System Physical Agents
+F07H6BZ	Whole Body Integumentary System Physical Agents Motor Treatment
+F07H6CZ	Motor Treatment of the Whole Body Integumentary System Mechanical
+F07H6CZ	Whole Body Integumentary System Mechanical Motor Treatment
+F07H6DZ	Motor Treatment of the Whole Body Integumentary System Electrotherapeutic
+F07H6DZ	Whole Body Integumentary System Electrotherapeutic Motor Treatment
+F07H6EZ	Motor Treatment of the Whole Body Integumentary System Orthosis
+F07H6EZ	Whole Body Integumentary System Orthosis Motor Treatment
+F07H6FZ	Motor Treatment of the Whole Body Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07H6FZ	Whole Body Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07H6GZ	Motor Treatment of the Whole Body Integumentary System Aerobic Endurance And Conditioning
+F07H6GZ	Whole Body Integumentary System Aerobic Endurance And Conditioning Motor Treatment
+F07H6HZ	Motor Treatment of the Whole Body Integumentary System Mechanical Or Electromechanical
+F07H6HZ	Whole Body Integumentary System Mechanical Or Electromechanical Motor Treatment
+F07H6UZ	Motor Treatment of the Whole Body Integumentary System Prosthesis
+F07H6UZ	Whole Body Integumentary System Prosthesis Motor Treatment
+F07H6YZ	Motor Treatment of the Whole Body Integumentary System Other Equipment
+F07H6YZ	Whole Body Integumentary System Other Equipment Motor Treatment
+F07H6ZZ	Motor Treatment of the Whole Body Integumentary System
+F07H6ZZ	Whole Body Integumentary System Motor Treatment
+F07H7ZZ	Motor Treatment of the Whole Body Integumentary System
+F07H7ZZ	Whole Body Integumentary System Motor Treatment
+F07HYD0	Motor Treatment of the Whole Body Integumentary System Electrotherapeutic
+F07HYD0	Whole Body Integumentary System Electrotherapeutic Motor Treatment
+F07J0EZ	Motor Treatment of the Head And Neck Musculoskeletal System Orthosis
+F07J0EZ	Head And Neck Musculoskeletal System Orthosis Motor Treatment
+F07J0FZ	Motor Treatment of the Head And Neck Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F07J0FZ	Head And Neck Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07J0UZ	Motor Treatment of the Head And Neck Musculoskeletal System Prosthesis
+F07J0UZ	Head And Neck Musculoskeletal System Prosthesis Motor Treatment
+F07J0YZ	Motor Treatment of the Head And Neck Musculoskeletal System Other Equipment
+F07J0YZ	Head And Neck Musculoskeletal System Other Equipment Motor Treatment
+F07J0ZZ	Motor Treatment of the Head And Neck Musculoskeletal System
+F07J0ZZ	Head And Neck Musculoskeletal System Motor Treatment
+F07J1EZ	Motor Treatment of the Head And Neck Musculoskeletal System Orthosis
+F07J1EZ	Head And Neck Musculoskeletal System Orthosis Motor Treatment
+F07J1FZ	Motor Treatment of the Head And Neck Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F07J1FZ	Head And Neck Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07J1UZ	Motor Treatment of the Head And Neck Musculoskeletal System Prosthesis
+F07J1UZ	Head And Neck Musculoskeletal System Prosthesis Motor Treatment
+F07J1YZ	Motor Treatment of the Head And Neck Musculoskeletal System Other Equipment
+F07J1YZ	Head And Neck Musculoskeletal System Other Equipment Motor Treatment
+F07J1ZZ	Motor Treatment of the Head And Neck Musculoskeletal System
+F07J1ZZ	Head And Neck Musculoskeletal System Motor Treatment
+F07J2EZ	Motor Treatment of the Head And Neck Musculoskeletal System Orthosis
+F07J2EZ	Head And Neck Musculoskeletal System Orthosis Motor Treatment
+F07J2FZ	Motor Treatment of the Head And Neck Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F07J2FZ	Head And Neck Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07J2UZ	Motor Treatment of the Head And Neck Musculoskeletal System Prosthesis
+F07J2UZ	Head And Neck Musculoskeletal System Prosthesis Motor Treatment
+F07J2YZ	Motor Treatment of the Head And Neck Musculoskeletal System Other Equipment
+F07J2YZ	Head And Neck Musculoskeletal System Other Equipment Motor Treatment
+F07J2ZZ	Motor Treatment of the Head And Neck Musculoskeletal System
+F07J2ZZ	Head And Neck Musculoskeletal System Motor Treatment
+F07J3EZ	Motor Treatment of the Head And Neck Musculoskeletal System Orthosis
+F07J3EZ	Head And Neck Musculoskeletal System Orthosis Motor Treatment
+F07J3FZ	Motor Treatment of the Head And Neck Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F07J3FZ	Head And Neck Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07J3UZ	Motor Treatment of the Head And Neck Musculoskeletal System Prosthesis
+F07J3UZ	Head And Neck Musculoskeletal System Prosthesis Motor Treatment
+F07J3YZ	Motor Treatment of the Head And Neck Musculoskeletal System Other Equipment
+F07J3YZ	Head And Neck Musculoskeletal System Other Equipment Motor Treatment
+F07J3ZZ	Motor Treatment of the Head And Neck Musculoskeletal System
+F07J3ZZ	Head And Neck Musculoskeletal System Motor Treatment
+F07J6BZ	Motor Treatment of the Head And Neck Musculoskeletal System Physical Agents
+F07J6BZ	Head And Neck Musculoskeletal System Physical Agents Motor Treatment
+F07J6CZ	Motor Treatment of the Head And Neck Musculoskeletal System Mechanical
+F07J6CZ	Head And Neck Musculoskeletal System Mechanical Motor Treatment
+F07J6DZ	Motor Treatment of the Head And Neck Musculoskeletal System Electrotherapeutic
+F07J6DZ	Head And Neck Musculoskeletal System Electrotherapeutic Motor Treatment
+F07J6EZ	Motor Treatment of the Head And Neck Musculoskeletal System Orthosis
+F07J6EZ	Head And Neck Musculoskeletal System Orthosis Motor Treatment
+F07J6FZ	Motor Treatment of the Head And Neck Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F07J6FZ	Head And Neck Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07J6GZ	Motor Treatment of the Head And Neck Musculoskeletal System Aerobic Endurance And Conditioning
+F07J6GZ	Head And Neck Musculoskeletal System Aerobic Endurance And Conditioning Motor Treatment
+F07J6HZ	Motor Treatment of the Head And Neck Musculoskeletal System Mechanical Or Electromechanical
+F07J6HZ	Head And Neck Musculoskeletal System Mechanical Or Electromechanical Motor Treatment
+F07J6UZ	Motor Treatment of the Head And Neck Musculoskeletal System Prosthesis
+F07J6UZ	Head And Neck Musculoskeletal System Prosthesis Motor Treatment
+F07J6YZ	Motor Treatment of the Head And Neck Musculoskeletal System Other Equipment
+F07J6YZ	Head And Neck Musculoskeletal System Other Equipment Motor Treatment
+F07J6ZZ	Motor Treatment of the Head And Neck Musculoskeletal System
+F07J6ZZ	Head And Neck Musculoskeletal System Motor Treatment
+F07J7ZZ	Motor Treatment of the Head And Neck Musculoskeletal System
+F07J7ZZ	Head And Neck Musculoskeletal System Motor Treatment
+F07K0EZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Orthosis
+F07K0EZ	Upper Back / Upper Extremity Musculoskeletal System Orthosis Motor Treatment
+F07K0FZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F07K0FZ	Upper Back / Upper Extremity Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07K0UZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Prosthesis
+F07K0UZ	Upper Back / Upper Extremity Musculoskeletal System Prosthesis Motor Treatment
+F07K0YZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Other Equipment
+F07K0YZ	Upper Back / Upper Extremity Musculoskeletal System Other Equipment Motor Treatment
+F07K0ZZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System
+F07K0ZZ	Upper Back / Upper Extremity Musculoskeletal System Motor Treatment
+F07K1EZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Orthosis
+F07K1EZ	Upper Back / Upper Extremity Musculoskeletal System Orthosis Motor Treatment
+F07K1FZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F07K1FZ	Upper Back / Upper Extremity Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07K1UZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Prosthesis
+F07K1UZ	Upper Back / Upper Extremity Musculoskeletal System Prosthesis Motor Treatment
+F07K1YZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Other Equipment
+F07K1YZ	Upper Back / Upper Extremity Musculoskeletal System Other Equipment Motor Treatment
+F07K1ZZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System
+F07K1ZZ	Upper Back / Upper Extremity Musculoskeletal System Motor Treatment
+F07K2EZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Orthosis
+F07K2EZ	Upper Back / Upper Extremity Musculoskeletal System Orthosis Motor Treatment
+F07K2FZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F07K2FZ	Upper Back / Upper Extremity Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07K2UZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Prosthesis
+F07K2UZ	Upper Back / Upper Extremity Musculoskeletal System Prosthesis Motor Treatment
+F07K2YZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Other Equipment
+F07K2YZ	Upper Back / Upper Extremity Musculoskeletal System Other Equipment Motor Treatment
+F07K2ZZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System
+F07K2ZZ	Upper Back / Upper Extremity Musculoskeletal System Motor Treatment
+F07K3EZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Orthosis
+F07K3EZ	Upper Back / Upper Extremity Musculoskeletal System Orthosis Motor Treatment
+F07K3FZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F07K3FZ	Upper Back / Upper Extremity Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07K3UZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Prosthesis
+F07K3UZ	Upper Back / Upper Extremity Musculoskeletal System Prosthesis Motor Treatment
+F07K3YZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Other Equipment
+F07K3YZ	Upper Back / Upper Extremity Musculoskeletal System Other Equipment Motor Treatment
+F07K3ZZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System
+F07K3ZZ	Upper Back / Upper Extremity Musculoskeletal System Motor Treatment
+F07K6BZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Physical Agents
+F07K6BZ	Upper Back / Upper Extremity Musculoskeletal System Physical Agents Motor Treatment
+F07K6CZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Mechanical
+F07K6CZ	Upper Back / Upper Extremity Musculoskeletal System Mechanical Motor Treatment
+F07K6DZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Electrotherapeutic
+F07K6DZ	Upper Back / Upper Extremity Musculoskeletal System Electrotherapeutic Motor Treatment
+F07K6EZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Orthosis
+F07K6EZ	Upper Back / Upper Extremity Musculoskeletal System Orthosis Motor Treatment
+F07K6FZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F07K6FZ	Upper Back / Upper Extremity Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07K6GZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Aerobic Endurance And Conditioning
+F07K6GZ	Upper Back / Upper Extremity Musculoskeletal System Aerobic Endurance And Conditioning Motor Treatment
+F07K6HZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Mechanical Or Electromechanical
+F07K6HZ	Upper Back / Upper Extremity Musculoskeletal System Mechanical Or Electromechanical Motor Treatment
+F07K6UZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Prosthesis
+F07K6UZ	Upper Back / Upper Extremity Musculoskeletal System Prosthesis Motor Treatment
+F07K6YZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System Other Equipment
+F07K6YZ	Upper Back / Upper Extremity Musculoskeletal System Other Equipment Motor Treatment
+F07K6ZZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System
+F07K6ZZ	Upper Back / Upper Extremity Musculoskeletal System Motor Treatment
+F07K7ZZ	Motor Treatment of the Upper Back / Upper Extremity Musculoskeletal System
+F07K7ZZ	Upper Back / Upper Extremity Musculoskeletal System Motor Treatment
+F07M0EZ	Motor Treatment of the Whole Body Musculoskeletal System Orthosis
+F07M0EZ	Whole Body Musculoskeletal System Orthosis Motor Treatment
+F07M0FZ	Motor Treatment of the Whole Body Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F07M0FZ	Whole Body Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07M0UZ	Motor Treatment of the Whole Body Musculoskeletal System Prosthesis
+F07M0UZ	Whole Body Musculoskeletal System Prosthesis Motor Treatment
+F07M0YZ	Motor Treatment of the Whole Body Musculoskeletal System Other Equipment
+F07M0YZ	Whole Body Musculoskeletal System Other Equipment Motor Treatment
+F07M0ZZ	Motor Treatment of the Whole Body Musculoskeletal System
+F07M0ZZ	Whole Body Musculoskeletal System Motor Treatment
+F07M1EZ	Motor Treatment of the Whole Body Musculoskeletal System Orthosis
+F07M1EZ	Whole Body Musculoskeletal System Orthosis Motor Treatment
+F07M1FZ	Motor Treatment of the Whole Body Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F07M1FZ	Whole Body Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07M1UZ	Motor Treatment of the Whole Body Musculoskeletal System Prosthesis
+F07M1UZ	Whole Body Musculoskeletal System Prosthesis Motor Treatment
+F07M1YZ	Motor Treatment of the Whole Body Musculoskeletal System Other Equipment
+F07M1YZ	Whole Body Musculoskeletal System Other Equipment Motor Treatment
+F07M1ZZ	Motor Treatment of the Whole Body Musculoskeletal System
+F07M1ZZ	Whole Body Musculoskeletal System Motor Treatment
+F07M2EZ	Motor Treatment of the Whole Body Musculoskeletal System Orthosis
+F07M2EZ	Whole Body Musculoskeletal System Orthosis Motor Treatment
+F07M2FZ	Motor Treatment of the Whole Body Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F07M2FZ	Whole Body Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07M2UZ	Motor Treatment of the Whole Body Musculoskeletal System Prosthesis
+F07M2UZ	Whole Body Musculoskeletal System Prosthesis Motor Treatment
+F07M2YZ	Motor Treatment of the Whole Body Musculoskeletal System Other Equipment
+F07M2YZ	Whole Body Musculoskeletal System Other Equipment Motor Treatment
+F07M2ZZ	Motor Treatment of the Whole Body Musculoskeletal System
+F07M2ZZ	Whole Body Musculoskeletal System Motor Treatment
+F07M3EZ	Motor Treatment of the Whole Body Musculoskeletal System Orthosis
+F07M3EZ	Whole Body Musculoskeletal System Orthosis Motor Treatment
+F07M3FZ	Motor Treatment of the Whole Body Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F07M3FZ	Whole Body Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07M3UZ	Motor Treatment of the Whole Body Musculoskeletal System Prosthesis
+F07M3UZ	Whole Body Musculoskeletal System Prosthesis Motor Treatment
+F07M3YZ	Motor Treatment of the Whole Body Musculoskeletal System Other Equipment
+F07M3YZ	Whole Body Musculoskeletal System Other Equipment Motor Treatment
+F07M3ZZ	Motor Treatment of the Whole Body Musculoskeletal System
+F07M3ZZ	Whole Body Musculoskeletal System Motor Treatment
+F07M6BZ	Motor Treatment of the Whole Body Musculoskeletal System Physical Agents
+F07M6BZ	Whole Body Musculoskeletal System Physical Agents Motor Treatment
+F07M6CZ	Motor Treatment of the Whole Body Musculoskeletal System Mechanical
+F07M6CZ	Whole Body Musculoskeletal System Mechanical Motor Treatment
+F07M6DZ	Motor Treatment of the Whole Body Musculoskeletal System Electrotherapeutic
+F07M6DZ	Whole Body Musculoskeletal System Electrotherapeutic Motor Treatment
+F07M6EZ	Motor Treatment of the Whole Body Musculoskeletal System Orthosis
+F07M6EZ	Whole Body Musculoskeletal System Orthosis Motor Treatment
+F07M6FZ	Motor Treatment of the Whole Body Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F07M6FZ	Whole Body Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07M6GZ	Motor Treatment of the Whole Body Musculoskeletal System Aerobic Endurance And Conditioning
+F07M6GZ	Whole Body Musculoskeletal System Aerobic Endurance And Conditioning Motor Treatment
+F07M6HZ	Motor Treatment of the Whole Body Musculoskeletal System Mechanical Or Electromechanical
+F07M6HZ	Whole Body Musculoskeletal System Mechanical Or Electromechanical Motor Treatment
+F07M6UZ	Motor Treatment of the Whole Body Musculoskeletal System Prosthesis
+F07M6UZ	Whole Body Musculoskeletal System Prosthesis Motor Treatment
+F07M6YZ	Motor Treatment of the Whole Body Musculoskeletal System Other Equipment
+F07M6YZ	Whole Body Musculoskeletal System Other Equipment Motor Treatment
+F07M6ZZ	Motor Treatment of the Whole Body Musculoskeletal System
+F07M6ZZ	Whole Body Musculoskeletal System Motor Treatment
+F07M7ZZ	Motor Treatment of the Whole Body Musculoskeletal System
+F07M7ZZ	Whole Body Musculoskeletal System Motor Treatment
+F07N1EZ	Motor Treatment of the Genitourinary System Orthosis
+F07N1EZ	Genitourinary System Orthosis Motor Treatment
+F07N1FZ	Motor Treatment of the Genitourinary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07N1FZ	Genitourinary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07N1UZ	Motor Treatment of the Genitourinary System Prosthesis
+F07N1UZ	Genitourinary System Prosthesis Motor Treatment
+F07N1YZ	Motor Treatment of the Genitourinary System Other Equipment
+F07N1YZ	Genitourinary System Other Equipment Motor Treatment
+F07N1ZZ	Motor Treatment of the Genitourinary System
+F07N1ZZ	Genitourinary System Motor Treatment
+F07N6BZ	Motor Treatment of the Genitourinary System Physical Agents
+F07N6BZ	Genitourinary System Physical Agents Motor Treatment
+F07N6CZ	Motor Treatment of the Genitourinary System Mechanical
+F07N6CZ	Genitourinary System Mechanical Motor Treatment
+F07N6DZ	Motor Treatment of the Genitourinary System Electrotherapeutic
+F07N6DZ	Genitourinary System Electrotherapeutic Motor Treatment
+F07N6EZ	Motor Treatment of the Genitourinary System Orthosis
+F07N6EZ	Genitourinary System Orthosis Motor Treatment
+F07N6FZ	Motor Treatment of the Genitourinary System Assistive, Adaptive, Supportive Or Protective Equipment
+F07N6FZ	Genitourinary System Assistive, Adaptive, Supportive Or Protective Equipment Motor Treatment
+F07N6GZ	Motor Treatment of the Genitourinary System Aerobic Endurance And Conditioning
+F07N6GZ	Genitourinary System Aerobic Endurance And Conditioning Motor Treatment
+F07N6HZ	Motor Treatment of the Genitourinary System Mechanical Or Electromechanical
+F07N6HZ	Genitourinary System Mechanical Or Electromechanical Motor Treatment
+F07N6UZ	Motor Treatment of the Genitourinary System Prosthesis
+F07N6UZ	Genitourinary System Prosthesis Motor Treatment
+F07N6YZ	Motor Treatment of the Genitourinary System Other Equipment
+F07N6YZ	Genitourinary System Other Equipment Motor Treatment
+F07N6ZZ	Motor Treatment of the Genitourinary System
+F07N6ZZ	Genitourinary System Motor Treatment
+F08D5AZ	Activities Of Daily Living Treatment of the Head And Neck Integumentary System Negative Pressure Therapy
+F08D5AZ	Head And Neck Integumentary System Negative Pressure Therapy Activities Of Daily Living Treatment
+F08D5BZ	Activities Of Daily Living Treatment of the Head And Neck Integumentary System Physical Agents
+F08D5BZ	Head And Neck Integumentary System Physical Agents Activities Of Daily Living Treatment
+F08D5CZ	Activities Of Daily Living Treatment of the Head And Neck Integumentary System Mechanical
+F08D5CZ	Head And Neck Integumentary System Mechanical Activities Of Daily Living Treatment
+F08D5DZ	Activities Of Daily Living Treatment of the Head And Neck Integumentary System Electrotherapeutic
+F08D5DZ	Head And Neck Integumentary System Electrotherapeutic Activities Of Daily Living Treatment
+F08D5EZ	Activities Of Daily Living Treatment of the Head And Neck Integumentary System Orthosis
+F08D5EZ	Head And Neck Integumentary System Orthosis Activities Of Daily Living Treatment
+F08D5FZ	Activities Of Daily Living Treatment of the Head And Neck Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F08D5FZ	Head And Neck Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Activities Of Daily Living Treatment
+F08D5UZ	Activities Of Daily Living Treatment of the Head And Neck Integumentary System Prosthesis
+F08D5UZ	Head And Neck Integumentary System Prosthesis Activities Of Daily Living Treatment
+F08D5YZ	Activities Of Daily Living Treatment of the Head And Neck Integumentary System Other Equipment
+F08D5YZ	Head And Neck Integumentary System Other Equipment Activities Of Daily Living Treatment
+F08D5ZZ	Activities Of Daily Living Treatment of the Head And Neck Integumentary System
+F08D5ZZ	Head And Neck Integumentary System Activities Of Daily Living Treatment
+F08E5AZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Integumentary System Negative Pressure Therapy
+F08E5AZ	Thorax / Abdomen Integumentary System Negative Pressure Therapy Activities Of Daily Living Treatment
+F08E5BZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Integumentary System Physical Agents
+F08E5BZ	Thorax / Abdomen Integumentary System Physical Agents Activities Of Daily Living Treatment
+F08E5CZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Integumentary System Mechanical
+F08E5CZ	Thorax / Abdomen Integumentary System Mechanical Activities Of Daily Living Treatment
+F08E5DZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Integumentary System Electrotherapeutic
+F08E5DZ	Thorax / Abdomen Integumentary System Electrotherapeutic Activities Of Daily Living Treatment
+F08E5EZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Integumentary System Orthosis
+F08E5EZ	Thorax / Abdomen Integumentary System Orthosis Activities Of Daily Living Treatment
+F08E5FZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F08E5FZ	Thorax / Abdomen Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Activities Of Daily Living Treatment
+F08E5UZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Integumentary System Prosthesis
+F08E5UZ	Thorax / Abdomen Integumentary System Prosthesis Activities Of Daily Living Treatment
+F08E5YZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Integumentary System Other Equipment
+F08E5YZ	Thorax / Abdomen Integumentary System Other Equipment Activities Of Daily Living Treatment
+F08E5ZZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Integumentary System
+F08E5ZZ	Thorax / Abdomen Integumentary System Activities Of Daily Living Treatment
+F08F5AZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Integumentary System Negative Pressure Therapy
+F08F5AZ	Upper Back / Upper Extremity Integumentary System Negative Pressure Therapy Activities Of Daily Living Treatment
+F08F5BZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Integumentary System Physical Agents
+F08F5BZ	Upper Back / Upper Extremity Integumentary System Physical Agents Activities Of Daily Living Treatment
+F08F5CZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Integumentary System Mechanical
+F08F5CZ	Upper Back / Upper Extremity Integumentary System Mechanical Activities Of Daily Living Treatment
+F08F5DZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Integumentary System Electrotherapeutic
+F08F5DZ	Upper Back / Upper Extremity Integumentary System Electrotherapeutic Activities Of Daily Living Treatment
+F08F5EZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Integumentary System Orthosis
+F08F5EZ	Upper Back / Upper Extremity Integumentary System Orthosis Activities Of Daily Living Treatment
+F08F5FZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F08F5FZ	Upper Back / Upper Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Activities Of Daily Living Treatment
+F08F5UZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Integumentary System Prosthesis
+F08F5UZ	Upper Back / Upper Extremity Integumentary System Prosthesis Activities Of Daily Living Treatment
+F08F5YZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Integumentary System Other Equipment
+F08F5YZ	Upper Back / Upper Extremity Integumentary System Other Equipment Activities Of Daily Living Treatment
+F08F5ZZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Integumentary System
+F08F5ZZ	Upper Back / Upper Extremity Integumentary System Activities Of Daily Living Treatment
+F08G5AZ	Activities Of Daily Living Treatment of the Lower Back / Lower Extremity Integumentary System Negative Pressure Therapy
+F08G5AZ	Lower Back / Lower Extremity Integumentary System Negative Pressure Therapy Activities Of Daily Living Treatment
+F08G5BZ	Activities Of Daily Living Treatment of the Lower Back / Lower Extremity Integumentary System Physical Agents
+F08G5BZ	Lower Back / Lower Extremity Integumentary System Physical Agents Activities Of Daily Living Treatment
+F08G5CZ	Activities Of Daily Living Treatment of the Lower Back / Lower Extremity Integumentary System Mechanical
+F08G5CZ	Lower Back / Lower Extremity Integumentary System Mechanical Activities Of Daily Living Treatment
+F08G5DZ	Activities Of Daily Living Treatment of the Lower Back / Lower Extremity Integumentary System Electrotherapeutic
+F08G5DZ	Lower Back / Lower Extremity Integumentary System Electrotherapeutic Activities Of Daily Living Treatment
+F08G5EZ	Activities Of Daily Living Treatment of the Lower Back / Lower Extremity Integumentary System Orthosis
+F08G5EZ	Lower Back / Lower Extremity Integumentary System Orthosis Activities Of Daily Living Treatment
+F08G5FZ	Activities Of Daily Living Treatment of the Lower Back / Lower Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F08G5FZ	Lower Back / Lower Extremity Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Activities Of Daily Living Treatment
+F08G5UZ	Activities Of Daily Living Treatment of the Lower Back / Lower Extremity Integumentary System Prosthesis
+F08G5UZ	Lower Back / Lower Extremity Integumentary System Prosthesis Activities Of Daily Living Treatment
+F08G5YZ	Activities Of Daily Living Treatment of the Lower Back / Lower Extremity Integumentary System Other Equipment
+F08G5YZ	Lower Back / Lower Extremity Integumentary System Other Equipment Activities Of Daily Living Treatment
+F08G5ZZ	Activities Of Daily Living Treatment of the Lower Back / Lower Extremity Integumentary System
+F08G5ZZ	Lower Back / Lower Extremity Integumentary System Activities Of Daily Living Treatment
+F08H5AZ	Activities Of Daily Living Treatment of the Whole Body Integumentary System Negative Pressure Therapy
+F08H5AZ	Whole Body Integumentary System Negative Pressure Therapy Activities Of Daily Living Treatment
+F08H5BZ	Activities Of Daily Living Treatment of the Whole Body Integumentary System Physical Agents
+F08H5BZ	Whole Body Integumentary System Physical Agents Activities Of Daily Living Treatment
+F08H5CZ	Activities Of Daily Living Treatment of the Whole Body Integumentary System Mechanical
+F08H5CZ	Whole Body Integumentary System Mechanical Activities Of Daily Living Treatment
+F08H5DZ	Activities Of Daily Living Treatment of the Whole Body Integumentary System Electrotherapeutic
+F08H5DZ	Whole Body Integumentary System Electrotherapeutic Activities Of Daily Living Treatment
+F08H5EZ	Activities Of Daily Living Treatment of the Whole Body Integumentary System Orthosis
+F08H5EZ	Whole Body Integumentary System Orthosis Activities Of Daily Living Treatment
+F08H5FZ	Activities Of Daily Living Treatment of the Whole Body Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F08H5FZ	Whole Body Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Activities Of Daily Living Treatment
+F08H5UZ	Activities Of Daily Living Treatment of the Whole Body Integumentary System Prosthesis
+F08H5UZ	Whole Body Integumentary System Prosthesis Activities Of Daily Living Treatment
+F08H5YZ	Activities Of Daily Living Treatment of the Whole Body Integumentary System Other Equipment
+F08H5YZ	Whole Body Integumentary System Other Equipment Activities Of Daily Living Treatment
+F08H5ZZ	Activities Of Daily Living Treatment of the Whole Body Integumentary System
+F08H5ZZ	Whole Body Integumentary System Activities Of Daily Living Treatment
+F08J5AZ	Activities Of Daily Living Treatment of the Head And Neck Musculoskeletal System Negative Pressure Therapy
+F08J5AZ	Head And Neck Musculoskeletal System Negative Pressure Therapy Activities Of Daily Living Treatment
+F08J5BZ	Activities Of Daily Living Treatment of the Head And Neck Musculoskeletal System Physical Agents
+F08J5BZ	Head And Neck Musculoskeletal System Physical Agents Activities Of Daily Living Treatment
+F08J5CZ	Activities Of Daily Living Treatment of the Head And Neck Musculoskeletal System Mechanical
+F08J5CZ	Head And Neck Musculoskeletal System Mechanical Activities Of Daily Living Treatment
+F08J5DZ	Activities Of Daily Living Treatment of the Head And Neck Musculoskeletal System Electrotherapeutic
+F08J5DZ	Head And Neck Musculoskeletal System Electrotherapeutic Activities Of Daily Living Treatment
+F08J5EZ	Activities Of Daily Living Treatment of the Head And Neck Musculoskeletal System Orthosis
+F08J5EZ	Head And Neck Musculoskeletal System Orthosis Activities Of Daily Living Treatment
+F08J5FZ	Activities Of Daily Living Treatment of the Head And Neck Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F08J5FZ	Head And Neck Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Activities Of Daily Living Treatment
+F08J5UZ	Activities Of Daily Living Treatment of the Head And Neck Musculoskeletal System Prosthesis
+F08J5UZ	Head And Neck Musculoskeletal System Prosthesis Activities Of Daily Living Treatment
+F08J5YZ	Activities Of Daily Living Treatment of the Head And Neck Musculoskeletal System Other Equipment
+F08J5YZ	Head And Neck Musculoskeletal System Other Equipment Activities Of Daily Living Treatment
+F08J5ZZ	Activities Of Daily Living Treatment of the Head And Neck Musculoskeletal System
+F08J5ZZ	Head And Neck Musculoskeletal System Activities Of Daily Living Treatment
+F08K5AZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Musculoskeletal System Negative Pressure Therapy
+F08K5AZ	Upper Back / Upper Extremity Musculoskeletal System Negative Pressure Therapy Activities Of Daily Living Treatment
+F08K5BZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Musculoskeletal System Physical Agents
+F08K5BZ	Upper Back / Upper Extremity Musculoskeletal System Physical Agents Activities Of Daily Living Treatment
+F08K5CZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Musculoskeletal System Mechanical
+F08K5CZ	Upper Back / Upper Extremity Musculoskeletal System Mechanical Activities Of Daily Living Treatment
+F08K5DZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Musculoskeletal System Electrotherapeutic
+F08K5DZ	Upper Back / Upper Extremity Musculoskeletal System Electrotherapeutic Activities Of Daily Living Treatment
+F08K5EZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Musculoskeletal System Orthosis
+F08K5EZ	Upper Back / Upper Extremity Musculoskeletal System Orthosis Activities Of Daily Living Treatment
+F08K5FZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F08K5FZ	Upper Back / Upper Extremity Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Activities Of Daily Living Treatment
+F08K5UZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Musculoskeletal System Prosthesis
+F08K5UZ	Upper Back / Upper Extremity Musculoskeletal System Prosthesis Activities Of Daily Living Treatment
+F08K5YZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Musculoskeletal System Other Equipment
+F08K5YZ	Upper Back / Upper Extremity Musculoskeletal System Other Equipment Activities Of Daily Living Treatment
+F08K5ZZ	Activities Of Daily Living Treatment of the Upper Back / Upper Extremity Musculoskeletal System
+F08K5ZZ	Upper Back / Upper Extremity Musculoskeletal System Activities Of Daily Living Treatment
+F08M5AZ	Activities Of Daily Living Treatment of the Whole Body Musculoskeletal System Negative Pressure Therapy
+F08M5AZ	Whole Body Musculoskeletal System Negative Pressure Therapy Activities Of Daily Living Treatment
+F08M5BZ	Activities Of Daily Living Treatment of the Whole Body Musculoskeletal System Physical Agents
+F08M5BZ	Whole Body Musculoskeletal System Physical Agents Activities Of Daily Living Treatment
+F08M5CZ	Activities Of Daily Living Treatment of the Whole Body Musculoskeletal System Mechanical
+F08M5CZ	Whole Body Musculoskeletal System Mechanical Activities Of Daily Living Treatment
+F08M5DZ	Activities Of Daily Living Treatment of the Whole Body Musculoskeletal System Electrotherapeutic
+F08M5DZ	Whole Body Musculoskeletal System Electrotherapeutic Activities Of Daily Living Treatment
+F08M5EZ	Activities Of Daily Living Treatment of the Whole Body Musculoskeletal System Orthosis
+F08M5EZ	Whole Body Musculoskeletal System Orthosis Activities Of Daily Living Treatment
+F08M5FZ	Activities Of Daily Living Treatment of the Whole Body Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F08M5FZ	Whole Body Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Activities Of Daily Living Treatment
+F08M5UZ	Activities Of Daily Living Treatment of the Whole Body Musculoskeletal System Prosthesis
+F08M5UZ	Whole Body Musculoskeletal System Prosthesis Activities Of Daily Living Treatment
+F08M5YZ	Activities Of Daily Living Treatment of the Whole Body Musculoskeletal System Other Equipment
+F08M5YZ	Whole Body Musculoskeletal System Other Equipment Activities Of Daily Living Treatment
+F08M5ZZ	Activities Of Daily Living Treatment of the Whole Body Musculoskeletal System
+F08M5ZZ	Whole Body Musculoskeletal System Activities Of Daily Living Treatment
+F08P5AZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Musculoskeletal System Negative Pressure Therapy
+F08P5AZ	Thorax / Abdomen Musculoskeletal System Negative Pressure Therapy Activities Of Daily Living Treatment
+F08P5BZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Musculoskeletal System Physical Agents
+F08P5BZ	Thorax / Abdomen Musculoskeletal System Physical Agents Activities Of Daily Living Treatment
+F08P5CZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Musculoskeletal System Mechanical
+F08P5CZ	Thorax / Abdomen Musculoskeletal System Mechanical Activities Of Daily Living Treatment
+F08P5DZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Musculoskeletal System Electrotherapeutic
+F08P5DZ	Thorax / Abdomen Musculoskeletal System Electrotherapeutic Activities Of Daily Living Treatment
+F08P5EZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Musculoskeletal System Orthosis
+F08P5EZ	Thorax / Abdomen Musculoskeletal System Orthosis Activities Of Daily Living Treatment
+F08P5FZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F08P5FZ	Thorax / Abdomen Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Activities Of Daily Living Treatment
+F08P5UZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Musculoskeletal System Prosthesis
+F08P5UZ	Thorax / Abdomen Musculoskeletal System Prosthesis Activities Of Daily Living Treatment
+F08P5YZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Musculoskeletal System Other Equipment
+F08P5YZ	Thorax / Abdomen Musculoskeletal System Other Equipment Activities Of Daily Living Treatment
+F08P5ZZ	Activities Of Daily Living Treatment of the Thorax / Abdomen Musculoskeletal System
+F08P5ZZ	Thorax / Abdomen Musculoskeletal System Activities Of Daily Living Treatment
+F0C33EZ	Vestibular Treatment of the Whole Body Neurological System Orthosis
+F0C33EZ	Whole Body Neurological System Orthosis Vestibular Treatment
+F0C33FZ	Vestibular Treatment of the Whole Body Neurological System Assistive, Adaptive, Supportive Or Protective Equipment
+F0C33FZ	Whole Body Neurological System Assistive, Adaptive, Supportive Or Protective Equipment Vestibular Treatment
+F0C33UZ	Vestibular Treatment of the Whole Body Neurological System Prosthesis
+F0C33UZ	Whole Body Neurological System Prosthesis Vestibular Treatment
+F0C33YZ	Vestibular Treatment of the Whole Body Neurological System Other Equipment
+F0C33YZ	Whole Body Neurological System Other Equipment Vestibular Treatment
+F0C33ZZ	Vestibular Treatment of the Whole Body Neurological System
+F0C33ZZ	Whole Body Neurological System Vestibular Treatment
+F0CH3EZ	Vestibular Treatment of the Whole Body Integumentary System Orthosis
+F0CH3EZ	Whole Body Integumentary System Orthosis Vestibular Treatment
+F0CH3FZ	Vestibular Treatment of the Whole Body Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment
+F0CH3FZ	Whole Body Integumentary System Assistive, Adaptive, Supportive Or Protective Equipment Vestibular Treatment
+F0CH3UZ	Vestibular Treatment of the Whole Body Integumentary System Prosthesis
+F0CH3UZ	Whole Body Integumentary System Prosthesis Vestibular Treatment
+F0CH3YZ	Vestibular Treatment of the Whole Body Integumentary System Other Equipment
+F0CH3YZ	Whole Body Integumentary System Other Equipment Vestibular Treatment
+F0CH3ZZ	Vestibular Treatment of the Whole Body Integumentary System
+F0CH3ZZ	Whole Body Integumentary System Vestibular Treatment
+F0CM3EZ	Vestibular Treatment of the Whole Body Musculoskeletal System Orthosis
+F0CM3EZ	Whole Body Musculoskeletal System Orthosis Vestibular Treatment
+F0CM3FZ	Vestibular Treatment of the Whole Body Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment
+F0CM3FZ	Whole Body Musculoskeletal System Assistive, Adaptive, Supportive Or Protective Equipment Vestibular Treatment
+F0CM3UZ	Vestibular Treatment of the Whole Body Musculoskeletal System Prosthesis
+F0CM3UZ	Whole Body Musculoskeletal System Prosthesis Vestibular Treatment
+F0CM3YZ	Vestibular Treatment of the Whole Body Musculoskeletal System Other Equipment
+F0CM3YZ	Whole Body Musculoskeletal System Other Equipment Vestibular Treatment
+F0CM3ZZ	Vestibular Treatment of the Whole Body Musculoskeletal System
+F0CM3ZZ	Whole Body Musculoskeletal System Vestibular Treatment

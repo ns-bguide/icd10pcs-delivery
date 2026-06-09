@@ -1,0 +1,518 @@
+D00	Beam radiation of the central and the peripheral nervous system.
+D0000ZZ	Beam radiation of the brain.
+D0003Z0	Intraoperative beam radiation of the brain.
+D0010ZZ	Beam radiation of the brain stem.
+D0013Z0	Intraoperative beam radiation of the brain stem.
+D0060ZZ	Beam radiation of the spinal cord.
+D0063Z0	Intraoperative beam radiation of the spinal cord.
+D0070ZZ	Beam radiation of the peripheral nerve.
+D0073Z0	Intraoperative beam radiation of the peripheral nerve.
+D01	Brachytherapy of the central and the peripheral nervous system.
+D01097Z	Brachytherapy of the brain.
+D010BB1	Brachytherapy of the brain using unidirectional source.
+D01197Z	Brachytherapy of the brain stem.
+D011BB1	Brachytherapy of the brain stem using unidirectional source.
+D01697Z	Brachytherapy of the spinal cord.
+D016BB1	Brachytherapy of the spinal cord using unidirectional source.
+D01797Z	Brachytherapy of the peripheral nerve.
+D017BB1	Brachytherapy of the peripheral nerve using unidirectional source.
+D02	Stereotactic radiosurgery of the central and the peripheral nervous system.
+D020DZZ	Stereotactic radiosurgery of the brain.
+D021DZZ	Stereotactic radiosurgery of the brain stem.
+D026DZZ	Stereotactic radiosurgery of the spinal cord.
+D027DZZ	Stereotactic radiosurgery of the peripheral nerve.
+D0Y	Other radiation of the central and the peripheral nervous system.
+D0Y07ZZ	Other radiation of the brain.
+D0Y17ZZ	Other radiation of the brain stem.
+D0Y67ZZ	Other radiation of the spinal cord.
+D0Y77ZZ	Other radiation of the peripheral nerve.
+D22	Stereotactic radiosurgery of the heart and great vessels.
+D228DZZ	Stereotactic radiosurgery of the conduction mechanism.
+D70	Beam radiation of the lymphatic system and hematologic system.
+D7000ZZ	Beam radiation of the bone marrow.
+D7003Z0	Intraoperative beam radiation of the bone marrow.
+D7010ZZ	Beam radiation of the thymus.
+D7013Z0	Intraoperative beam radiation of the thymus.
+D7020ZZ	Beam radiation of the spleen.
+D7023Z0	Intraoperative beam radiation of the spleen.
+D7030ZZ	Beam radiation of the neck lymphatic systems.
+D7033Z0	Intraoperative beam radiation of the neck lymphatic systems.
+D7040ZZ	Beam radiation of the axillary lymphatic systems.
+D7043Z0	Intraoperative beam radiation of the axillary lymphatic systems.
+D7050ZZ	Beam radiation of the thorax lymphatic systems.
+D7053Z0	Intraoperative beam radiation of the thorax lymphatic systems.
+D7060ZZ	Beam radiation of the abdomen lymphatic systems.
+D7063Z0	Intraoperative beam radiation of the abdomen lymphatic systems.
+D7070ZZ	Beam radiation of the pelvis lymphatic systems.
+D7073Z0	Intraoperative beam radiation of the pelvis lymphatic systems.
+D7080ZZ	Beam radiation of the inguinal lymphatic systems.
+D7083Z0	Intraoperative beam radiation of the inguinal lymphatic systems.
+D71	Brachytherapy of the lymphatic system and hematologic system.
+D71097Z	Brachytherapy of the bone marrow.
+D710BB1	Brachytherapy of the bone marrow using unidirectional source.
+D71197Z	Brachytherapy of the thymus.
+D711BB1	Brachytherapy of the thymus using unidirectional source.
+D71297Z	Brachytherapy of the spleen.
+D712BB1	Brachytherapy of the spleen using unidirectional source.
+D71397Z	Brachytherapy of the neck lymphatic systems.
+D713BB1	Brachytherapy of the neck lymphatic systems using unidirectional source.
+D71497Z	Brachytherapy of the axillary lymphatic systems.
+D714BB1	Brachytherapy of the axillary lymphatic systems using unidirectional source.
+D71597Z	Brachytherapy of the thorax lymphatic systems.
+D715BB1	Brachytherapy of the thorax lymphatic systems using unidirectional source.
+D71697Z	Brachytherapy of the abdomen lymphatic systems.
+D716BB1	Brachytherapy of the abdomen lymphatic systems using unidirectional source.
+D71797Z	Brachytherapy of the pelvis lymphatic systems.
+D717BB1	Brachytherapy of the pelvis lymphatic systems using unidirectional source.
+D71897Z	Brachytherapy of the inguinal lymphatic systems.
+D718BB1	Brachytherapy of the inguinal lymphatic systems using unidirectional source.
+D72	Stereotactic radiosurgery of the lymphatic system and hematologic system.
+D720DZZ	Stereotactic radiosurgery of the bone marrow.
+D721DZZ	Stereotactic radiosurgery of the thymus.
+D722DZZ	Stereotactic radiosurgery of the spleen.
+D723DZZ	Stereotactic radiosurgery of the neck lymphatic systems.
+D724DZZ	Stereotactic radiosurgery of the axillary lymphatic systems.
+D725DZZ	Stereotactic radiosurgery of the thorax lymphatic systems.
+D726DZZ	Stereotactic radiosurgery of the abdomen lymphatic systems.
+D727DZZ	Stereotactic radiosurgery of the pelvis lymphatic systems.
+D728DZZ	Stereotactic radiosurgery of the inguinal lymphatic systems.
+D7Y	Other radiation of the lymphatic system and hematologic system.
+D7Y08ZZ	Other radiation of the bone marrow.
+D7Y18ZZ	Other radiation of the thymus.
+D7Y28ZZ	Other radiation of the spleen.
+D7Y38ZZ	Other radiation of the neck lymphatic systems.
+D7Y48ZZ	Other radiation of the axillary lymphatic systems.
+D7Y58ZZ	Other radiation of the thorax lymphatic systems.
+D7Y68ZZ	Other radiation of the abdomen lymphatic systems.
+D7Y78ZZ	Other radiation of the pelvis lymphatic systems.
+D7Y88ZZ	Other radiation of the inguinal lymphatic systems.
+D80	Beam radiation of the eye.
+D8003Z0	Intraoperative beam radiation of the eye.
+D81	Brachytherapy of the eye.
+D810BB1	Brachytherapy of the eye using unidirectional source.
+D82	Stereotactic radiosurgery of the eye.
+D8Y	Other radiation of the eye.
+D90	Beam radiation of the ear, nose, and mouth and throat.
+D9000ZZ	Beam radiation of the ear.
+D9003Z0	Intraoperative beam radiation of the ear.
+D9010ZZ	Beam radiation of the nose.
+D9013Z0	Intraoperative beam radiation of the nose.
+D9030ZZ	Beam radiation of the hypopharynx.
+D9033Z0	Intraoperative beam radiation of the hypopharynx.
+D9040ZZ	Beam radiation of the mouth.
+D9043Z0	Intraoperative beam radiation of the mouth.
+D9050ZZ	Beam radiation of the tongue.
+D9053Z0	Intraoperative beam radiation of the tongue.
+D9060ZZ	Beam radiation of the salivary glands.
+D9063Z0	Intraoperative beam radiation of the salivary glands.
+D9070ZZ	Beam radiation of the sinuses.
+D9073Z0	Intraoperative beam radiation of the sinuses.
+D9080ZZ	Beam radiation of the hard palate.
+D9083Z0	Intraoperative beam radiation of the hard palate.
+D9090ZZ	Beam radiation of the soft palate.
+D9093Z0	Intraoperative beam radiation of the soft palate.
+D90B0ZZ	Beam radiation of the larynx.
+D90B3Z0	Intraoperative beam radiation of the larynx.
+D90D0ZZ	Beam radiation of the nasopharynx.
+D90D3Z0	Intraoperative beam radiation of the nasopharynx.
+D90F0ZZ	Beam radiation of the oropharynx.
+D90F3Z0	Intraoperative beam radiation of the oropharynx.
+D91	Brachytherapy of the ear, nose, and mouth and throat.
+D91097Z	Brachytherapy of the ear.
+D910BB1	Brachytherapy of the ear using unidirectional source.
+D91197Z	Brachytherapy of the nose.
+D911BB1	Brachytherapy of the nose using unidirectional source.
+D91397Z	Brachytherapy of the hypopharynx.
+D913BB1	Brachytherapy of the hypopharynx using unidirectional source.
+D91497Z	Brachytherapy of the mouth.
+D914BB1	Brachytherapy of the mouth using unidirectional source.
+D91597Z	Brachytherapy of the tongue.
+D915BB1	Brachytherapy of the tongue using unidirectional source.
+D91697Z	Brachytherapy of the salivary glands.
+D916BB1	Brachytherapy of the salivary glands using unidirectional source.
+D91797Z	Brachytherapy of the sinuses.
+D917BB1	Brachytherapy of the sinuses using unidirectional source.
+D91897Z	Brachytherapy of the hard palate.
+D918BB1	Brachytherapy of the hard palate using unidirectional source.
+D91997Z	Brachytherapy of the soft palate.
+D919BB1	Brachytherapy of the soft palate using unidirectional source.
+D91B97Z	Brachytherapy of the larynx.
+D91BBB1	Brachytherapy of the larynx using unidirectional source.
+D91D97Z	Brachytherapy of the nasopharynx.
+D91DBB1	Brachytherapy of the nasopharynx using unidirectional source.
+D91F97Z	Brachytherapy of the oropharynx.
+D91FBB1	Brachytherapy of the oropharynx using unidirectional source.
+D92	Stereotactic radiosurgery of the ear, nose, and mouth and throat.
+D920DZZ	Stereotactic radiosurgery of the ear.
+D921DZZ	Stereotactic radiosurgery of the nose.
+D924DZZ	Stereotactic radiosurgery of the mouth.
+D925DZZ	Stereotactic radiosurgery of the tongue.
+D926DZZ	Stereotactic radiosurgery of the salivary glands.
+D927DZZ	Stereotactic radiosurgery of the sinuses.
+D928DZZ	Stereotactic radiosurgery of the hard palate.
+D929DZZ	Stereotactic radiosurgery of the soft palate.
+D92BDZZ	Stereotactic radiosurgery of the larynx.
+D92CDZZ	Stereotactic radiosurgery of the pharynx.
+D92DDZZ	Stereotactic radiosurgery of the nasopharynx.
+D9Y	Other radiation of the ear, nose, and mouth and throat.
+D9Y07ZZ	Other radiation of the ear.
+D9Y17ZZ	Other radiation of the nose.
+D9Y37ZZ	Other radiation of the hypopharynx.
+D9Y47ZZ	Other radiation of the mouth.
+D9Y57ZZ	Other radiation of the tongue.
+D9Y67ZZ	Other radiation of the salivary glands.
+D9Y77ZZ	Other radiation of the sinuses.
+D9Y87ZZ	Other radiation of the hard palate.
+D9Y97ZZ	Other radiation of the soft palate.
+D9YB7ZZ	Other radiation of the larynx.
+D9YCCZZ	Other radiation of the pharynx.
+D9YD7ZZ	Other radiation of the nasopharynx.
+D9YF7ZZ	Other radiation of the oropharynx.
+DB0	Beam radiation of the respiratory system.
+DB000ZZ	Beam radiation of the trachea.
+DB003Z0	Intraoperative beam radiation of the trachea.
+DB010ZZ	Beam radiation of the bronchus.
+DB013Z0	Intraoperative beam radiation of the bronchus.
+DB020ZZ	Beam radiation of the lung.
+DB023Z0	Intraoperative beam radiation of the lung.
+DB050ZZ	Beam radiation of the pleura.
+DB053Z0	Intraoperative beam radiation of the pleura.
+DB060ZZ	Beam radiation of the mediastinum.
+DB063Z0	Intraoperative beam radiation of the mediastinum.
+DB070ZZ	Beam radiation of the chest wall.
+DB073Z0	Intraoperative beam radiation of the chest wall.
+DB080ZZ	Beam radiation of the diaphragm.
+DB083Z0	Intraoperative beam radiation of the diaphragm.
+DB1	Brachytherapy of the respiratory system.
+DB1097Z	Brachytherapy of the trachea.
+DB10BB1	Brachytherapy of the trachea using unidirectional source.
+DB1197Z	Brachytherapy of the bronchus.
+DB11BB1	Brachytherapy of the bronchus using unidirectional source.
+DB1297Z	Brachytherapy of the lung.
+DB12BB1	Brachytherapy of the lung using unidirectional source.
+DB1597Z	Brachytherapy of the pleura.
+DB15BB1	Brachytherapy of the pleura using unidirectional source.
+DB1697Z	Brachytherapy of the mediastinum.
+DB16BB1	Brachytherapy of the mediastinum using unidirectional source.
+DB1797Z	Brachytherapy of the chest wall.
+DB17BB1	Brachytherapy of the chest wall using unidirectional source.
+DB1897Z	Brachytherapy of the diaphragm.
+DB18BB1	Brachytherapy of the diaphragm using unidirectional source.
+DB2	Stereotactic radiosurgery of the respiratory system.
+DB20DZZ	Stereotactic radiosurgery of the trachea.
+DB21DZZ	Stereotactic radiosurgery of the bronchus.
+DB22DZZ	Stereotactic radiosurgery of the lung.
+DB25DZZ	Stereotactic radiosurgery of the pleura.
+DB26DZZ	Stereotactic radiosurgery of the mediastinum.
+DB27DZZ	Stereotactic radiosurgery of the chest wall.
+DB28DZZ	Stereotactic radiosurgery of the diaphragm.
+DBY	Other radiation of the respiratory system.
+DBY07ZZ	Other radiation of the trachea.
+DBY17ZZ	Other radiation of the bronchus.
+DBY27ZZ	Other radiation of the lung.
+DBY57ZZ	Other radiation of the pleura.
+DBY67ZZ	Other radiation of the mediastinum.
+DBY77ZZ	Other radiation of the chest wall.
+DBY87ZZ	Other radiation of the diaphragm.
+DD0	Beam radiation of the gastrointestinal system.
+DD000ZZ	Beam radiation of the esophagus.
+DD003Z0	Intraoperative beam radiation of the esophagus.
+DD010ZZ	Beam radiation of the stomach.
+DD013Z0	Intraoperative beam radiation of the stomach.
+DD020ZZ	Beam radiation of the duodenum.
+DD023Z0	Intraoperative beam radiation of the duodenum.
+DD030ZZ	Beam radiation of the jejunum.
+DD033Z0	Intraoperative beam radiation of the jejunum.
+DD040ZZ	Beam radiation of the ileum.
+DD043Z0	Intraoperative beam radiation of the ileum.
+DD050ZZ	Beam radiation of the colon.
+DD053Z0	Intraoperative beam radiation of the colon.
+DD070ZZ	Beam radiation of the rectum.
+DD073Z0	Intraoperative beam radiation of the rectum.
+DD1	Brachytherapy of the gastrointestinal system.
+DD1097Z	Brachytherapy of the esophagus.
+DD10BB1	Brachytherapy of the esophagus using unidirectional source.
+DD1197Z	Brachytherapy of the stomach.
+DD11BB1	Brachytherapy of the stomach using unidirectional source.
+DD1297Z	Brachytherapy of the duodenum.
+DD12BB1	Brachytherapy of the duodenum using unidirectional source.
+DD1397Z	Brachytherapy of the jejunum.
+DD13BB1	Brachytherapy of the jejunum using unidirectional source.
+DD1497Z	Brachytherapy of the ileum.
+DD14BB1	Brachytherapy of the ileum using unidirectional source.
+DD1597Z	Brachytherapy of the colon.
+DD15BB1	Brachytherapy of the colon using unidirectional source.
+DD1797Z	Brachytherapy of the rectum.
+DD17BB1	Brachytherapy of the rectum using unidirectional source.
+DD2	Stereotactic radiosurgery of the gastrointestinal system.
+DD20DZZ	Stereotactic radiosurgery of the esophagus.
+DD21DZZ	Stereotactic radiosurgery of the stomach.
+DD22DZZ	Stereotactic radiosurgery of the duodenum.
+DD23DZZ	Stereotactic radiosurgery of the jejunum.
+DD24DZZ	Stereotactic radiosurgery of the ileum.
+DD25DZZ	Stereotactic radiosurgery of the colon.
+DD27DZZ	Stereotactic radiosurgery of the rectum.
+DDY	Other radiation of the gastrointestinal system.
+DDY07ZZ	Other radiation of the esophagus.
+DDY17ZZ	Other radiation of the stomach.
+DDY27ZZ	Other radiation of the duodenum.
+DDY37ZZ	Other radiation of the jejunum.
+DDY47ZZ	Other radiation of the ileum.
+DDY57ZZ	Other radiation of the colon.
+DDY77ZZ	Other radiation of the rectum.
+DDY8CZZ	Other radiation of the anus.
+DF0	Beam radiation of the hepatobiliary system and pancreas.
+DF000ZZ	Beam radiation of the liver.
+DF003Z0	Intraoperative beam radiation of the liver.
+DF010ZZ	Beam radiation of the gallbladder.
+DF013Z0	Intraoperative beam radiation of the gallbladder.
+DF020ZZ	Beam radiation of the bile ducts.
+DF023Z0	Intraoperative beam radiation of the bile ducts.
+DF030ZZ	Beam radiation of the pancreas.
+DF033Z0	Intraoperative beam radiation of the pancreas.
+DF1	Brachytherapy of the hepatobiliary system and pancreas.
+DF1097Z	Brachytherapy of the liver.
+DF10BB1	Brachytherapy of the liver using unidirectional source.
+DF1197Z	Brachytherapy of the gallbladder.
+DF11BB1	Brachytherapy of the gallbladder using unidirectional source.
+DF1297Z	Brachytherapy of the bile ducts.
+DF12BB1	Brachytherapy of the bile ducts using unidirectional source.
+DF1397Z	Brachytherapy of the pancreas.
+DF13BB1	Brachytherapy of the pancreas using unidirectional source.
+DF2	Stereotactic radiosurgery of the hepatobiliary system and pancreas.
+DF20DZZ	Stereotactic radiosurgery of the liver.
+DF21DZZ	Stereotactic radiosurgery of the gallbladder.
+DF22DZZ	Stereotactic radiosurgery of the bile ducts.
+DF23DZZ	Stereotactic radiosurgery of the pancreas.
+DFY	Other radiation of the hepatobiliary system and pancreas.
+DFY07ZZ	Other radiation of the liver.
+DFY17ZZ	Other radiation of the gallbladder.
+DFY27ZZ	Other radiation of the bile ducts.
+DFY37ZZ	Other radiation of the pancreas.
+DG0	Beam radiation of the endocrine system.
+DG000ZZ	Beam radiation of the pituitary gland.
+DG003Z0	Intraoperative beam radiation of the pituitary gland.
+DG010ZZ	Beam radiation of the pineal body.
+DG013Z0	Intraoperative beam radiation of the pineal body.
+DG020ZZ	Beam radiation of the adrenal glands.
+DG023Z0	Intraoperative beam radiation of the adrenal glands.
+DG040ZZ	Beam radiation of the parathyroid glands.
+DG043Z0	Intraoperative beam radiation of the parathyroid glands.
+DG050ZZ	Beam radiation of the thyroid.
+DG053Z0	Intraoperative beam radiation of the thyroid.
+DG1	Brachytherapy of the endocrine system.
+DG1097Z	Brachytherapy of the pituitary gland.
+DG10BB1	Brachytherapy of the pituitary gland using unidirectional source.
+DG1197Z	Brachytherapy of the pineal body.
+DG11BB1	Brachytherapy of the pineal body using unidirectional source.
+DG1297Z	Brachytherapy of the adrenal glands.
+DG12BB1	Brachytherapy of the adrenal glands using unidirectional source.
+DG1497Z	Brachytherapy of the parathyroid glands.
+DG14BB1	Brachytherapy of the parathyroid glands using unidirectional source.
+DG1597Z	Brachytherapy of the thyroid.
+DG15BB1	Brachytherapy of the thyroid using unidirectional source.
+DG2	Stereotactic radiosurgery of the endocrine system.
+DG20DZZ	Stereotactic radiosurgery of the pituitary gland.
+DG21DZZ	Stereotactic radiosurgery of the pineal body.
+DG22DZZ	Stereotactic radiosurgery of the adrenal glands.
+DG24DZZ	Stereotactic radiosurgery of the parathyroid glands.
+DG25DZZ	Stereotactic radiosurgery of the thyroid.
+DGY	Other radiation of the endocrine system.
+DGY07ZZ	Other radiation of the pituitary gland.
+DGY17ZZ	Other radiation of the pineal body.
+DGY27ZZ	Other radiation of the adrenal glands.
+DGY47ZZ	Other radiation of the parathyroid glands.
+DGY57ZZ	Other radiation of the thyroid.
+DH0	Beam radiation of the skin.
+DH020ZZ	Beam radiation of the face skin.
+DH023Z0	Intraoperative beam radiation of the face skin.
+DH030ZZ	Beam radiation of the neck skin.
+DH033Z0	Intraoperative beam radiation of the neck skin.
+DH040ZZ	Beam radiation of the arm skin.
+DH043Z0	Intraoperative beam radiation of the arm skin.
+DH060ZZ	Beam radiation of the chest skin.
+DH063Z0	Intraoperative beam radiation of the chest skin.
+DH070ZZ	Beam radiation of the back skin.
+DH073Z0	Intraoperative beam radiation of the back skin.
+DH080ZZ	Beam radiation of the abdomen skin.
+DH083Z0	Intraoperative beam radiation of the abdomen skin.
+DH090ZZ	Beam radiation of the buttock skin.
+DH093Z0	Intraoperative beam radiation of the buttock skin.
+DH0B0ZZ	Beam radiation of the leg skin.
+DH0B3Z0	Intraoperative beam radiation of the leg skin.
+DHY	Other radiation of the skin.
+DHY27ZZ	Other radiation of the face skin.
+DHY37ZZ	Other radiation of the neck skin.
+DHY47ZZ	Other radiation of the arm skin.
+DHY5FZZ	Other radiation of the hand skin.
+DHY67ZZ	Other radiation of the chest skin.
+DHY77ZZ	Other radiation of the back skin.
+DHY87ZZ	Other radiation of the abdomen skin.
+DHY97ZZ	Other radiation of the buttock skin.
+DHYB7ZZ	Other radiation of the leg skin.
+DHYCFZZ	Other radiation of the foot skin.
+DM0	Beam radiation of the breast.
+DM000ZZ	Beam radiation of the left breast.
+DM003Z0	Intraoperative beam radiation of the left breast.
+DM010ZZ	Beam radiation of the right breast.
+DM013Z0	Intraoperative beam radiation of the right breast.
+DM1	Brachytherapy of the breast.
+DM1097Z	Brachytherapy of the left breast.
+DM10BB1	Brachytherapy of the left breast using unidirectional source.
+DM1197Z	Brachytherapy of the right breast.
+DM11BB1	Brachytherapy of the right breast using unidirectional source.
+DM2	Stereotactic radiosurgery of the breast.
+DM20DZZ	Stereotactic radiosurgery of the left breast.
+DM21DZZ	Stereotactic radiosurgery of the right breast.
+DMY	Other radiation of the breast.
+DMY07ZZ	Other radiation of the left breast.
+DMY17ZZ	Other radiation of the right breast.
+DP0	Beam radiation of the musculoskeletal system.
+DP000ZZ	Beam radiation of the skull.
+DP003Z0	Intraoperative beam radiation of the skull.
+DP020ZZ	Beam radiation of the maxilla.
+DP023Z0	Intraoperative beam radiation of the maxilla.
+DP030ZZ	Beam radiation of the mandible.
+DP033Z0	Intraoperative beam radiation of the mandible.
+DP040ZZ	Beam radiation of the sternum.
+DP043Z0	Intraoperative beam radiation of the sternum.
+DP050ZZ	Beam radiation of the rib(s).
+DP053Z0	Intraoperative beam radiation of the rib(s).
+DP060ZZ	Beam radiation of the humerus.
+DP063Z0	Intraoperative beam radiation of the humerus.
+DP070ZZ	Beam radiation of the radius/ulna.
+DP073Z0	Intraoperative beam radiation of the radius/ulna.
+DP080ZZ	Beam radiation of the pelvic region bones.
+DP083Z0	Intraoperative beam radiation of the pelvic region bones.
+DP090ZZ	Beam radiation of the femur.
+DP093Z0	Intraoperative beam radiation of the femur.
+DP0B0ZZ	Beam radiation of the tibia/fibula.
+DP0B3Z0	Intraoperative beam radiation of the tibia/fibula.
+DP0C0ZZ	Beam radiation of the other bone.
+DP0C3Z0	Intraoperative beam radiation of the other bone.
+DPY	Other radiation of the musculoskeletal system.
+DPY07ZZ	Other radiation of the skull.
+DPY27ZZ	Other radiation of the maxilla.
+DPY37ZZ	Other radiation of the mandible.
+DPY47ZZ	Other radiation of the sternum.
+DPY57ZZ	Other radiation of the rib(s).
+DPY67ZZ	Other radiation of the humerus.
+DPY77ZZ	Other radiation of the radius/ulna.
+DPY87ZZ	Other radiation of the pelvic region bones.
+DPY97ZZ	Other radiation of the femur.
+DPYB7ZZ	Other radiation of the tibia/fibula.
+DPYC7ZZ	Other radiation of the other bone.
+DT0	Beam radiation of the urinary system.
+DT000ZZ	Beam radiation of the kidney.
+DT003Z0	Intraoperative beam radiation of the kidney.
+DT010ZZ	Beam radiation of the ureter.
+DT013Z0	Intraoperative beam radiation of the ureter.
+DT020ZZ	Beam radiation of the bladder.
+DT023Z0	Intraoperative beam radiation of the bladder.
+DT030ZZ	Beam radiation of the urethra.
+DT033Z0	Intraoperative beam radiation of the urethra.
+DT1	Brachytherapy of the urinary system.
+DT1097Z	Brachytherapy of the kidney.
+DT10BB1	Brachytherapy of the kidney using unidirectional source.
+DT1197Z	Brachytherapy of the ureter.
+DT11BB1	Brachytherapy of the ureter using unidirectional source.
+DT1297Z	Brachytherapy of the bladder.
+DT12BB1	Brachytherapy of the bladder using unidirectional source.
+DT1397Z	Brachytherapy of the urethra.
+DT13BB1	Brachytherapy of the urethra using unidirectional source.
+DT2	Stereotactic radiosurgery of the urinary system.
+DT20DZZ	Stereotactic radiosurgery of the kidney.
+DT21DZZ	Stereotactic radiosurgery of the ureter.
+DT22DZZ	Stereotactic radiosurgery of the bladder.
+DT23DZZ	Stereotactic radiosurgery of the urethra.
+DTY	Other radiation of the urinary system.
+DTY07ZZ	Other radiation of the kidney.
+DTY17ZZ	Other radiation of the ureter.
+DTY27ZZ	Other radiation of the bladder.
+DTY37ZZ	Other radiation of the urethra.
+DU0	Beam radiation of the female reproductive system.
+DU000ZZ	Beam radiation of the ovary.
+DU003Z0	Intraoperative beam radiation of the ovary.
+DU010ZZ	Beam radiation of the cervix.
+DU013Z0	Intraoperative beam radiation of the cervix.
+DU020ZZ	Beam radiation of the uterus.
+DU023Z0	Intraoperative beam radiation of the uterus.
+DU1	Brachytherapy of the female reproductive system.
+DU1097Z	Brachytherapy of the ovary.
+DU10BB1	Brachytherapy of the ovary using unidirectional source.
+DU1197Z	Brachytherapy of the cervix.
+DU11BB1	Brachytherapy of the cervix using unidirectional source.
+DU1297Z	Brachytherapy of the uterus.
+DU12BB1	Brachytherapy of the uterus using unidirectional source.
+DU2	Stereotactic radiosurgery of the female reproductive system.
+DU20DZZ	Stereotactic radiosurgery of the ovary.
+DU21DZZ	Stereotactic radiosurgery of the cervix.
+DU22DZZ	Stereotactic radiosurgery of the uterus.
+DUY	Other radiation of the female reproductive system.
+DUY07ZZ	Other radiation of the ovary.
+DUY17ZZ	Other radiation of the cervix.
+DUY27ZZ	Other radiation of the uterus.
+DV0	Beam radiation of the male reproductive system.
+DV000ZZ	Beam radiation of the prostate.
+DV003Z0	Intraoperative beam radiation of the prostate.
+DV010ZZ	Beam radiation of the testis.
+DV013Z0	Intraoperative beam radiation of the testis.
+DV1	Brachytherapy of the male reproductive system.
+DV1097Z	Brachytherapy of the prostate.
+DV10BB1	Brachytherapy of the prostate using unidirectional source.
+DV1197Z	Brachytherapy of the testis.
+DV11BB1	Brachytherapy of the testis using unidirectional source.
+DV2	Stereotactic radiosurgery of the male reproductive system.
+DV20DZZ	Stereotactic radiosurgery of the prostate.
+DV21DZZ	Stereotactic radiosurgery of the testis.
+DVY	Other radiation of the male reproductive system.
+DVY07ZZ	Other radiation of the prostate.
+DVY17ZZ	Other radiation of the testis.
+DW0	Beam radiation of the anatomical regions.
+DW010ZZ	Beam radiation of the head and neck.
+DW013Z0	Intraoperative beam radiation of the head and neck.
+DW020ZZ	Beam radiation of the chest.
+DW023Z0	Intraoperative beam radiation of the chest.
+DW030ZZ	Beam radiation of the abdomen.
+DW033Z0	Intraoperative beam radiation of the abdomen.
+DW040ZZ	Beam radiation of the hemibody.
+DW043Z0	Intraoperative beam radiation of the hemibody.
+DW050ZZ	Beam radiation of the whole body.
+DW053Z0	Intraoperative beam radiation of the whole body.
+DW060ZZ	Beam radiation of the pelvic region region.
+DW063Z0	Intraoperative beam radiation of the pelvic region region.
+DW1	Brachytherapy of the anatomical regions.
+DW10BB1	Brachytherapy of the cranial cavity.
+DW10BB1	Brachytherapy of the cranial cavity using unidirectional source.
+DW1197Z	Brachytherapy of the head and neck.
+DW11BB1	Brachytherapy of the head and neck using unidirectional source.
+DW1297Z	Brachytherapy of the chest.
+DW12BB1	Brachytherapy of the chest using unidirectional source.
+DW1397Z	Brachytherapy of the abdomen.
+DW13BB1	Brachytherapy of the abdomen using unidirectional source.
+DW1697Z	Brachytherapy of the pelvic region region.
+DW16BB1	Brachytherapy of the pelvic region region using unidirectional source.
+DW1KBB1	Brachytherapy of the upper back.
+DW1KBB1	Brachytherapy of the upper back using unidirectional source.
+DW1PBB1	Brachytherapy of the gastrointestinal tract.
+DW1PBB1	Brachytherapy of the gastrointestinal tract using unidirectional source.
+DW1QBB1	Brachytherapy of the respiratory system tract.
+DW1QBB1	Brachytherapy of the respiratory system tract using unidirectional source.
+DW1RBB1	Brachytherapy of the genitourinary system tract.
+DW1RBB1	Brachytherapy of the genitourinary system tract using unidirectional source.
+DW1XBB1	Brachytherapy of the upper extremity.
+DW1XBB1	Brachytherapy of the upper extremity using unidirectional source.
+DW1YBB1	Brachytherapy of the lower extremity.
+DW1YBB1	Brachytherapy of the lower extremity using unidirectional source.
+DW2	Stereotactic radiosurgery of the anatomical regions.
+DW21DZZ	Stereotactic radiosurgery of the head and neck.
+DW22DZZ	Stereotactic radiosurgery of the chest.
+DW23DZZ	Stereotactic radiosurgery of the abdomen.
+DW26DZZ	Stereotactic radiosurgery of the pelvic region region.
+DWY	Other radiation of the anatomical regions.
+DWY17ZZ	Other radiation of the head and neck.
+DWY27ZZ	Other radiation of the chest.
+DWY37ZZ	Other radiation of the abdomen.
+DWY47ZZ	Other radiation of the hemibody.
+DWY57ZZ	Other radiation of the whole body.
+DWY67ZZ	Other radiation of the pelvic region region.

@@ -1,0 +1,762 @@
+abdominal aortic aneurysm
+abdominal ultrasound
+abscess
+achilles tendon
+achilles tendon rupture
+acoustic neuroma
+acquired aortic stricture
+acquired hepatic abscess
+acquired pancreatic fistula
+acquired popliteal inflammation
+acquired renal fistula
+acquired splenic inflammation
+acquired ureteral necrosis
+acromegaly
+acute cerebral neoplasm
+acute femoral dehiscence
+acute pancreatic necrosis
+acute tibial aneurysm
+adhesive bowel obstruction
+admission orders
+adrenal gland
+adrenal insufficiency
+albumin infusion
+alteration of visiting hours
+alteration to the treatment plan
+alzheimer disease
+anal canal
+anastomotic leak
+anastomotic stricture
+anemia
+anesthesia induction
+anesthesia machine
+anesthesiologist
+anterior cruciate ligament
+antibiotic prophylaxis
+aortic dehiscence
+aortic embolism
+aortic hematoma
+aortic hemorrhage
+aortic prolapse
+aortic root dilation
+aortic rupture
+aortic stenosis
+aortic valve
+appendicitis
+appendix
+arterial line
+ascending colon
+ascites
+atrial fibrillation
+attending physician
+axillary effusion
+axillary hemorrhage
+axillary infection
+axillary neoplasm
+axillary nonunion
+axillary stricture
+barium enema
+barrett esophagus
+basilar aneurysm
+basilar calcification
+basilar effusion
+basilar ischemia
+basilar stenosis
+benign prostatic hyperplasia
+bilateral aortic dissection
+bilateral basilar nonunion
+bilateral basilar seroma
+bilateral rectal effusion
+bilateral subclavian hemorrhage
+bilateral ulnar hematoma
+bilateral urethral stenosis
+biliary effusion
+biliary fibrosis
+biliary hematoma
+biliary ischemia
+biliary necrosis
+biliary stricture
+bladder cancer
+bladder neck
+blood loss
+blood pressure cuff
+blood product transfusion
+blood transfusion
+bone densitometry
+bone scan
+botox injection
+bowel ischemia
+brachial adhesion
+brachial aneurysm
+brachial embolism
+brachial fibrosis
+brachial fistula
+brachial infection
+brachial ischemia
+brachial plexus
+brachial plexus injury
+brainstem
+breast cancer
+breast mammography
+bronchitis
+bypass graft occlusion
+bypass graft stenosis
+bypass the usual approval process
+bypass the waiting room
+cardiac catheterization
+cardiac surgeon
+cardiac tamponade
+cardiologist
+care protocol
+carotid adhesion
+carotid artery
+carotid dissection
+carotid doppler
+carotid edema
+carotid effusion
+carotid intima-media thickening
+carotid nonunion
+carotid perforation
+carotid prolapse
+carotid stenosis
+carpal tunnel compression
+carpal tunnel syndrome
+cast material
+cecum
+celiac aneurysm
+celiac embolism
+celiac neoplasm
+celiac occlusion
+celiac prolapse
+celiac rupture
+celiac seroma
+celiac stenosis
+cellulitis
+cerebellum
+cerebral aneurysm
+cerebral angiography
+cerebral cortex
+cerebral edema
+cerebral inflammation
+cerebral ischemia
+cerebral neoplasm
+cerebral occlusion
+cerebral thrombosis
+cervical radiculopathy
+cervical spine
+cervix
+change in patient condition
+change the dressing daily
+chest tube
+chest x-ray
+cholecystitis
+chronic basilar stenosis
+chronic carotid aneurysm
+chronic coronary hemorrhage
+chronic duodenal inflammation
+chronic esophageal calcification
+chronic femoral embolism
+chronic gastric malunion
+chronic hepatic abscess
+chronic iliac nonunion
+chronic kidney disease
+chronic mesenteric effusion
+chronic mesenteric infection
+chronic pancreatic effusion
+chronic popliteal infection
+chronic splenic infection
+chylothorax
+circulating nurse
+cirrhosis
+clinical pathway
+colonic abscess
+colonic adhesion
+colonic calcification
+colonic dehiscence
+colonic nonunion
+colonic occlusion
+colonic perforation
+colonic seroma
+colorectal cancer
+compartment syndrome
+compression bandage
+congenital biliary perforation
+congenital celiac edema
+congenital gastric neoplasm
+congenital mesenteric dissection
+congenital mesenteric hemorrhage
+congenital rectal prolapse
+congenital renal occlusion
+congenital splenic edema
+congestive heart failure
+control of bleeding with pressure
+control of the situation
+coronary angiography
+coronary artery
+coronary artery calcification
+coronary artery disease
+coronary dehiscence
+coronary fibrosis
+coronary ischemia
+coronary neoplasm
+coronary stenosis
+coronary thrombosis
+creation of discharge summary
+creation of new patient account
+crohn disease
+crutches
+ct angiography
+ct scan of abdomen
+cushing syndrome
+deep vein thrombosis
+defibrillator
+dermatologist
+destruction of confidential documents
+destruction of expired medications
+detachment of the retina
+diabetes mellitus
+diaphragm
+differential diagnosis
+dilation of the pupils noted
+disc bulge at l4-l5
+discharge planning
+diverticulitis
+division of labor among nursing staff
+division of responsibilities
+drain output
+drainage from the roof leak
+drainage in the parking lot
+duodenal abscess
+duodenal malunion
+duodenal neoplasm
+duodenal obstruction
+duodenal prolapse
+duodenal rupture
+duodenal stricture
+duodenal thrombosis
+duodenum
+duplex ultrasound
+dvt prophylaxis
+echocardiogram
+electrocautery unit
+electroencephalography
+electromyography
+emergency department
+encephalitis
+endocrinologist
+endotracheal tube
+enteral feeding
+epidural steroid injection
+epilepsy
+esophageal abscess
+esophageal adhesion
+esophageal effusion
+esophageal embolism
+esophageal fistula
+esophageal hematoma
+esophageal hernia
+esophageal malunion
+esophageal seroma
+esophageal varices
+examination under anesthesia
+excision margin positive
+excision site healing well
+extraction of information from the database
+extraction of relevant data from the record
+facial nerve weakness
+failed previous repair
+fallopian tube
+femoral abscess
+femoral adhesion
+femoral aneurysm
+femoral artery
+femoral artery plaque
+femoral dehiscence
+femoral dissection
+femoral embolism
+femoral inflammation
+femoral ischemia
+femoral neoplasm
+femoral stricture
+fibromyalgia
+fine needle aspiration cytology
+fluid resuscitation
+fluoroscopy guided injection
+fluoroscopy unit
+foley catheter
+forceps
+fracture of femur
+fragmentation of the kidney stone noted on imaging
+fusion of departments
+gallbladder
+gallstones
+gastric embolism
+gastric necrosis
+gastric prolapse
+gastric seroma
+gastroenterologist
+gastroesophageal reflux
+general surgeon
+glioblastoma
+graft failure
+graft versus host
+gynecologist
+hematologist
+hemodynamic monitoring
+hemothorax
+heparin drip
+hepatic artery
+hepatic fibrosis
+hepatic infection
+hepatic steatosis
+hepatic thrombosis
+hepatitis
+hepatobiliary iminodiacetic acid scan
+hepatocellular carcinoma
+herniated disc
+holter monitor
+hospital bed
+hydrocephalus
+hyperlipidemia
+hypertension
+hyperthyroidism
+hypothalamus
+hypothyroidism
+ileum
+iliac artery
+iliac edema
+iliac inflammation
+iliac perforation
+iliac seroma
+imaging results
+implant failure
+implant loosening
+implant rejection
+incisional hernia
+informed consent
+infusion pump
+insertion of new policy guidelines
+inspection of the facility
+inspection of the wound
+insulin drip
+intensive care unit
+intervertebral disc
+intra-articular corticosteroid
+intramuscular analgesic
+intrathecal chemotherapy
+intravenous antibiotic administration
+intravenous catheter
+intravenous fluid resuscitation
+intravenous pyelogram
+irritable bowel syndrome
+jejunum
+joint prosthesis infection
+jugular vein
+kidney stones
+laboratory values
+labral tear
+laparoscopic tower
+left ventricle
+left ventricular dysfunction
+leukemia
+limb ischemia
+lumbar puncture for csf analysis
+lumbar radiculopathy
+lumbar spine
+lung cancer
+lupus
+lymphoma
+map of the hospital
+map the patient's neural pathways
+may-thurner syndrome
+mechanical ventilation
+medial meniscus
+median nerve compression
+mediastinum
+melanoma
+meningioma
+meningitis
+meniscal tear
+mesenteric fistula
+mesenteric hernia
+mesenteric ischemia
+mesenteric necrosis
+mesenteric nonunion
+mesentery
+migraine
+mild aortic adhesion
+mild basilar neoplasm
+mild duodenal malunion
+mild iliac hemorrhage
+mild radial perforation
+mild renal stricture
+mitral regurgitation
+mitral valve
+moderate celiac seroma
+moderate esophageal stricture
+moderate esophageal thrombosis
+moderate pancreatic perforation
+moderate rectal hernia
+moderate splenic dehiscence
+moderate subclavian calcification
+moderate vertebral stricture
+morbidity conference
+mr angiography
+mri of lumbar spine
+multidisciplinary team
+multiple sclerosis
+myeloma
+myocardial infarction
+nasogastric tube
+nebulized bronchodilator
+needle holder
+nephrologist
+nerve conduction study
+neurologist
+neurosurgeon
+nuclear medicine scan
+nurse practitioner
+nutcracker syndrome
+occlusion of the drain by debris
+occupational therapy
+omentum
+oncologist
+open fracture
+open reduction
+open the supply cabinet
+open wound
+operating table
+operating time
+operative report
+ophthalmologist
+optic nerve swelling
+oral anticoagulation
+orthopedic surgeon
+osteoarthritis
+otolaryngologist
+outpatient clinic
+ovarian torsion
+pain management
+pain pump management
+pancreas
+pancreatic abscess
+pancreatic adhesion
+pancreatic aneurysm
+pancreatic cancer
+pancreatic effusion
+pancreatic inflammation
+pancreatic malunion
+pancreatic necrosis
+pancreatic neoplasm
+pancreatic nonunion
+pancreatic occlusion
+pancreatic stricture
+pancreatitis
+parathyroid gland
+parenteral nutrition
+parkinson disease
+pathologist
+pathology report
+patient history
+patient monitor
+patient positioning
+patient-controlled analgesia
+pelvic congestion syndrome
+pelvic ultrasound
+peptic ulcer disease
+perfusionist
+pericardial effusion
+pericardium
+peripheral angiogram
+peripheral artery disease
+peritoneum
+peritonitis
+peroneal nerve palsy
+pet scan
+phantom limb pain
+pheochromocytoma
+phrenic nerve
+phrenic nerve palsy
+physical therapy
+physician assistant
+pituitary gland
+plantar fascia
+plantar fasciitis
+plastic surgeon
+platelet transfusion
+please open the patient's chart
+pleura
+pleural effusion
+pneumonia
+pneumothorax
+popliteal artery
+popliteal effusion
+popliteal hematoma
+portal hypertension
+portal vein
+post-operative aortic perforation
+post-operative carotid calcification
+post-operative celiac hematoma
+post-operative cerebral hematoma
+post-operative esophageal obstruction
+post-operative esophageal prolapse
+post-operative subclavian effusion
+post-operative wound infection
+post-surgical adhesions
+post-surgical pain
+post-transplant immunosuppression
+postoperative care
+pre-existing colonic dehiscence
+pre-existing coronary obstruction
+pre-existing gastric dehiscence
+pre-existing pancreatic seroma
+pre-existing subclavian hemorrhage
+pre-existing ureteral seroma
+preoperative assessment
+procedure complications
+procedure note
+procedure room
+procedure time
+progress notes
+progressive axillary occlusion
+progressive hepatic necrosis
+progressive radial aneurysm
+progressive radial stricture
+progressive rectal embolism
+progressive rectal hernia
+progressive renal stenosis
+progressive ulnar necrosis
+prostate
+prostate cancer
+prosthesis dislocation
+prosthetic valve endocarditis
+psychiatrist
+pudendal nerve entrapment
+pulmonary dissection
+pulmonary embolism
+pulmonary function test
+pulmonary infection
+pulmonary inflammation
+pulmonary stenosis
+pulmonologist
+pulse oximeter
+quality improvement
+radial artery
+radial embolism
+radial hematoma
+radial hernia
+radial ischemia
+radial nerve injury
+radial occlusion
+radial prolapse
+radial rupture
+radial seroma
+radial stricture
+radiologist
+recovery room
+rectal aneurysm
+rectal calcification
+rectal dehiscence
+rectal hernia
+rectal obstruction
+rectal stricture
+rectum
+recurrent hepatic thrombosis
+recurrent hernia after repair
+recurrent laryngeal nerve
+recurrent laryngeal nerve injury
+recurrent mesenteric effusion
+recurrent pulmonary embolism
+recurrent vertebral perforation
+release the patient from observation
+release the tourniquet slowly
+removal of old dressings
+removal of personal belongings
+removal of staples
+removal of sutures
+renal adhesion
+renal artery
+renal calcification
+renal calculus
+renal cell carcinoma
+renal cortical thinning
+renal fibrosis
+renal hematoma
+renal necrosis
+renal prolapse
+renal rupture
+renal stricture
+renal ultrasound
+repair needed on the ceiling tile
+repair the broken equipment
+replacement of broken monitor
+replacement staff needed for night shift
+resection margin clear
+retractor
+review of systems
+revision of hospital policies
+revision of the nursing protocol
+rheumatoid arthritis
+rheumatologist
+right atrium
+right ventricular hypertrophy
+rotator cuff
+rotator cuff tear
+rotator cuff tendinopathy
+sacral vertebra
+scalpel blade
+sciatic nerve
+sciatic nerve impingement
+scleroderma
+scrub nurse
+sedation protocol
+seminal vesicle
+sepsis
+severe brachial perforation
+severe carotid thrombosis
+severe tibial malunion
+sigmoid colon
+sinusitis
+spinal cord compression
+spinal stenosis
+spleen
+splenic abscess
+splenic adhesion
+splenic aneurysm
+splenic calcification
+splenic fistula
+splenic infection
+splenic ischemia
+splenic malunion
+splenic neoplasm
+splenic perforation
+splenic rupture
+splint
+stable brachial dehiscence
+stable colonic calcification
+stable colonic neoplasm
+stable gastric seroma
+stable pulmonary infection
+stable radial dissection
+stable vertebral hemorrhage
+stent occlusion
+stent restenosis
+stent thrombosis
+sterile field
+sterile gown
+stethoscope
+stress test
+stroke
+subclavian hematoma
+subclavian hernia
+subclavian ischemia
+subclavian stricture
+subclavian vein
+subcutaneous heparin injection
+superior vena cava syndrome
+supplement the existing documentation
+supplement to the insurance form
+surgical approach
+surgical castration
+surgical consultation
+surgical count
+surgical drape
+surgical gloves
+surgical mask
+surgical menopause
+surgical outcome
+surgical planning
+surgical resident
+surgical scar revision needed
+surgical site infection
+surgical technique
+surgical technologist
+surgical ward
+surgical wound dehiscence
+suture material
+syringe
+tagged red blood cell scan
+testicular torsion
+thalamus
+thoracic outlet syndrome
+thoracic spine
+thyroid gland
+thyroid ultrasound
+tibial occlusion
+tibial prolapse
+tibial stricture
+tibial thrombosis
+time out
+topical anesthetic application
+transesophageal echocardiography
+transfer the patient to room 302
+transfer to another facility
+transplant rejection
+transverse colon
+treatment plan
+trigeminal neuralgia
+trigger point injection
+tumor board
+type 2 diabetes
+ulcerative colitis
+ulnar aneurysm
+ulnar dehiscence
+ulnar edema
+ulnar fistula
+ulnar malunion
+ulnar nerve entrapment
+ulnar stenosis
+ultrasound guided aspiration
+ultrasound probe
+unilateral aortic obstruction
+unilateral axillary infection
+unilateral axillary prolapse
+unilateral carotid edema
+unilateral celiac nonunion
+unilateral cerebral fibrosis
+unilateral colonic inflammation
+unilateral pulmonary infection
+unilateral renal effusion
+unilateral renal stenosis
+unilateral vertebral edema
+upper gi series
+ureter
+ureteral dehiscence
+ureteral fistula
+ureteral hemorrhage
+ureteral infection
+ureteral malunion
+ureteral prolapse
+ureteral rupture
+urethra
+urethral abscess
+urethral calcification
+urethral edema
+urethral fibrosis
+urethral ischemia
+urethral nonunion
+urethral rupture
+urinary tract infection
+urologist
+uterine fundus
+vagus nerve
+varicose veins
+vascular surgeon
+vasopressor infusion
+ventilation perfusion scan
+ventilator
+vertebral adhesion
+vertebral dehiscence
+vertebral embolism
+vertebral fistula
+vertebral hemorrhage
+vertebral inflammation
+vertebral malunion
+vertebral nonunion
+vertebral perforation
+vital signs
+voiding cystourethrogram
+wheelchair
+wound care
+wound dressing
+wound healing

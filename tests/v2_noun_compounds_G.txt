@@ -1,0 +1,36 @@
+GZ10ZZZ	Psychological Tests of the Developmental
+GZ10ZZZ	Developmental Psychological Tests
+GZ12ZZZ	Psychological Tests of the Intellectual And Psychoeducational
+GZ12ZZZ	Intellectual And Psychoeducational Psychological Tests
+GZ13ZZZ	Psychological Tests of the Neuropsychological
+GZ13ZZZ	Neuropsychological Psychological Tests
+GZ14ZZZ	Psychological Tests of the Neurobehavioral And Cognitive Status
+GZ14ZZZ	Neurobehavioral And Cognitive Status Psychological Tests
+GZ50ZZZ	Individual Psychotherapy of the Interactive
+GZ50ZZZ	Interactive Individual Psychotherapy
+GZ51ZZZ	Individual Psychotherapy of the Behavioral
+GZ51ZZZ	Behavioral Individual Psychotherapy
+GZ53ZZZ	Individual Psychotherapy of the Interpersonal
+GZ53ZZZ	Interpersonal Individual Psychotherapy
+GZ54ZZZ	Individual Psychotherapy of the Psychoanalysis
+GZ54ZZZ	Psychoanalysis Individual Psychotherapy
+GZ55ZZZ	Individual Psychotherapy of the Psychodynamic
+GZ55ZZZ	Psychodynamic Individual Psychotherapy
+GZ56ZZZ	Individual Psychotherapy of the Supportive
+GZ56ZZZ	Supportive Individual Psychotherapy
+GZ58ZZZ	Individual Psychotherapy of the Cognitive-Behavioral
+GZ58ZZZ	Cognitive-Behavioral Individual Psychotherapy
+GZ59ZZZ	Individual Psychotherapy of the Psychophysiological
+GZ59ZZZ	Psychophysiological Individual Psychotherapy
+GZ63ZZZ	Counseling of the Other Counseling
+GZ63ZZZ	Other Counseling Counseling
+GZ72ZZZ	Family Psychotherapy of the Other Family Psychotherapy
+GZ72ZZZ	Other Family Psychotherapy Family Psychotherapy
+GZB0ZZZ	Electroconvulsive Therapy of the Unilateral-Single Seizure
+GZB0ZZZ	Unilateral-Single Seizure Electroconvulsive Therapy
+GZB2ZZZ	Electroconvulsive Therapy of the Bilateral-Single Seizure
+GZB2ZZZ	Bilateral-Single Seizure Electroconvulsive Therapy
+GZB4ZZZ	Electroconvulsive Therapy of the Other Electroconvulsive Therapy
+GZB4ZZZ	Other Electroconvulsive Therapy Electroconvulsive Therapy
+GZC9ZZZ	Biofeedback of the Other Biofeedback
+GZC9ZZZ	Other Biofeedback Biofeedback

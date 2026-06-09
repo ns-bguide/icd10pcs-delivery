@@ -1,0 +1,33 @@
+7W0	We treated the anatomical regions.
+7W0	We are treating the anatomical regions.
+7W0	We will treat the anatomical regions.
+7W00X0Z	We treated the head.
+7W00X0Z	We are treating the head.
+7W00X0Z	We will treat the head.
+7W01X0Z	We treated the cervical region.
+7W01X0Z	We are treating the cervical region.
+7W01X0Z	We will treat the cervical region.
+7W02X0Z	We treated the thoracic region.
+7W02X0Z	We are treating the thoracic region.
+7W02X0Z	We will treat the thoracic region.
+7W03X0Z	We treated the lumbar region.
+7W03X0Z	We are treating the lumbar region.
+7W03X0Z	We will treat the lumbar region.
+7W04X0Z	We treated the sacrum.
+7W04X0Z	We are treating the sacrum.
+7W04X0Z	We will treat the sacrum.
+7W05X0Z	We treated the pelvis.
+7W05X0Z	We are treating the pelvis.
+7W05X0Z	We will treat the pelvis.
+7W06X0Z	We treated the lower extremities.
+7W06X0Z	We are treating the lower extremities.
+7W06X0Z	We will treat the lower extremities.
+7W07X0Z	We treated the upper extremities.
+7W07X0Z	We are treating the upper extremities.
+7W07X0Z	We will treat the upper extremities.
+7W08X0Z	We treated the rib cage.
+7W08X0Z	We are treating the rib cage.
+7W08X0Z	We will treat the rib cage.
+7W09X0Z	We treated the abdomen.
+7W09X0Z	We are treating the abdomen.
+7W09X0Z	We will treat the abdomen.

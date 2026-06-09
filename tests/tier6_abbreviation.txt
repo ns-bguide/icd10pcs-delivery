@@ -1,0 +1,3289 @@
+L total labyrinthectomy
+R vocal cord release
+L lung exc open
+tracheal FB removal open
+LAA resection
+celiac stenting
+R axillary artery bx
+R pinna reattach
+cubital tunnel release
+L ear-mastoid bypass
+diaphragm release open
+R ICA interposition graft
+R popliteal interposition graft
+L cholesteatoma removal
+IT release
+L femoral vein valvuloplasty
+decortication open
+adenoid ablation
+aortic LN bx
+R mastoidectomy
+R innominate endarterectomy
+L CEA
+ICN release open
+L axillary LN drain
+IVC filter removal perc
+R brachial reconstruction
+R radial reconstruction
+CRT-P perc
+R TM release
+cervical plexus biopsy open
+lower vein PTFE patch
+R brachial angioplasty
+coronary atherectomy x1 perc
+cervical nerve section
+L ET dilat
+fem-fem PTFE
+T&A (combined with adenoidectomy)
+ET tube exchange
+R eustachian repair
+SVCO bypass
+bilateral AF bypass
+RFA lower vein
+L vertebral stent
+R hearing device removal
+meningeal repair
+L inguinal dissection
+upper artery embolization
+R internal jugular stenting
+lower extremity artery embolization
+R VA DES stent
+R brachial-ulnar bypass
+L submandibular ablation
+L axilla LN bx
+R ICA EC-IC bypass
+femoral neurectomy
+spinal tap
+R STA ligation
+L brachial embolectomy
+femoral port-a-cath
+L popliteal release
+thoracoscopic R pneumonectomy
+ICP device removal open
+caval bypass
+PVR mechanical open
+Bentall ascending
+L femoral venorrhaphy
+L subclavian release
+L ear pinning
+thoracoscopic pleural release
+R ext ear destruct
+diagnostic LP
+ax-fem bypass R
+R VC injection open
+DES x1
+R femoral vein DVT frag perc
+R ICA mechanical thrombectomy
+PDT perc
+LV bx perc
+lumbar nerve extraction open
+R cervical LN drain
+L femoral vein repair
+IVC-renal vein bypass
+R Hemashield patch
+L femoral endarterectomy
+upper vein bx open
+L CCA repair
+R CFA patch
+R saphenous stripping
+bronchoscopic tracheal dilat
+R frontal sinusotomy
+IT exc perc
+DDD PPM gen
+AAA tube graft
+aortic TEA
+R axillary dissection
+R anterior commissure release
+SVC patch repair
+PNS electrode revision perc
+R auricle ablat
+PCI x2 DES
+PASCAL MV
+May-Thurner stenting
+CABG x2 SVG
+intracranial neurostim gen open
+radial neurectomy
+R auricular autoplasty
+corpus callosotomy
+RFR CN V
+R CWD mastoidectomy
+R SSV RFA
+L cervical LN bx
+ulnar nerve section
+R AA (arytenoid adduction)
+On-X AVR
+L eardrum repair
+R HA VC injection
+ventriculoatrial shunt
+thoracic duct release
+R carotid PTAS
+L SPH extirp
+upper vein restriction
+R inner ear resection
+L open lung bx
+IVC filter open
+R SMG drain open
+L high ligation stripping
+L iliofemoral bypass
+nasal reconstruction
+R lung extirp open
+pericardial exc perc
+R MOCA GSV
+bronchoscopic RLL ablat
+sciatic neurolysis
+pulmonic valve ablation perc
+aortic LOA
+synthetic dural replacement
+L pinna destruct
+complete tumor resection open
+R total sphenoidectomy
+hemidiaphragm resection
+femoral neurectomy
+AF bypass R
+bilateral RPLND
+lumbar MB neurotomy
+nasal tissue destruct
+R SSV ligation
+tongue stim implant open
+pulmonic mechanical replacement
+NeuraGen median
+R glottic web release
+R femoral vein ablation perc
+R PT stenting
+oral tongue ablation
+laryngeal release
+1V CABG abdominal
+R femoral Dacron patch
+R femoral TEA
+VATS diaphragm plication
+parenchymal ICP monitor
+IVC-SMV bypass
+R brachial patch repair
+nasal amputation
+aortic valvuloplasty open
+lumbar nerve root decompression
+L LVA open
+R total labyrinthectomy
+R frontal sinus resection
+VATS diaphragm resection
+upper vein graft replacement
+sacral nerve ablation open
+L tympanoplasty autograft
+R brachial PTAS
+aortic Dacron patch
+L Stensen duct ablation
+R femoral vein patch
+epidural blood patch
+R pulm decortication
+R innominate vein bypass
+R lymphatic bypass
+ulnar nerve interposition graft
+BIMA x1
+L eardrum exc
+R frontal sinus exc
+R antrum extirp
+presacral nerve ablation
+L tunneled pleural catheter
+coronary reposition x1
+hard palate ablation open
+synthetic pericardium
+L BCV repair
+R tympanocetesis
+L parotidectomy
+radial infusion cath
+L carotid thrombectomy
+R PTRA + stent
+PIN release
+bif PCI x1
+LAA closure open
+L antrostomy
+pleural clot removal perc
+TCL release
+DCB-PCI x1
+MV valvuloplasty
+facial neurectomy
+R acoustic neuroma exc
+paddle SCS revision
+R ICA aspiration thrombectomy
+R cholesteatoma exc
+L mastoidectomy
+R hilar LN bx
+open LLL lobectomy
+tracheal reposition open
+silicone rhinoplasty
+R CEA patch
+R tympanic LOA
+TAVR repair
+PDT
+aortic tube graft
+Paget-Schroetter stenting L
+ulnar neurolysis
+endo turbinectomy
+pericardial extirp open
+IVC wall bx
+R eardrum release
+R carotid-subclavian transposition
+R radial bypass
+tibial neurolysis
+laryngeal device insertion open
+IVC stent revision open
+lumbar plexus division
+total thymectomy
+R pulm drain open
+R axillary release
+L ET exc
+VPS
+L pleural device insertion perc
+turbinectomy
+L SSV ClosureFast
+L femoral vein DVT frag perc
+heart assist revision perc
+IVC filter removal open
+median allograft
+L iliac ligation
+VVI PM open
+R auricle replant
+radial A-line
+R carotid DES
+dural laceration repair
+R femoral auto replacement
+R popliteal release
+extracranial-intracranial bypass R
+lumbar nerve bx open
+chemo port perc
+TD autologous augmentation
+PCI x1 DES
+biventricular PM
+tracheal dilat perc
+R subclavian repair
+EVAR conversion open
+pulmonary annuloplasty
+tissue PVR
+SVC catheter thrombectomy
+rhinoplasty
+endovascular AAA repair
+lumbar neurectomy
+femoral nerve section
+lymphangiographic TDE
+R sphenoidectomy
+supraglottic ablation
+R mastoid bypass non-auto
+R parotid duct sialolithotomy
+LUL lobectomy open
+cricopharyngeal dilation VNO
+R cochlear ablat
+L SSV ablation
+1V CABG thoracic
+R ICA balloon occlusion
+TAB L
+upper vein coil embolization
+R ulnar artery bypass
+radial nerve lac repair
+R CFA interposition graft
+VATS lingulectomy
+SVC vein patch
+aortic thrombus frag perc
+R carotid LOA
+R frontal sinus extirp
+R renal graft replacement
+LAA ligation open
+port-a-cath revision perc
+turb RFA
+L innominate vein CVC
+transcatheter MVR
+RA fragmentation
+L MOCA GSV
+aortic embolectomy
+turb somnoplasty
+R pneumonectomy open
+nasal concha destruct
+PTCA + BMS x1
+lower vein ablation open
+pudendal nerve ablation open
+R medialization laryngoplasty
+SVC reposition open
+R BCA endarterectomy
+EVD placement
+elephant trunk
+R BCV CVC perc
+L axillary LN bx
+R max sinus extirp
+parietal pleurectomy
+L iliac venous bypass
+orbital atherectomy x1
+CVC removal upper vein
+L PleurX
+L cordolysis
+RA thrombectomy perc
+upper vein ablation perc
+tricuspid annuloplasty
+median nerve ablation open
+lingulectomy open
+pericardiocentesis perc
+R SPH extirp
+L iliac PTFE
+R subclavian vein stenting
+IVC repair
+L SMG exc
+RLL lobectomy open
+R femoral stent
+carpal tunnel release
+L mastoid repair
+right neck dissection
+ascending aorta bypass
+L carotid release
+triple CABG
+upper extremity vein decompression
+SVC autologous patch
+L ALND
+SVC venoplasty
+Furlow Z-plasty soft palate
+R brachial thrombectomy
+R TM destruct
+upper lip Abbe flap
+thoracic duct repair
+thoracic nerve block perc
+R carotid stent bif
+crossover fem-fem
+R infrapopliteal stenting PT
+CN IX MVD
+L hilar LN bx
+PCI x1 BMS
+R ET dilat
+R carotid SVG replacement
+RUL bx endo
+CN V ablation
+cricopharyngeal dilation endo
+R lung drain open dx
+CO2 laser laryngectomy endo
+pulmonic valve repair
+R tympanic debridement
+R Wharton duct stone removal
+R mastoid abs drain
+R antral lavage
+CN VI ablation
+radial nerve decompression
+LVAD explant open
+rhinectomy
+aorta-renal bypass
+L pop stent
+R popliteal PTFE
+intranasal FB removal
+L external carotid stent
+multi-vessel CABG
+aortic Dacron graft
+pericardium LOA
+pleural sclerosis
+TEVAR
+R renal angioplasty
+L ETH extirp
+IT coblation
+EBP perc
+trigeminal nerve resection
+femoral CVC revision
+Furlow Z-plasty
+cervical lymphatic ligation
+SCPL
+R CIA vein stent DES
+hypopharyngeal FB removal endo
+CVC revision upper vein
+open aortic repair
+R ext ear repair perc
+sciatic nerve decompression
+IVC LOA
+trachea dilat open
+coronary LOA perc
+Amulet LAA
+LIMA graft x1
+PM lead extraction open
+turb extirp
+R axillary PTFE
+L maxillectomy
+L common iliac stent
+R parotid calculus removal
+CT-guided brain drain
+coronary vein PM lead open
+DC open
+TD embolization
+Adams-DeWeese clip
+RA clot frag
+PDT tube insertion
+laryngeal ablation
+BOT ablation
+R ethmoid extirp endo
+L SSV ligation
+lower vein embolization
+Gore-Tex diaphragm
+R peroneal stenting
+SVC HD catheter
+pericardial decortication
+retroperitoneal LN bx
+aortic arch repair
+laryngoscopic ablation endo
+L SSV excision
+R ET exc
+soft palate RFA
+R Stensen duct ablation
+R sphenoidotomy drain
+IVC Dacron graft
+R temporal artery bypass
+tracheal release open
+RATS thymectomy
+L hearing device explant
+IVC syndrome stenting
+descending aorta restriction open
+L CFA release
+epicardial PM lead
+chemical pleurodesis
+L renal artery repair
+ankyloglossia release
+pericardial AVR
+twist drill SDH
+L ET balloon open
+R CIA stenting
+ventricular stim lead open
+SVC repair open
+PPM revision open
+L TAB
+perc endo trach
+brachial plexus division
+R posterior tibial stent
+soft palate repair
+ICD lead extraction
+R VC bx open
+thoracoscopic total thymectomy
+L VATS lung exc
+port-a-cath removal open
+R infrastructure maxillectomy
+EVLA
+L brachial reconstruction
+Montgomery implant
+bronchoscopic tracheal frag
+aortic valve resuspension
+hypopharynx ablation
+transcatheter TVR
+tongue suspension
+lower lip exc open
+cervical plexus RFA
+coronary endarterectomy x1
+femoral CVC IVC
+L VC Radiesse
+perc CABG LIMA
+sacral sympathetic ablation
+R TM LOA
+ventriculocisternal shunt
+pharyngolaryngectomy
+turb destruct perc
+R total ethmoidectomy
+MitraClip perc
+bronchoscopic LMB extirp
+femoral CVC removal
+tracheostomy decannulation
+L TM LOA
+R SSV ClosureFast
+oculomotor nerve ablation
+RA lead perc
+L fem-pop SVG
+L frontal sinusectomy complete
+SVC stenting
+L MRM
+RMB frag endo
+thymoma resection
+nerve cuff electrode
+VATS pleurolysis
+Paget-Schroetter stenting R
+R ET destruct
+HeartMate open
+L bench surgery renal
+MISCH
+pericardial release open
+pre-TEVAR LSA transposition
+DBS electrode revision perc
+R femoroantibial bypass
+R KTP laser VC
+R medialization injection
+tongue repair
+L ET repair
+R nasal sinus dilat
+2V CABG
+VL intubation
+R lung drain open
+R renal PTFE
+ER-REBOA
+L femoral Fogarty
+R BCA stent DES
+PNS electrode perc
+head lymph node bx
+midline cath upper vein
+trigeminal nerve section
+RA thrombus frag perc
+turb division
+SARPE palate
+VATS pleurectomy
+IVC release
+BTV perc
+L AT stenting
+intranasal device insertion
+DeVega repair
+hard palate repair
+rhinoplasty autograft
+autologous diaphragm recon
+endoscopic CTR
+R leg lymphatic ligation
+R flush ligation GSV
+Adams-DeWeese IVC
+trach suction
+aortic auto replacement
+L ext ear destruct
+L brachial stent DES
+L ClosureFast
+aortic PTFE graft
+L eustachian exc
+R ext ear non-auto replacement
+total uvulectomy
+azygos vein repair
+SVC reconstruction
+rhinoplasty implant
+R ETH drain
+CO2 laser laryngeal
+R CIA repair
+R tuboplasty endo
+ulnar nerve conduit
+diaphragm reposition
+SVC pericardial patch
+R upper lobectomy
+R carotid stent insertion open
+EVAR reintervention
+L AA (arytenoid adduction)
+radial neurectomy
+transcatheter LAA exc
+perc tracheal biopsy
+upper lip cleft repair
+tissue TVR
+thoracic duct ablation
+R ICA occlusion perc
+MCS revision perc
+AV reposition open
+L cordectomy endo
+R CO2 laser VC
+upper lip ablation open
+Ross procedure
+aortic endoleak repair perc
+R femoral saphenous interposition
+diaphragm plication
+flex bronch RUL bx
+pVAD insertion
+CN V neurectomy
+L antrum extirp
+ETD L open
+tracheal R&A open
+thoracoscopic pleurectomy
+RUL lobectomy open
+L tympanic destruct
+R CIA patch
+anterior mediastinal LN bx
+somnoplasty
+intracapsular tonsillectomy
+presacral nerve block
+hemicraniectomy
+port revision perc
+L iliofemoral bypass EI
+R mastoid repair
+R femoral vein patch
+supraglottoplasty ablation
+L popliteal stent
+upper artery ablation perc
+mechanical MVR
+L femoral CDT frag
+tongue bx open
+total glossectomy
+infrarenal aortic stenting
+L renal stenting
+R femoropopliteal vein bypass
+R renal stenting
+AAo repair
+cervical plexus stim lead removal
+LP
+R ALND
+R GSV EVLT
+L mediastinal LN bx
+bronch-guided PDT
+R parotid biopsy
+laryngeal keel
+turb drain
+pericardium LOA perc
+nasal cartilage graft
+R VATS wedge
+pericardiocentesis open
+tibial neurorrhaphy
+tracheal occlusion open
+R femoral vein graft
+SMA angioplasty
+pericranial dural patch
+DuraGen patch
+CPN ablation
+mesh diaphragm augmentation
+L renal interposition graft
+TD patch repair synthetic
+L SCA stent
+L CIA vein stenting
+R ear synth augment
+laryngocele drainage
+R cordolysis
+L ear-mastoid bypass
+caval filter removal open
+L popliteal repair
+CML open
+R ulnar stent DES
+homograft PVR
+L total maxillectomy
+ulnar nerve repair
+tracheal replacement synth
+intranasal bx
+VATS diaphragm repair
+robotic RML lobectomy
+L tympanocetesis
+R ICA-extracranial bypass
+TL open
+LV tumor exc
+SMA bypass
+PTFE diaphragm augment
+L AP window dissection
+R max sinus resection
+facial neurectomy
+L femoropopliteal vein bypass
+L infrapopliteal stenting peroneal
+vagotomy
+median nerve conduit
+CTR open
+R carotid resection
+R AT stenting
+thoracentesis
+L sphenoidectomy
+chylothorax ligation
+R carotid catheter thrombectomy
+R renal patch repair
+salivary gland device change ext
+multi-DES x1 vessel
+shunt valve adjustment
+cerebral herniation reduction
+GEA graft x1
+VAS
+R mastoid cautery
+tricuspid valvotomy perc
+olfactory nerve ablation
+nasal reposition
+R ICA saphenous interposition
+bronchoscopic tracheal repair
+L auriculectomy
+R axillary interposition graft
+lumbar nerve root repair
+aorta-femoral bypass
+pudendal neurectomy
+L iliac endarterectomy
+bronchoscopic RMB dilat
+SVC angioplasty perc
+tibial neurectomy
+conduction division perc
+portal vein thrombectomy
+vermilionectomy lower
+EBUS RUL bx
+brachial plexus exc open
+R brachial mechanical thrombectomy
+FNB
+cervical nerve ablation endo
+R ICA replacement synthetic
+coronary LOA x1
+IVC venorrhaphy
+bronchoscopic tracheal bx
+autologous tracheal recon
+IVC filter retrieval perc
+hilar release
+diaphragmatic repair
+azygos vein exc
+PM removal open
+R brachial SVG
+VATS RML lobectomy
+cervical plexus exc open
+tracheal realignment
+mitral valvuloplasty perc
+SVC stent placement
+pericardium total resection
+upper lip augmentation
+thoracic duct stent open
+partial laryngectomy
+median nerve division
+R PTRA
+PICC removal perc
+R eustachian exc
+R myringoplasty autograft
+turb repair
+L mastoid ablat
+nose bx perc
+L hearing device removal
+azygos graft replacement
+R carotid endarterectomy
+R femoral vein mechanical thrombectomy
+radial nerve division
+L cochlear ablat
+R femoral vein valvuloplasty
+PCI x1 DES x4+
+atrial lead perc
+L ME ablat
+L mediastinal LND
+L sphenoid extirp
+SVC Hickman
+R lung destruct open
+nasal synechiae
+R CIA vein thrombectomy
+SVC PTFE patch
+RF trigeminal rhizotomy
+L cervical LN drain
+L tympanoplasty
+port removal perc
+L femoral repair
+cervical neurorrhaphy
+thymoma exc open
+R innominate patch
+L frontal sinus drain
+aortic arch patch
+FESS turb
+thymus ablation open
+R radial artery bypass
+Zenker dilation endo
+L SFA DES
+caval plication
+ICH aspiration perc
+LAA exc perc
+L subclavian venorrhaphy
+CN VII MVD
+lower extremity port
+R renal balloon dilat
+R mediastinal LND
+portocaval bypass
+upper lip repair
+R brachial interposition graft
+nasal bx
+L iliac vein stent DES
+craniotomy for EDH
+R post ethmoidectomy
+L lymphovenous bypass
+RV thrombectomy open
+conduction tissue bx
+intraventricular neurostim lead
+DBS lead revision perc
+retrogasserian rhizotomy
+R SFJ ligation
+L mastoid drain
+L ear reattach
+L thyroplasty I
+cervical nerve extraction open
+Avance ulnar wrap
+thoracoscopic diaphragm exc
+R frontal sinusectomy
+PowerPort removal
+meningeal extirp open
+R SFA balloon dilat
+R renal patch
+lower gingiva ablation
+left CCA repair
+upper extremity venous embolization
+mitral valve augment synth
+IVC-renal vein bypass SVG
+posterior tibial repair
+R BAHA removal
+R cochlear implant
+R ethmoidectomy
+MV supplement synth open
+L iliofemoral DVT
+LVAD revision perc
+lumbar nerve section
+L axillary stent DES
+TMVR perc
+tracheal bx perc
+head lymphatic repair
+bronchoscopic LMB frag
+L subclavian stenting
+L sphenoidotomy drain
+open RLL lobectomy
+SMA balloon dilat
+head LN extirpation
+R ext ear supplement synth
+cardiac lead extraction perc
+L vocal cord ablation
+VATS L lung exc
+aortic valvotomy perc
+R anterior tibial stent
+R eardrum ablat
+ASDH evacuation
+talc pleurodesis
+VATS R pneumonectomy
+left heart assist open
+R groin dissection
+R temporal artery resection
+oroantral fistula repair
+lumbar nerve decompression
+glossorrhaphy
+L femoroantibial bypass
+lower vein port perc
+L in-situ fem-pop
+BAV perc
+R lamina papyracea repair
+L iliac DVT thrombectomy
+R innominate release
+L EVLA SSV
+meso-caval shunt
+meningioma resection open
+pulmonic auto replacement
+R FESS ETH extirp
+L EIA stent
+1V coronary-coronary bypass
+R EIV stenting
+R posterior tibial PTAS
+L carotid endarterectomy
+AV valvuloplasty endo
+SMA stent
+L PA angioplasty perc
+brachial plexus biopsy
+L ext ear resection
+R vertebral stent
+IVC plication
+Gunther Tulip retrieval
+mechanical AVR
+R ethmoid drain
+median neurectomy
+tracheal reconstruction
+pulmonary trunk dilat perc
+R parotid drain open
+surgical trach
+thoracoscopic thymectomy
+SVC PTFE
+trachea bx perc
+L SPH drain
+RRP ablation
+TTR
+R IMN bx
+hypoglossal nerve ablation
+CN V MVD
+R sublingual gland ablation
+dual DES x2
+pericardial lead open
+LAA exclusion open
+R femoral transposition
+craniotomy for SDH
+tracheal R&A
+L fem-AT bypass
+radial neurolysis
+ulnar nerve conduit supplement
+brain neurostimulator lead open
+coblation tonsil ablation
+R ethmoid exc
+R ext ear destruct PE
+R ET balloon perc
+R renal stent
+TD device removal open
+Gasserian exc
+scope RMB dilat
+cardiac pressure sensor perc
+neuroendoscopic ETV
+R auriculectomy
+SVC repair
+left CEA
+L femoral PTFE
+R axilla LN drain
+ulnar nerve exc open
+median neurorrhaphy
+R external iliac stent
+PT dilation
+brain abscess evacuation
+L temporal artery occlusion
+CN X ablation
+R STA bypass
+iliac LN bx
+conduction division open
+abducens nerve ablation
+PCI x2 BMS
+R ILND
+TLP
+coronary release x1 perc
+R femoral autologous patch
+upper vein reconstruction
+ulnar nerve supplement auto
+R EPP open
+aortic release open
+L IF bypass
+popliteal sciatic block
+TD embolization perc
+brain drainage dx open
+lower vein patch repair
+intracoronary frag perc
+subglottic stenosis repair
+brachiocephalic stenting
+DSRS open
+R SPH drain
+R auricle endo ablat
+R iliac vein stenting
+cervical nerve repair
+R femoral clot frag
+hemifacial spasm MVD
+R subclavian vein decompression
+robotic RLL lobectomy
+St. Jude MVR
+L iliac PTFE patch
+L EPP open
+SVC dilation perc
+L femoral ligation
+Impella removal perc
+L CCA stenting
+R ET cautery
+upper vein sclerotherapy
+radical thymectomy
+R cochlear implant endo
+IVC coil occlusion
+L TM auto replacement
+R total mastoidectomy
+Ross-Konno
+R iliac thrombectomy
+IT drain
+SVC femoral vein replacement
+partial glossectomy
+upper vein PICC
+L RND
+TEER perc
+pleurodesis perc
+R VC laser ablation endo
+pharyngeal dilation VNO
+pacemaker revision
+R vocal fold bx endo
+L innominate vein bypass
+superior mesenteric stenting
+sciatic nerve exc open
+L AK pop bypass
+total pericardiectomy
+R AngioJet femoral frag
+R brachial saphenous interposition
+Coblation palate perc
+azygos vein clot removal
+L thoracic LND
+cerebral biopsy open
+His bundle division
+bioprosthetic MVR
+L femoral Dacron
+2V PCI BMS
+L renal reconstruction
+L total parotidectomy
+trach tube removal open
+right CCA endarterectomy
+R medial maxillectomy
+TCAR L
+posterior fossa MVD
+L CFA embolectomy
+R axillary stent DES
+R ext ear cautery
+Cox-Maze LAA
+lower lip repair
+total turbinectomy
+mediastinal lymphadenectomy
+transperitoneal AAA repair
+femoral port-a-cath removal
+DuraGen
+ETT change
+R Caldwell-Luc drain
+dural repair open
+TDC SDH
+CABG x1 GEA
+brachial plexus neurostim lead perc
+reintubation ETT
+R tube thoracostomy
+traumatic IVC repair
+R VC bx endo
+L GSV stripping
+VATS RLL lobectomy
+SVC interposition graft
+upper artery transcatheter embolization
+R brachial catheter thrombectomy
+R iliofemoral DVT frag
+R ESS extirp
+L total ethmoidectomy
+VPL
+L subclavian stent DES
+subdural drain open
+bronchoscopic LMB dilat
+R vocal fold fat injection
+upper artery drain open
+R ICA resection
+R femoropostibial bypass
+MV repair open
+brain reposition open
+TAVI PE
+upper vein PTFE patch
+R auricle exc
+L EI-femoral bypass
+L auditory tube repair
+LP ablation
+R pulm drain dx open
+SVC Wallstent
+R ear-mastoid bypass synth
+burr hole SDH drain
+upper lip implant
+L eustachian dilat open
+ICH evacuation open
+bronchoscopic RMB frag
+upper vein stent revision
+R ICA endarterectomy
+tricuspid mechanical replacement
+lower vein catheter removal
+left carotid stent
+R fibular stent
+thoracic duct drain
+VATS diaphragm plication
+L carotid-subclavian transposition
+posterior fossa MVD facial
+Greenfield filter
+lower lip frenulectomy
+port removal open
+Gore-Tex laryngoplasty
+R middle lobectomy
+sciatic neurectomy
+SVC Dacron graft
+L auditory tube exc
+RV thrombus extraction
+intracapsular tonsil ablation
+robotic thymectomy
+L axilla LN drain
+R popliteal entrapment release
+L glottic web release
+LV lead coronary vein open
+L carotid embolectomy
+R neck LN bx
+Avance median
+R vestib destruct
+thyroplasty I synthetic
+glycerol rhizotomy
+turbinoplasty
+aorto-aortic bypass
+IT total resection
+cable graft radial
+phrenicotomy
+PLND
+L CIA embolectomy
+L total pneumonectomy
+endoscopic cordectomy
+GTR cerebellar tumor
+DBS electrode revision
+selective vagotomy
+R brachial patch
+EVD
+R mastoid ablat
+R ICA neurolysis
+RV ablation perc
+upper extremity vein bx
+R ICA bypass open
+L subclavian vein repair
+subglottic stenosis dilat
+VPS revision perc
+L PT stenting
+EDH evacuation
+dual-chamber PM perc
+L pleural drain perc
+VATS RUL lobectomy
+R otoplasty
+R lung extirp perc
+diaphragm exc open
+SVC PTVA
+R sinus dilat
+radical pericardiectomy
+aorto-iliac bypass
+pericardium repair
+lumbar RFA
+coronary endarterectomy
+R pleural peel
+fem-fem bypass
+R ulnar repair
+SAPIEN TAVR
+VCS
+obstetric BP repair
+upper vein transposition
+diaphragmatic plication
+lower artery embolization
+cricopharyngeal dilation
+celiac PTAS
+brachial plexus ablation open
+L CFA ligation
+cavopulmonary bypass
+RATS L pneumonectomy
+L cochlear implant removal
+trach decannulation
+open aortic stent graft
+open SCS lead removal
+right TAB
+R VC ablation
+R iliac endarterectomy
+L ear reposition
+R iliac Dacron
+upper lip prosthetic repair
+descending aorta augment
+R auricle bx
+medulloblastoma resection
+autologous EBP
+R carotid Dacron
+L femoral vein mechanical thrombectomy
+L mastoid destruct
+R CFA embolectomy
+R myringectomy
+caval filter perc
+R carotid PTFE
+R MRM
+NeuraGen ulnar
+endograft revision open
+trach removal
+lower vein Dacron patch
+L femoral LOA
+Gunther Tulip
+MRI-LITT
+sciatic neurorrhaphy
+azygos thrombectomy
+L total auricle resection
+conduction bx open
+PICC perc
+R femoral venorrhaphy
+portomesenteric bypass
+cheiloplasty lower
+R PT bypass SVG
+median nerve lac repair
+nasal extirp
+upper vein repair
+L innominate vein repair
+CPN decompression
+cephalic PICC
+intranasal drain
+On-X MVR
+tracheal dilat open
+aortorenal bypass
+R parotid I&D
+azygos Dacron graft
+L OM-mastoid bypass
+R CFA ligation
+R popliteal angioplasty
+L subclavian transposition
+nasal concha drain
+R tympanoplasty
+R ethmoid resection
+ulnar neurectomy
+bifurcation PCI x1
+R CIA graft replacement
+ulnar neuroma exc
+obturator LND
+R ear reposition
+radial nerve section
+head lymph I&D
+L subclavian vein decompression
+SCS lead explant open
+Mediport revision
+cardiac lead revision open
+IVC clot frag
+L frontal sinus resection
+R axillary repair
+R STA extracranial bypass
+R SFA stent
+peripheral nerve stim lead removal
+R iliac embolectomy
+IVC auto replacement
+pharyngeal dilation open
+TDE perc
+Gasserian resection
+R ext ear extirp perc
+LVAD removal open
+upper gingiva ablation
+fascial dural graft
+R iliac stenting
+tarsal tunnel release
+R tympanoplasty I
+PNS lead perc
+L CCA stent DES
+infrarenal aortic TEA
+R thoracic LND
+R brachial PTFE patch
+VA shunt
+pulmonary autograft AVR
+upper vein embolization
+IT outfx
+diaphragm drain perc
+IVC PTFE patch
+IVC catheter open
+tracheal adhesion release perc
+CN VII ablation
+tibial nerve decompression
+aortic monitoring device perc
+lumbar nerve autograft
+craniotomy biopsy
+POBA x1
+L Montgomery implant
+R lung biopsy drain
+TF-TAVR
+L PTRA + stent
+TrapEase
+median NSTS exc
+pulmonary valvuloplasty open
+R max sinus drain
+SS-LTR
+R innominate stenting
+L ET dilat open
+pericardial ablation perc
+R common carotid stent
+EVAR descending
+cerebellar tumor resection
+median nerve bx open
+endo tracheal repair
+mitral annuloplasty
+R mastoid cavity repair
+split-brain
+pacemaker explant open
+3V PCI DES
+Chow ECTR
+open brain repair
+L axillary stenting
+CT-guided brain bx
+aortobifemoral bypass SVG
+R DL VC biopsy
+conduction supplement synth open
+L frontal sinus exc
+RATS diaphragm resection
+R subclavian embolectomy
+azygos PTFE
+dorsal column stim lead
+aortic clot frag
+L IJV stenting
+PVT thrombectomy
+femorofemoral bypass
+Blue Rhino trach
+L total mastoidectomy
+femoral nerve ablation open
+R axillary embolectomy
+supraglottic laryngectomy
+nasal bx perc
+SVC patch repair
+cheiloplasty upper
+subcutaneous transposition
+ulnar nerve bx open
+L popliteal graft replacement
+CoreValve TAVI
+L otoplasty
+R in-situ fem-pop
+L lab drain
+R popliteal aneurysm repair
+total meningioma resection
+L SPH exc
+phrenicotomy
+open AAA repair
+L mastoid cautery
+LV thrombectomy open
+bronchoscopic tracheal extirp
+1-chamber PM
+bifrontal craniectomy
+L eustachian repair
+L brachial repair
+phrenic neurectomy
+R pop embolectomy
+L ear reimplant
+diaphragmatorrhaphy
+L fibular stent
+R SND
+L arm LN bx
+R renal transposition
+L hearing device perc
+trial SCS removal
+R ICD perc
+cervical PNS lead removal open
+lower vein repair
+R CFA endarterectomy
+SVC saphenous patch
+2V SVG bypass
+R CCA reconstruction
+MVD facial nerve
+L femoral embolectomy
+PTMC
+frameless brain biopsy
+nasal osteotomy reposition
+L TM repair
+total laryngectomy
+R OCR
+lumbar medial branch RFA
+stereotactic aspiration brain
+RATS R pneumonectomy
+dual BMS x2
+R iliofemoral DVT thrombectomy
+R auricular prosthesis
+left neck dissection
+L cochlear implant revision
+L frontal polyp removal
+obturator LN bx
+septorhinoplasty
+RF AV ablation
+R TM non-auto replacement
+L iliac stenting
+RV destruct perc
+PCI x1 DES endo
+R auricle repair
+AV repair perc
+aortobifemoral bypass
+VATS R lung exc
+Torkildsen shunt
+cervical nerve release open
+L BCV bypass
+L ME exc
+R ear FB removal
+Contegra PVR
+ETT insertion
+L submandibular I&D
+hybrid CABG LIMA
+endo PDT
+1V PCI BMS
+RA thrombus removal perc
+ascending aorta supplement synth
+R pinna drain
+L vestib destruct
+nose drain
+R profunda transposition
+open EVAR conversion
+tissue MVR
+R max sinus exc
+CRT LV lead open
+L infrastructure maxillectomy
+right carotid bypass
+R ear auto augment
+R iliac interposition graft
+R DCB SFA
+R femoral mechanical thrombectomy
+R RND
+R inner ear destruct
+aortic valve augment synth
+R Eloesser flap
+L SND
+R mid ear exc
+L eardrum ablat
+R superficial parotidectomy
+KTP laser laryngeal
+IVC occlusion perc
+sciatic nerve block
+R femoral RFA
+R anterior tibial PTAS
+L common carotid stent
+meso-portal bypass
+coronary drain x1 open
+minimally invasive ICH evacuation
+nasal fracture reduction
+ventriculojugular shunt
+descending aortic repair
+RV thrombus removal
+coronary repair x1 open
+Gasserian ganglion ablation
+lumbar NSTS exc
+L lab ablat
+RATS RLL
+L submandibulectomy
+IVC Dacron patch
+R auricle drain
+L inguinal LN bx
+EVLT
+R brachial release
+ventricular drainage open
+ICD lead perc RV
+cervical LN extirpation
+R ME exc
+R innominate vein CVC
+R renal artery repair
+L carotid patch
+anterior ulnar transposition
+cervical LN drain
+PPVI
+L VA DES stent
+turb destruct
+L parotid I&D
+R TM repair
+R vocal fold injection
+tongue ablation
+MV restriction open
+RA PM lead perc
+R ICA DES stent
+R cervical LN bx
+L carotid body tumor resection
+upper vein reimplantation
+R ICA stenting bifurcation
+L upper lobectomy
+L medial maxillectomy
+lower venous repair
+R lung ablation open
+sciatic neurectomy
+thoracoscopic diaphragm resection
+cortical ablation open
+head lymph node drain
+stereotactic brain aspiration
+R lymphorrhea ligation
+R CFA saphenous patch
+pericardial release perc
+aortic stenting perc
+DGS decompression
+R TM extirp
+diaphragm plication open
+R ME drain
+CN division open
+R axillary reconstruction
+R SMG ablation open
+R phonomicrosurgery
+bileaflet AVR
+R auditory tube repair
+EMB LV perc
+PV valvuloplasty perc
+R AngioJet femoral
+AV node division
+VPS autologous
+ICN block
+L DCB SFA
+R parotid duct ablation
+R ICA stent removal open
+R mastoid exc
+R pinna LOA
+R sinus ostial dilat
+mediastinal LND
+R subclavian stenting
+R UE LN bx
+DTA bypass
+L brachiocephalic bypass
+R ICA ligation
+R lab ablat
+L superficial parotidectomy
+R CIA endarterectomy
+L brachial thrombectomy
+turb ablat
+aortic thrombectomy
+SVC syndrome stenting
+IPH evacuation
+RPLND
+azygos vein occlusion
+tracheal patch synth
+CABG x1 coronary
+R common iliac stent
+L groin dissection
+coronary vein lead open
+median nerve repair
+lumbar nerve biopsy
+pericardial MVR
+R inner ear drain
+L CFA aspiration thrombectomy
+R inner ear exc
+R femoral vein repair
+femoral dialysis cath
+femoral CVC perc
+peroneal neurolysis
+R brachial bypass
+BP bx open
+TD ligation
+cervical LN bx
+L CIA reconstruction
+fem-fem bypass synthetic
+facial nerve exc open
+L pinna reattach
+R sphenoid resection
+TD biopsy open
+cervical plexus neuroma exc
+L tympanomastoid bypass
+US-guided thoracentesis
+microlaryngoscopy extirpation endo
+Jannetta procedure
+Paget-Schroetter decompression R
+median nerve exc open
+R CAS bifurcation
+throat FB removal
+CABG x1 RIMA
+VATS total thymectomy
+lower vein LOA
+LMB extirp endo
+RATS RML
+arch bypass
+BPV perc
+L leg lymphatic ligation
+L external valvuloplasty
+trigeminal nerve ablation
+all-arterial CABG x1
+R CCA endarterectomy
+R femoral occlusion
+L inner ear destruct
+RV lead perc
+laser lead extraction
+R BCA patch repair
+OptEase retrieval
+portal-IVC shunt
+RSI intubation
+DL pharyngeal FB
+DTA banding open
+right carotid bypass
+L auditory tube destruct
+R Montgomery implant
+R ICA bypass SVG
+R vocal fold ablation
+balloon angioplasty x1
+TVR mechanical
+L external iliac vein bypass
+R parotid ablation open
+ACB
+LV pacing lead open
+brachial A-line
+L KTP laser VC
+systematic MND
+porcine TVR
+vagotomy
+R jugular LN bx
+LITT
+TV valvuloplasty perc
+T&A (tonsillectomy and adenoidectomy)
+R arm LN bx
+R frontal sinus repair
+nasal implant
+CN V division open
+pudendal nerve section
+zone I REBOA
+open SCS lead revision
+celiac balloon dilat
+upper vein banding
+ICD lead removal open
+R ME extirp
+open tracheal biopsy
+intranasal LOA
+brain tumor resection
+head LN bx open
+VP shunt revision perc
+R carotid saphenous patch
+L wedge resection open
+VP shunt revision
+uvulectomy
+open RUL lobectomy
+thoracoscopic diaphragm plication
+lumbar nerve root extraction
+SVC reconstruction
+SVC spiral vein graft
+L fem-pop bypass
+autologous dural augmentation
+single-chamber PM open
+R infrapopliteal peroneal angioplasty
+infragluteal sciatic block
+decortication open
+R innominate transposition
+TOLS laryngeal ablation
+L femoral stent
+IT ablat
+pericardial patch open
+R temporal artery occlusion
+ICP monitor perc
+L internal mammary LN bx
+R cochlear implant removal
+IVC mechanical thrombectomy
+LAA exc open
+hybrid EVAR open
+R vocal cord auto reconstruction
+aortic decompression
+ACS open
+RUL bronchial exc
+L AT bypass SVG
+IVC graft replacement
+tracheostomy tube swap
+L innominate vein thrombectomy
+R mediastinal lymphadenectomy
+R external carotid stent
+SCS lead removal perc
+R STA resection
+PPF
+PNS electrode open
+L neck LN drain
+right CEA
+vagal ablation
+sphincter pharyngoplasty
+L CAS
+pharyngeal dilation endo
+adenoidectomy
+L VA stenting
+IVC tumor thrombus removal
+duraplasty
+porcine PVR
+median nerve interposition graft
+scope LMB dilat
+nasal stent insertion
+Alfieri MV repair
+coronary thrombus frag x1
+L femoral DVT thrombectomy
+R eustachian ablat
+R inguinal lymphadenectomy
+R total auricle resection
+RATS LUL
+Inoue balloon
+R antrum repair
+splenorenal shunt
+RPA dilation perc
+R total maxillectomy
+lower vein bx open
+synthetic diaphragm recon
+L main bronchus dilat
+coronary reimplant x1 open
+SVC non-tunneled CVC
+L medialization laryngoplasty
+ulnar neurectomy
+shunt revision open
+L ranula ablation
+thymectomy open
+intranasal cautery
+bilateral AF bypass
+CSF vascular shunt
+ulnar nerve autograft
+R SFA stenting
+L small saphenous stripping
+R BET
+port-a-cath removal
+R eardrum extirp
+spinal cord stimulator lead
+L ME drain
+L CIA patch
+R radial stenting
+L Stensen duct stone removal
+R mastoidectomy drain
+L parasternal LN bx
+R eardrum repair
+head lymphatic ligation
+L CWU mastoidectomy
+R ETH extirp
+transcatheter TV repair
+median neuroma exc
+trach decannulation open
+R ext ear supplement auto
+R vocal cord ablation
+aortomesenteric bypass
+L medialization injection
+supraclavicular block
+CN II ablation open
+upper vein mechanical thrombectomy
+glossopharyngeal neurectomy
+R ethmoid repair
+STN DBS
+brachial plexus neurolysis
+cerebral hemisphere drain device
+tracheostomy device insertion open
+laryngeal repair
+L vTOS transposition
+Silastic laryngoplasty
+TEER MV perc
+nasal supplement auto
+tracheal LOA perc
+R ICA reconstruction
+R ext ear exc
+CRT-P implant
+IVC femoral vein replacement
+Gore-Tex dura
+synthetic duraplasty
+buccal mucosa ablation open
+cervical neurectomy
+decompressive craniectomy
+R TOLS VC ablation
+SAH drainage open
+L sphenoid drain
+L CCA endarterectomy
+R femoral ligation
+R femoral LOA
+diaphragm resection open
+aorta-SMA bypass
+R popliteal graft replacement
+R axillary decompression
+trach change
+R lymphovenous bypass
+L saphenous ligation
+cervical plexus neurostim lead open
+R Prolaryn VC
+R OM-mastoid bypass K
+R pulm extirp perc
+L VC excision endo
+VATS L decortication
+decannulation
+radial neurorrhaphy
+extracapsular tonsillectomy
+RFA brain perc
+R main bronchus dilat
+PBMV
+L ethmoid drain
+ABF bypass
+tracheal autograft
+R pinnaplasty
+scope tracheal bx
+R neck LN drain
+diaphragmatic drain perc
+Millard repair
+L phonomicrosurgery
+upper venous repair
+R cordectomy endo
+tracheal balloon dilat
+Avance ulnar
+NS-RPLND
+left CCA endarterectomy
+R pinna repair
+L infrapopliteal stenting AT
+R inguinal LN bx
+bronchoscopic RMB extirp
+R iliac venous bypass
+GCA biopsy L
+MVD glossopharyngeal
+AAo bypass
+conduction resection open
+splenic-renal bypass
+R mid ear drain
+open pericardial window
+L Hunterian ligation
+L femoral RFA
+thoracoscopic R decortication
+descending aorta repair
+RMB dilation
+L ETH drain
+L femoral vein ablation perc
+R OM bypass
+L radical mastoidectomy
+L eardrum release
+MV reposition open
+R CFA aspiration thrombectomy
+L Prolaryn VC
+R pinna perc destruct
+sacral plexus ablation open
+upper lip auto reconstruction
+VT ablation LV
+R sphenoid extirp
+R antrostomy
+upper extremity stent removal
+MISTIE
+bicuspid AV repair
+R frontal sinus drain
+R ext ear extirp
+L mastoid exc
+lower artery stent revision perc
+R ulnar reconstruction
+L cochlear implant perc
+MVR mechanical
+lumbar neurolysis
+R endolymph drain
+ulnar nerve lac repair
+autologous duraplasty
+R ClosureFast
+uvulectomy
+Yasargil bypass R
+brachial plexus block
+ICH drainage open
+L LE lymphatic ligation
+aortic valvuloplasty PE
+TD release
+thoracoscopic L pneumonectomy
+subglottic stenosis repair
+LAAC perc
+R femoropersonal bypass
+adenoidectomy open
+upper artery ablation open
+right ALND
+L IMN bx
+RV exc open
+L ICA stenting
+turbinectomy perc
+open Hickman
+R sinus fungal ball removal
+R ear canal extirp
+upper vein DES stenting
+conduction ablation endo
+BP ablation
+L popliteal reconstruction
+caval patch repair
+St. Jude AVR
+L axillary embolectomy
+upper artery stent revision perc
+femoral nerve block
+OTI
+AV valvuloplasty perc
+L inner ear exc
+pleural release open
+Watchman perc
+LAUP
+R femoral embolectomy
+median nerve decompression
+tongue tie release
+Bentall proc
+L SPJ ligation
+glossopharyngeal neuralgia MVD
+thoracic nerve ablation open
+PPM dual-chamber
+R femoral reconstruction
+open ventriculostomy
+R femoral PTAS
+intracranial pressure monitor
+BAV endo
+LV aneurysm exc
+RV extraction open
+RV PM lead perc
+IVC saphenous replacement
+cervical plexus neurolysis
+descending aorta replacement
+BP PNS lead open
+R BCV thrombectomy
+submuscular transposition
+MIDCAB LIMA
+Rex shunt
+portocaval shunt
+thoracic duct bypass
+R GSV fem-pop
+L renal aneurysm repair
+R EIA stenting
+upper vein stent revision open
+mitral ring open
+R IJV stenting
+R LE lymphatic ligation
+L CIA graft replacement
+R femoral reimplantation
+R TAB
+R ext ear repair
+R renal interposition graft
+R pulm extirp open
+TAVR PE
+R subclavian vein occlusion perc
+L labyrinthectomy
+L tympanic LOA
+R TM exc
+PV repair open
+tonsillar ablation
+LV ablation perc
+pericardial TVR
+MCS perc
+L femoral thrombus frag perc
+PM lead revision perc
+L tube thoracostomy
+TD autologous patch
+glossopexy
+L femoral vein banding
+L femoral TEA
+R pleural drain open
+R popliteal embolectomy
+R fem-peroneal bypass
+lower gum ablation
+CT-guided ICH aspiration
+L SSV stripping
+perc trach
+R mastoid drain
+R TM auto replacement
+R femoral LN bx
+ventricular stim lead perc
+diaphragm supplement synth
+BPV
+REBOA
+tongue exc open
+diaphragm LOA open
+R pinna exc
+R ear-mastoid bypass
+R carotid ligation
+Warren shunt
+total cerebellar resection
+percutaneous TN rhizotomy
+suprahyoid release
+TA-TAVR endo
+R neck lymph I&D
+cervical plexus neurostim lead perc
+R Hunterian ligation
+Melody valve
+lower vein coil embolization
+nose FB removal
+lumbar neuroma exc
+R femoral PTFE
+lower vein reconstruction
+PV auto replacement
+L MRM
+L ECA DES
+R pinna bx
+L GSV ligation
+turb perc exc
+L mediastinal lymphadenectomy
+gonadal vein embolization
+spinal epidural shunt
+PPM removal open
+aortic endograft perc
+upper vein venoplasty DES
+revision adenoidectomy
+L GSV RFA
+R popliteal stent
+lower vein DES stenting
+piriformis syndrome surgery
+open PNS lead
+upper vein Dacron patch
+DTA patch open
+LIMA composite x1
+PTFE diaphragm patch
+RATS RUL
+R carotid patch
+retroperitoneal AAA repair
+stereotactic meningeal bx
+R ethmoid exenteration
+L brachial endarterectomy
+upper lip synthetic reconstruction
+vagus nerve ablation
+R SSV excision
+laminotomy SCS lead
+R total pneumonectomy
+SVC supplement synth
+total tumor resection
+LPA dilation perc
+open upper vein device
+PIN decompression
+IVC bypass
+IT exc
+R CIA reconstruction
+R popliteal repair
+R decortication open
+R lung exc open
+R parotidectomy
+TD synthetic augmentation
+nasal destruct
+coronary ostial reimplant
+4V SVG bypass
+celiac angioplasty
+brain abscess drain open
+R ICA reposition
+L ossiculoplasty
+L iliac Dacron
+PCI x3 DES
+sciatic nerve ablation open
+thoracic nerve neurolysis
+mesocaval shunt
+accessory nerve ablation
+R femoral CDT frag
+double SVG graft
+R ext ear bx perc
+2V PCI DES
+MVD trigeminal
+VATS pleural release
+R renovascular stenting
+LLL lobectomy open
+infrarenal EVAR
+L ICA thrombectomy
+L BK pop bypass
+AV repair open
+open DBS lead
+R femoropopliteal bypass
+L ethmoid polyp removal
+paddle SCS removal
+DBS lead perc
+upper gum ablation
+BP neurorrhaphy
+myocardial bridge release
+tibial nerve ablation open
+L STA biopsy
+L ethmoidotomy drain
+L cochlea exc
+R femoral vein reimplantation
+R ICA angioplasty
+cisternal drainage
+sacral neurectomy
+caval graft replacement
+L anterior tibial stent
+right ILND
+R VA angioplasty
+lumbar plexus ablation open
+R innominate vein thrombectomy
+TM-mastoid bypass L
+R renal mechanical thrombectomy
+optic nerve ablation
+L mastoidectomy drain
+PICC revision perc
+L ICA endarterectomy
+L parotid ablation open
+R ECA stenting
+R temporal artery ligation
+TFL dural patch
+R femoral DVT thrombectomy
+pharyngeal ablation
+bronchoscopic RUL bx
+T&A (tonsillectomy and adenoidectomy)
+IVC thrombus frag perc
+upper lip exc open
+TD decompression
+R hearing implant
+R SFA DES
+R renal aneurysm repair
+R fem-pop SVG
+synthetic dural augmentation
+cable graft median
+R femoral vein transposition
+thymic repair
+R ET dilat open
+R fem-AT bypass
+turb release
+BMS x1
+thoracoscopic L decortication
+VATS LUL lobectomy
+ulnar allograft
+L CFA endarterectomy
+R ET open dilat
+right lingula resection
+L max sinus drain
+2-chamber PM perc
+IVC infusion cath perc
+cervical nerve bx
+L ME LOA
+R hearing device explant
+LV myomectomy
+pericardium exc
+peripheral nerve stim lead perc
+nasal calculus frag
+L BAHA perc
+azygos bypass open
+craniotomy for hematoma
+blood patch perc
+L CIA repair
+extended PLND
+R lab drain
+CABG x1 LIMA
+pleural LOA open
+R hearing implant PE
+A&T
+turb outfx
+nasal I&D
+pudendal RFA
+radial nerve repair
+R endoscopic cordectomy
+peroneal nerve repair
+dural expansion open
+L pop-fem bypass
+posterior fossa craniotomy
+visceral pleurectomy
+phrenic nerve release
+L TM exc
+brachial plexus repair
+R Stensen duct stone removal
+tongue release
+R tympanocetesis
+ulnar NSTS exc
+R chest tube
+tracheal dilat PE
+R sphenoid exc
+L neck LN bx
+Budd-Chiari IVC stent
+R internal mammary LN bx
+RV myomectomy
+R ear pinning
+L SMG drain open
+R infrapopliteal PT angioplasty
+L peroneal stenting
+R carotid balloon dilat
+R ext ear drain
+IVC CDT
+R pop PTAS
+R CCA stenting
+R submandibular ablation
+celiac artery stent
+L TM destruct
+anterior median transposition
+L CEA patch
+L supraclavicular LN bx
+R auricle LOA
+thoracic duct ligation
+L groin LN bx
+L BCV thrombectomy
+1V PCI DES PE
+rotational atherectomy x1
+bilateral PLND
+L OM drain
+pelvic LN bx
+GCA biopsy R
+TOS decompression BP
+R GSV ligation
+LMB dilation
+velopharyngoplasty
+L eardrum I&D
+IVC patch repair
+median graft augmentation
+L brachial stenting
+DBS lead explant open
+R popliteal thrombectomy
+R ICA auto replacement
+upper lip Karapandzic
+R PA angioplasty perc
+R fem-pop bypass
+SVC graft replacement
+IVH evacuation open
+R infrapopliteal stenting AT
+IVC stenting
+R SSV stripping
+pulmonic valvotomy
+R carotid vein patch
+L BAHA removal
+PCS open
+R iliac PTFE patch
+tracheal supplement synth
+L femoral graft replacement
+perc tracheal occlusion
+axillofemoral bypass R
+axillary block
+R central line perc
+L femoral patch
+CN VII neurectomy
+cervical PNS lead open
+SMA stenting
+pleural defect repair
+radial nerve exc open
+pVAD removal
+radial transposition
+R iliofemoral DVT iliac
+epidural SCS lead
+craniotomy meningeal extirp
+His bundle ablation
+L subclavian vein stenting
+UPPP uvulectomy
+upper artery coil embolization
+R subclavian release
+L MRND
+caval thrombectomy
+His bundle resection
+R CIA embolectomy
+open aortic graft
+R tympanomastoid bypass J
+R VATS lung exc
+R femoral graft replacement
+R subclavian stent DES
+phrenic nerve section
+R external valvuloplasty
+EC-IC bypass R STA-MCA
+diaphragm repair open
+R epitrochlear LN bx
+R carotid stent revision
+R thyroplasty I
+L popliteal PTFE
+thoracoscopic diaphragm repair
+Simpson grade II
+L mastoid abs drain
+HSV
+R iliac patch repair
+RUL bronchus exc open
+sural graft median
+bronchoscopic tracheoplasty
+cervical lymphatic repair
+R iliac angioplasty
+BP PNS lead perc
+AAo replacement
+Simpson grade I
+R perilymph drain
+TAB R
+pharyngeal FB removal open
+tissue AVR
+CABG x4+ SVG
+R SFA angioplasty
+Agee ECTR
+lower lip bx open
+rigid bronch tracheal extirp
+tracheal resection open
+L iliac-femoral bypass
+transvenous lead revision
+R femoral EVLA
+R external iliac vein stent DES
+perineal nerve block perc
+anterior ulnar transposition
+R iliofemoral bypass
+pleural peel release
+EVOQUE TVR
+rhinolith removal
+upper lip ADM
+IVC catheter perc
+R sphenoid polyp removal
+aortic CDT frag
+porcine MVR
+CN III ablation
+R open lung bx
+nasal supplement synth
+R GSV excision
+IVC embolization
+L iliac TEA
+deep femoral vein aortic
+gross total resection
+image-guided brain bx
+R bench surgery renal
+R vocal cord synthetic augmentation
+CN VII division open
+UPPP ablation
+mitral annuloplasty
+ETD R open
+L renal graft replacement
+L external iliac vein stent DES
+bileaflet MVR
+vermilionectomy upper
+R tympanic destruct
+lower lip ablation open
+EP ablation endo
+L carotid PTFE patch
+R innominate replacement
+R brachial endarterectomy
+CIED lead removal
+RATS lingulectomy
+laryngeal FB removal endo
+BP division open
+R renal aspiration thrombectomy
+R popliteal stenting
+L AP window LN bx
+L external iliac stent
+palatal osteotomy
+R eardrum exc
+R vTOS transposition
+pelvic congestion embolization
+R pinna PE destruct
+2V atherectomy
+RMB extirp endo
+upper vein stent explant
+IT exc endo
+L saphenous stripping
+R carotid stent explant
+ulnar nerve division open
+tracheal frag endo
+R main bronchus FB removal
+SVC tunneled cath
+uvular ablation
+pericardial thrombus removal
+R subclavian replacement graft
+R lower lobectomy
+ascending aorta replacement
+upper vein PTFE
+R iliac-femoral bypass
+R external iliac-femoral bypass
+open trach
+partial uvulectomy
+VATS thymectomy
+R myringoplasty allograft
+R PT angioplasty
+L VC ablation
+Montgomery release
+hemiglossectomy
+L femoral LN bx
+R carotid transposition
+sciatic nerve repair
+L CIA endarterectomy
+right mainstem dilat
+upper vein ablation open
+intercostal neurectomy
+R maxillectomy
+azygos biopsy
+R carotid coil embolization
+L AngioJet femoral
+scope tracheal FB removal
+R brachiocephalic venorrhaphy
+R SMG stone removal
+tongue laceration repair
+deep CP block
+L subclavian stent DES
+R Cymetra VC
+LVAD open
+lower vein catheter revision
+LITA bypass x1
+L femoral vein reimplantation
+meningeal biopsy perc
+R popliteal balloon dilat
+AtriClip LAA
+L tympanomastoid bypass
+stereotactic ICH aspiration
+nasal polyp exc
+caval-renal bypass
+R iliac PTFE
+ABF graft
+R ICA reimplantation
+L thoracic LN bx
+fibular nerve ablation
+R brachial stenting
+SAN ablation
+L VenaSeal
+L max sinus resection
+R superficial inguinal LN bx
+WATCHMAN FLX
+L frontal sinusotomy
+BOT bx open
+R ME-mastoid bypass
+lower vein CVC
+left mainstem dilat
+R ESS ethmoid exc
+left TAB
+R SSV ablation
+phrenic neurectomy
+L Caldwell-Luc drain
+L ME-mastoid bypass
+cervical plexus ablation open
+Carpentier MV
+ax-fem bypass L
+L femoral reconstruction
+R auditory tube exc
+R BAHA insertion
+R EI-femoral bypass
+TEVAR perc
+PVAD perc
+1V PCI DES
+R external iliac vein bypass
+upper extremity stent revision
+PV ablation perc
+GTR brain tumor
+endo TAVR
+LVOT ablation
+L VC laser ablation endo
+EVD open
+CVP catheter perc
+palatoplasty
+SVC balloon dilat
+R submandibular I&D
+R submandibular gland exc
+open R thoracostomy
+IVC biopsy open
+transcatheter MV repair
+R sphenoid exenteration
+R VA stenting
+L ICA patch closure
+R innominate embolectomy
+R STA biopsy
+R CWU mastoidectomy
+adductor canal block
+TD drainage open
+1V CABG LIMA
+robotic RUL lobectomy
+bioprosthetic AVR
+median nerve autograft
+CPN neurorrhaphy
+CC section open
+tongue-lip adhesion
+IVC CDT frag
+R tympanoplasty allograft
+L SFJ ligation
+R popliteal LOA
+pudendal neurectomy
+L BAHA revision
+thoracic duct embolization
+PIN transposition
+chylothorax TD drain
+lower lip release
+ventricular lead perc
+L ME repair
+ETV
+complete turbinectomy
+upper artery monitoring device perc
+R subclavian mechanical thrombectomy
+R vertebral PTAS
+facial neurectomy
+IVC stent DES
+phrenic nerve ablation
+facial nerve section
+R tympanoplasty autograft
+R ICA thrombectomy
+CEA coronary open x1
+triple DES
+RV tumor exc
+LVAD implant
+open PNS lead revision
+ICD lead revision perc
+tracheal bx open
+aortic endarterectomy
+brachiocephalic endarterectomy
+peroneal nerve ablation open
+nose ablat
+IT cautery
+open LV thrombectomy
+portal-renal bypass
+AVR mechanical
+retrogasserian neurectomy
+DBS lead explant perc
+tracheobronchial suction
+SVC Dacron patch
+bedside ICP removal
+complete thymectomy
+bioprosthetic PVR
+R TA injection
+near-total glossectomy
+lumbar puncture
+nasal release
+MCS removal perc
+open LUL lobectomy
+nasal exc
+IT lateral disp
+dural patch open
+LTS release
+R Bondy mastoidectomy
+ICP bolt
+cervical lymphatic decompression
+R frontal treph drain
+laryngeal stent open
+R femoral Fogarty
+upper vein ligation
+nasal drain
+tracheostomy open
+aortic lymphadenectomy
+LMB dilation endo
+median nerve supplement auto
+epiglottic ablation
+CIED lead revision
+PIN exc
+DTA replacement
+subglottic ablation
+L CO2 laser VC
+coronary atherectomy x2 perc
+IVC reconstruction
+R vocal fold bx
+L lower lobectomy
+porcine AVR
+Y-stent x1
+intranasal exc
+meningeal exc open
+brain ablation open
+RATS LLL
+SDH evacuation
+pericardium exc perc
+L EIV stenting
+caval interruption
+BP release open
+cardiac conduction augment synth
+L AngioJet femoral frag
+BMV perc
+R brachial PTFE
+L parotid drain open
+R axillary LN bx
+R MRM
+R femoral patch
+phrenic nerve decompression
+right brachial endarterectomy
+VATS diaphragmatic plication
+cerebral repair open
+NP ablation
+pleurectomy open
+L vocal fold injection
+TD ablation open
+VATS L pneumonectomy
+L ethmoid resection
+R popliteal reconstruction
+L popliteal stenting
+ventriculoperitoneal shunt
+TTVR perc
+bicuspid AV augment
+BP repair open
+LV thrombus removal
+R CIA ligation
+IVC PTFE
+R FESS ETH
+L subclavian vein transposition
+L STA ligation
+R ext ear release
+3V SVG bypass
+CN I ablation open
+L sphenoid exc
+bioprosthetic TVR
+robotic LUL lobectomy
+MPA dilation perc
+L TM drain
+upper lip bx open
+May-Thurner stenting
+PM revision open
+R axillary thrombectomy
+trigeminal neurectomy total
+R microdebrider ethmoidectomy
+SVC repositioning
+TORS laryngectomy
+L submandibular gland exc
+lower extremity stent revision
+pericardial pressure sensor perc
+R VC excision endo
+open PNS lead removal
+R mastoid obliteration non-auto
+TD repair
+lingual frenulectomy
+VAST R
+R innominate vein repair
+R TM drain
+R small saphenous stripping
+R femoral vein PTFE patch
+craniotomy cerebral drain
+R eustachian tuboplasty
+BP decompression
+TCB open
+LV destruct perc
+ICU trach insertion
+tracheal suction
+L ICA reconstruction
+diaphragm replacement auto
+L mid ear drain
+R submandibular sialolithotomy
+SVC stent insertion
+L renal stent
+NTI
+intercostal nerve section
+lower vein venoplasty DES
+ascending aorta repair
+R femoral interposition graft
+cervical plexus decompression
+L ET open dilat
+L labyrinthectomy
+AICD lead RV
+R frontal polyp removal
+R myringoplasty
+aortofemoral bypass
+portal embolectomy
+R subclavian release
+L carotid repair
+coblation adenoid ablation
+echo-guided pericardiocentesis
+R subclavian vein repair
+Impella perc
+R carotid repair
+aortic tube graft
+L subclavian mechanical thrombectomy
+R ICA stent open
+L Wharton duct stone removal
+Mediport removal open
+pleural tap
+total adenoidectomy
+craniotomy for drainage
+BP NSTS exc
+R brachial stent DES
+LV exc perc
+HPL
+left brachial endarterectomy
+R SSV MOCA
+R GSV ablation
+ETD R perc
+R iliac DVT thrombectomy
+rotational atherectomy x2
+RUL bx via natural opening
+R AT angioplasty
+L femoral PTFE patch
+aortic patch repair
+mesh diaphragm repair
+posterior fossa GTR
+GPi DBS
+R Medpor augment
+mediastinal LN bx
+pericardial decortication
+AV node ablation
+pericardial debridement
+glioma resection
+R auricle perc repair
+R carotid thrombectomy
+L endolymph drain
+HeartMate removal
+open RML lobectomy
+TM-mastoid bypass R
+lower vein stent revision open
+DL laryngeal FB
+ulnar nerve decompression
+CN V resection
+PPM dual perc
+L iliac thrombectomy
+thymus repair open
+AF bypass
+R eustachian dilat open
+thoracocentesis
+uvulopalatoplasty
+L central line perc
+L vocal cord release
+L SFA stent
+port-a-cath perc
+R tympanomastoid bypass
+L eustachian ablat
+R subclavian stent DES
+L cholesteatoma exc
+upper vein patch repair
+iliac vein stent revision
+R axillary bypass
+left ILND
+oropharynx ablation
+stereotactic brain biopsy
+R sphenoid drain
+radical glossectomy
+tracheomalacia correction synth
+caval filter open
+R renal PTFE patch
+R ME release
+CPN repair
+pericardial bx perc
+R ME LOA
+L subclavian vein occlusion perc
+L EVLA GSV
+radial tunnel release
+Tendyne TMVR
+epidural peritoneal shunt
+femoral line perc
+PNS lead revision perc
+R iliac ligation
+Le Fort I palate
+left ALND
+EC-IC bypass R
+R inguinal LN bx
+SVC venorrhaphy
+L inner ear resection
+nasal splint
+R iliac repair
+scope tracheal dilat
+axillofemoral bypass L
+sural graft ulnar
+hypoglossal neurectomy
+IT extirp
+L CND
+rib graft rhinoplasty
+intercostal RFA
+CABG x1 SVG
+R femoral release
+upper lip Estlander flap
+R carotid PTFE patch
+IT resection
+R auricle extirp perc
+R pinna destruct
+upper lip laser ablation
+SVC augmentation
+median neurectomy
+pericardiorrhaphy
+endoscopic third ventriculostomy
+aortic balloon occlusion
+RATS thymectomy
+TDE perc
+R ME ablat
+transcatheter AV repair
+SVC saphenous replacement
+right CCA repair
+L GSV fem-pop
+SVC stent DES
+upper vein LOA
+R subclavian transposition
+L mastoid cavity repair
+R brachial decompression
+R cochlea exc
+L femoral vein transposition
+R wedge resection open
+trach tube change
+L SFA angioplasty
+R BCA release
+Celect retrieval
+laryngeal drainage open
+R reversed fem-pop bypass
+R labyrinthectomy
+coronary release x1 open
+radial neuroma exc
+VATS R decortication
+fascia lata dural augment
+ulnar transposition
+VP shunt auto
+femoral line removal
+R femoral endarterectomy
+L myringotomy
+R infrapopliteal AT angioplasty
+nasal conformer
+VATS LLL lobectomy
+salvage laryngectomy
+Vim DBS
+upper vein RFA
+PTCA + DES x1
+R ear-mastoid bypass
+R axillary stenting
+central line removal
+glossopharyngeal nerve ablation
+IVC spiral vein graft
+L CIA vein thrombectomy
+truncal vagotomy
+CN XI ablation
+perc trach tube insertion
+CSF tap
+phrenic neurolysis
+L auricle ablat
+L femoral mechanical thrombectomy
+L total sphenoidectomy
+pericardiostomy open
+R ear reattach
+R axillary biopsy
+SVCO repair
+TPVR perc
+tracheoplasty
+medial epicondylectomy ulnar
+R ECA DES
+R mastoid destruct
+IVC thrombectomy
+balloon compression TN
+R innominate repair
+AV node catheter ablation
+pleural CSF shunt
+tracheal anastomosis
+R ethmoid extirp
+subcarinal LN bx
+epicardial lead open
+thoracic aorta bypass
+1V SVG bypass
+upper extremity vein thrombectomy
+ventriculostomy perc
+L popliteal interposition graft
+tracheal repair open
+dual-chamber PM gen perc
+interscalene block
+AAI PM open
+R BCV bypass
+SAPIEN PV perc
+L SFA balloon dilat
+lumbar rhizotomy
+pharyngeal FB removal endo
+ulnar neurorrhaphy
+David op
+uniportal VATS RUL
+azygos vein bx open
+L inguinal LN bx
+stereotactic DBS
+DEB-PCI x1
+ulnar nerve ablation open
+L tympanocetesis
+PIN repair
+intercostal neurolysis
+L CIA occlusion
+R labyrinthectomy
+intraventricular neurostim lead open
+ICP bolt removal
+R TA auto augmentation
+AAo augmentation
+turb exc open
+open brain biopsy
+CS cardiac lead open
+upper vein release
+VAST L
+azygos vein ligation exc
+nose repair
+L ICA release
+VP shunt
+ECTR
+R STA-MCA bypass
+ICP monitor removal open
+AV supplement synth open
+TMVR
+CPN release
+NeoCord MV
+R infrapopliteal stenting peroneal
+L chest tube
+suboccipital craniotomy
+R femoral vein PTFE
+lumbar dorsal rhizotomy
+robotic thymectomy
+TV repair open
+aortocoronary SVG x1
+upper lip ablation perc
+peroneal nerve release
+R axillary clearance
+CS lead open
+CSDH burr hole
+aortic balloon dilat
+CN IX ablation
+L femoral release
+craniotomy diagnostic drain
+lumbar plexotomy
+R tuboplasty perc
+open RV thrombectomy
+CABG x3 SVG
+R BAHA revision
+Rotablator x1
+R GSV stripping
+L axillary dissection
+head lymphatic release
+intra-arterial catheter upper
+lumbar nerve ablation open
+extra-anatomic fem-fem
+R pop-fem bypass
+TD removal open
+glottic ablation
+R auditory tube destruct
+TLM
+R vTOS decompression
+azygos venorrhaphy
+R groin LN bx
+mechanical TVR
+R VATS decortication
+TAVR perc
+brachial PNS open
+R fem-PT bypass
+sciatic nerve section
+R CAS DES
+diaphragmatic exc open
+ICD lead revision
+RIMA graft x1
+aorta-celiac bypass
+DBS lead removal perc
+aortic pressure monitor
+trigeminal rhizotomy
+trachea bx open
+R LVA open
+R LE LN bx
+L carotid resection
+R femoral repair
+R hearing device revision
+L infrapopliteal stenting PT
+thoracoscopic pleural drain
+PICC insertion
+L ILND
+RML lobectomy open
+R fibular PTAS
+L CIA ligation
+L mid ear exc
+diaphragmatic resection
+PNS lead removal perc
+L renal PTFE
+R femoral vein banding
+L lymphatic bypass
+PNS electrode revision open
+para-aortic LND
+median nerve biopsy
+R auricle perc ablat
+soft palate ablation
+R ear I&D
+L CFA repair
+R eardrum auto supplement
+open CTR
+TD laceration repair
+IVC rerouting
+L SMG ablation open
+upper artery infusion cath
+LMB frag endo
+PM lead revision open
+TD-vein anastomosis
+R ext ear resection
+FETO open
+cortical stim lead open
+open EVAR revision
+coronary clot frag
+open IVH removal
+R mid ear destruct
+L ME release
+sural graft lumbar
+IT RFA
+pericardial drainage
+L ICA repair
+anterior cricoid split
+Paget-Schroetter thrombectomy R
+IVC infusion cath open
+BP block
+TD resection
+nose exc
+R IJV stent DES
+R frontal sinusectomy complete
+aortoiliac bypass
+R auricular autoplasty
+caval decompression
+SVC aspiration thrombectomy
+Mediport removal
+R pleural device insertion open
+R ossiculoplasty
+L CIA stenting
+R parasternal LN bx
+R ICA stent revision open
+ulnar nerve biopsy
+turb infx
+R common iliac PTAS
+CABG x1 LIMA arterial
+R ext ear destruct perc
+OptEase
+R ICA release
+L iliac interposition graft
+autologous PVR
+L myringectomy
+trigeminal neurectomy
+tracheal extirp open
+L posterior tibial stent
+R OM-mastoid bypass synth
+R subclavian patch
+BP neuroma exc
+trach tube insertion open
+R brachial repair
+lumbar facet denervation
+R axillo-axillary bypass
+BDET R
+R CIA occlusion
+R ext ear auto replacement
+facial nerve ablation
+upper vein stent removal open
+palatal fistula repair
+R TM supplement auto
+sciatic neuroma exc
+L ICA ligation
+VATS pleural drain
+R iliofemoral bypass EI
+open tunneled CVC upper vein
+aortoceliac bypass
+L ECA stenting
+meningioma resection
+R ET balloon endo
+R ICA vein patch
+L femoral PTAS
+R parotid bx open
+L parotid duct sialolithotomy
+R BK pop bypass
+R high ligation stripping
+pleural extirp perc
+upper artery embolization
+R pleural drain perc
+IVC banding
+cerebral commissurotomy
+partial thymectomy
+renal artery bypass
+R AK pop bypass
+R CEA vein patch
+IVC ligation
+intercostal nerve block
+thymic ablation
+L CWD mastoidectomy
+laryngeal augmentation synthetic
+R BCA thrombectomy
+epicardial ablation perc
+central monitoring line perc
+R deep lobe parotidectomy
+sural graft radial
+L vTOS decompression
+ventriculopleural shunt
+median nerve section
+VATS pleurodesis drain
+thoracic duct bx
+Carpentier-Edwards MVR
+R femoral Dacron patch
+R radial repair
+TLE perc
+radial nerve autograft
+PM lead extraction
+LAA exclusion perc
+defibrillator lead RV perc
+L femoropopliteal bypass
+L CFA interposition graft
+pleurorraphy
+Carpentier TV ring
+L parotid duct ablation
+L ICA neurolysis
+brachial plexotomy
+L popliteal LOA
+coronary patch angioplasty
+upper DVT thrombectomy
+R axillary LN drain
+lower vein release
+DTA supplement synth
+upper vein Dacron graft
+portorenal shunt
+ABF bypass SVG
+L ethmoid extirp
+superficial CP block
+L UE LN bx
+TAVI perc
+R ant ethmoidectomy
+lower extremity vein decompression
+L IJV stent DES
+tracheal prosthesis
+artificial trachea
+R carotid body tumor resection
+cervical NSTS exc
+craniotomy for tumor
+tracheal release perc
+aortic PTFE patch
+PowerPort
+hard palate reposition
+L femoral clot frag
+L BCV CVC perc
+DDD PM perc
+R EIA stent
+R CCA repair
+lower artery coil embolization
+R axillary lymph I&D
+L temporal artery ligation
+arch replacement
+thoracic stent graft
+thoracovenous bypass
+L CFA patch
+L SMG stone removal
+R vertebral angioplasty
+LAA occlusion perc
+R SPH exc
+sacral sympathetic block
+R inguinal dissection
+stented AVR
+L sphenoid resection
+R hearing device insertion
+R subclavian vein transposition
+RRP laser ablation
+L frontal treph drain
+R TM autograft supplement
+L renal transposition
+IVC plication
+AF bypass L
+R saphenous ligation
+TD device insertion open
+oral tongue bx
+nasal concha extirp
+thoracic nerve section
+SVC bypass
+R CND
+R eardrum I&D
+R SCA stent
+SVC mechanical thrombectomy
+ICP drain EVD
+L popliteal aneurysm repair
+R TM cautery
+R AT bypass SVG
+thoracic neurectomy
+L renal reimplantation
+GTR meningioma
+ETD R endo
+L mid ear destruct
+L sublingual gland ablation
+L ET destruct
+ulnar graft augmentation
+L subclavian embolization
+L axillary thrombectomy
+R EVLA GSV
+IABP removal perc
+R ET repair
+caval-renal vein graft
+aortic annuloplasty
+cephalic vein ligation
+total nose resection
+open DBS lead revision
+R BCA graft replacement
+L submandibular sialolithotomy
+L LE LN bx
+TriClip
+subarachnoid drain open
+L SFA stenting
+open DTA repair
+L axillary repair
+lower vein port removal
+R CIA angioplasty
+R ulnar bypass
+PIN section
+R myringotomy
+R brachial auto replacement
+R endo ethmoidectomy
+R peroneal angioplasty
+R subclavian venorrhaphy
+R radial stent DES
+SCS electrode revision open
+L hearing device revision
+1V PTCA
+azygos ligation
+R total parotidectomy
+AV node resection
+R axillo-brachial bypass
+extended thymectomy
+radial nerve ablation open
+L max sinus extirp
+LIMA-CAB
+pericardial repair open
+L carotid ligation
+R SPJ ligation
+R CFA release
+lumbar nerve repair
+R Gore-Tex medialization
+L frontal sinusectomy
+R ear reimplant
+L vocal cord synthetic augmentation
+ICP monitor removal perc
+open DBS lead removal
+inferior hypogastric plexus block
+R OM-mastoid bypass
+R CCA stent DES
+endobronchial tracheal bx
+R femoral thrombus frag perc
+TV repair perc
+intraventricular hematoma removal
+azygos restriction
+mitral valve repositioning
+DTA repair open
+R axilla LN bx
+VenaCure
+R OM drain
+R hearing device endo
+brain neurostim lead removal
+percutaneous CTR
+craniotomy for meningioma
+R ear bx
+R ethmoid polyp removal
+median transposition
+zone III REBOA
+R ear alloplastic recon
+Cockett stenting
+EVAR
+R subclavian DVT thrombectomy
+SVG graft x1
+R ET balloon open
+Paget-Schroetter thrombectomy L
+BiV PM perc
+femoral vein aortic graft
+L ICA resection
+cable graft ulnar
+L sphenoid polyp removal
+R otoplasty
+EVAR revision perc
+descending aorta bypass
+R carotid embolization
+azygos vein banding
+tongue device insertion open
+cardiac lead removal open
+L reversed fem-pop bypass
+cervical plexus repair
+pericardial supplement synth
+L ME extirp
+L Cymetra VC
+IT LOA
+L popliteal entrapment release
+SNB
+chylothorax embolization
+R auricle extirp
+PNS electrode removal open
+R tympanomastoid bypass
+AV node bx
+L TM release
+femoral line revision
+R renal reimplantation
+R cholesteatoma removal
+L SCA transposition
+epidural hematoma drain
+R VC Radiesse
+APC RLL
+SCS lead perc
+BardPort
+femorofemoral crossover synthetic
+R subclavian embolization
+L iliac embolectomy
+thoracic duct resection
+R peroneal bypass SVG
+L max sinus exc
+R IF bypass
+VATS diaphragm exc
+PTCA x1
+pudendal nerve block
+L pneumonectomy open
+lingular segmentectomy
+VPS revision
+R radical mastoidectomy
+triple bypass
+L popliteal thrombectomy
+R CFA SVG
+lumbar nerve exc open
+L TM cautery
+L pinnaplasty
+LTR
+R mediastinal LN bx
+R CEA
+cervical plexus block
+cervical PNS lead perc
+adenoidectomy
+open SCS lead
+aortoiliac embolectomy
+R axillary replacement
+R ICA patch closure
+L myringoplasty
+CTR open
+L iliac repair
+ulnar allograft wrap
+R brachial-radial bypass
+L neck lymph I&D
+L VC injection open
+R cochlear implant revision
+R auricle autograft
+L VATS wedge
+para-aortic LN bx
+L auricle replant
+pleural repair open
+SMA PTAS
+quad CABG
+R brachiocephalic bypass
+MOCA lower vein
+IVC PMT
+pericranial dural graft
+Carpentier ring MV
+L perilymph drain
+R BCV repair
+RVOT ablation
+aortic cusp resusp
+VATS pleural stripping
+L femoral EVLA
+R thoracic LN bx
+nasal LOA
+L eustachian tuboplasty
+R ME repair
+L EIA stenting
+central line revision
+L femoral occlusion
+cardiac lead revision perc
+L VATS decortication
+R brachial replacement
+tibial nerve repair
+L myringoplasty autograft
+RMB dilation endo
+R CFA repair
+RLL bronchus destruct endo
+UPPP uvulectomy
+R submandibulectomy
+R SMG exc
+lumbar neurorrhaphy
+R brachial embolectomy
+stereotactic brain ablation
+L iliac patch repair
+R BCA repair
+Karapandzic flap
+basilic vein ligation
+saphenous block
+R carotid release
+nasal concha LOA
+GGA (genioglossus advancement)
+LAA excision
+trigeminal rhizotomy open
+R ICA repair
+tonsillectomy
+L inner ear drain
+IVC filter insertion open
+DCB angioplasty x1
+R carotid embolectomy
+L OM bypass
+CN XII ablation
+mechanical PVR
+L frontal sinus extirp
+L PMT femoral
+upper vein drainage open
+ESS turb exc
+R ET dilat perc
+AI bypass
+robotic lingulectomy
+LV exc open
+R pop stent
+lumbar nerve interposition graft
+nasal frag
+L pop embolectomy
+TD stent removal open
+brachial plexus neurostim lead open
+pelvic lymphadenectomy
+R iliac TEA
+tracheal replacement auto
+L axillary reconstruction
+R femoral Dacron
+R ulnar stenting
+IVC aspiration thrombectomy
+L tympanic debridement
+L popliteal embolectomy
+R ethmoidotomy drain
+SCS paddle open
+R PMT femoral
+implanted port perc
+IT repair
+R renal reconstruction
+RA extirp perc
+rhinolith frag
+L vocal fold ablation
+upper artery stent removal perc
+L SSV RFA
+R ranula ablation
+pericardial drainage perc
+SVC central line
+lower extremity vein bx
+robotic LLL lobectomy
+L main bronchus FB removal
+R subclavian reimplantation
+CVP line perc
+FETO perc
+R femoral PTFE patch
+R max sinus repair
+pericardiectomy
+endograft revision perc
+open EVAR
+SVC auto replacement
+tracheal balloon occlusion
+R EVLA SSV
+CN X division
+R MRND
+perc SCS lead removal

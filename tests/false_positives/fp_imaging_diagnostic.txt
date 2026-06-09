@@ -1,0 +1,37 @@
+ct scan of abdomen
+mri of lumbar spine
+chest x-ray
+echocardiogram
+transesophageal echocardiography
+cardiac catheterization
+coronary angiography
+peripheral angiogram
+cerebral angiography
+ct angiography
+mr angiography
+duplex ultrasound
+carotid doppler
+renal ultrasound
+pelvic ultrasound
+abdominal ultrasound
+thyroid ultrasound
+breast mammography
+bone densitometry
+nuclear medicine scan
+pet scan
+bone scan
+ventilation perfusion scan
+hepatobiliary iminodiacetic acid scan
+tagged red blood cell scan
+stress test
+holter monitor
+electroencephalography
+electromyography
+nerve conduction study
+pulmonary function test
+upper gi series
+barium enema
+voiding cystourethrogram
+intravenous pyelogram
+fluoroscopy guided injection
+ultrasound guided aspiration

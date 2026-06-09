@@ -1,0 +1,21 @@
+6A1	We decompressed the physiological systems.
+6A1	We are decompressing the physiological systems.
+6A1	We will decompress the physiological systems.
+6A150ZZ	We decompressed the circulatory system.
+6A150ZZ	We are decompressing the circulatory system.
+6A150ZZ	We will decompress the circulatory system.
+6AB	We perfused the physiological systems.
+6AB	We are perfusing the physiological systems.
+6AB	We will perfuse the physiological systems.
+6AB50BZ	We perfused the circulatory system with a donor organ.
+6AB50BZ	We are perfusing the circulatory system with a donor organ.
+6AB50BZ	We will perfuse the circulatory system with a donor organ.
+6ABB0BZ	We perfused the respiratory system with a donor organ.
+6ABB0BZ	We are perfusing the respiratory system with a donor organ.
+6ABB0BZ	We will perfuse the respiratory system with a donor organ.
+6ABF0BZ	We perfused the hepatobiliary system and pancreas with a donor organ.
+6ABF0BZ	We are perfusing the hepatobiliary system and pancreas with a donor organ.
+6ABF0BZ	We will perfuse the hepatobiliary system and pancreas with a donor organ.
+6ABT0BZ	We perfused the urinary system with a donor organ.
+6ABT0BZ	We are perfusing the urinary system with a donor organ.
+6ABT0BZ	We will perfuse the urinary system with a donor organ.

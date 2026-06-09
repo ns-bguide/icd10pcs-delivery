@@ -1,0 +1,104 @@
+# Regression bucket — 2026-05-28 (FP-2.a wins)
+#
+# Each line below is a confirmed FP that previously fired but is now correctly
+# suppressed by the FP-2.a vessel anatomy-pathology blocklist (and FP-4 v2
+# detachment surface-form extension). CI gate (see
+# tests/regression/run_regression_gate.sh) MUST report zero matches on this
+# file. If any line fires, a precision regression has landed — investigate
+# before merging.
+#
+# Bucket is APPEND-ONLY. To remove a line:
+#   1. Verify it is now a legitimate match (not a regression).
+#   2. Move it (with rationale) to a separate `tests/regression/retired/`
+#      file. Never delete in place.
+#
+# Comments (lines starting with #) and blank lines are ignored by the gate.
+
+# ─────────────────────────────────────────────────────────────────────────────
+# FP-2.a wins (vessel anatomy-pathology blocklist, 2026-05-28)
+# ICD-10-CM diagnosis titles whose surface form collides with the compositional
+# `<body_part> <op>` pattern for ops `dissection` and `occlusion`. Pure
+# pathology, NOT procedures. Suppressed by score=0 patterns at the public
+# aggregator level. Gated by `ENABLE_FP2A_VESSEL_PATHOLOGY`.
+#
+# Measured impact (MIMIC-IV 2026-05-28):
+#   surgical FP 2.5% → 0.7% (−1.8pp, 28 → 8 unique terms)
+#   medical  FP 2.8% → 1.1% (−1.7pp, 32 → 12 unique terms)
+#   TP recall flat (78.1% surgical / 96.0% medical)
+#
+# Tier3 cost: −2 lines (4564 → 4562, −0.04%) — `right/left iliac artery
+# occlusion surgical` Madeleine entries that were already only matching at
+# the inner `artery occlusion` 2-token span (`surgical` is not approach_adj).
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Section A — Vessel + dissection (arterial dissection diagnoses)
+acute aortic dissection
+aortic dissection type A
+aortic dissection type B
+chronic aortic dissection
+carotid artery dissection
+coronary artery dissection
+femoral artery dissection
+iliac artery dissection
+internal carotid artery dissection
+mesenteric artery dissection
+renal artery dissection
+splenic artery dissection
+spontaneous coronary artery dissection
+vertebral artery dissection
+aortic dissection
+artery dissection
+
+# Section B — Vessel + occlusion (arterial / venous occlusion diagnoses)
+Occlusion and stenosis of anterior cerebral artery
+Occlusion and stenosis of bilateral anterior cerebral arteries
+Occlusion and stenosis of carotid artery
+Occlusion and stenosis of left vertebral artery
+Occlusion and stenosis of unspecified precerebral artery
+Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries
+Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery
+Tributary (branch) retinal vein occlusion, bilateral, stable
+Tributary (branch) retinal vein occlusion, left eye
+Tributary (branch) retinal vein occlusion, unspecified eye, with macular edema
+Partial retinal artery occlusion
+branch retinal vein occlusion
+central retinal vein occlusion
+retinal artery occlusion
+basilar artery occlusion
+iliac artery occlusion
+mesenteric artery occlusion
+superior mesenteric artery occlusion
+arterial occlusion
+venous occlusion
+vein occlusion
+artery occlusion
+
+# ─────────────────────────────────────────────────────────────────────────────
+# FP-4 v2 wins (detachment surface-form extension, 2026-05-28)
+# Surface variants observed leaking past the FP-4 v1 blocklist:
+#   - "<...> retinal detachment involving the macula" → submatch
+#     "detachment involving the macula"
+#   - "<...> detachment, <left|right|...> eye" → submatch "detachment, <eye>"
+#   - "<...> detachment of retinal pigment epithelium" → submatch
+#     "detachment of retinal pigment epithelium"
+#   - "<...> retinal vein occlusion, <eye>" → submatch "occlusion, <eye>"
+# ─────────────────────────────────────────────────────────────────────────────
+detachment, left eye
+detachment, right eye
+detachment involving the macula
+detachment of retinal pigment epithelium
+Hemorrhagic detachment of retinal pigment epithelium, unspecified eye
+Hemorrhagic choroidal detachment, right eye
+Serous choroidal detachment, unspecified eye
+Unspecified choroidal detachment
+Unspecified choroidal detachment, bilateral
+Unspecified retinal detachment with retinal break, left eye
+Traction detachment of retina
+Horseshoe tear of retina without detachment
+Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment involving the macula
+Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, left eye
+Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula
+Other specified diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, bilateral
+Other specified diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, unspecified eye
+Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, bilateral

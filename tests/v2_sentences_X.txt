@@ -1,0 +1,541 @@
+X05	We conducted destruction of the nervous system.
+X051329	We conducted destruction of the renal sympathetic nerve(s).
+X051329	We conducted destruction of the renal sympathetic nerve(s) with an ultrasound ablation.
+X05133A	We conducted destruction of the renal sympathetic nerve(s) with a radiofrequency ablation.
+X05233B	We conducted destruction of the cardiac system plexus thoracic region sympathetic nerve.
+X05233B	We conducted destruction of the cardiac system plexus thoracic region sympathetic nerve with a radiofrequency ablation.
+X053X4B	We conducted destruction of the brain.
+X053X4B	We conducted destruction of the brain with focused ultrasound therapy.
+X0H	We conducted an insertion of the nervous system.
+X0HK3Q8	We conducted an insertion of the sphenopalatine ganglion.
+X0HK3Q8	We conducted an insertion of the sphenopalatine ganglion with a neurostimulator lead.
+X0HQ3R8	We conducted an insertion of the vagus nerve.
+X0HQ3R8	We conducted an insertion of the vagus nerve with a neurostimulator lead with paired stimulation system.
+X0Z	We conducted an other procedures of the nervous system.
+X0Z0X18	We conducted an other procedures of the prefrontal cortex.
+X0Z0X18	We conducted an other procedures of the prefrontal cortex with a computer-assisted transcranial magnetic stimulation.
+X27	We conducted a dilation of the cardiovascular system.
+X2723CB	We conducted a dilation of the inferior vena cava and iliocaval confluence.
+X2723CB	We conducted a dilation of the inferior vena cava and iliocaval confluence with an open-structure polymer lattice intraluminal device.
+X27339B	We conducted a dilation of the right pulmonary artery.
+X27339B	We conducted a dilation of the right pulmonary artery with an expandable intraluminal device.
+X27439B	We conducted a dilation of the left pulmonary artery.
+X27439B	We conducted a dilation of the left pulmonary artery with an expandable intraluminal device.
+X27535B	We conducted a dilation of the right subclavian vein.
+X27535B	We conducted a dilation of the right subclavian vein with a cell impermeable intraluminal device.
+X27635B	We conducted a dilation of the left subclavian vein.
+X27635B	We conducted a dilation of the left subclavian vein with a cell impermeable intraluminal device.
+X27735B	We conducted a dilation of the right axillary vein.
+X27735B	We conducted a dilation of the right axillary vein with a cell impermeable intraluminal device.
+X27835B	We conducted a dilation of the left axillary vein.
+X27835B	We conducted a dilation of the left axillary vein with a cell impermeable intraluminal device.
+X27935B	We conducted a dilation of the right brachial vein.
+X27935B	We conducted a dilation of the right brachial vein with a cell impermeable intraluminal device.
+X27A35B	We conducted a dilation of the left brachial vein.
+X27A35B	We conducted a dilation of the left brachial vein with a cell impermeable intraluminal device.
+X27B35B	We conducted a dilation of the right basilic vein.
+X27B35B	We conducted a dilation of the right basilic vein with a cell impermeable intraluminal device.
+X27C35B	We conducted a dilation of the left basilic vein.
+X27C35B	We conducted a dilation of the left basilic vein with a cell impermeable intraluminal device.
+X27D35B	We conducted a dilation of the right cephalic vein.
+X27D35B	We conducted a dilation of the right cephalic vein with a cell impermeable intraluminal device.
+X27E35B	We conducted a dilation of the left cephalic vein.
+X27E35B	We conducted a dilation of the left cephalic vein with a cell impermeable intraluminal device.
+X27P3TA	We conducted a dilation of the right anterior tibial artery.
+X27P3TA	We conducted a dilation of the right anterior tibial artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27Q3TA	We conducted a dilation of the left anterior tibial artery.
+X27Q3TA	We conducted a dilation of the left anterior tibial artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27R3TA	We conducted a dilation of the right posterior tibial artery.
+X27R3TA	We conducted a dilation of the right posterior tibial artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27S3TA	We conducted a dilation of the left posterior tibial artery.
+X27S3TA	We conducted a dilation of the left posterior tibial artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27T3TA	We conducted a dilation of the right peroneal artery.
+X27T3TA	We conducted a dilation of the right peroneal artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27U3TA	We conducted a dilation of the left peroneal artery.
+X27U3TA	We conducted a dilation of the left peroneal artery with an everolimus-eluting resorbable scaffold(s) intraluminal device.
+X27W39B	We conducted a dilation of the descending thoracic region aorta.
+X27W39B	We conducted a dilation of the descending thoracic region aorta with an expandable intraluminal device.
+X27X39B	We conducted a dilation of the ascending/arch thoracic region aorta.
+X27X39B	We conducted a dilation of the ascending/arch thoracic region aorta with an expandable intraluminal device.
+X28	We conducted a division of the cardiovascular system.
+X28F3VA	We conducted a division of the aortic valve.
+X28F3VA	We conducted a division of the aortic valve with an intraluminal bioprosthetic valve leaflet splitting technology in existing valve.
+X28F3WB	We conducted a division of the aortic valve with a radiofrequency energy leaflet laceration.
+X2A	We conducted assistance of the cardiovascular system.
+X2A7358	We conducted assistance of the coronary sinus.
+X2A7358	We conducted assistance of the coronary sinus with an intermittent coronary sinus occlusion.
+X2AH34B	We conducted assistance of the right common carotid artery.
+X2AH34B	We conducted assistance of the right common carotid artery with single integrated distal filter cerebral embolic filtration.
+X2AJ34B	We conducted assistance of the left common carotid artery.
+X2AJ34B	We conducted assistance of the left common carotid artery with single integrated distal filter cerebral embolic filtration.
+X2AK34B	We conducted assistance of the right internal carotid artery.
+X2AK34B	We conducted assistance of the right internal carotid artery with single integrated distal filter cerebral embolic filtration.
+X2C	We conducted an extirpation of the cardiovascular system.
+X2CP3T7	We conducted an extirpation of the abdominal aorta.
+X2CP3T7	We conducted an extirpation with a computer-aided mechanical aspiration.
+X2CQ3T7	We conducted an extirpation of the right upper extremity vein.
+X2CR3T7	We conducted an extirpation of the left upper extremity vein.
+X2CS3T7	We conducted an extirpation of the right lower extremity artery.
+X2CT3T7	We conducted an extirpation of the left lower extremity artery.
+X2CU3T7	We conducted an extirpation of the right lower extremity vein.
+X2CV3T7	We conducted an extirpation of the left lower extremity vein.
+X2CY3T7	We conducted an extirpation of the great vessel.
+X2H	We conducted an insertion of the cardiovascular system.
+X2H03BB	We conducted an insertion of the inferior vena cava.
+X2H03BB	We conducted an insertion of the inferior vena cava with a volume sensor management device.
+X2H03R9	We conducted an insertion of the inferior vena cava with a bioprosthetic valve intraluminal device.
+X2H13R9	We conducted an insertion of the superior vena cava.
+X2H13R9	We conducted an insertion of the superior vena cava with a bioprosthetic valve intraluminal device.
+X2H13XB	We conducted an insertion of the superior vena cava with a temporary phrenic nerve/diaphragm stimulation electrodes.
+X2H20R9	We conducted an insertion of the right femoral vein.
+X2H20R9	We conducted an insertion of the right femoral vein with a bioprosthetic valve intraluminal device.
+X2H30R9	We conducted an insertion of the left femoral vein.
+X2H30R9	We conducted an insertion of the left femoral vein with a bioprosthetic valve intraluminal device.
+X2H63V9	We conducted an insertion of the right atrium.
+X2H63V9	We conducted an insertion of the right atrium with a dual-chamber intracardiac pacemaker.
+X2HK3V9	We conducted an insertion of the right ventricle.
+X2HK3V9	We conducted an insertion of the right ventricle with a dual-chamber intracardiac pacemaker.
+X2HM0F9	We conducted an insertion of the ventricular septum.
+X2HM0F9	We conducted an insertion of the ventricular septum with a conduit to short-term external heart assist system.
+X2HM3GB	We conducted an insertion of the ventricular septum with a lumenless small-diameter defibrillator lead.
+X2HN37B	We conducted an insertion of the left ventricle.
+X2HN37B	We conducted an insertion of the left ventricle with an endocardiac pacing electrode.
+X2HP38B	We conducted an insertion of the right anterior tibial artery.
+X2HP38B	We conducted an insertion of the right anterior tibial artery with a temporary intraluminal device.
+X2HQ38B	We conducted an insertion of the left anterior tibial artery.
+X2HQ38B	We conducted an insertion of the left anterior tibial artery with a temporary intraluminal device.
+X2HR38B	We conducted an insertion of the right posterior tibial artery.
+X2HR38B	We conducted an insertion of the right posterior tibial artery with a temporary intraluminal device.
+X2HS38B	We conducted an insertion of the left posterior tibial artery.
+X2HS38B	We conducted an insertion of the left posterior tibial artery with a temporary intraluminal device.
+X2HT38B	We conducted an insertion of the right peroneal artery.
+X2HT38B	We conducted an insertion of the right peroneal artery with a temporary intraluminal device.
+X2HU38B	We conducted an insertion of the left peroneal artery.
+X2HU38B	We conducted an insertion of the left peroneal artery with a temporary intraluminal device.
+X2HV3GB	We conducted an insertion of the right ventricle with a lumenless small-diameter defibrillator lead.
+X2HX0F9	We conducted an insertion of the ascending thoracic region aorta.
+X2HX0F9	We conducted an insertion of the ascending thoracic region aorta with a conduit to short-term external heart assist system.
+X2J	We conducted an inspection of the cardiovascular system.
+X2JAX47	We conducted an inspection of the heart.
+X2JAX47	We conducted an inspection of the heart with a computer-aided guidance transthoracic echocardiography.
+X2K	We conducted a bypass of the cardiovascular system.
+X2K00FB	We conducted a bypass of the inferior vena cava.
+X2K00FB	We conducted a bypass of the inferior vena cava with an autologous cell seeded tissue engineered resorbable scaffold to pulmonary artery.
+X2KA30A	We conducted a bypass of the left atrium.
+X2KA30A	We conducted a bypass of the left atrium with a conduit through coronary sinus to right atrium.
+X2KB317	We conducted a bypass of the right radial artery.
+X2KB317	We conducted a bypass of the right radial artery with a thermal resistance energy.
+X2KC317	We conducted a bypass of the left radial artery.
+X2KC317	We conducted a bypass of the left radial artery with a thermal resistance energy.
+X2KG0FB	We conducted a bypass of the hepatic vein.
+X2KG0FB	We conducted a bypass of the hepatic vein with an autologous cell seeded tissue engineered resorbable scaffold to pulmonary artery.
+X2KH3D9	We conducted a bypass of the right femoral artery.
+X2KH3D9	We conducted a bypass of the right femoral artery with a conduit through femoral vein to superficial femoral artery.
+X2KH3E9	We conducted a bypass of the right femoral artery with a conduit through femoral vein to popliteal artery.
+X2KJ3D9	We conducted a bypass of the left femoral artery.
+X2KJ3D9	We conducted a bypass of the left femoral artery with a conduit through femoral vein to superficial femoral artery.
+X2KJ3E9	We conducted a bypass of the left femoral artery with a conduit through femoral vein to popliteal artery.
+X2R	We conducted replacement of the cardiovascular system.
+X2R50WA	We conducted replacement of the right upper extremity artery.
+X2R50WA	We conducted replacement of the right upper extremity artery with a bioengineered human acellular vessel.
+X2R60WA	We conducted replacement of the left upper extremity artery.
+X2R60WA	We conducted replacement of the left upper extremity artery with a bioengineered human acellular vessel.
+X2R70WA	We conducted replacement of the right lower extremity artery.
+X2R70WA	We conducted replacement of the right lower extremity artery with a bioengineered human acellular vessel.
+X2R80WA	We conducted replacement of the left lower extremity artery.
+X2R80WA	We conducted replacement of the left lower extremity artery with a bioengineered human acellular vessel.
+X2RJ3RA	We conducted replacement of the tricuspid valve.
+X2RJ3RA	We conducted replacement of the tricuspid valve with a multi-plane flex technology bioprosthetic valve.
+X2RX0N7	We conducted replacement of the arch thoracic region aorta.
+X2RX0N7	We conducted replacement of the arch thoracic region aorta with a branched synthetic substitute with intraluminal device.
+X2U	We conducted a supplement of the cardiovascular system.
+X2U4079	We conducted a supplement of the coronary artery/arteries.
+X2U4079	We conducted a supplement of the coronary artery/arteries with a vein graft extraluminal support device(s).
+X2U93YA	We conducted a supplement of the right atrium.
+X2U93YA	We conducted a supplement of the right atrium with a heterotopic bioprosthetic valve(s) intraluminal device.
+X2UQ0P9	We conducted a supplement of the right upper extremity vein.
+X2UQ0P9	We conducted a supplement of the right upper extremity vein with an extraluminal support device synthetic substitute.
+X2UR0P9	We conducted a supplement of the left upper extremity vein.
+X2UR0P9	We conducted a supplement of the left upper extremity vein with an extraluminal support device synthetic substitute.
+X2V	We conducted a restriction of the cardiovascular system.
+X2V73Q7	We conducted a restriction of the coronary sinus.
+X2V73Q7	We conducted a restriction of the coronary sinus with a reduction device.
+X2VE3SA	We conducted a restriction of the descending thoracic region aorta and abdominal aorta.
+X2VE3SA	We conducted a restriction of the descending thoracic region aorta and abdominal aorta with a branched intraluminal device, manufactured integrated system, four or more arteries.
+X2VW0N7	We conducted a restriction of the descending thoracic region aorta.
+X2VW0N7	We conducted a restriction of the descending thoracic region aorta with a branched synthetic substitute with intraluminal device.
+X2VY06B	We conducted a restriction of the thoracic region aortic arch and descending thoracic region aorta.
+X2VY06B	We conducted a restriction of the thoracic region aortic arch and descending thoracic region aorta with an uncovered with support cuff intraluminal device.
+X9H	We conducted an insertion of the ear, nose, and sinus.
+X9HD01B	We conducted an insertion of the right inner ear.
+X9HD01B	We conducted an insertion of the right inner ear with a temporary infusion device.
+X9HE01B	We conducted an insertion of the left inner ear.
+X9HE01B	We conducted an insertion of the left inner ear with a temporary infusion device.
+X9HF01B	We conducted an insertion of the bilateral inner ear.
+X9HF01B	We conducted an insertion of the bilateral inner ear with a temporary infusion device.
+XD2	We conducted monitoring of the gastrointestinal system.
+XD2G4V7	We conducted monitoring of the upper gi.
+XD2G4V7	We conducted monitoring of the upper gi with oxygen saturation.
+XD2H4V7	We conducted monitoring of the lower gi.
+XD2H4V7	We conducted monitoring of the lower gi with oxygen saturation.
+XDJ	We conducted an inspection of the gastrointestinal system.
+XDP	We conducted an irrigation of the gastrointestinal system.
+XDPH8K7	We conducted an irrigation of the lower gi.
+XDPH8K7	We conducted an irrigation of the lower gi with an intraoperative single-use oversleeve.
+XF5	We conducted destruction of the hepatobiliary system and pancreas.
+XF50X08	We conducted destruction of the liver.
+XF50X08	We conducted destruction of the liver with an ultrasound-guided cavitation.
+XF51X08	We conducted destruction of the right lobe liver.
+XF51X08	We conducted destruction of the right lobe liver with an ultrasound-guided cavitation.
+XF52X08	We conducted destruction of the left lobe liver.
+XF52X08	We conducted destruction of the left lobe liver with an ultrasound-guided cavitation.
+XFJ	We conducted an inspection of the hepatobiliary system and pancreas.
+XFJB8A7	We conducted an inspection of the hepatobiliary system duct.
+XFJB8A7	We conducted an inspection of the hepatobiliary system duct with a single-use duodenoscope.
+XFJD8A7	We conducted an inspection of the pancreatic duct.
+XFJD8A7	We conducted an inspection of the pancreatic duct with a single-use duodenoscope.
+XHH	We conducted an insertion of the skin, subcutaneous tissue, and fascia and breast.
+XHH80HB	We conducted an insertion of the chest subcutaneous tissue and fascia.
+XHH80HB	We conducted an insertion of the chest subcutaneous tissue and fascia with an ultrasound transmitter and battery for endocardiac pacing electrode.
+XHR	We conducted replacement of the skin, subcutaneous tissue, and fascia and breast.
+XHR0XGA	We conducted replacement of the head and neck skin.
+XHR0XGA	We conducted replacement of the head and neck skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR1XGA	We conducted replacement of the chest skin.
+XHR1XGA	We conducted replacement of the chest skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR2XGA	We conducted replacement of the abdomen skin.
+XHR2XGA	We conducted replacement of the abdomen skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR3XGA	We conducted replacement of the back skin.
+XHR3XGA	We conducted replacement of the back skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR4XGA	We conducted replacement of the right upper extremity skin.
+XHR4XGA	We conducted replacement of the right upper extremity skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR5XGA	We conducted replacement of the left upper extremity skin.
+XHR5XGA	We conducted replacement of the left upper extremity skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR6XGA	We conducted replacement of the right lower extremity skin.
+XHR6XGA	We conducted replacement of the right lower extremity skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHR7XGA	We conducted replacement of the left lower extremity skin.
+XHR7XGA	We conducted replacement of the left lower extremity skin with genetically engineered autologous cell therapy prademagene zamikeracel.
+XHRPXF7	We conducted replacement of the skin.
+XHRPXF7	We conducted replacement of the skin with a bioengineered allogeneic construct.
+XKU	We conducted a supplement of the muscles, tendons, and bursae and ligaments.
+XKUC068	We conducted a supplement of the upper spine bursa and ligament.
+XKUC068	We conducted a supplement of the upper spine bursa and ligament with a posterior vertebral tether.
+XKUD068	We conducted a supplement of the lower spine bursa and ligament.
+XKUD068	We conducted a supplement of the lower spine bursa and ligament with a posterior vertebral tether.
+XNH	We conducted an insertion of the bones.
+XNH6058	We conducted an insertion of the right pelvic region bone.
+XNH6058	We conducted an insertion of the right pelvic region bone with an internal fixation device with tulip connector.
+XNH60HB	We conducted an insertion of the right pelvic region bone with a bone-density-specific thread and porosity pattern internal fixation device.
+XNH7058	We conducted an insertion of the left pelvic region bone.
+XNH7058	We conducted an insertion of the left pelvic region bone with an internal fixation device with tulip connector.
+XNH70HB	We conducted an insertion of the left pelvic region bone with a bone-density-specific thread and porosity pattern internal fixation device.
+XNHG0F9	We conducted an insertion of the right tibia.
+XNHG0F9	We conducted an insertion of the right tibia with a tibial extension with motion sensors.
+XNHH0F9	We conducted an insertion of the left tibia.
+XNHH0F9	We conducted an insertion of the left tibia with a tibial extension with motion sensors.
+XNR	We conducted replacement of the bones.
+XNR80D9	We conducted replacement of the skull.
+XNR80D9	We conducted replacement of the skull with an ultrasound penetrable synthetic substitute.
+XNRM099	We conducted replacement of the left tarsal.
+XNRM099	We conducted replacement of the left tarsal with a talar prosthesis synthetic substitute.
+XNS	We conducted a reposition of the bones.
+XNS0032	We conducted a reposition of the lumbar region vertebra.
+XNS0032	We conducted a reposition of the lumbar region vertebra with a magnetically controlled growth rod(s).
+XNS00C7	We conducted a reposition of the lumbar region vertebra with a posterior (dynamic) distraction device.
+XNS3032	We conducted a reposition of the cervical region vertebra.
+XNS3032	We conducted a reposition of the cervical region vertebra with a magnetically controlled growth rod(s).
+XNS4032	We conducted a reposition of the right humeral shaft.
+XNS4032	We conducted a reposition of the right humeral shaft with a magnetically controlled growth rod(s).
+XNS40C7	We conducted a reposition of the right humeral shaft with a posterior (dynamic) distraction device.
+XNS40GA	We conducted a reposition of the right humeral shaft with a ring external fixation device with automated strut adjustment.
+XNS50GA	We conducted a reposition of the left humeral shaft.
+XNS50GA	We conducted a reposition of the left humeral shaft with a ring external fixation device with automated strut adjustment.
+XNS60GA	We conducted a reposition of the right radius.
+XNS60GA	We conducted a reposition of the right radius with a ring external fixation device with automated strut adjustment.
+XNS70GA	We conducted a reposition of the left radius.
+XNS70GA	We conducted a reposition of the left radius with a ring external fixation device with automated strut adjustment.
+XNS80GA	We conducted a reposition of the right ulna.
+XNS80GA	We conducted a reposition of the right ulna with a ring external fixation device with automated strut adjustment.
+XNS90GA	We conducted a reposition of the left ulna.
+XNS90GA	We conducted a reposition of the left ulna with a ring external fixation device with automated strut adjustment.
+XNSA0GA	We conducted a reposition of the right upper femur.
+XNSA0GA	We conducted a reposition of the right upper femur with a ring external fixation device with automated strut adjustment.
+XNSB0GA	We conducted a reposition of the left upper femur.
+XNSB0GA	We conducted a reposition of the left upper femur with a ring external fixation device with automated strut adjustment.
+XNSC0GA	We conducted a reposition of the right lower femur.
+XNSC0GA	We conducted a reposition of the right lower femur with a ring external fixation device with automated strut adjustment.
+XNSD0GA	We conducted a reposition of the left lower femur.
+XNSD0GA	We conducted a reposition of the left lower femur with a ring external fixation device with automated strut adjustment.
+XNSE0GA	We conducted a reposition of the right femoral shaft.
+XNSE0GA	We conducted a reposition of the right femoral shaft with a ring external fixation device with automated strut adjustment.
+XNSF0GA	We conducted a reposition of the left femoral shaft.
+XNSF0GA	We conducted a reposition of the left femoral shaft with a ring external fixation device with automated strut adjustment.
+XNSG0GA	We conducted a reposition of the right tibia.
+XNSG0GA	We conducted a reposition of the right tibia with a ring external fixation device with automated strut adjustment.
+XNSH0GA	We conducted a reposition of the left tibia.
+XNSH0GA	We conducted a reposition of the left tibia with a ring external fixation device with automated strut adjustment.
+XNSN0HB	We conducted a reposition of the right pelvic region bone.
+XNSN0HB	We conducted a reposition of the right pelvic region bone with a bone-density-specific thread and porosity pattern internal fixation device.
+XNSP0HB	We conducted a reposition of the left pelvic region bone.
+XNSP0HB	We conducted a reposition of the left pelvic region bone with a bone-density-specific thread and porosity pattern internal fixation device.
+XNU	We conducted a supplement of the bones.
+XNU0356	We conducted a supplement of the lumbar region vertebra.
+XNU0356	We conducted a supplement of the lumbar region vertebra with a mechanically expandable (paired) synthetic substitute.
+XNU4356	We conducted a supplement of the thoracic region vertebra.
+XNU4356	We conducted a supplement of the thoracic region vertebra with a mechanically expandable (paired) synthetic substitute.
+XRG	We conducted a fusion of the joints.
+XRG10RB	We conducted a fusion of the cervical region vertebral joint.
+XRG10RB	We conducted a fusion of the cervical region vertebral joint with a custom-made anatomically designed interbody fusion device.
+XRG20RB	We conducted a fusion of 2 or more cervical region vertebral joints.
+XRG20RB	We conducted a fusion of 2 or more cervical region vertebral joints with a custom-made anatomically designed interbody fusion device.
+XRG40RB	We conducted a fusion of the cervicothoracic region vertebral joint.
+XRG40RB	We conducted a fusion of the cervicothoracic region vertebral joint with a custom-made anatomically designed interbody fusion device.
+XRGA0EA	We conducted a fusion of the thoracolumbar region vertebral joint.
+XRGA0EA	We conducted a fusion of the thoracolumbar region vertebral joint with a paired titanium cages facet joint fusion device.
+XRGA0R7	We conducted a fusion of the thoracolumbar region vertebral joint with a custom-made anatomically designed interbody fusion device.
+XRGB0EA	We conducted a fusion of the lumbar region vertebral joint.
+XRGB0EA	We conducted a fusion of the lumbar region vertebral joint with a paired titanium cages facet joint fusion device.
+XRGB0R7	We conducted a fusion of the lumbar region vertebral joint with a custom-made anatomically designed interbody fusion device.
+XRGC0EA	We conducted a fusion of 2 or more lumbar region vertebral joints.
+XRGC0EA	We conducted a fusion of 2 or more lumbar region vertebral joints with a paired titanium cages facet joint fusion device.
+XRGC0R7	We conducted a fusion of 2 or more lumbar region vertebral joints with a custom-made anatomically designed interbody fusion device.
+XRGD0EA	We conducted a fusion of the lumbosacral region joint.
+XRGD0EA	We conducted a fusion of the lumbosacral region joint with a paired titanium cages facet joint fusion device.
+XRGD0R7	We conducted a fusion of the lumbosacral region joint with a custom-made anatomically designed interbody fusion device.
+XRGE058	We conducted a fusion of the right sacroiliac joint.
+XRGE058	We conducted a fusion of the right sacroiliac joint with an internal fixation device with tulip connector.
+XRGE0HB	We conducted a fusion of the right sacroiliac joint with a bone-density-specific thread and porosity pattern internal fixation device.
+XRGF058	We conducted a fusion of the left sacroiliac joint.
+XRGF058	We conducted a fusion of the left sacroiliac joint with an internal fixation device with tulip connector.
+XRGF0HB	We conducted a fusion of the left sacroiliac joint with a bone-density-specific thread and porosity pattern internal fixation device.
+XRGJ0B9	We conducted a fusion of the right ankle joint.
+XRGJ0B9	We conducted a fusion of the right ankle joint with an open-truss design internal fixation device.
+XRGJ0CA	We conducted a fusion of the right ankle joint with a gyroid-sheet lattice design internal fixation device.
+XRGK0B9	We conducted a fusion of the left ankle joint.
+XRGK0B9	We conducted a fusion of the left ankle joint with an open-truss design internal fixation device.
+XRGK0CA	We conducted a fusion of the left ankle joint with a gyroid-sheet lattice design internal fixation device.
+XRGM0B9	We conducted a fusion of the left tarsal joint.
+XRGM0B9	We conducted a fusion of the left tarsal joint with an open-truss design internal fixation device.
+XRGM0CA	We conducted a fusion of the left tarsal joint with a gyroid-sheet lattice design internal fixation device.
+XRH	We conducted an insertion of the joints.
+XRH10GB	We conducted an insertion of the cervical region vertebral joint.
+XRH10GB	We conducted an insertion of the cervical region vertebral joint with a molybdenum rhenium alloy spinal stabilization device.
+XRH20GB	We conducted an insertion of 2 or more cervical region vertebral joints.
+XRH20GB	We conducted an insertion of 2 or more cervical region vertebral joints with a molybdenum rhenium alloy spinal stabilization device.
+XRH40GB	We conducted an insertion of the cervicothoracic region vertebral joint.
+XRH40GB	We conducted an insertion of the cervicothoracic region vertebral joint with a molybdenum rhenium alloy spinal stabilization device.
+XRH60FA	We conducted an insertion of the thoracic region vertebral joint.
+XRH60FA	We conducted an insertion of the thoracic region vertebral joint with a pedicle based carbon/peek spinal stabilization device.
+XRH60GB	We conducted an insertion of the thoracic region vertebral joint with a molybdenum rhenium alloy spinal stabilization device.
+XRH70FA	We conducted an insertion of 2 to 7 thoracic region vertebral joints.
+XRH70FA	We conducted an insertion of 2 to 7 thoracic region vertebral joints with a pedicle based carbon/peek spinal stabilization device.
+XRH80FA	We conducted an insertion of the 8 or more thoracic region vertebral joints.
+XRH80FA	We conducted an insertion of the 8 or more thoracic region vertebral joints with a pedicle based carbon/peek spinal stabilization device.
+XRHA0FA	We conducted an insertion of the thoracolumbar region vertebral joint.
+XRHA0FA	We conducted an insertion of the thoracolumbar region vertebral joint with a pedicle based carbon/peek spinal stabilization device.
+XRHB018	We conducted an insertion of the lumbar region vertebral joint.
+XRHB018	We conducted an insertion of the lumbar region vertebral joint with a posterior spinal motion preservation device.
+XRHB0FA	We conducted an insertion of the lumbar region vertebral joint with a pedicle based carbon/peek spinal stabilization device.
+XRHC0FA	We conducted an insertion of 2 or more lumbar region vertebral joints.
+XRHC0FA	We conducted an insertion of 2 or more lumbar region vertebral joints with a pedicle based carbon/peek spinal stabilization device.
+XRHD018	We conducted an insertion of the lumbosacral region joint.
+XRHD018	We conducted an insertion of the lumbosacral region joint with a posterior spinal motion preservation device.
+XRHD0FA	We conducted an insertion of the lumbosacral region joint with a pedicle based carbon/peek spinal stabilization device.
+XRR	We conducted replacement of the joints.
+XRRG0M8	We conducted replacement of the right knee joint.
+XRRG0M8	We conducted replacement of the right knee joint with a medial meniscus synthetic substitute.
+XRRH0M8	We conducted replacement of the left knee joint.
+XRRH0M8	We conducted replacement of the left knee joint with a medial meniscus synthetic substitute.
+XT2	We conducted monitoring of the urinary system.
+XT25XE5	We conducted monitoring of the kidney.
+XT25XE5	We conducted monitoring of the kidney with a fluorescent pyrazine.
+XU7	We conducted a dilation of the female reproductive system.
+XU7G71B	We conducted a dilation of the vagina.
+XU7G71B	We conducted a dilation of the vagina with a temporary electromechanical intraluminal device.
+XW0	We conducted an introduction of the anatomical regions.
+XW00X27	We conducted an introduction of the skin.
+XW00X27	We conducted an introduction of the skin with cpi-601 enzyme replacement therapy.
+XW01318	We conducted an introduction of the subcutaneous tissue.
+XW01318	We conducted an introduction of the subcutaneous tissue with an eladocagene exuparvovec.
+XW01329	We conducted an introduction of the subcutaneous tissue with cpi-601 enzyme replacement therapy.
+XW01348	We conducted an introduction of the subcutaneous tissue with a somatic stem cells.
+XW0136A	We conducted an introduction of the subcutaneous tissue with afamitresgene autoleucel immunotherapy.
+XW01397	We conducted an introduction of the subcutaneous tissue with an odronextamab antineoplastic.
+XW013F5	We conducted an introduction of the subcutaneous tissue with other new technology therapeutic substance.
+XW013G6	We conducted an introduction of the subcutaneous tissue with temporary irrigation spacer system vancomycin hydrochloride and tobramycin sulfate anti-infective.
+XW013H6	We conducted an introduction of the subcutaneous tissue with one balloon paclitaxel-coated balloon technology.
+XW013K6	We conducted an introduction of the subcutaneous tissue with three balloons paclitaxel-coated balloon technology.
+XW013S6	We conducted an introduction of the subcutaneous tissue with an iobenguane i-131 antineoplastic.
+XW013T6	We conducted an introduction of the subcutaneous tissue with a melphalan hydrochloride antineoplastic.
+XW013U6	We conducted an introduction of the subcutaneous tissue with a covid-19 vaccine.
+XW013V7	We conducted an introduction of the subcutaneous tissue with xanomeline and trospium chloride.
+XW013W5	We conducted an introduction of the subcutaneous tissue with agn1 bone void filler.
+XW020D8	We conducted an introduction of the muscle.
+XW020D8	We conducted an introduction of the muscle with a donislecel-jujn allogeneic pancreatic islet cellular suspension.
+XW023S6	We conducted an introduction of the muscle with an iobenguane i-131 antineoplastic.
+XW023T6	We conducted an introduction of the muscle with a melphalan hydrochloride antineoplastic.
+XW023U6	We conducted an introduction of the muscle with a covid-19 vaccine.
+XW023V7	We conducted an introduction of the muscle with xanomeline and trospium chloride.
+XW023W7	We conducted an introduction of the muscle with agn1 bone void filler.
+XW023X7	We conducted an introduction of the muscle with peptide enhanced bone void filler.
+XW023Y7	We conducted an introduction of the muscle with another new technology monoclonal antibody.
+XW03308	We conducted an introduction of the peripheral vein.
+XW03308	We conducted an introduction of the peripheral vein with an alpha1-proteinase inhibitor.
+XW0331B	We conducted an introduction of the peripheral vein with an eladocagene exuparvovec.
+XW0333A	We conducted an introduction of the peripheral vein with maribavir anti-infective.
+XW0334A	We conducted an introduction of the peripheral vein with a somatic stem cells.
+XW03357	We conducted an introduction of the peripheral vein with ceftobiprole medocaril anti-infective.
+XW03367	We conducted an introduction of the peripheral vein with afamitresgene autoleucel immunotherapy.
+XW03372	We conducted an introduction of the peripheral vein with tabelecleucel immunotherapy.
+XW03387	We conducted an introduction of the peripheral vein with a mineral-based topical hemostatic agent.
+XW03396	We conducted an introduction of the peripheral vein with an odronextamab antineoplastic.
+XW033A7	We conducted an introduction of the peripheral vein with ciltacabtagene autoleucel.
+XW033B3	We conducted an introduction of the peripheral vein with orca-t allogeneic t-cell immunotherapy.
+XW033C7	We conducted an introduction of the peripheral vein with a zanidatamab antineoplastic.
+XW033DA	We conducted an introduction of the peripheral vein with a donislecel-jujn allogeneic pancreatic islet cellular suspension.
+XW033E5	We conducted an introduction of the peripheral vein with remdesivir anti-infective.
+XW033F3	We conducted an introduction of the peripheral vein with other new technology therapeutic substance.
+XW033G5	We conducted an introduction of the peripheral vein with temporary irrigation spacer system vancomycin hydrochloride and tobramycin sulfate anti-infective.
+XW033H5	We conducted an introduction of the peripheral vein with one balloon paclitaxel-coated balloon technology.
+XW033J7	We conducted an introduction of the peripheral vein with two balloons paclitaxel-coated balloon technology.
+XW033K7	We conducted an introduction of the peripheral vein with three balloons paclitaxel-coated balloon technology.
+XW033M7	We conducted an introduction of the peripheral vein with baricitinib.
+XW033N7	We conducted an introduction of the peripheral vein with ser-109.
+XW033P9	We conducted an introduction of the peripheral vein with antibiotic-eluting bone void filler.
+XW033Q5	We conducted an introduction of the peripheral vein with an iloprost.
+XW033R9	We conducted an introduction of the peripheral vein with fostamatinib.
+XW033S5	We conducted an introduction of the peripheral vein with an iobenguane i-131 antineoplastic.
+XW033W5	We conducted an introduction of the peripheral vein with agn1 bone void filler.
+XW04308	We conducted an introduction of the central vein.
+XW04308	We conducted an introduction of the central vein with an alpha1-proteinase inhibitor.
+XW0431B	We conducted an introduction of the central vein with an eladocagene exuparvovec.
+XW0433A	We conducted an introduction of the central vein with maribavir anti-infective.
+XW0434A	We conducted an introduction of the central vein with a somatic stem cells.
+XW04357	We conducted an introduction of the central vein with ceftobiprole medocaril anti-infective.
+XW04367	We conducted an introduction of the central vein with afamitresgene autoleucel immunotherapy.
+XW04372	We conducted an introduction of the central vein with tabelecleucel immunotherapy.
+XW04387	We conducted an introduction of the central vein with a mineral-based topical hemostatic agent.
+XW04396	We conducted an introduction of the central vein with an odronextamab antineoplastic.
+XW043A7	We conducted an introduction of the central vein with ciltacabtagene autoleucel.
+XW043B3	We conducted an introduction of the central vein with orca-t allogeneic t-cell immunotherapy.
+XW043C7	We conducted an introduction of the central vein with a zanidatamab antineoplastic.
+XW043E5	We conducted an introduction of the central vein with remdesivir anti-infective.
+XW043F3	We conducted an introduction of the central vein with other new technology therapeutic substance.
+XW043G5	We conducted an introduction of the central vein with temporary irrigation spacer system vancomycin hydrochloride and tobramycin sulfate anti-infective.
+XW043H5	We conducted an introduction of the central vein with one balloon paclitaxel-coated balloon technology.
+XW043J7	We conducted an introduction of the central vein with two balloons paclitaxel-coated balloon technology.
+XW043K7	We conducted an introduction of the central vein with three balloons paclitaxel-coated balloon technology.
+XW043M7	We conducted an introduction of the central vein with baricitinib.
+XW043N7	We conducted an introduction of the central vein with ser-109.
+XW043P9	We conducted an introduction of the central vein with antibiotic-eluting bone void filler.
+XW043Q5	We conducted an introduction of the central vein with an iloprost.
+XW043R9	We conducted an introduction of the central vein with fostamatinib.
+XW043S5	We conducted an introduction of the central vein with an iobenguane i-131 antineoplastic.
+XW043W5	We conducted an introduction of the central vein with agn1 bone void filler.
+XW0534B	We conducted an introduction of the peripheral artery.
+XW0534B	We conducted an introduction of the peripheral artery with a somatic stem cells.
+XW053T9	We conducted an introduction of the peripheral artery with a melphalan hydrochloride antineoplastic.
+XW0632B	We conducted an introduction of the cerebral ventricle.
+XW0632B	We conducted an introduction of the cerebral ventricle with cpi-601 enzyme replacement therapy.
+XW0DX38	We conducted an introduction of the mouth and pharynx.
+XW0DX38	We conducted an introduction of the mouth and pharynx with maribavir anti-infective.
+XW0DX82	We conducted an introduction of the mouth and pharynx with a mineral-based topical hemostatic agent.
+XW0DXF5	We conducted an introduction of the mouth and pharynx with other new technology therapeutic substance.
+XW0DXJ9	We conducted an introduction of the mouth and pharynx with two balloons paclitaxel-coated balloon technology.
+XW0DXK8	We conducted an introduction of the mouth and pharynx with three balloons paclitaxel-coated balloon technology.
+XW0DXM6	We conducted an introduction of the mouth and pharynx with baricitinib.
+XW0DXN9	We conducted an introduction of the mouth and pharynx with ser-109.
+XW0DXR7	We conducted an introduction of the mouth and pharynx with fostamatinib.
+XW0DXVB	We conducted an introduction of the mouth and pharynx with xanomeline and trospium chloride.
+XW0E33B	We conducted an introduction of the ear(s).
+XW0E33B	We conducted an introduction of the ear(s) with maribavir anti-infective.
+XW0G738	We conducted an introduction of the upper gi.
+XW0G738	We conducted an introduction of the upper gi with maribavir anti-infective.
+XW0G7K8	We conducted an introduction of the upper gi with three balloons paclitaxel-coated balloon technology.
+XW0G7M6	We conducted an introduction of the upper gi with baricitinib.
+XW0G7R7	We conducted an introduction of the upper gi with fostamatinib.
+XW0G886	We conducted an introduction of the upper gi with a mineral-based topical hemostatic agent.
+XW0H738	We conducted an introduction of the lower gi.
+XW0H738	We conducted an introduction of the lower gi with maribavir anti-infective.
+XW0H7K8	We conducted an introduction of the lower gi with three balloons paclitaxel-coated balloon technology.
+XW0H7M6	We conducted an introduction of the lower gi with baricitinib.
+XW0H7R7	We conducted an introduction of the lower gi with fostamatinib.
+XW0H7X8	We conducted an introduction of the lower gi with peptide enhanced bone void filler.
+XW0H886	We conducted an introduction of the lower gi with a mineral-based topical hemostatic agent.
+XW0J3HA	We conducted an introduction of the single coronary artery.
+XW0J3HA	We conducted an introduction of the single coronary artery with one balloon paclitaxel-coated balloon technology.
+XW0J3JA	We conducted an introduction of the single coronary artery with two balloons paclitaxel-coated balloon technology.
+XW0J3KA	We conducted an introduction of the single coronary artery with three balloons paclitaxel-coated balloon technology.
+XW0K3HA	We conducted an introduction of two coronary arteries.
+XW0K3HA	We conducted an introduction of two coronary arteries with one balloon paclitaxel-coated balloon technology.
+XW0K3JA	We conducted an introduction of two coronary arteries with two balloons paclitaxel-coated balloon technology.
+XW0K3KA	We conducted an introduction of two coronary arteries with three balloons paclitaxel-coated balloon technology.
+XW0M3HA	We conducted an introduction of four or more coronary arteries.
+XW0M3HA	We conducted an introduction of four or more coronary arteries with one balloon paclitaxel-coated balloon technology.
+XW0M3JA	We conducted an introduction of four or more coronary arteries with two balloons paclitaxel-coated balloon technology.
+XW0M3KA	We conducted an introduction of four or more coronary arteries with three balloons paclitaxel-coated balloon technology.
+XW0Q316	We conducted an introduction of the cranial cavity and brain.
+XW0Q316	We conducted an introduction of the cranial cavity and brain with an eladocagene exuparvovec.
+XW0U0GA	We conducted an introduction of the joints.
+XW0U0GA	We conducted an introduction of the joints with temporary irrigation spacer system vancomycin hydrochloride and tobramycin sulfate anti-infective.
+XW0U0XB	We conducted an introduction of the joints with peptide enhanced bone void filler.
+XW0V0P7	We conducted an introduction of the bones.
+XW0V0P7	We conducted an introduction of the bones with antibiotic-eluting bone void filler.
+XW0V3WA	We conducted an introduction of the bones with agn1 bone void filler.
+XW1	We conducted a transfusion of the anatomical regions.
+XW13325	We conducted a transfusion of the peripheral vein.
+XW13325	We conducted a transfusion with convalescent (nonautologous) plasma.
+XW1337A	We conducted a transfusion with marnetegragene autotemcel.
+XW133B8	We conducted a transfusion with betibeglogene autotemcel.
+XW133C8	We conducted a transfusion with omidubicel.
+XW133D7	We conducted a transfusion with a high-dose intravenous immune globulin.
+XW133E7	We conducted a transfusion with a hyperimmune globulin.
+XW133F8	We conducted a transfusion with otl-103.
+XW133G8	We conducted a transfusion with atidarsagene autotemcel.
+XW133H9	We conducted a transfusion with lovotibeglogene autotemcel.
+XW133J8	We conducted a transfusion with exagamglogene autotemcel.
+XW133SB	We conducted a transfusion with mozafancogene autotemcel.
+XW133YB	We conducted a transfusion with shelf-stable nonautologous (human) fibrinogen concentrate.
+XW14325	We conducted a transfusion of the central vein.
+XWH	We conducted an insertion of the anatomical regions.
+XWHD7Q7	We conducted an insertion of the mouth and pharynx.
+XWHD7Q7	We conducted an insertion of the mouth and pharynx with a neurostimulator lead.
+XX2	We conducted monitoring of the physiological systems.
+XX20X89	We conducted monitoring of the central nervous system.
+XX20X89	We conducted monitoring of the central nervous system with computer-aided detection and notification brain electrical activity.
+XX25X0A	We conducted monitoring of the circulatory system.
+XX25X0A	We conducted monitoring of the circulatory system with adhesive ultrasound patch technology blood flow.
+XX2KXDB	We conducted monitoring of the subcutaneous tissue.
+XX2KXDB	We conducted monitoring of the subcutaneous tissue with a wearable sensor interstitial glucose.
+XX2KXP9	We conducted monitoring of the subcutaneous tissue with sub-epidermal moisture using electrical biocapacitance interstitial fluid volume.
+XXA	We conducted assistance of the physiological systems.
+XXA536A	We conducted assistance of the circulatory system.
+XXA536A	We conducted assistance of the circulatory system with blood pathogens filtration.
+XXA539B	We conducted assistance of the circulatory system with ticagrelor filtration.
+XXE	We conducted a measurement of the physiological systems.
+XXE0X07	We conducted a measurement of the central nervous system.
+XXE0X07	We conducted a measurement of the central nervous system with computer-aided assessment intracranial vascular activity.
+XXE0X1A	We conducted a measurement of the central nervous system with computer-aided assessment output.
+XXE0X48	We conducted a measurement of the central nervous system with a positive blood culture small molecule sensor array technology infection.
+XXE2X19	We conducted a measurement of the cardiac system.
+XXE2X19	We conducted a measurement of the cardiac system with computer-aided assessment output.
+XXE3X27	We conducted a measurement of the arterial system.
+XXE3X27	We conducted a measurement of the arterial system with a phenotypic fully automated rapid susceptibility technology with controlled inoculum infection.
+XXE3X58	We conducted a measurement of the arterial system with a whole blood cellular assessment via microfluidic deformability immune response.
+XXE3X68	We conducted a measurement of the arterial system with computer-aided valve modeling and notification coronary artery flow.
+XXE5X2A	We conducted a measurement of the circulatory system.
+XXE5X2A	We conducted a measurement of the circulatory system with a phenotypic fully automated rapid susceptibility technology with controlled inoculum infection.
+XXE5X38	We conducted a measurement of the circulatory system with a whole blood reverse transcription and quantitative real-time polymerase chain reaction infection.
+XXE5X4A	We conducted a measurement of the circulatory system with a positive blood culture small molecule sensor array technology infection.
+XXE5X5A	We conducted a measurement of the circulatory system with a whole blood cellular assessment via microfluidic deformability immune response.
+XXE5XBB	We conducted a measurement of the circulatory system with a gene expression testing system infection and immune response.
+XXE5XR7	We conducted a measurement of the circulatory system with a mechanical initial specimen diversion technique using active negative pressure infection.
+XXE5XT7	We conducted a measurement of the circulatory system with whole blood mrna intracranial arterial flow.
+XXE5XV7	We conducted a measurement of the circulatory system with a serum/plasma nanoparticle fluorescence sars-cov-2 antibody detection infection.
+XXE5XY9	We conducted a measurement of the circulatory system with another positive blood/isolated colonies bimodal phenotypic susceptibility technology infection.
+XXE97U7	We conducted a measurement of the nose.
+XXE97U7	We conducted a measurement of the nose with a nasopharyngeal fluid sars-cov-2 polymerase chain reaction infection.
+XY0	We conducted an introduction of the extracorporeal circuit.
+XY0VX83	We conducted an introduction of the vein graft.
+XY0VX83	We conducted an introduction of the vein graft with an endothelial damage inhibitor.
+XY0YX28	We conducted an introduction of the extracorporeal circuit with a taurolidine anti-infective and heparin anticoagulant.
+XY0YX37	We conducted an introduction of the extracorporeal circuit with a nafamostat anticoagulant.

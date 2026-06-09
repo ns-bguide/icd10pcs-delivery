@@ -1,0 +1,1223 @@
+B00	Plain radiography of the central nervous system.
+B00B0ZZ	Plain radiography of the spinal cord.
+B01	Fluoroscopy of the central nervous system.
+B01B0ZZ	Fluoroscopy of the spinal cord.
+B02	Computerized tomography (ct scan) of the central nervous system.
+B02000Z	Computerized tomography (ct scan) of the brain.
+B02000Z	Computerized tomography (ct scan) of the brain with and without contrast.
+B02700Z	Computerized tomography (ct scan) of the cisterna.
+B02700Z	Computerized tomography (ct scan) of the cisterna with and without contrast.
+B02800Z	Computerized tomography (ct scan) of the cerebral ventricle(s).
+B02800Z	Computerized tomography (ct scan) of the cerebral ventricle(s) with and without contrast.
+B02900Z	Computerized tomography (ct scan) of the sella turcica/pituitary gland.
+B02900Z	Computerized tomography (ct scan) of the sella turcica/pituitary gland with and without contrast.
+B02B00Z	Computerized tomography (ct scan) of the spinal cord.
+B02B00Z	Computerized tomography (ct scan) of the spinal cord with and without contrast.
+B03	Magnetic resonance imaging (mri) of the central nervous system.
+B030Y0Z	Magnetic resonance imaging (mri) of the brain.
+B030Y0Z	Magnetic resonance imaging (mri) of the brain with and without contrast.
+B039Y0Z	Magnetic resonance imaging (mri) of the sella turcica/pituitary gland.
+B039Y0Z	Magnetic resonance imaging (mri) of the sella turcica/pituitary gland with and without contrast.
+B03BY0Z	Magnetic resonance imaging (mri) of the spinal cord.
+B03BY0Z	Magnetic resonance imaging (mri) of the spinal cord with and without contrast.
+B03CY0Z	Magnetic resonance imaging (mri) of the acoustic nerves.
+B03CY0Z	Magnetic resonance imaging (mri) of the acoustic nerves with and without contrast.
+B04	Ultrasonography of the central nervous system.
+B040ZZZ	Ultrasonography of the brain.
+B04BZZZ	Ultrasonography of the spinal cord.
+B20	Plain radiography of the heart.
+B2000ZZ	Plain radiography of the single coronary artery.
+B2010ZZ	Plain radiography of multiple coronary arteries.
+B2020ZZ	Plain radiography of the single coronary artery bypass graft.
+B2030ZZ	Plain radiography of multiple coronary artery bypass grafts.
+B2040ZZ	Plain radiography of the right heart.
+B2050ZZ	Plain radiography of the left heart.
+B2060ZZ	Plain radiography of the right and left heart.
+B2070ZZ	Plain radiography of the right internal mammary bypass graft.
+B2080ZZ	Plain radiography of the left internal mammary bypass graft.
+B20F0ZZ	Plain radiography of the other bypass graft.
+B21	Fluoroscopy of the heart.
+B210010	Fluoroscopy of the single coronary artery.
+B210010	Fluoroscopy of the single coronary artery using laser.
+B211010	Fluoroscopy of multiple coronary arteries.
+B211010	Fluoroscopy of multiple coronary arteries using laser.
+B212010	Fluoroscopy of the single coronary artery bypass graft.
+B212010	Fluoroscopy of the single coronary artery bypass graft using laser.
+B213010	Fluoroscopy of multiple coronary artery bypass grafts.
+B213010	Fluoroscopy of multiple coronary artery bypass grafts using laser.
+B2140ZZ	Fluoroscopy of the right heart.
+B2150ZZ	Fluoroscopy of the left heart.
+B2160ZZ	Fluoroscopy of the right and left heart.
+B2170ZZ	Fluoroscopy of the right internal mammary bypass graft.
+B2180ZZ	Fluoroscopy of the left internal mammary bypass graft.
+B21F0ZZ	Fluoroscopy of the other bypass graft.
+B22	Computerized tomography (ct scan) of the heart.
+B22100Z	Computerized tomography (ct scan) of multiple coronary arteries.
+B22100Z	Computerized tomography (ct scan) of multiple coronary arteries with and without contrast.
+B221Z2Z	Computerized tomography (ct scan) of multiple coronary arteries using intravascular optical coherence.
+B22300Z	Computerized tomography (ct scan) of multiple coronary artery bypass grafts.
+B22300Z	Computerized tomography (ct scan) of multiple coronary artery bypass grafts with and without contrast.
+B223Z2Z	Computerized tomography (ct scan) of multiple coronary artery bypass grafts using intravascular optical coherence.
+B22600Z	Computerized tomography (ct scan) of the right and left heart.
+B22600Z	Computerized tomography (ct scan) of the right and left heart with and without contrast.
+B226Z2Z	Computerized tomography (ct scan) of the right and left heart using intravascular optical coherence.
+B23	Magnetic resonance imaging (mri) of the heart.
+B231Y0Z	Magnetic resonance imaging (mri) of multiple coronary arteries.
+B231Y0Z	Magnetic resonance imaging (mri) of multiple coronary arteries with and without contrast.
+B233Y0Z	Magnetic resonance imaging (mri) of multiple coronary artery bypass grafts.
+B233Y0Z	Magnetic resonance imaging (mri) of multiple coronary artery bypass grafts with and without contrast.
+B236Y0Z	Magnetic resonance imaging (mri) of the right and left heart.
+B236Y0Z	Magnetic resonance imaging (mri) of the right and left heart with and without contrast.
+B24	Ultrasonography of the heart.
+B240YZZ	Ultrasonography of the single coronary artery.
+B241YZZ	Ultrasonography of multiple coronary arteries.
+B244YZZ	Ultrasonography of the right heart.
+B245YZZ	Ultrasonography of the left heart.
+B246YZZ	Ultrasonography of the right and left heart.
+B24BYZZ	Ultrasonography of the heart with aorta.
+B24CYZZ	Ultrasonography of the pericardium.
+B24DYZZ	Ultrasonography of the pediatric heart.
+B30	Plain radiography of the upper arteries.
+B3000ZZ	Plain radiography of the thoracic region aorta.
+B3010ZZ	Plain radiography of the right brachiocephalic-subclavian artery.
+B3020ZZ	Plain radiography of the left subclavian artery.
+B3030ZZ	Plain radiography of the right common carotid artery.
+B3040ZZ	Plain radiography of the left common carotid artery.
+B3050ZZ	Plain radiography of the bilateral common carotid arteries.
+B3060ZZ	Plain radiography of the right internal carotid artery.
+B3070ZZ	Plain radiography of the left internal carotid artery.
+B3080ZZ	Plain radiography of the bilateral internal carotid arteries.
+B3090ZZ	Plain radiography of the right external carotid artery.
+B30B0ZZ	Plain radiography of the left external carotid artery.
+B30C0ZZ	Plain radiography of the bilateral external carotid arteries.
+B30D0ZZ	Plain radiography of the right vertebral artery.
+B30F0ZZ	Plain radiography of the left vertebral artery.
+B30G0ZZ	Plain radiography of the bilateral vertebral arteries.
+B30H0ZZ	Plain radiography of the right upper extremity arteries.
+B30J0ZZ	Plain radiography of the left upper extremity arteries.
+B30K0ZZ	Plain radiography of the bilateral upper extremity arteries.
+B30M0ZZ	Plain radiography of the spinal arteries.
+B30N0ZZ	Plain radiography of the other upper arteries.
+B30P0ZZ	Plain radiography of the thoraco-abdominal aorta.
+B30Q0ZZ	Plain radiography of the cervico-cerebral arch.
+B30R0ZZ	Plain radiography of the intracranial arteries.
+B30S0ZZ	Plain radiography of the right pulmonary artery.
+B30T0ZZ	Plain radiography of the left pulmonary artery.
+B31	Fluoroscopy of the upper arteries.
+B310010	Fluoroscopy of the thoracic region aorta.
+B310010	Fluoroscopy of the thoracic region aorta using laser.
+B311010	Fluoroscopy of the right brachiocephalic-subclavian artery.
+B311010	Fluoroscopy of the right brachiocephalic-subclavian artery using laser.
+B312010	Fluoroscopy of the left subclavian artery.
+B312010	Fluoroscopy of the left subclavian artery using laser.
+B313010	Fluoroscopy of the right common carotid artery.
+B313010	Fluoroscopy of the right common carotid artery using laser.
+B314010	Fluoroscopy of the left common carotid artery.
+B314010	Fluoroscopy of the left common carotid artery using laser.
+B315010	Fluoroscopy of the bilateral common carotid arteries.
+B315010	Fluoroscopy of the bilateral common carotid arteries using laser.
+B316010	Fluoroscopy of the right internal carotid artery.
+B316010	Fluoroscopy of the right internal carotid artery using laser.
+B317010	Fluoroscopy of the left internal carotid artery.
+B317010	Fluoroscopy of the left internal carotid artery using laser.
+B318010	Fluoroscopy of the bilateral internal carotid arteries.
+B318010	Fluoroscopy of the bilateral internal carotid arteries using laser.
+B319010	Fluoroscopy of the right external carotid artery.
+B319010	Fluoroscopy of the right external carotid artery using laser.
+B31B010	Fluoroscopy of the left external carotid artery.
+B31B010	Fluoroscopy of the left external carotid artery using laser.
+B31C010	Fluoroscopy of the bilateral external carotid arteries.
+B31C010	Fluoroscopy of the bilateral external carotid arteries using laser.
+B31D010	Fluoroscopy of the right vertebral artery.
+B31D010	Fluoroscopy of the right vertebral artery using laser.
+B31F010	Fluoroscopy of the left vertebral artery.
+B31F010	Fluoroscopy of the left vertebral artery using laser.
+B31G010	Fluoroscopy of the bilateral vertebral arteries.
+B31G010	Fluoroscopy of the bilateral vertebral arteries using laser.
+B31H010	Fluoroscopy of the right upper extremity arteries.
+B31H010	Fluoroscopy of the right upper extremity arteries using laser.
+B31J010	Fluoroscopy of the left upper extremity arteries.
+B31J010	Fluoroscopy of the left upper extremity arteries using laser.
+B31K010	Fluoroscopy of the bilateral upper extremity arteries.
+B31K010	Fluoroscopy of the bilateral upper extremity arteries using laser.
+B31M010	Fluoroscopy of the spinal arteries.
+B31M010	Fluoroscopy of the spinal arteries using laser.
+B31N010	Fluoroscopy of the other upper arteries.
+B31N010	Fluoroscopy of the other upper arteries using laser.
+B31P010	Fluoroscopy of the thoraco-abdominal aorta.
+B31P010	Fluoroscopy of the thoraco-abdominal aorta using laser.
+B31Q010	Fluoroscopy of the cervico-cerebral arch.
+B31Q010	Fluoroscopy of the cervico-cerebral arch using laser.
+B31R010	Fluoroscopy of the intracranial arteries.
+B31R010	Fluoroscopy of the intracranial arteries using laser.
+B31S010	Fluoroscopy of the right pulmonary artery.
+B31S010	Fluoroscopy of the right pulmonary artery using laser.
+B31T010	Fluoroscopy of the left pulmonary artery.
+B31T010	Fluoroscopy of the left pulmonary artery using laser.
+B31U010	Fluoroscopy of the pulmonary trunk.
+B31U010	Fluoroscopy of the pulmonary trunk using laser.
+B32	Computerized tomography (ct scan) of the upper arteries.
+B3200ZZ	Computerized tomography (ct scan) of the thoracic region aorta.
+B320Z2Z	Computerized tomography (ct scan) of the thoracic region aorta using intravascular optical coherence.
+B3250ZZ	Computerized tomography (ct scan) of the bilateral common carotid arteries.
+B325Z2Z	Computerized tomography (ct scan) of the bilateral common carotid arteries using intravascular optical coherence.
+B3280ZZ	Computerized tomography (ct scan) of the bilateral internal carotid arteries.
+B328Z2Z	Computerized tomography (ct scan) of the bilateral internal carotid arteries using intravascular optical coherence.
+B32G0ZZ	Computerized tomography (ct scan) of the bilateral vertebral arteries.
+B32GZ2Z	Computerized tomography (ct scan) of the bilateral vertebral arteries using intravascular optical coherence.
+B32R0ZZ	Computerized tomography (ct scan) of the intracranial arteries.
+B32RZ2Z	Computerized tomography (ct scan) of the intracranial arteries using intravascular optical coherence.
+B32S0ZZ	Computerized tomography (ct scan) of the right pulmonary artery.
+B32SZ2Z	Computerized tomography (ct scan) of the right pulmonary artery using intravascular optical coherence.
+B32T0ZZ	Computerized tomography (ct scan) of the left pulmonary artery.
+B32TZ2Z	Computerized tomography (ct scan) of the left pulmonary artery using intravascular optical coherence.
+B33	Magnetic resonance imaging (mri) of the upper arteries.
+B330Y0Z	Magnetic resonance imaging (mri) of the thoracic region aorta.
+B330Y0Z	Magnetic resonance imaging (mri) of the thoracic region aorta with and without contrast.
+B335Y0Z	Magnetic resonance imaging (mri) of the bilateral common carotid arteries.
+B335Y0Z	Magnetic resonance imaging (mri) of the bilateral common carotid arteries with and without contrast.
+B338Y0Z	Magnetic resonance imaging (mri) of the bilateral internal carotid arteries.
+B338Y0Z	Magnetic resonance imaging (mri) of the bilateral internal carotid arteries with and without contrast.
+B33GY0Z	Magnetic resonance imaging (mri) of the bilateral vertebral arteries.
+B33GY0Z	Magnetic resonance imaging (mri) of the bilateral vertebral arteries with and without contrast.
+B33HY0Z	Magnetic resonance imaging (mri) of the right upper extremity arteries.
+B33HY0Z	Magnetic resonance imaging (mri) of the right upper extremity arteries with and without contrast.
+B33JY0Z	Magnetic resonance imaging (mri) of the left upper extremity arteries.
+B33JY0Z	Magnetic resonance imaging (mri) of the left upper extremity arteries with and without contrast.
+B33KY0Z	Magnetic resonance imaging (mri) of the bilateral upper extremity arteries.
+B33KY0Z	Magnetic resonance imaging (mri) of the bilateral upper extremity arteries with and without contrast.
+B33MY0Z	Magnetic resonance imaging (mri) of the spinal arteries.
+B33MY0Z	Magnetic resonance imaging (mri) of the spinal arteries with and without contrast.
+B33QY0Z	Magnetic resonance imaging (mri) of the cervico-cerebral arch.
+B33QY0Z	Magnetic resonance imaging (mri) of the cervico-cerebral arch with and without contrast.
+B33RY0Z	Magnetic resonance imaging (mri) of the intracranial arteries.
+B33RY0Z	Magnetic resonance imaging (mri) of the intracranial arteries with and without contrast.
+B34	Ultrasonography of the upper arteries.
+B340ZZ3	Ultrasonography of the thoracic region aorta.
+B341ZZ3	Ultrasonography of the right brachiocephalic-subclavian artery.
+B342ZZ3	Ultrasonography of the left subclavian artery.
+B343ZZ3	Ultrasonography of the right common carotid artery.
+B344ZZ3	Ultrasonography of the left common carotid artery.
+B345ZZ3	Ultrasonography of the bilateral common carotid arteries.
+B346ZZ3	Ultrasonography of the right internal carotid artery.
+B347ZZ3	Ultrasonography of the left internal carotid artery.
+B348ZZ3	Ultrasonography of the bilateral internal carotid arteries.
+B34HZZ3	Ultrasonography of the right upper extremity arteries.
+B34JZZ3	Ultrasonography of the left upper extremity arteries.
+B34KZZ3	Ultrasonography of the bilateral upper extremity arteries.
+B34RZZ3	Ultrasonography of the intracranial arteries.
+B34SZZ3	Ultrasonography of the right pulmonary artery.
+B34TZZ3	Ultrasonography of the left pulmonary artery.
+B34VZZ3	Ultrasonography of the ophthalmic arteries.
+B40	Plain radiography of the lower arteries.
+B4000ZZ	Plain radiography of the abdominal aorta.
+B4020ZZ	Plain radiography of the hepatic artery.
+B4030ZZ	Plain radiography of the splenic arteries.
+B4040ZZ	Plain radiography of the superior mesenteric artery.
+B4050ZZ	Plain radiography of the inferior mesenteric artery.
+B4060ZZ	Plain radiography of the right renal artery.
+B4070ZZ	Plain radiography of the left renal artery.
+B4080ZZ	Plain radiography of the bilateral renal arteries.
+B4090ZZ	Plain radiography of the lumbar region arteries.
+B40B0ZZ	Plain radiography of the other intra-abdominal arteries.
+B40C0ZZ	Plain radiography of the pelvic region arteries.
+B40D0ZZ	Plain radiography of the aorta and bilateral lower extremity arteries.
+B40F0ZZ	Plain radiography of the right lower extremity arteries.
+B40G0ZZ	Plain radiography of the left lower extremity arteries.
+B40J0ZZ	Plain radiography of the other lower arteries.
+B40M0ZZ	Plain radiography of the renal artery transplant.
+B41	Fluoroscopy of the lower arteries.
+B410010	Fluoroscopy of the abdominal aorta.
+B410010	Fluoroscopy of the abdominal aorta using laser.
+B412010	Fluoroscopy of the hepatic artery.
+B412010	Fluoroscopy of the hepatic artery using laser.
+B413010	Fluoroscopy of the splenic arteries.
+B413010	Fluoroscopy of the splenic arteries using laser.
+B414010	Fluoroscopy of the superior mesenteric artery.
+B414010	Fluoroscopy of the superior mesenteric artery using laser.
+B415010	Fluoroscopy of the inferior mesenteric artery.
+B415010	Fluoroscopy of the inferior mesenteric artery using laser.
+B416010	Fluoroscopy of the right renal artery.
+B416010	Fluoroscopy of the right renal artery using laser.
+B417010	Fluoroscopy of the left renal artery.
+B417010	Fluoroscopy of the left renal artery using laser.
+B418010	Fluoroscopy of the bilateral renal arteries.
+B418010	Fluoroscopy of the bilateral renal arteries using laser.
+B419010	Fluoroscopy of the lumbar region arteries.
+B419010	Fluoroscopy of the lumbar region arteries using laser.
+B41B010	Fluoroscopy of the other intra-abdominal arteries.
+B41B010	Fluoroscopy of the other intra-abdominal arteries using laser.
+B41C010	Fluoroscopy of the pelvic region arteries.
+B41C010	Fluoroscopy of the pelvic region arteries using laser.
+B41D010	Fluoroscopy of the aorta and bilateral lower extremity arteries.
+B41D010	Fluoroscopy of the aorta and bilateral lower extremity arteries using laser.
+B41F010	Fluoroscopy of the right lower extremity arteries.
+B41F010	Fluoroscopy of the right lower extremity arteries using laser.
+B41G010	Fluoroscopy of the left lower extremity arteries.
+B41G010	Fluoroscopy of the left lower extremity arteries using laser.
+B41J010	Fluoroscopy of the other lower arteries.
+B41J010	Fluoroscopy of the other lower arteries using laser.
+B42	Computerized tomography (ct scan) of the lower arteries.
+B4200ZZ	Computerized tomography (ct scan) of the abdominal aorta.
+B420Z2Z	Computerized tomography (ct scan) of the abdominal aorta using intravascular optical coherence.
+B4210ZZ	Computerized tomography (ct scan) of the celiac artery.
+B421Z2Z	Computerized tomography (ct scan) of the celiac artery using intravascular optical coherence.
+B4240ZZ	Computerized tomography (ct scan) of the superior mesenteric artery.
+B424Z2Z	Computerized tomography (ct scan) of the superior mesenteric artery using intravascular optical coherence.
+B4280ZZ	Computerized tomography (ct scan) of the bilateral renal arteries.
+B428Z2Z	Computerized tomography (ct scan) of the bilateral renal arteries using intravascular optical coherence.
+B42C0ZZ	Computerized tomography (ct scan) of the pelvic region arteries.
+B42CZ2Z	Computerized tomography (ct scan) of the pelvic region arteries using intravascular optical coherence.
+B42F0ZZ	Computerized tomography (ct scan) of the right lower extremity arteries.
+B42FZ2Z	Computerized tomography (ct scan) of the right lower extremity arteries using intravascular optical coherence.
+B42G0ZZ	Computerized tomography (ct scan) of the left lower extremity arteries.
+B42GZ2Z	Computerized tomography (ct scan) of the left lower extremity arteries using intravascular optical coherence.
+B42H0ZZ	Computerized tomography (ct scan) of the bilateral lower extremity arteries.
+B42HZ2Z	Computerized tomography (ct scan) of the bilateral lower extremity arteries using intravascular optical coherence.
+B42M0ZZ	Computerized tomography (ct scan) of the renal artery transplant.
+B42MZ2Z	Computerized tomography (ct scan) of the renal artery transplant using intravascular optical coherence.
+B43	Magnetic resonance imaging (mri) of the lower arteries.
+B430Y0Z	Magnetic resonance imaging (mri) of the abdominal aorta.
+B430Y0Z	Magnetic resonance imaging (mri) of the abdominal aorta with and without contrast.
+B431Y0Z	Magnetic resonance imaging (mri) of the celiac artery.
+B431Y0Z	Magnetic resonance imaging (mri) of the celiac artery with and without contrast.
+B434Y0Z	Magnetic resonance imaging (mri) of the superior mesenteric artery.
+B434Y0Z	Magnetic resonance imaging (mri) of the superior mesenteric artery with and without contrast.
+B438Y0Z	Magnetic resonance imaging (mri) of the bilateral renal arteries.
+B438Y0Z	Magnetic resonance imaging (mri) of the bilateral renal arteries with and without contrast.
+B43CY0Z	Magnetic resonance imaging (mri) of the pelvic region arteries.
+B43CY0Z	Magnetic resonance imaging (mri) of the pelvic region arteries with and without contrast.
+B43FY0Z	Magnetic resonance imaging (mri) of the right lower extremity arteries.
+B43FY0Z	Magnetic resonance imaging (mri) of the right lower extremity arteries with and without contrast.
+B43GY0Z	Magnetic resonance imaging (mri) of the left lower extremity arteries.
+B43GY0Z	Magnetic resonance imaging (mri) of the left lower extremity arteries with and without contrast.
+B43HY0Z	Magnetic resonance imaging (mri) of the bilateral lower extremity arteries.
+B43HY0Z	Magnetic resonance imaging (mri) of the bilateral lower extremity arteries with and without contrast.
+B44	Ultrasonography of the lower arteries.
+B440ZZ3	Ultrasonography of the abdominal aorta.
+B444ZZ3	Ultrasonography of the superior mesenteric artery.
+B445ZZ3	Ultrasonography of the inferior mesenteric artery.
+B446ZZ3	Ultrasonography of the right renal artery.
+B447ZZ3	Ultrasonography of the left renal artery.
+B448ZZ3	Ultrasonography of the bilateral renal arteries.
+B44BZZ3	Ultrasonography of the other intra-abdominal arteries.
+B44FZZ3	Ultrasonography of the right lower extremity arteries.
+B44GZZ3	Ultrasonography of the left lower extremity arteries.
+B44HZZ3	Ultrasonography of the bilateral lower extremity arteries.
+B44KZZ3	Ultrasonography of the celiac and mesenteric arteries.
+B44NZZ3	Ultrasonography of the penile arteries.
+B50	Plain radiography of the veins.
+B5000ZZ	Plain radiography of the epidural veins.
+B5010ZZ	Plain radiography of the cerebral and cerebellar veins.
+B5020ZZ	Plain radiography of the intracranial sinuses.
+B5030ZZ	Plain radiography of the right jugular veins.
+B5040ZZ	Plain radiography of the left jugular veins.
+B5050ZZ	Plain radiography of the bilateral jugular veins.
+B5060ZZ	Plain radiography of the right subclavian vein.
+B5070ZZ	Plain radiography of the left subclavian vein.
+B5080ZZ	Plain radiography of the superior vena cava.
+B5090ZZ	Plain radiography of the inferior vena cava.
+B50B0ZZ	Plain radiography of the right lower extremity veins.
+B50C0ZZ	Plain radiography of the left lower extremity veins.
+B50D0ZZ	Plain radiography of the bilateral lower extremity veins.
+B50F0ZZ	Plain radiography of the right pelvic region (iliac) veins.
+B50G0ZZ	Plain radiography of the left pelvic region (iliac) veins.
+B50H0ZZ	Plain radiography of the bilateral pelvic region (iliac) veins.
+B50J0ZZ	Plain radiography of the right renal vein.
+B50K0ZZ	Plain radiography of the left renal vein.
+B50M0ZZ	Plain radiography of the right upper extremity veins.
+B50N0ZZ	Plain radiography of the left upper extremity veins.
+B50P0ZZ	Plain radiography of the bilateral upper extremity veins.
+B50Q0ZZ	Plain radiography of the right pulmonary vein.
+B50R0ZZ	Plain radiography of the left pulmonary vein.
+B50S0ZZ	Plain radiography of the bilateral pulmonary veins.
+B50T0ZZ	Plain radiography of the portal and splanchnic veins.
+B50V0ZZ	Plain radiography of the other veins.
+B50W0ZZ	Plain radiography of the dialysis shunt/fistula.
+B51	Fluoroscopy of the veins.
+B5100ZA	Fluoroscopy of the epidural veins.
+B5110ZA	Fluoroscopy of the cerebral and cerebellar veins.
+B5120ZA	Fluoroscopy of the intracranial sinuses.
+B5130ZA	Fluoroscopy of the right jugular veins.
+B5140ZA	Fluoroscopy of the left jugular veins.
+B5150ZA	Fluoroscopy of the bilateral jugular veins.
+B5160ZA	Fluoroscopy of the right subclavian vein.
+B5170ZA	Fluoroscopy of the left subclavian vein.
+B5180ZA	Fluoroscopy of the superior vena cava.
+B5190ZA	Fluoroscopy of the inferior vena cava.
+B51B0ZA	Fluoroscopy of the right lower extremity veins.
+B51C0ZA	Fluoroscopy of the left lower extremity veins.
+B51D0ZA	Fluoroscopy of the bilateral lower extremity veins.
+B51F0ZA	Fluoroscopy of the right pelvic region (iliac) veins.
+B51G0ZA	Fluoroscopy of the left pelvic region (iliac) veins.
+B51H0ZA	Fluoroscopy of the bilateral pelvic region (iliac) veins.
+B51J0ZA	Fluoroscopy of the right renal vein.
+B51K0ZA	Fluoroscopy of the left renal vein.
+B51M0ZA	Fluoroscopy of the right upper extremity veins.
+B51N0ZA	Fluoroscopy of the left upper extremity veins.
+B51P0ZA	Fluoroscopy of the bilateral upper extremity veins.
+B51Q0ZA	Fluoroscopy of the right pulmonary vein.
+B51R0ZA	Fluoroscopy of the left pulmonary vein.
+B51S0ZA	Fluoroscopy of the bilateral pulmonary veins.
+B51T0ZA	Fluoroscopy of the portal and splanchnic veins.
+B51V0ZA	Fluoroscopy of the other veins.
+B51W0ZA	Fluoroscopy of the dialysis shunt/fistula.
+B52	Computerized tomography (ct scan) of the veins.
+B52200Z	Computerized tomography (ct scan) of the intracranial sinuses.
+B52200Z	Computerized tomography (ct scan) of the intracranial sinuses with and without contrast.
+B522Z2Z	Computerized tomography (ct scan) of the intracranial sinuses using intravascular optical coherence.
+B52800Z	Computerized tomography (ct scan) of the superior vena cava.
+B52800Z	Computerized tomography (ct scan) of the superior vena cava with and without contrast.
+B528Z2Z	Computerized tomography (ct scan) of the superior vena cava using intravascular optical coherence.
+B52900Z	Computerized tomography (ct scan) of the inferior vena cava.
+B52900Z	Computerized tomography (ct scan) of the inferior vena cava with and without contrast.
+B529Z2Z	Computerized tomography (ct scan) of the inferior vena cava using intravascular optical coherence.
+B52F00Z	Computerized tomography (ct scan) of the right pelvic region (iliac) veins.
+B52F00Z	Computerized tomography (ct scan) of the right pelvic region (iliac) veins with and without contrast.
+B52FZ2Z	Computerized tomography (ct scan) of the right pelvic region (iliac) veins using intravascular optical coherence.
+B52G00Z	Computerized tomography (ct scan) of the left pelvic region (iliac) veins.
+B52G00Z	Computerized tomography (ct scan) of the left pelvic region (iliac) veins with and without contrast.
+B52GZ2Z	Computerized tomography (ct scan) of the left pelvic region (iliac) veins using intravascular optical coherence.
+B52H00Z	Computerized tomography (ct scan) of the bilateral pelvic region (iliac) veins.
+B52H00Z	Computerized tomography (ct scan) of the bilateral pelvic region (iliac) veins with and without contrast.
+B52HZ2Z	Computerized tomography (ct scan) of the bilateral pelvic region (iliac) veins using intravascular optical coherence.
+B52J00Z	Computerized tomography (ct scan) of the right renal vein.
+B52J00Z	Computerized tomography (ct scan) of the right renal vein with and without contrast.
+B52JZ2Z	Computerized tomography (ct scan) of the right renal vein using intravascular optical coherence.
+B52K00Z	Computerized tomography (ct scan) of the left renal vein.
+B52K00Z	Computerized tomography (ct scan) of the left renal vein with and without contrast.
+B52KZ2Z	Computerized tomography (ct scan) of the left renal vein using intravascular optical coherence.
+B52Q00Z	Computerized tomography (ct scan) of the right pulmonary vein.
+B52Q00Z	Computerized tomography (ct scan) of the right pulmonary vein with and without contrast.
+B52QZ2Z	Computerized tomography (ct scan) of the right pulmonary vein using intravascular optical coherence.
+B52R00Z	Computerized tomography (ct scan) of the left pulmonary vein.
+B52R00Z	Computerized tomography (ct scan) of the left pulmonary vein with and without contrast.
+B52RZ2Z	Computerized tomography (ct scan) of the left pulmonary vein using intravascular optical coherence.
+B52S00Z	Computerized tomography (ct scan) of the bilateral pulmonary veins.
+B52S00Z	Computerized tomography (ct scan) of the bilateral pulmonary veins with and without contrast.
+B52SZ2Z	Computerized tomography (ct scan) of the bilateral pulmonary veins using intravascular optical coherence.
+B52T00Z	Computerized tomography (ct scan) of the portal and splanchnic veins.
+B52T00Z	Computerized tomography (ct scan) of the portal and splanchnic veins with and without contrast.
+B52TZ2Z	Computerized tomography (ct scan) of the portal and splanchnic veins using intravascular optical coherence.
+B53	Magnetic resonance imaging (mri) of the veins.
+B531Y0Z	Magnetic resonance imaging (mri) of the cerebral and cerebellar veins.
+B531Y0Z	Magnetic resonance imaging (mri) of the cerebral and cerebellar veins with and without contrast.
+B532Y0Z	Magnetic resonance imaging (mri) of the intracranial sinuses.
+B532Y0Z	Magnetic resonance imaging (mri) of the intracranial sinuses with and without contrast.
+B535Y0Z	Magnetic resonance imaging (mri) of the bilateral jugular veins.
+B535Y0Z	Magnetic resonance imaging (mri) of the bilateral jugular veins with and without contrast.
+B538Y0Z	Magnetic resonance imaging (mri) of the superior vena cava.
+B538Y0Z	Magnetic resonance imaging (mri) of the superior vena cava with and without contrast.
+B539Y0Z	Magnetic resonance imaging (mri) of the inferior vena cava.
+B539Y0Z	Magnetic resonance imaging (mri) of the inferior vena cava with and without contrast.
+B53BY0Z	Magnetic resonance imaging (mri) of the right lower extremity veins.
+B53BY0Z	Magnetic resonance imaging (mri) of the right lower extremity veins with and without contrast.
+B53CY0Z	Magnetic resonance imaging (mri) of the left lower extremity veins.
+B53CY0Z	Magnetic resonance imaging (mri) of the left lower extremity veins with and without contrast.
+B53DY0Z	Magnetic resonance imaging (mri) of the bilateral lower extremity veins.
+B53DY0Z	Magnetic resonance imaging (mri) of the bilateral lower extremity veins with and without contrast.
+B53HY0Z	Magnetic resonance imaging (mri) of the bilateral pelvic region (iliac) veins.
+B53HY0Z	Magnetic resonance imaging (mri) of the bilateral pelvic region (iliac) veins with and without contrast.
+B53MY0Z	Magnetic resonance imaging (mri) of the right upper extremity veins.
+B53MY0Z	Magnetic resonance imaging (mri) of the right upper extremity veins with and without contrast.
+B53NY0Z	Magnetic resonance imaging (mri) of the left upper extremity veins.
+B53NY0Z	Magnetic resonance imaging (mri) of the left upper extremity veins with and without contrast.
+B53PY0Z	Magnetic resonance imaging (mri) of the bilateral upper extremity veins.
+B53PY0Z	Magnetic resonance imaging (mri) of the bilateral upper extremity veins with and without contrast.
+B53SY0Z	Magnetic resonance imaging (mri) of the bilateral pulmonary veins.
+B53SY0Z	Magnetic resonance imaging (mri) of the bilateral pulmonary veins with and without contrast.
+B53TY0Z	Magnetic resonance imaging (mri) of the portal and splanchnic veins.
+B53TY0Z	Magnetic resonance imaging (mri) of the portal and splanchnic veins with and without contrast.
+B53VY0Z	Magnetic resonance imaging (mri) of the other veins.
+B53VY0Z	Magnetic resonance imaging (mri) of the other veins with and without contrast.
+B54	Ultrasonography of the veins.
+B543ZZ3	Ultrasonography of the right jugular veins.
+B544ZZ3	Ultrasonography of the left jugular veins.
+B546ZZ3	Ultrasonography of the right subclavian vein.
+B547ZZ3	Ultrasonography of the left subclavian vein.
+B548ZZ3	Ultrasonography of the superior vena cava.
+B549ZZ3	Ultrasonography of the inferior vena cava.
+B54BZZ3	Ultrasonography of the right lower extremity veins.
+B54CZZ3	Ultrasonography of the left lower extremity veins.
+B54DZZ3	Ultrasonography of the bilateral lower extremity veins.
+B54JZZ3	Ultrasonography of the right renal vein.
+B54KZZ3	Ultrasonography of the left renal vein.
+B54MZZ3	Ultrasonography of the right upper extremity veins.
+B54NZZ3	Ultrasonography of the left upper extremity veins.
+B54PZZ3	Ultrasonography of the bilateral upper extremity veins.
+B54TZZ3	Ultrasonography of the portal and splanchnic veins.
+B70	Plain radiography of the lymphatic system.
+B7000ZZ	Plain radiography of the unilateral abdominal/retroperitoneal lymphatic systems.
+B7010ZZ	Plain radiography of the bilateral abdominal/retroperitoneal lymphatic systems.
+B7040ZZ	Plain radiography of the head and neck lymphatic systems.
+B7050ZZ	Plain radiography of the right upper extremity lymphatic systems.
+B7060ZZ	Plain radiography of the left upper extremity lymphatic systems.
+B7070ZZ	Plain radiography of the bilateral upper extremity lymphatic systems.
+B7080ZZ	Plain radiography of the right lower extremity lymphatic systems.
+B7090ZZ	Plain radiography of the left lower extremity lymphatic systems.
+B70B0ZZ	Plain radiography of the bilateral lower extremity lymphatic systems.
+B70C0ZZ	Plain radiography of the pelvic region lymphatic systems.
+B80	Plain radiography of the eye.
+B8000ZZ	Plain radiography of the right lacrimal duct.
+B8010ZZ	Plain radiography of the left lacrimal duct.
+B8020ZZ	Plain radiography of the bilateral lacrimal ducts.
+B803ZZZ	Plain radiography of the right optic foramina.
+B804ZZZ	Plain radiography of the left optic foramina.
+B805ZZZ	Plain radiography of the right eye.
+B806ZZZ	Plain radiography of the left eye.
+B807ZZZ	Plain radiography of the bilateral eyes.
+B82	Computerized tomography (ct scan) of the eye.
+B82500Z	Computerized tomography (ct scan) of the right eye.
+B82500Z	Computerized tomography (ct scan) of the right eye with and without contrast.
+B82600Z	Computerized tomography (ct scan) of the left eye.
+B82600Z	Computerized tomography (ct scan) of the left eye with and without contrast.
+B82700Z	Computerized tomography (ct scan) of the bilateral eyes.
+B82700Z	Computerized tomography (ct scan) of the bilateral eyes with and without contrast.
+B83	Magnetic resonance imaging (mri) of the eye.
+B835Y0Z	Magnetic resonance imaging (mri) of the right eye.
+B835Y0Z	Magnetic resonance imaging (mri) of the right eye with and without contrast.
+B836Y0Z	Magnetic resonance imaging (mri) of the left eye.
+B836Y0Z	Magnetic resonance imaging (mri) of the left eye with and without contrast.
+B837Y0Z	Magnetic resonance imaging (mri) of the bilateral eyes.
+B837Y0Z	Magnetic resonance imaging (mri) of the bilateral eyes with and without contrast.
+B84	Ultrasonography of the eye.
+B845ZZZ	Ultrasonography of the right eye.
+B846ZZZ	Ultrasonography of the left eye.
+B847ZZZ	Ultrasonography of the bilateral eyes.
+B90	Plain radiography of the ear, nose, and mouth and throat.
+B902ZZZ	Plain radiography of the paranasal sinuses.
+B9040ZZ	Plain radiography of the right parotid gland.
+B9050ZZ	Plain radiography of the left parotid gland.
+B9060ZZ	Plain radiography of the bilateral parotid glands.
+B9070ZZ	Plain radiography of the right submandibular gland.
+B9080ZZ	Plain radiography of the left submandibular gland.
+B9090ZZ	Plain radiography of the bilateral submandibular glands.
+B90B0ZZ	Plain radiography of the right salivary gland.
+B90C0ZZ	Plain radiography of the left salivary gland.
+B90D0ZZ	Plain radiography of the bilateral salivary glands.
+B90FZZZ	Plain radiography of the nasopharynx/oropharynx.
+B90HZZZ	Plain radiography of the mastoids.
+B91	Fluoroscopy of the ear, nose, and mouth and throat.
+B91GYZZ	Fluoroscopy of the pharynx and epiglottis.
+B91JYZZ	Fluoroscopy of the larynx.
+B92	Computerized tomography (ct scan) of the ear, nose, and mouth and throat.
+B92000Z	Computerized tomography (ct scan) of the ear.
+B92000Z	Computerized tomography (ct scan) of the ear with and without contrast.
+B92200Z	Computerized tomography (ct scan) of the paranasal sinuses.
+B92200Z	Computerized tomography (ct scan) of the paranasal sinuses with and without contrast.
+B92600Z	Computerized tomography (ct scan) of the bilateral parotid glands.
+B92600Z	Computerized tomography (ct scan) of the bilateral parotid glands with and without contrast.
+B92900Z	Computerized tomography (ct scan) of the bilateral submandibular glands.
+B92900Z	Computerized tomography (ct scan) of the bilateral submandibular glands with and without contrast.
+B92D00Z	Computerized tomography (ct scan) of the bilateral salivary glands.
+B92D00Z	Computerized tomography (ct scan) of the bilateral salivary glands with and without contrast.
+B92F00Z	Computerized tomography (ct scan) of the nasopharynx/oropharynx.
+B92F00Z	Computerized tomography (ct scan) of the nasopharynx/oropharynx with and without contrast.
+B92J00Z	Computerized tomography (ct scan) of the larynx.
+B92J00Z	Computerized tomography (ct scan) of the larynx with and without contrast.
+B93	Magnetic resonance imaging (mri) of the ear, nose, and mouth and throat.
+B930Y0Z	Magnetic resonance imaging (mri) of the ear.
+B930Y0Z	Magnetic resonance imaging (mri) of the ear with and without contrast.
+B932Y0Z	Magnetic resonance imaging (mri) of the paranasal sinuses.
+B932Y0Z	Magnetic resonance imaging (mri) of the paranasal sinuses with and without contrast.
+B936Y0Z	Magnetic resonance imaging (mri) of the bilateral parotid glands.
+B936Y0Z	Magnetic resonance imaging (mri) of the bilateral parotid glands with and without contrast.
+B939Y0Z	Magnetic resonance imaging (mri) of the bilateral submandibular glands.
+B939Y0Z	Magnetic resonance imaging (mri) of the bilateral submandibular glands with and without contrast.
+B93DY0Z	Magnetic resonance imaging (mri) of the bilateral salivary glands.
+B93DY0Z	Magnetic resonance imaging (mri) of the bilateral salivary glands with and without contrast.
+B93FY0Z	Magnetic resonance imaging (mri) of the nasopharynx/oropharynx.
+B93FY0Z	Magnetic resonance imaging (mri) of the nasopharynx/oropharynx with and without contrast.
+B93JY0Z	Magnetic resonance imaging (mri) of the larynx.
+B93JY0Z	Magnetic resonance imaging (mri) of the larynx with and without contrast.
+BB0	Plain radiography of the respiratory system.
+BB07YZZ	Plain radiography of the right tracheobronchial tree.
+BB08YZZ	Plain radiography of the left tracheobronchial tree.
+BB09YZZ	Plain radiography of the bilateral tracheobronchial trees.
+BB0DZZZ	Plain radiography of the upper airways.
+BB1	Fluoroscopy of the respiratory system.
+BB12ZZZ	Fluoroscopy of the right lung.
+BB13ZZZ	Fluoroscopy of the left lung.
+BB14ZZZ	Fluoroscopy of the bilateral lungs.
+BB16ZZZ	Fluoroscopy of the diaphragm.
+BB17YZZ	Fluoroscopy of the right tracheobronchial tree.
+BB18YZZ	Fluoroscopy of the left tracheobronchial tree.
+BB19YZZ	Fluoroscopy of the bilateral tracheobronchial trees.
+BB1CZZZ	Fluoroscopy of the mediastinum.
+BB1DZZZ	Fluoroscopy of the upper airways.
+BB2	Computerized tomography (ct scan) of the respiratory system.
+BB2400Z	Computerized tomography (ct scan) of the bilateral lungs.
+BB2400Z	Computerized tomography (ct scan) of the bilateral lungs with and without contrast.
+BB2700Z	Computerized tomography (ct scan) of the right tracheobronchial tree.
+BB2700Z	Computerized tomography (ct scan) of the right tracheobronchial tree with and without contrast.
+BB2800Z	Computerized tomography (ct scan) of the left tracheobronchial tree.
+BB2800Z	Computerized tomography (ct scan) of the left tracheobronchial tree with and without contrast.
+BB2900Z	Computerized tomography (ct scan) of the bilateral tracheobronchial trees.
+BB2900Z	Computerized tomography (ct scan) of the bilateral tracheobronchial trees with and without contrast.
+BB2F00Z	Computerized tomography (ct scan) of the trachea/airways.
+BB2F00Z	Computerized tomography (ct scan) of the trachea/airways with and without contrast.
+BB3	Magnetic resonance imaging (mri) of the respiratory system.
+BB34Z3Z	Magnetic resonance imaging (mri) of the bilateral lungs.
+BB34Z3Z	Magnetic resonance imaging (mri) of the bilateral lungs using hyperpolarized xenon 129 (xe-129).
+BB3GY0Z	Magnetic resonance imaging (mri) of the lung apices.
+BB3GY0Z	Magnetic resonance imaging (mri) of the lung apices with and without contrast.
+BB4	Ultrasonography of the respiratory system.
+BB4BZZZ	Ultrasonography of the pleura.
+BB4CZZZ	Ultrasonography of the mediastinum.
+BD1	Fluoroscopy of the gastrointestinal system.
+BD11YZZ	Fluoroscopy of the esophagus.
+BD12YZZ	Fluoroscopy of the stomach.
+BD13YZZ	Fluoroscopy of the small bowel.
+BD14YZZ	Fluoroscopy of the colon.
+BD15YZZ	Fluoroscopy of the upper gi.
+BD16YZZ	Fluoroscopy of the upper gi and small bowel.
+BD19YZZ	Fluoroscopy of the duodenum.
+BD1BYZZ	Fluoroscopy of the mouth/oropharynx.
+BD2	Computerized tomography (ct scan) of the gastrointestinal system.
+BD2400Z	Computerized tomography (ct scan) of the colon.
+BD2400Z	Computerized tomography (ct scan) of the colon with and without contrast.
+BD4	Ultrasonography of the gastrointestinal system.
+BD41ZZZ	Ultrasonography of the esophagus.
+BD42ZZZ	Ultrasonography of the stomach.
+BD47ZZZ	Ultrasonography of the gastrointestinal tract.
+BD48ZZZ	Ultrasonography of the appendix.
+BD49ZZZ	Ultrasonography of the duodenum.
+BD4CZZZ	Ultrasonography of the rectum.
+BF0	Plain radiography of the hepatobiliary system and pancreas.
+BF000ZZ	Plain radiography of the bile ducts.
+BF030ZZ	Plain radiography of the gallbladder and bile ducts.
+BF0C0ZZ	Plain radiography of the all hepatobiliary system.
+BF1	Fluoroscopy of the hepatobiliary system and pancreas.
+BF100ZZ	Fluoroscopy of the bile ducts.
+BF110ZZ	Fluoroscopy of the biliary system and pancreatic ducts.
+BF120ZZ	Fluoroscopy of the gallbladder.
+BF130ZZ	Fluoroscopy of the gallbladder and bile ducts.
+BF140ZZ	Fluoroscopy of the bile ducts and pancreatic ducts gallbladder.
+BF150ZZ	Fluoroscopy of the liver.
+BF180ZZ	Fluoroscopy of the pancreatic ducts.
+BF2	Computerized tomography (ct scan) of the hepatobiliary system and pancreas.
+BF2500Z	Computerized tomography (ct scan) of the liver.
+BF2500Z	Computerized tomography (ct scan) of the liver with and without contrast.
+BF2600Z	Computerized tomography (ct scan) of the liver and spleen.
+BF2600Z	Computerized tomography (ct scan) of the liver and spleen with and without contrast.
+BF2700Z	Computerized tomography (ct scan) of the pancreas.
+BF2700Z	Computerized tomography (ct scan) of the pancreas with and without contrast.
+BF2C00Z	Computerized tomography (ct scan) of the all hepatobiliary system.
+BF2C00Z	Computerized tomography (ct scan) of the all hepatobiliary system with and without contrast.
+BF3	Magnetic resonance imaging (mri) of the hepatobiliary system and pancreas.
+BF35Y0Z	Magnetic resonance imaging (mri) of the liver.
+BF35Y0Z	Magnetic resonance imaging (mri) of the liver with and without contrast.
+BF36Y0Z	Magnetic resonance imaging (mri) of the liver and spleen.
+BF36Y0Z	Magnetic resonance imaging (mri) of the liver and spleen with and without contrast.
+BF37Y0Z	Magnetic resonance imaging (mri) of the pancreas.
+BF37Y0Z	Magnetic resonance imaging (mri) of the pancreas with and without contrast.
+BF4	Ultrasonography of the hepatobiliary system and pancreas.
+BF40ZZZ	Ultrasonography of the bile ducts.
+BF42ZZZ	Ultrasonography of the gallbladder.
+BF43ZZZ	Ultrasonography of the gallbladder and bile ducts.
+BF45ZZZ	Ultrasonography of the liver.
+BF46ZZZ	Ultrasonography of the liver and spleen.
+BF47ZZZ	Ultrasonography of the pancreas.
+BF4CZZZ	Ultrasonography of the all hepatobiliary system.
+BF5	Other imaging of the hepatobiliary system and pancreas.
+BF50200	Other imaging of the bile ducts.
+BF50200	Other imaging of the bile ducts using indocyanine green dye.
+BF52200	Other imaging of the gallbladder.
+BF52200	Other imaging of the gallbladder using indocyanine green dye.
+BF53200	Other imaging of the gallbladder and bile ducts.
+BF53200	Other imaging of the gallbladder and bile ducts using indocyanine green dye.
+BF55200	Other imaging of the liver.
+BF55200	Other imaging of the liver using indocyanine green dye.
+BF56200	Other imaging of the liver and spleen.
+BF56200	Other imaging of the liver and spleen using indocyanine green dye.
+BF57200	Other imaging of the pancreas.
+BF57200	Other imaging of the pancreas using indocyanine green dye.
+BF5C200	Other imaging of the all hepatobiliary system.
+BF5C200	Other imaging of the all hepatobiliary system using indocyanine green dye.
+BG2	Computerized tomography (ct scan) of the endocrine system.
+BG2200Z	Computerized tomography (ct scan) of the bilateral adrenal glands.
+BG2200Z	Computerized tomography (ct scan) of the bilateral adrenal glands with and without contrast.
+BG2300Z	Computerized tomography (ct scan) of the parathyroid glands.
+BG2300Z	Computerized tomography (ct scan) of the parathyroid glands with and without contrast.
+BG2400Z	Computerized tomography (ct scan) of the thyroid gland.
+BG2400Z	Computerized tomography (ct scan) of the thyroid gland with and without contrast.
+BG3	Magnetic resonance imaging (mri) of the endocrine system.
+BG32Y0Z	Magnetic resonance imaging (mri) of the bilateral adrenal glands.
+BG32Y0Z	Magnetic resonance imaging (mri) of the bilateral adrenal glands with and without contrast.
+BG33Y0Z	Magnetic resonance imaging (mri) of the parathyroid glands.
+BG33Y0Z	Magnetic resonance imaging (mri) of the parathyroid glands with and without contrast.
+BG34Y0Z	Magnetic resonance imaging (mri) of the thyroid gland.
+BG34Y0Z	Magnetic resonance imaging (mri) of the thyroid gland with and without contrast.
+BG4	Ultrasonography of the endocrine system.
+BG40ZZZ	Ultrasonography of the right adrenal gland.
+BG41ZZZ	Ultrasonography of the left adrenal gland.
+BG42ZZZ	Ultrasonography of the bilateral adrenal glands.
+BG43ZZZ	Ultrasonography of the parathyroid glands.
+BG44ZZZ	Ultrasonography of the thyroid gland.
+BH0	Plain radiography of the subcutaneous tissue and breast skin.
+BH00ZZZ	Plain radiography of the right breast.
+BH01ZZZ	Plain radiography of the left breast.
+BH02ZZZ	Plain radiography of the bilateral breasts.
+BH030ZZ	Plain radiography of the right single mammary duct.
+BH040ZZ	Plain radiography of the left single mammary duct.
+BH050ZZ	Plain radiography of the right multiple mammary ducts.
+BH060ZZ	Plain radiography of the left multiple mammary ducts.
+BH3	Magnetic resonance imaging (mri) of the subcutaneous tissue and breast skin.
+BH30Y0Z	Magnetic resonance imaging (mri) of the right breast.
+BH30Y0Z	Magnetic resonance imaging (mri) of the right breast with and without contrast.
+BH31Y0Z	Magnetic resonance imaging (mri) of the left breast.
+BH31Y0Z	Magnetic resonance imaging (mri) of the left breast with and without contrast.
+BH32Y0Z	Magnetic resonance imaging (mri) of the bilateral breasts.
+BH32Y0Z	Magnetic resonance imaging (mri) of the bilateral breasts with and without contrast.
+BH3DY0Z	Magnetic resonance imaging (mri) of the head/neck subcutaneous tissue.
+BH3DY0Z	Magnetic resonance imaging (mri) of the head/neck subcutaneous tissue with and without contrast.
+BH3FY0Z	Magnetic resonance imaging (mri) of the upper extremity subcutaneous tissue.
+BH3FY0Z	Magnetic resonance imaging (mri) of the upper extremity subcutaneous tissue with and without contrast.
+BH3GY0Z	Magnetic resonance imaging (mri) of the thorax subcutaneous tissue.
+BH3GY0Z	Magnetic resonance imaging (mri) of the thorax subcutaneous tissue with and without contrast.
+BH3HY0Z	Magnetic resonance imaging (mri) of the abdomen and pelvis subcutaneous tissue.
+BH3HY0Z	Magnetic resonance imaging (mri) of the abdomen and pelvis subcutaneous tissue with and without contrast.
+BH3JY0Z	Magnetic resonance imaging (mri) of the lower extremity subcutaneous tissue.
+BH3JY0Z	Magnetic resonance imaging (mri) of the lower extremity subcutaneous tissue with and without contrast.
+BH4	Ultrasonography of the subcutaneous tissue and breast skin.
+BH40ZZZ	Ultrasonography of the right breast.
+BH41ZZZ	Ultrasonography of the left breast.
+BH42ZZZ	Ultrasonography of the bilateral breasts.
+BH47ZZZ	Ultrasonography of the upper extremity.
+BH48ZZZ	Ultrasonography of the lower extremity.
+BH49ZZZ	Ultrasonography of the abdominal wall.
+BH4BZZZ	Ultrasonography of the chest wall.
+BH4CZZZ	Ultrasonography of the head and neck.
+BL3	Magnetic resonance imaging (mri) of the connective tissue.
+BL4	Ultrasonography of the connective tissue.
+BN0	Plain radiography of the skull and facial bones.
+BN00ZZZ	Plain radiography of the skull.
+BN01ZZZ	Plain radiography of the right orbit.
+BN02ZZZ	Plain radiography of the left orbit.
+BN03ZZZ	Plain radiography of the bilateral orbits.
+BN04ZZZ	Plain radiography of the nasal bones.
+BN05ZZZ	Plain radiography of the facial bones.
+BN06ZZZ	Plain radiography of the mandible.
+BN070ZZ	Plain radiography of the right temporomandibular joint.
+BN080ZZ	Plain radiography of the left temporomandibular joint.
+BN090ZZ	Plain radiography of the bilateral temporomandibular joints.
+BN0BZZZ	Plain radiography of the right zygomatic arch.
+BN0CZZZ	Plain radiography of the left zygomatic arch.
+BN0DZZZ	Plain radiography of the bilateral zygomatic arches.
+BN0GZZZ	Plain radiography of the single tooth.
+BN0HZZZ	Plain radiography of multiple teeth.
+BN0JZZZ	Plain radiography of the all teeth.
+BN1	Fluoroscopy of the skull and facial bones.
+BN170ZZ	Fluoroscopy of the right temporomandibular joint.
+BN180ZZ	Fluoroscopy of the left temporomandibular joint.
+BN190ZZ	Fluoroscopy of the bilateral temporomandibular joints.
+BN2	Computerized tomography (ct scan) of the skull and facial bones.
+BN200ZZ	Computerized tomography (ct scan) of the skull.
+BN230ZZ	Computerized tomography (ct scan) of the bilateral orbits.
+BN250ZZ	Computerized tomography (ct scan) of the facial bones.
+BN260ZZ	Computerized tomography (ct scan) of the mandible.
+BN290ZZ	Computerized tomography (ct scan) of the bilateral temporomandibular joints.
+BN2F0ZZ	Computerized tomography (ct scan) of the temporal bones.
+BN3	Magnetic resonance imaging (mri) of the skull and facial bones.
+BN39YZZ	Magnetic resonance imaging (mri) of the bilateral temporomandibular joints.
+BP0	Plain radiography of the non-axial upper bones.
+BP00ZZZ	Plain radiography of the right sternoclavicular joint.
+BP01ZZZ	Plain radiography of the left sternoclavicular joint.
+BP02ZZZ	Plain radiography of the bilateral sternoclavicular joints.
+BP03ZZZ	Plain radiography of the bilateral acromioclavicular joints.
+BP04ZZZ	Plain radiography of the right clavicle.
+BP05ZZZ	Plain radiography of the left clavicle.
+BP06ZZZ	Plain radiography of the right scapula.
+BP07ZZZ	Plain radiography of the left scapula.
+BP080ZZ	Plain radiography of the right shoulder.
+BP090ZZ	Plain radiography of the left shoulder.
+BP0AZZZ	Plain radiography of the right humerus.
+BP0BZZZ	Plain radiography of the left humerus.
+BP0C0ZZ	Plain radiography of the right hand/finger joint.
+BP0D0ZZ	Plain radiography of the left hand/finger joint.
+BP0EZZZ	Plain radiography of the right upper arm.
+BP0FZZZ	Plain radiography of the left upper arm.
+BP0G0ZZ	Plain radiography of the right elbow.
+BP0H0ZZ	Plain radiography of the left elbow.
+BP0JZZZ	Plain radiography of the right forearm.
+BP0KZZZ	Plain radiography of the left forearm.
+BP0M0ZZ	Plain radiography of the left wrist.
+BP0NZZZ	Plain radiography of the right hand.
+BP0PZZZ	Plain radiography of the left hand.
+BP0RZZZ	Plain radiography of the right finger(s).
+BP0SZZZ	Plain radiography of the left finger(s).
+BP0XZZZ	Plain radiography of the right ribs.
+BP0YZZZ	Plain radiography of the left ribs.
+BP1	Fluoroscopy of the non-axial upper bones.
+BP10ZZZ	Fluoroscopy of the right sternoclavicular joint.
+BP11ZZZ	Fluoroscopy of the left sternoclavicular joint.
+BP12ZZZ	Fluoroscopy of the bilateral sternoclavicular joints.
+BP13ZZZ	Fluoroscopy of the bilateral acromioclavicular joints.
+BP14ZZZ	Fluoroscopy of the right clavicle.
+BP15ZZZ	Fluoroscopy of the left clavicle.
+BP16ZZZ	Fluoroscopy of the right scapula.
+BP17ZZZ	Fluoroscopy of the left scapula.
+BP180ZZ	Fluoroscopy of the right shoulder.
+BP190ZZ	Fluoroscopy of the left shoulder.
+BP1AZZZ	Fluoroscopy of the right humerus.
+BP1BZZZ	Fluoroscopy of the left humerus.
+BP1C0ZZ	Fluoroscopy of the right hand/finger joint.
+BP1D0ZZ	Fluoroscopy of the left hand/finger joint.
+BP1EZZZ	Fluoroscopy of the right upper arm.
+BP1FZZZ	Fluoroscopy of the left upper arm.
+BP1G0ZZ	Fluoroscopy of the right elbow.
+BP1H0ZZ	Fluoroscopy of the left elbow.
+BP1JZZZ	Fluoroscopy of the right forearm.
+BP1KZZZ	Fluoroscopy of the left forearm.
+BP1M0ZZ	Fluoroscopy of the left wrist.
+BP1NZZZ	Fluoroscopy of the right hand.
+BP1PZZZ	Fluoroscopy of the left hand.
+BP1RZZZ	Fluoroscopy of the right finger(s).
+BP1SZZZ	Fluoroscopy of the left finger(s).
+BP1XZZZ	Fluoroscopy of the right ribs.
+BP1YZZZ	Fluoroscopy of the left ribs.
+BP2	Computerized tomography (ct scan) of the non-axial upper bones.
+BP200ZZ	Computerized tomography (ct scan) of the right sternoclavicular joint.
+BP210ZZ	Computerized tomography (ct scan) of the left sternoclavicular joint.
+BP220ZZ	Computerized tomography (ct scan) of the bilateral sternoclavicular joints.
+BP230ZZ	Computerized tomography (ct scan) of the bilateral acromioclavicular joints.
+BP240ZZ	Computerized tomography (ct scan) of the right clavicle.
+BP250ZZ	Computerized tomography (ct scan) of the left clavicle.
+BP260ZZ	Computerized tomography (ct scan) of the right scapula.
+BP270ZZ	Computerized tomography (ct scan) of the left scapula.
+BP280ZZ	Computerized tomography (ct scan) of the right shoulder.
+BP290ZZ	Computerized tomography (ct scan) of the left shoulder.
+BP2A0ZZ	Computerized tomography (ct scan) of the right humerus.
+BP2B0ZZ	Computerized tomography (ct scan) of the left humerus.
+BP2CZZZ	Computerized tomography (ct scan) of the right hand/finger joint.
+BP2DZZZ	Computerized tomography (ct scan) of the left hand/finger joint.
+BP2E0ZZ	Computerized tomography (ct scan) of the right upper arm.
+BP2F0ZZ	Computerized tomography (ct scan) of the left upper arm.
+BP2G0ZZ	Computerized tomography (ct scan) of the right elbow.
+BP2H0ZZ	Computerized tomography (ct scan) of the left elbow.
+BP2J0ZZ	Computerized tomography (ct scan) of the right forearm.
+BP2K0ZZ	Computerized tomography (ct scan) of the left forearm.
+BP2M0ZZ	Computerized tomography (ct scan) of the left wrist.
+BP2N0ZZ	Computerized tomography (ct scan) of the right hand.
+BP2P0ZZ	Computerized tomography (ct scan) of the left hand.
+BP2Q0ZZ	Computerized tomography (ct scan) of the bilateral hands and wrists.
+BP2R0ZZ	Computerized tomography (ct scan) of the right finger(s).
+BP2S0ZZ	Computerized tomography (ct scan) of the left finger(s).
+BP2T0ZZ	Computerized tomography (ct scan) of the right upper extremity.
+BP2U0ZZ	Computerized tomography (ct scan) of the left upper extremity.
+BP2V0ZZ	Computerized tomography (ct scan) of the bilateral upper extremities.
+BP2W0ZZ	Computerized tomography (ct scan) of the thorax.
+BP2X0ZZ	Computerized tomography (ct scan) of the right ribs.
+BP2Y0ZZ	Computerized tomography (ct scan) of the left ribs.
+BP3	Magnetic resonance imaging (mri) of the non-axial upper bones.
+BP38Y0Z	Magnetic resonance imaging (mri) of the right shoulder.
+BP38Y0Z	Magnetic resonance imaging (mri) of the right shoulder with and without contrast.
+BP39Y0Z	Magnetic resonance imaging (mri) of the left shoulder.
+BP39Y0Z	Magnetic resonance imaging (mri) of the left shoulder with and without contrast.
+BP3CY0Z	Magnetic resonance imaging (mri) of the right hand/finger joint.
+BP3CY0Z	Magnetic resonance imaging (mri) of the right hand/finger joint with and without contrast.
+BP3DY0Z	Magnetic resonance imaging (mri) of the left hand/finger joint.
+BP3DY0Z	Magnetic resonance imaging (mri) of the left hand/finger joint with and without contrast.
+BP3EY0Z	Magnetic resonance imaging (mri) of the right upper arm.
+BP3EY0Z	Magnetic resonance imaging (mri) of the right upper arm with and without contrast.
+BP3FY0Z	Magnetic resonance imaging (mri) of the left upper arm.
+BP3FY0Z	Magnetic resonance imaging (mri) of the left upper arm with and without contrast.
+BP3GY0Z	Magnetic resonance imaging (mri) of the right elbow.
+BP3GY0Z	Magnetic resonance imaging (mri) of the right elbow with and without contrast.
+BP3HY0Z	Magnetic resonance imaging (mri) of the left elbow.
+BP3HY0Z	Magnetic resonance imaging (mri) of the left elbow with and without contrast.
+BP3JY0Z	Magnetic resonance imaging (mri) of the right forearm.
+BP3JY0Z	Magnetic resonance imaging (mri) of the right forearm with and without contrast.
+BP3KY0Z	Magnetic resonance imaging (mri) of the left forearm.
+BP3KY0Z	Magnetic resonance imaging (mri) of the left forearm with and without contrast.
+BP3MY0Z	Magnetic resonance imaging (mri) of the left wrist.
+BP3MY0Z	Magnetic resonance imaging (mri) of the left wrist with and without contrast.
+BP4	Ultrasonography of the non-axial upper bones.
+BP48ZZ1	Ultrasonography of the right shoulder.
+BP49ZZ1	Ultrasonography of the left shoulder.
+BP4GZZ1	Ultrasonography of the right elbow.
+BP4HZZ1	Ultrasonography of the left elbow.
+BP4MZZ1	Ultrasonography of the left wrist.
+BP4NZZ1	Ultrasonography of the right hand.
+BP4PZZ1	Ultrasonography of the left hand.
+BQ0	Plain radiography of the non-axial lower bones.
+BQ000ZZ	Plain radiography of the right hip.
+BQ010ZZ	Plain radiography of the left hip.
+BQ03ZZ1	Plain radiography of the right femur.
+BQ04ZZ1	Plain radiography of the left femur.
+BQ070ZZ	Plain radiography of the right knee.
+BQ080ZZ	Plain radiography of the left knee.
+BQ0DZZZ	Plain radiography of the right lower leg.
+BQ0FZZZ	Plain radiography of the left lower leg.
+BQ0G0ZZ	Plain radiography of the right ankle.
+BQ0H0ZZ	Plain radiography of the left ankle.
+BQ0JZZZ	Plain radiography of the right calcaneus.
+BQ0KZZZ	Plain radiography of the left calcaneus.
+BQ0MZZZ	Plain radiography of the left foot.
+BQ0PZZZ	Plain radiography of the right toe(s).
+BQ0QZZZ	Plain radiography of the left toe(s).
+BQ0VZZZ	Plain radiography of the right patella.
+BQ0WZZZ	Plain radiography of the left patella.
+BQ0X0ZZ	Plain radiography of the right foot/toe joint.
+BQ0Y0ZZ	Plain radiography of the left foot/toe joint.
+BQ1	Fluoroscopy of the non-axial lower bones.
+BQ100ZZ	Fluoroscopy of the right hip.
+BQ110ZZ	Fluoroscopy of the left hip.
+BQ13ZZZ	Fluoroscopy of the right femur.
+BQ14ZZZ	Fluoroscopy of the left femur.
+BQ170ZZ	Fluoroscopy of the right knee.
+BQ180ZZ	Fluoroscopy of the left knee.
+BQ1DZZZ	Fluoroscopy of the right lower leg.
+BQ1FZZZ	Fluoroscopy of the left lower leg.
+BQ1G0ZZ	Fluoroscopy of the right ankle.
+BQ1H0ZZ	Fluoroscopy of the left ankle.
+BQ1JZZZ	Fluoroscopy of the right calcaneus.
+BQ1KZZZ	Fluoroscopy of the left calcaneus.
+BQ1MZZZ	Fluoroscopy of the left foot.
+BQ1PZZZ	Fluoroscopy of the right toe(s).
+BQ1QZZZ	Fluoroscopy of the left toe(s).
+BQ1VZZZ	Fluoroscopy of the right patella.
+BQ1WZZZ	Fluoroscopy of the left patella.
+BQ1X0ZZ	Fluoroscopy of the right foot/toe joint.
+BQ1Y0ZZ	Fluoroscopy of the left foot/toe joint.
+BQ2	Computerized tomography (ct scan) of the non-axial lower bones.
+BQ200ZZ	Computerized tomography (ct scan) of the right hip.
+BQ210ZZ	Computerized tomography (ct scan) of the left hip.
+BQ230ZZ	Computerized tomography (ct scan) of the right femur.
+BQ240ZZ	Computerized tomography (ct scan) of the left femur.
+BQ270ZZ	Computerized tomography (ct scan) of the right knee.
+BQ280ZZ	Computerized tomography (ct scan) of the left knee.
+BQ2B0ZZ	Computerized tomography (ct scan) of the right tibia/fibula.
+BQ2C0ZZ	Computerized tomography (ct scan) of the left tibia/fibula.
+BQ2D0ZZ	Computerized tomography (ct scan) of the right lower leg.
+BQ2F0ZZ	Computerized tomography (ct scan) of the left lower leg.
+BQ2G0ZZ	Computerized tomography (ct scan) of the right ankle.
+BQ2H0ZZ	Computerized tomography (ct scan) of the left ankle.
+BQ2J0ZZ	Computerized tomography (ct scan) of the right calcaneus.
+BQ2K0ZZ	Computerized tomography (ct scan) of the left calcaneus.
+BQ2M0ZZ	Computerized tomography (ct scan) of the left foot.
+BQ2P0ZZ	Computerized tomography (ct scan) of the right toe(s).
+BQ2Q0ZZ	Computerized tomography (ct scan) of the left toe(s).
+BQ2R0ZZ	Computerized tomography (ct scan) of the right lower extremity.
+BQ2S0ZZ	Computerized tomography (ct scan) of the left lower extremity.
+BQ2V0ZZ	Computerized tomography (ct scan) of the right patella.
+BQ2W0ZZ	Computerized tomography (ct scan) of the left patella.
+BQ2X0ZZ	Computerized tomography (ct scan) of the right foot/toe joint.
+BQ2Y0ZZ	Computerized tomography (ct scan) of the left foot/toe joint.
+BQ3	Magnetic resonance imaging (mri) of the non-axial lower bones.
+BQ30Y0Z	Magnetic resonance imaging (mri) of the right hip.
+BQ30Y0Z	Magnetic resonance imaging (mri) of the right hip with and without contrast.
+BQ31Y0Z	Magnetic resonance imaging (mri) of the left hip.
+BQ31Y0Z	Magnetic resonance imaging (mri) of the left hip with and without contrast.
+BQ33Y0Z	Magnetic resonance imaging (mri) of the right femur.
+BQ33Y0Z	Magnetic resonance imaging (mri) of the right femur with and without contrast.
+BQ34Y0Z	Magnetic resonance imaging (mri) of the left femur.
+BQ34Y0Z	Magnetic resonance imaging (mri) of the left femur with and without contrast.
+BQ37Y0Z	Magnetic resonance imaging (mri) of the right knee.
+BQ37Y0Z	Magnetic resonance imaging (mri) of the right knee with and without contrast.
+BQ38Y0Z	Magnetic resonance imaging (mri) of the left knee.
+BQ38Y0Z	Magnetic resonance imaging (mri) of the left knee with and without contrast.
+BQ3DY0Z	Magnetic resonance imaging (mri) of the right lower leg.
+BQ3DY0Z	Magnetic resonance imaging (mri) of the right lower leg with and without contrast.
+BQ3FY0Z	Magnetic resonance imaging (mri) of the left lower leg.
+BQ3FY0Z	Magnetic resonance imaging (mri) of the left lower leg with and without contrast.
+BQ3GY0Z	Magnetic resonance imaging (mri) of the right ankle.
+BQ3GY0Z	Magnetic resonance imaging (mri) of the right ankle with and without contrast.
+BQ3HY0Z	Magnetic resonance imaging (mri) of the left ankle.
+BQ3HY0Z	Magnetic resonance imaging (mri) of the left ankle with and without contrast.
+BQ3JY0Z	Magnetic resonance imaging (mri) of the right calcaneus.
+BQ3JY0Z	Magnetic resonance imaging (mri) of the right calcaneus with and without contrast.
+BQ3KY0Z	Magnetic resonance imaging (mri) of the left calcaneus.
+BQ3KY0Z	Magnetic resonance imaging (mri) of the left calcaneus with and without contrast.
+BQ3MY0Z	Magnetic resonance imaging (mri) of the left foot.
+BQ3MY0Z	Magnetic resonance imaging (mri) of the left foot with and without contrast.
+BQ3PY0Z	Magnetic resonance imaging (mri) of the right toe(s).
+BQ3PY0Z	Magnetic resonance imaging (mri) of the right toe(s) with and without contrast.
+BQ3QY0Z	Magnetic resonance imaging (mri) of the left toe(s).
+BQ3QY0Z	Magnetic resonance imaging (mri) of the left toe(s) with and without contrast.
+BQ3VY0Z	Magnetic resonance imaging (mri) of the right patella.
+BQ3VY0Z	Magnetic resonance imaging (mri) of the right patella with and without contrast.
+BQ3WY0Z	Magnetic resonance imaging (mri) of the left patella.
+BQ3WY0Z	Magnetic resonance imaging (mri) of the left patella with and without contrast.
+BQ4	Ultrasonography of the non-axial lower bones.
+BQ40ZZZ	Ultrasonography of the right hip.
+BQ41ZZZ	Ultrasonography of the left hip.
+BQ42ZZZ	Ultrasonography of the bilateral hips.
+BQ47ZZZ	Ultrasonography of the right knee.
+BQ48ZZZ	Ultrasonography of the left knee.
+BQ49ZZZ	Ultrasonography of the bilateral knees.
+BR0	Plain radiography of the except skull and facial bones axial skeleton.
+BR00ZZ1	Plain radiography of the cervical region spine.
+BR010ZZ	Plain radiography of the cervical region disc(s).
+BR020ZZ	Plain radiography of the thoracic region disc(s).
+BR030ZZ	Plain radiography of the lumbar region disc(s).
+BR040ZZ	Plain radiography of the cervical region facet joint(s).
+BR050ZZ	Plain radiography of the thoracic region facet joint(s).
+BR060ZZ	Plain radiography of the lumbar region facet joint(s).
+BR07ZZ1	Plain radiography of the thoracic region spine.
+BR08ZZZ	Plain radiography of the thoracolumbar region joint.
+BR09ZZ1	Plain radiography of the lumbar region spine.
+BR0BZZZ	Plain radiography of the lumbosacral region joint.
+BR0CZZZ	Plain radiography of the pelvis.
+BR0D0ZZ	Plain radiography of the sacroiliac joints.
+BR0FZZZ	Plain radiography of the sacrum and coccyx.
+BR0GZZ1	Plain radiography of the whole spine.
+BR0HZZZ	Plain radiography of the sternum.
+BR1	Fluoroscopy of the except skull and facial bones axial skeleton.
+BR100ZZ	Fluoroscopy of the cervical region spine.
+BR110ZZ	Fluoroscopy of the cervical region disc(s).
+BR120ZZ	Fluoroscopy of the thoracic region disc(s).
+BR130ZZ	Fluoroscopy of the lumbar region disc(s).
+BR140ZZ	Fluoroscopy of the cervical region facet joint(s).
+BR150ZZ	Fluoroscopy of the thoracic region facet joint(s).
+BR160ZZ	Fluoroscopy of the lumbar region facet joint(s).
+BR170ZZ	Fluoroscopy of the thoracic region spine.
+BR180ZZ	Fluoroscopy of the thoracolumbar region joint.
+BR190ZZ	Fluoroscopy of the lumbar region spine.
+BR1B0ZZ	Fluoroscopy of the lumbosacral region joint.
+BR1C0ZZ	Fluoroscopy of the pelvis.
+BR1D0ZZ	Fluoroscopy of the sacroiliac joints.
+BR1F0ZZ	Fluoroscopy of the sacrum and coccyx.
+BR1G0ZZ	Fluoroscopy of the whole spine.
+BR1H0ZZ	Fluoroscopy of the sternum.
+BR2	Computerized tomography (ct scan) of the except skull and facial bones axial skeleton.
+BR200ZZ	Computerized tomography (ct scan) of the cervical region spine.
+BR270ZZ	Computerized tomography (ct scan) of the thoracic region spine.
+BR290ZZ	Computerized tomography (ct scan) of the lumbar region spine.
+BR2C0ZZ	Computerized tomography (ct scan) of the pelvis.
+BR2D0ZZ	Computerized tomography (ct scan) of the sacroiliac joints.
+BR2F0ZZ	Computerized tomography (ct scan) of the sacrum and coccyx.
+BR3	Magnetic resonance imaging (mri) of the except skull and facial bones axial skeleton.
+BR30Y0Z	Magnetic resonance imaging (mri) of the cervical region spine.
+BR30Y0Z	Magnetic resonance imaging (mri) of the cervical region spine with and without contrast.
+BR31Y0Z	Magnetic resonance imaging (mri) of the cervical region disc(s).
+BR31Y0Z	Magnetic resonance imaging (mri) of the cervical region disc(s) with and without contrast.
+BR32Y0Z	Magnetic resonance imaging (mri) of the thoracic region disc(s).
+BR32Y0Z	Magnetic resonance imaging (mri) of the thoracic region disc(s) with and without contrast.
+BR33Y0Z	Magnetic resonance imaging (mri) of the lumbar region disc(s).
+BR33Y0Z	Magnetic resonance imaging (mri) of the lumbar region disc(s) with and without contrast.
+BR37Y0Z	Magnetic resonance imaging (mri) of the thoracic region spine.
+BR37Y0Z	Magnetic resonance imaging (mri) of the thoracic region spine with and without contrast.
+BR39Y0Z	Magnetic resonance imaging (mri) of the lumbar region spine.
+BR39Y0Z	Magnetic resonance imaging (mri) of the lumbar region spine with and without contrast.
+BR3CY0Z	Magnetic resonance imaging (mri) of the pelvis.
+BR3CY0Z	Magnetic resonance imaging (mri) of the pelvis with and without contrast.
+BR3FY0Z	Magnetic resonance imaging (mri) of the sacrum and coccyx.
+BR3FY0Z	Magnetic resonance imaging (mri) of the sacrum and coccyx with and without contrast.
+BR4	Ultrasonography of the except skull and facial bones axial skeleton.
+BR40ZZZ	Ultrasonography of the cervical region spine.
+BR47ZZZ	Ultrasonography of the thoracic region spine.
+BR49ZZZ	Ultrasonography of the lumbar region spine.
+BR4FZZZ	Ultrasonography of the sacrum and coccyx.
+BT0	Plain radiography of the urinary system.
+BT000ZZ	Plain radiography of the bladder.
+BT010ZZ	Plain radiography of the right kidney.
+BT020ZZ	Plain radiography of the left kidney.
+BT030ZZ	Plain radiography of the bilateral kidneys.
+BT040ZZ	Plain radiography of the ureters and bladder kidneys.
+BT050ZZ	Plain radiography of the urethra.
+BT060ZZ	Plain radiography of the right ureter.
+BT070ZZ	Plain radiography of the left ureter.
+BT080ZZ	Plain radiography of the bilateral ureters.
+BT0B0ZZ	Plain radiography of the bladder and urethra.
+BT0C0ZZ	Plain radiography of the ileal diversion loop.
+BT1	Fluoroscopy of the urinary system.
+BT100ZZ	Fluoroscopy of the bladder.
+BT110ZZ	Fluoroscopy of the right kidney.
+BT120ZZ	Fluoroscopy of the left kidney.
+BT130ZZ	Fluoroscopy of the bilateral kidneys.
+BT140ZZ	Fluoroscopy of the ureters and bladder kidneys.
+BT150ZZ	Fluoroscopy of the urethra.
+BT160ZZ	Fluoroscopy of the right ureter.
+BT170ZZ	Fluoroscopy of the left ureter.
+BT1B0ZZ	Fluoroscopy of the bladder and urethra.
+BT1C0ZZ	Fluoroscopy of the ileal diversion loop.
+BT1D0ZZ	Fluoroscopy of the kidney, ureter and bladder, and right.
+BT1F0ZZ	Fluoroscopy of the kidney, ureter and bladder, and left.
+BT1G0ZZ	Fluoroscopy of the ureters and kidneys ileal loop.
+BT2	Computerized tomography (ct scan) of the urinary system.
+BT2000Z	Computerized tomography (ct scan) of the bladder.
+BT2000Z	Computerized tomography (ct scan) of the bladder with and without contrast.
+BT2100Z	Computerized tomography (ct scan) of the right kidney.
+BT2100Z	Computerized tomography (ct scan) of the right kidney with and without contrast.
+BT2200Z	Computerized tomography (ct scan) of the left kidney.
+BT2200Z	Computerized tomography (ct scan) of the left kidney with and without contrast.
+BT2300Z	Computerized tomography (ct scan) of the bilateral kidneys.
+BT2300Z	Computerized tomography (ct scan) of the bilateral kidneys with and without contrast.
+BT2900Z	Computerized tomography (ct scan) of the kidney transplant.
+BT2900Z	Computerized tomography (ct scan) of the kidney transplant with and without contrast.
+BT3	Magnetic resonance imaging (mri) of the urinary system.
+BT30Y0Z	Magnetic resonance imaging (mri) of the bladder.
+BT30Y0Z	Magnetic resonance imaging (mri) of the bladder with and without contrast.
+BT31Y0Z	Magnetic resonance imaging (mri) of the right kidney.
+BT31Y0Z	Magnetic resonance imaging (mri) of the right kidney with and without contrast.
+BT32Y0Z	Magnetic resonance imaging (mri) of the left kidney.
+BT32Y0Z	Magnetic resonance imaging (mri) of the left kidney with and without contrast.
+BT33Y0Z	Magnetic resonance imaging (mri) of the bilateral kidneys.
+BT33Y0Z	Magnetic resonance imaging (mri) of the bilateral kidneys with and without contrast.
+BT39Y0Z	Magnetic resonance imaging (mri) of the kidney transplant.
+BT39Y0Z	Magnetic resonance imaging (mri) of the kidney transplant with and without contrast.
+BT4	Ultrasonography of the urinary system.
+BT40ZZZ	Ultrasonography of the bladder.
+BT41ZZZ	Ultrasonography of the right kidney.
+BT42ZZZ	Ultrasonography of the left kidney.
+BT43ZZZ	Ultrasonography of the bilateral kidneys.
+BT45ZZZ	Ultrasonography of the urethra.
+BT46ZZZ	Ultrasonography of the right ureter.
+BT47ZZZ	Ultrasonography of the left ureter.
+BT48ZZZ	Ultrasonography of the bilateral ureters.
+BT49ZZZ	Ultrasonography of the kidney transplant.
+BT4JZZZ	Ultrasonography of the kidneys and bladder.
+BU0	Plain radiography of the female reproductive system.
+BU000ZZ	Plain radiography of the right fallopian tube.
+BU010ZZ	Plain radiography of the left fallopian tube.
+BU020ZZ	Plain radiography of the bilateral fallopian tubes.
+BU060ZZ	Plain radiography of the uterus.
+BU080ZZ	Plain radiography of the uterus and fallopian tubes.
+BU090ZZ	Plain radiography of the vagina.
+BU1	Fluoroscopy of the female reproductive system.
+BU100ZZ	Fluoroscopy of the right fallopian tube.
+BU110ZZ	Fluoroscopy of the left fallopian tube.
+BU120ZZ	Fluoroscopy of the bilateral fallopian tubes.
+BU160ZZ	Fluoroscopy of the uterus.
+BU180ZZ	Fluoroscopy of the uterus and fallopian tubes.
+BU190ZZ	Fluoroscopy of the vagina.
+BU3	Magnetic resonance imaging (mri) of the female reproductive system.
+BU33Y0Z	Magnetic resonance imaging (mri) of the right ovary.
+BU33Y0Z	Magnetic resonance imaging (mri) of the right ovary with and without contrast.
+BU34Y0Z	Magnetic resonance imaging (mri) of the left ovary.
+BU34Y0Z	Magnetic resonance imaging (mri) of the left ovary with and without contrast.
+BU35Y0Z	Magnetic resonance imaging (mri) of the bilateral ovaries.
+BU35Y0Z	Magnetic resonance imaging (mri) of the bilateral ovaries with and without contrast.
+BU36Y0Z	Magnetic resonance imaging (mri) of the uterus.
+BU36Y0Z	Magnetic resonance imaging (mri) of the uterus with and without contrast.
+BU39Y0Z	Magnetic resonance imaging (mri) of the vagina.
+BU39Y0Z	Magnetic resonance imaging (mri) of the vagina with and without contrast.
+BU3BY0Z	Magnetic resonance imaging (mri) of the pregnant uterus.
+BU3BY0Z	Magnetic resonance imaging (mri) of the pregnant uterus with and without contrast.
+BU3CY0Z	Magnetic resonance imaging (mri) of the uterus and ovaries.
+BU3CY0Z	Magnetic resonance imaging (mri) of the uterus and ovaries with and without contrast.
+BU4	Ultrasonography of the female reproductive system.
+BU40YZZ	Ultrasonography of the right fallopian tube.
+BU41YZZ	Ultrasonography of the left fallopian tube.
+BU42YZZ	Ultrasonography of the bilateral fallopian tubes.
+BU43YZZ	Ultrasonography of the right ovary.
+BU44YZZ	Ultrasonography of the left ovary.
+BU45YZZ	Ultrasonography of the bilateral ovaries.
+BU46YZZ	Ultrasonography of the uterus.
+BU4CYZZ	Ultrasonography of the uterus and ovaries.
+BV0	Plain radiography of the male reproductive system.
+BV000ZZ	Plain radiography of the corpora cavernosa.
+BV010ZZ	Plain radiography of the right epididymis.
+BV020ZZ	Plain radiography of the left epididymis.
+BV030ZZ	Plain radiography of the prostate.
+BV050ZZ	Plain radiography of the right testicle.
+BV060ZZ	Plain radiography of the left testicle.
+BV080ZZ	Plain radiography of the vasa vasorum.
+BV1	Fluoroscopy of the male reproductive system.
+BV100ZZ	Fluoroscopy of the corpora cavernosa.
+BV180ZZ	Fluoroscopy of the vasa vasorum.
+BV2	Computerized tomography (ct scan) of the male reproductive system.
+BV2300Z	Computerized tomography (ct scan) of the prostate.
+BV2300Z	Computerized tomography (ct scan) of the prostate with and without contrast.
+BV3	Magnetic resonance imaging (mri) of the male reproductive system.
+BV30Y0Z	Magnetic resonance imaging (mri) of the corpora cavernosa.
+BV30Y0Z	Magnetic resonance imaging (mri) of the corpora cavernosa with and without contrast.
+BV33Y0Z	Magnetic resonance imaging (mri) of the prostate.
+BV33Y0Z	Magnetic resonance imaging (mri) of the prostate with and without contrast.
+BV34Y0Z	Magnetic resonance imaging (mri) of the scrotum.
+BV34Y0Z	Magnetic resonance imaging (mri) of the scrotum with and without contrast.
+BV35Y0Z	Magnetic resonance imaging (mri) of the right testicle.
+BV35Y0Z	Magnetic resonance imaging (mri) of the right testicle with and without contrast.
+BV36Y0Z	Magnetic resonance imaging (mri) of the left testicle.
+BV36Y0Z	Magnetic resonance imaging (mri) of the left testicle with and without contrast.
+BV37Y0Z	Magnetic resonance imaging (mri) of the bilateral testicles.
+BV37Y0Z	Magnetic resonance imaging (mri) of the bilateral testicles with and without contrast.
+BV4	Ultrasonography of the male reproductive system.
+BV44ZZZ	Ultrasonography of the scrotum.
+BV49ZZZ	Ultrasonography of the prostate and seminal vesicles.
+BV4BZZZ	Ultrasonography of the penis.
+BW0	Plain radiography of the anatomical regions.
+BW00ZZZ	Plain radiography of the abdomen.
+BW01ZZZ	Plain radiography of the abdomen and pelvis.
+BW03ZZZ	Plain radiography of the chest.
+BW0BZZZ	Plain radiography of the all long bones.
+BW0CZZZ	Plain radiography of the lower extremity.
+BW0JZZZ	Plain radiography of the upper extremity.
+BW0KZZZ	Plain radiography of the whole body.
+BW0MZZZ	Plain radiography of the infant whole body.
+BW1	Fluoroscopy of the anatomical regions.
+BW110ZZ	Fluoroscopy of the abdomen and pelvis.
+BW190ZZ	Fluoroscopy of the head and neck.
+BW1C0ZZ	Fluoroscopy of the lower extremity.
+BW1J0ZZ	Fluoroscopy of the upper extremity.
+BW2	Computerized tomography (ct scan) of the anatomical regions.
+BW2000Z	Computerized tomography (ct scan) of the abdomen.
+BW2000Z	Computerized tomography (ct scan) of the abdomen with and without contrast.
+BW2100Z	Computerized tomography (ct scan) of the abdomen and pelvis.
+BW2100Z	Computerized tomography (ct scan) of the abdomen and pelvis with and without contrast.
+BW2400Z	Computerized tomography (ct scan) of the chest and abdomen.
+BW2400Z	Computerized tomography (ct scan) of the chest and abdomen with and without contrast.
+BW2500Z	Computerized tomography (ct scan) of the abdomen and pelvis chest.
+BW2500Z	Computerized tomography (ct scan) of the abdomen and pelvis chest with and without contrast.
+BW2800Z	Computerized tomography (ct scan) of the head.
+BW2800Z	Computerized tomography (ct scan) of the head with and without contrast.
+BW2900Z	Computerized tomography (ct scan) of the head and neck.
+BW2900Z	Computerized tomography (ct scan) of the head and neck with and without contrast.
+BW2F00Z	Computerized tomography (ct scan) of the neck.
+BW2F00Z	Computerized tomography (ct scan) of the neck with and without contrast.
+BW2G00Z	Computerized tomography (ct scan) of the pelvic region region.
+BW2G00Z	Computerized tomography (ct scan) of the pelvic region region with and without contrast.
+BW3	Magnetic resonance imaging (mri) of the anatomical regions.
+BW30Y0Z	Magnetic resonance imaging (mri) of the abdomen.
+BW30Y0Z	Magnetic resonance imaging (mri) of the abdomen with and without contrast.
+BW33Y0Z	Magnetic resonance imaging (mri) of the chest.
+BW33Y0Z	Magnetic resonance imaging (mri) of the chest with and without contrast.
+BW38Y0Z	Magnetic resonance imaging (mri) of the head.
+BW38Y0Z	Magnetic resonance imaging (mri) of the head with and without contrast.
+BW3FY0Z	Magnetic resonance imaging (mri) of the neck.
+BW3FY0Z	Magnetic resonance imaging (mri) of the neck with and without contrast.
+BW3GY0Z	Magnetic resonance imaging (mri) of the pelvic region region.
+BW3GY0Z	Magnetic resonance imaging (mri) of the pelvic region region with and without contrast.
+BW3HY0Z	Magnetic resonance imaging (mri) of the retroperitoneum.
+BW3HY0Z	Magnetic resonance imaging (mri) of the retroperitoneum with and without contrast.
+BW3PY0Z	Magnetic resonance imaging (mri) of the brachial plexus.
+BW3PY0Z	Magnetic resonance imaging (mri) of the brachial plexus with and without contrast.
+BW4	Ultrasonography of the anatomical regions.
+BW40ZZZ	Ultrasonography of the abdomen.
+BW41ZZZ	Ultrasonography of the abdomen and pelvis.
+BW4FZZZ	Ultrasonography of the neck.
+BW4GZZZ	Ultrasonography of the pelvic region region.
+BW5	Other imaging of the anatomical regions.
+BW52Z1Z	Other imaging of the trunk.
+BW52Z1Z	Other imaging of the trunk using bacterial autofluorescence.
+BW59Z1Z	Other imaging of the head and neck.
+BW59Z1Z	Other imaging of the head and neck using bacterial autofluorescence.
+BW5CZ1Z	Other imaging of the lower extremity.
+BW5CZ1Z	Other imaging of the lower extremity using bacterial autofluorescence.
+BW5JZ1Z	Other imaging of the upper extremity.
+BW5JZ1Z	Other imaging of the upper extremity using bacterial autofluorescence.
+BY3	Magnetic resonance imaging (mri) of the fetus and obstetrical.
+BY30Y0Z	Magnetic resonance imaging (mri) of the fetal head.
+BY30Y0Z	Magnetic resonance imaging (mri) of the fetal head with and without contrast.
+BY31Y0Z	Magnetic resonance imaging (mri) of the fetal heart.
+BY31Y0Z	Magnetic resonance imaging (mri) of the fetal heart with and without contrast.
+BY32Y0Z	Magnetic resonance imaging (mri) of the fetal thorax.
+BY32Y0Z	Magnetic resonance imaging (mri) of the fetal thorax with and without contrast.
+BY33Y0Z	Magnetic resonance imaging (mri) of the fetal abdomen.
+BY33Y0Z	Magnetic resonance imaging (mri) of the fetal abdomen with and without contrast.
+BY34Y0Z	Magnetic resonance imaging (mri) of the fetal spine.
+BY34Y0Z	Magnetic resonance imaging (mri) of the fetal spine with and without contrast.
+BY35Y0Z	Magnetic resonance imaging (mri) of the fetal extremities.
+BY35Y0Z	Magnetic resonance imaging (mri) of the fetal extremities with and without contrast.
+BY36Y0Z	Magnetic resonance imaging (mri) of the whole fetus.
+BY36Y0Z	Magnetic resonance imaging (mri) of the whole fetus with and without contrast.
+BY4	Ultrasonography of the fetus and obstetrical.
+BY47ZZZ	Ultrasonography of the fetal umbilical cord.
+BY48ZZZ	Ultrasonography of the placenta.
+BY49ZZZ	Ultrasonography of the single fetus first trimester.
+BY4BZZZ	Ultrasonography of multiple gestation first trimester.
+BY4CZZZ	Ultrasonography of the single fetus second trimester.
+BY4DZZZ	Ultrasonography of multiple gestation second trimester.
+BY4FZZZ	Ultrasonography of the single fetus third trimester.
+BY4GZZZ	Ultrasonography of multiple gestation third trimester.

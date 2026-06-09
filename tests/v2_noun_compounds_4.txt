@@ -1,0 +1,732 @@
+4A0	Measurement of the Physiological Systems
+4A0	Physiological Systems Measurement
+4A0002Z	Measurement of the Central Nervous System Conductivity
+4A0002Z	Central Nervous System Conductivity Measurement
+4A0004Z	Measurement of the Central Nervous System Electrical Activity
+4A0004Z	Central Nervous System Electrical Activity Measurement
+4A000BZ	Measurement of the Central Nervous System Pressure
+4A000BZ	Central Nervous System Pressure Measurement
+4A0034Z	Measurement of the Central Nervous System Electrical Activity
+4A0034Z	Central Nervous System Electrical Activity Measurement
+4A003BD	Measurement of the Intracranial Central Nervous System Pressure
+4A003BD	Intracranial Central Nervous System Pressure Measurement
+4A003KD	Measurement of the Intracranial Central Nervous System Temperature
+4A003KD	Intracranial Central Nervous System Temperature Measurement
+4A003RD	Measurement of the Intracranial Central Nervous System Saturation
+4A003RD	Intracranial Central Nervous System Saturation Measurement
+4A0074Z	Measurement of the Central Nervous System Electrical Activity
+4A0074Z	Central Nervous System Electrical Activity Measurement
+4A007BD	Measurement of the Intracranial Central Nervous System Pressure
+4A007BD	Intracranial Central Nervous System Pressure Measurement
+4A007KD	Measurement of the Intracranial Central Nervous System Temperature
+4A007KD	Intracranial Central Nervous System Temperature Measurement
+4A007RD	Measurement of the Intracranial Central Nervous System Saturation
+4A007RD	Intracranial Central Nervous System Saturation Measurement
+4A0084Z	Measurement of the Central Nervous System Electrical Activity
+4A0084Z	Central Nervous System Electrical Activity Measurement
+4A008BD	Measurement of the Intracranial Central Nervous System Pressure
+4A008BD	Intracranial Central Nervous System Pressure Measurement
+4A008KD	Measurement of the Intracranial Central Nervous System Temperature
+4A008KD	Intracranial Central Nervous System Temperature Measurement
+4A008RD	Measurement of the Intracranial Central Nervous System Saturation
+4A008RD	Intracranial Central Nervous System Saturation Measurement
+4A00X2Z	Measurement of the Central Nervous System Conductivity
+4A00X2Z	Central Nervous System Conductivity Measurement
+4A00X4Z	Measurement of the Central Nervous System Electrical Activity
+4A00X4Z	Central Nervous System Electrical Activity Measurement
+4A01029	Measurement of the Sensory Peripheral Nervous System Conductivity
+4A01029	Sensory Peripheral Nervous System Conductivity Measurement
+4A0102B	Measurement of the Motor Peripheral Nervous System Conductivity
+4A0102B	Motor Peripheral Nervous System Conductivity Measurement
+4A0104Z	Measurement of the Peripheral Nervous System Electrical Activity
+4A0104Z	Peripheral Nervous System Electrical Activity Measurement
+4A01329	Measurement of the Sensory Peripheral Nervous System Conductivity
+4A01329	Sensory Peripheral Nervous System Conductivity Measurement
+4A0132B	Measurement of the Motor Peripheral Nervous System Conductivity
+4A0132B	Motor Peripheral Nervous System Conductivity Measurement
+4A0134Z	Measurement of the Peripheral Nervous System Electrical Activity
+4A0134Z	Peripheral Nervous System Electrical Activity Measurement
+4A01729	Measurement of the Sensory Peripheral Nervous System Conductivity
+4A01729	Sensory Peripheral Nervous System Conductivity Measurement
+4A0172B	Measurement of the Motor Peripheral Nervous System Conductivity
+4A0172B	Motor Peripheral Nervous System Conductivity Measurement
+4A0174Z	Measurement of the Peripheral Nervous System Electrical Activity
+4A0174Z	Peripheral Nervous System Electrical Activity Measurement
+4A01829	Measurement of the Sensory Peripheral Nervous System Conductivity
+4A01829	Sensory Peripheral Nervous System Conductivity Measurement
+4A0182B	Measurement of the Motor Peripheral Nervous System Conductivity
+4A0182B	Motor Peripheral Nervous System Conductivity Measurement
+4A0184Z	Measurement of the Peripheral Nervous System Electrical Activity
+4A0184Z	Peripheral Nervous System Electrical Activity Measurement
+4A01X29	Measurement of the Sensory Peripheral Nervous System Conductivity
+4A01X29	Sensory Peripheral Nervous System Conductivity Measurement
+4A01X2B	Measurement of the Motor Peripheral Nervous System Conductivity
+4A01X2B	Motor Peripheral Nervous System Conductivity Measurement
+4A01X4Z	Measurement of the Peripheral Nervous System Electrical Activity
+4A01X4Z	Peripheral Nervous System Electrical Activity Measurement
+4A0204Z	Measurement of the Cardiac System Electrical Activity
+4A0204Z	Cardiac System Electrical Activity Measurement
+4A0209Z	Measurement of the Cardiac System Output
+4A0209Z	Cardiac System Output Measurement
+4A020CZ	Measurement of the Cardiac System Rate
+4A020CZ	Cardiac System Rate Measurement
+4A020FZ	Measurement of the Cardiac System Rhythm
+4A020FZ	Cardiac System Rhythm Measurement
+4A020HZ	Measurement of the Cardiac System Sound
+4A020HZ	Cardiac System Sound Measurement
+4A020N6	Measurement of the Cardiac System Sampling And Pressure
+4A020N6	Cardiac System Sampling And Pressure Measurement
+4A020N7	Measurement of the Cardiac System Sampling And Pressure
+4A020N7	Cardiac System Sampling And Pressure Measurement
+4A020N8	Measurement of the Cardiac System Sampling And Pressure
+4A020N8	Cardiac System Sampling And Pressure Measurement
+4A020PZ	Measurement of the Cardiac System Action Currents
+4A020PZ	Cardiac System Action Currents Measurement
+4A0234Z	Measurement of the Cardiac System Electrical Activity
+4A0234Z	Cardiac System Electrical Activity Measurement
+4A0239Z	Measurement of the Cardiac System Output
+4A0239Z	Cardiac System Output Measurement
+4A023CZ	Measurement of the Cardiac System Rate
+4A023CZ	Cardiac System Rate Measurement
+4A023FZ	Measurement of the Cardiac System Rhythm
+4A023FZ	Cardiac System Rhythm Measurement
+4A023HZ	Measurement of the Cardiac System Sound
+4A023HZ	Cardiac System Sound Measurement
+4A023N6	Measurement of the Cardiac System Sampling And Pressure
+4A023N6	Cardiac System Sampling And Pressure Measurement
+4A023N7	Measurement of the Cardiac System Sampling And Pressure
+4A023N7	Cardiac System Sampling And Pressure Measurement
+4A023N8	Measurement of the Cardiac System Sampling And Pressure
+4A023N8	Cardiac System Sampling And Pressure Measurement
+4A023PZ	Measurement of the Cardiac System Action Currents
+4A023PZ	Cardiac System Action Currents Measurement
+4A0274Z	Measurement of the Cardiac System Electrical Activity
+4A0274Z	Cardiac System Electrical Activity Measurement
+4A0279Z	Measurement of the Cardiac System Output
+4A0279Z	Cardiac System Output Measurement
+4A027CZ	Measurement of the Cardiac System Rate
+4A027CZ	Cardiac System Rate Measurement
+4A027FZ	Measurement of the Cardiac System Rhythm
+4A027FZ	Cardiac System Rhythm Measurement
+4A027HZ	Measurement of the Cardiac System Sound
+4A027HZ	Cardiac System Sound Measurement
+4A027N6	Measurement of the Cardiac System Sampling And Pressure
+4A027N6	Cardiac System Sampling And Pressure Measurement
+4A027N7	Measurement of the Cardiac System Sampling And Pressure
+4A027N7	Cardiac System Sampling And Pressure Measurement
+4A027N8	Measurement of the Cardiac System Sampling And Pressure
+4A027N8	Cardiac System Sampling And Pressure Measurement
+4A027PZ	Measurement of the Cardiac System Action Currents
+4A027PZ	Cardiac System Action Currents Measurement
+4A0284Z	Measurement of the Cardiac System Electrical Activity
+4A0284Z	Cardiac System Electrical Activity Measurement
+4A0289Z	Measurement of the Cardiac System Output
+4A0289Z	Cardiac System Output Measurement
+4A028CZ	Measurement of the Cardiac System Rate
+4A028CZ	Cardiac System Rate Measurement
+4A028FZ	Measurement of the Cardiac System Rhythm
+4A028FZ	Cardiac System Rhythm Measurement
+4A028HZ	Measurement of the Cardiac System Sound
+4A028HZ	Cardiac System Sound Measurement
+4A028N6	Measurement of the Cardiac System Sampling And Pressure
+4A028N6	Cardiac System Sampling And Pressure Measurement
+4A028N7	Measurement of the Cardiac System Sampling And Pressure
+4A028N7	Cardiac System Sampling And Pressure Measurement
+4A028N8	Measurement of the Cardiac System Sampling And Pressure
+4A028N8	Cardiac System Sampling And Pressure Measurement
+4A028PZ	Measurement of the Cardiac System Action Currents
+4A028PZ	Cardiac System Action Currents Measurement
+4A02X4A	Measurement of the Cardiac System Electrical Activity
+4A02X4A	Cardiac System Electrical Activity Measurement
+4A02X4Z	Measurement of the Cardiac System Electrical Activity
+4A02X4Z	Cardiac System Electrical Activity Measurement
+4A02X9Z	Measurement of the Cardiac System Output
+4A02X9Z	Cardiac System Output Measurement
+4A02XCZ	Measurement of the Cardiac System Rate
+4A02XCZ	Cardiac System Rate Measurement
+4A02XFZ	Measurement of the Cardiac System Rhythm
+4A02XFZ	Cardiac System Rhythm Measurement
+4A02XHZ	Measurement of the Cardiac System Sound
+4A02XHZ	Cardiac System Sound Measurement
+4A02XM4	Measurement of the Cardiac System Total Activity
+4A02XM4	Cardiac System Total Activity Measurement
+4A02XPZ	Measurement of the Cardiac System Action Currents
+4A02XPZ	Cardiac System Action Currents Measurement
+4A03051	Measurement of the Arterial System Flow
+4A03051	Arterial System Flow Measurement
+4A03053	Measurement of the Arterial System Flow
+4A03053	Arterial System Flow Measurement
+4A0305C	Measurement of the Arterial System Flow
+4A0305C	Arterial System Flow Measurement
+4A030B1	Measurement of the Arterial System Pressure
+4A030B1	Arterial System Pressure Measurement
+4A030B3	Measurement of the Arterial System Pressure
+4A030B3	Arterial System Pressure Measurement
+4A030BC	Measurement of the Arterial System Pressure
+4A030BC	Arterial System Pressure Measurement
+4A030BF	Measurement of the Arterial System Pressure
+4A030BF	Arterial System Pressure Measurement
+4A030H1	Measurement of the Arterial System Sound
+4A030H1	Arterial System Sound Measurement
+4A030J1	Measurement of the Arterial System Pulse
+4A030J1	Arterial System Pulse Measurement
+4A030J3	Measurement of the Arterial System Pulse
+4A030J3	Arterial System Pulse Measurement
+4A030JC	Measurement of the Arterial System Pulse
+4A030JC	Arterial System Pulse Measurement
+4A030R1	Measurement of the Arterial System Saturation
+4A030R1	Arterial System Saturation Measurement
+4A03351	Measurement of the Arterial System Flow
+4A03351	Arterial System Flow Measurement
+4A03353	Measurement of the Arterial System Flow
+4A03353	Arterial System Flow Measurement
+4A0335C	Measurement of the Arterial System Flow
+4A0335C	Arterial System Flow Measurement
+4A033B1	Measurement of the Arterial System Pressure
+4A033B1	Arterial System Pressure Measurement
+4A033B3	Measurement of the Arterial System Pressure
+4A033B3	Arterial System Pressure Measurement
+4A033BC	Measurement of the Arterial System Pressure
+4A033BC	Arterial System Pressure Measurement
+4A033BF	Measurement of the Arterial System Pressure
+4A033BF	Arterial System Pressure Measurement
+4A033H1	Measurement of the Arterial System Sound
+4A033H1	Arterial System Sound Measurement
+4A033J1	Measurement of the Arterial System Pulse
+4A033J1	Arterial System Pulse Measurement
+4A033J3	Measurement of the Arterial System Pulse
+4A033J3	Arterial System Pulse Measurement
+4A033JC	Measurement of the Arterial System Pulse
+4A033JC	Arterial System Pulse Measurement
+4A033R1	Measurement of the Arterial System Saturation
+4A033R1	Arterial System Saturation Measurement
+4A03X51	Measurement of the Arterial System Flow
+4A03X51	Arterial System Flow Measurement
+4A03X5D	Measurement of the Intracranial Arterial System Flow
+4A03X5D	Intracranial Arterial System Flow Measurement
+4A03XB1	Measurement of the Arterial System Pressure
+4A03XB1	Arterial System Pressure Measurement
+4A03XH1	Measurement of the Arterial System Sound
+4A03XH1	Arterial System Sound Measurement
+4A03XJ1	Measurement of the Arterial System Pulse
+4A03XJ1	Arterial System Pulse Measurement
+4A03XR1	Measurement of the Arterial System Saturation
+4A03XR1	Arterial System Saturation Measurement
+4A04050	Measurement of the Venous System Flow
+4A04050	Venous System Flow Measurement
+4A04051	Measurement of the Venous System Flow
+4A04051	Venous System Flow Measurement
+4A04052	Measurement of the Venous System Flow
+4A04052	Venous System Flow Measurement
+4A04053	Measurement of the Venous System Flow
+4A04053	Venous System Flow Measurement
+4A040B0	Measurement of the Venous System Pressure
+4A040B0	Venous System Pressure Measurement
+4A040B1	Measurement of the Venous System Pressure
+4A040B1	Venous System Pressure Measurement
+4A040B2	Measurement of the Venous System Pressure
+4A040B2	Venous System Pressure Measurement
+4A040B3	Measurement of the Venous System Pressure
+4A040B3	Venous System Pressure Measurement
+4A040J0	Measurement of the Venous System Pulse
+4A040J0	Venous System Pulse Measurement
+4A040J1	Measurement of the Venous System Pulse
+4A040J1	Venous System Pulse Measurement
+4A040J2	Measurement of the Venous System Pulse
+4A040J2	Venous System Pulse Measurement
+4A040J3	Measurement of the Venous System Pulse
+4A040J3	Venous System Pulse Measurement
+4A040R1	Measurement of the Venous System Saturation
+4A040R1	Venous System Saturation Measurement
+4A04350	Measurement of the Venous System Flow
+4A04350	Venous System Flow Measurement
+4A04351	Measurement of the Venous System Flow
+4A04351	Venous System Flow Measurement
+4A04352	Measurement of the Venous System Flow
+4A04352	Venous System Flow Measurement
+4A04353	Measurement of the Venous System Flow
+4A04353	Venous System Flow Measurement
+4A043B0	Measurement of the Venous System Pressure
+4A043B0	Venous System Pressure Measurement
+4A043B1	Measurement of the Venous System Pressure
+4A043B1	Venous System Pressure Measurement
+4A043B2	Measurement of the Venous System Pressure
+4A043B2	Venous System Pressure Measurement
+4A043B3	Measurement of the Venous System Pressure
+4A043B3	Venous System Pressure Measurement
+4A043J0	Measurement of the Venous System Pulse
+4A043J0	Venous System Pulse Measurement
+4A043J1	Measurement of the Venous System Pulse
+4A043J1	Venous System Pulse Measurement
+4A043J2	Measurement of the Venous System Pulse
+4A043J2	Venous System Pulse Measurement
+4A043J3	Measurement of the Venous System Pulse
+4A043J3	Venous System Pulse Measurement
+4A043R1	Measurement of the Venous System Saturation
+4A043R1	Venous System Saturation Measurement
+4A044B2	Measurement of the Venous System Pressure
+4A044B2	Venous System Pressure Measurement
+4A04X51	Measurement of the Venous System Flow
+4A04X51	Venous System Flow Measurement
+4A04XB1	Measurement of the Venous System Pressure
+4A04XB1	Venous System Pressure Measurement
+4A04XJ1	Measurement of the Venous System Pulse
+4A04XJ1	Venous System Pulse Measurement
+4A04XR1	Measurement of the Venous System Saturation
+4A04XR1	Venous System Saturation Measurement
+4A0605Z	Measurement of the Lymphatic System Flow
+4A0605Z	Lymphatic System Flow Measurement
+4A060BZ	Measurement of the Lymphatic System Pressure
+4A060BZ	Lymphatic System Pressure Measurement
+4A0635Z	Measurement of the Lymphatic System Flow
+4A0635Z	Lymphatic System Flow Measurement
+4A063BZ	Measurement of the Lymphatic System Pressure
+4A063BZ	Lymphatic System Pressure Measurement
+4A0675Z	Measurement of the Lymphatic System Flow
+4A0675Z	Lymphatic System Flow Measurement
+4A067BZ	Measurement of the Lymphatic System Pressure
+4A067BZ	Lymphatic System Pressure Measurement
+4A0685Z	Measurement of the Lymphatic System Flow
+4A0685Z	Lymphatic System Flow Measurement
+4A068BZ	Measurement of the Lymphatic System Pressure
+4A068BZ	Lymphatic System Pressure Measurement
+4A07X0Z	Measurement of the Visual Acuity
+4A07X0Z	Visual Acuity Measurement
+4A07X7Z	Measurement of the Visual Mobility
+4A07X7Z	Visual Mobility Measurement
+4A07XBZ	Measurement of the Visual Pressure
+4A07XBZ	Visual Pressure Measurement
+4A08X0Z	Measurement of the Olfactory Acuity
+4A08X0Z	Olfactory Acuity Measurement
+4A0C35Z	Measurement of the Biliary System Flow
+4A0C35Z	Biliary System Flow Measurement
+4A0C3BZ	Measurement of the Biliary System Pressure
+4A0C3BZ	Biliary System Pressure Measurement
+4A0C45Z	Measurement of the Biliary System Flow
+4A0C45Z	Biliary System Flow Measurement
+4A0C4BZ	Measurement of the Biliary System Pressure
+4A0C4BZ	Biliary System Pressure Measurement
+4A0C75Z	Measurement of the Biliary System Flow
+4A0C75Z	Biliary System Flow Measurement
+4A0C7BZ	Measurement of the Biliary System Pressure
+4A0C7BZ	Biliary System Pressure Measurement
+4A0C85Z	Measurement of the Biliary System Flow
+4A0C85Z	Biliary System Flow Measurement
+4A0C8BZ	Measurement of the Biliary System Pressure
+4A0C8BZ	Biliary System Pressure Measurement
+4A0D73Z	Measurement of the Urinary System Contractility
+4A0D73Z	Urinary System Contractility Measurement
+4A0D75Z	Measurement of the Urinary System Flow
+4A0D75Z	Urinary System Flow Measurement
+4A0D7BZ	Measurement of the Urinary System Pressure
+4A0D7BZ	Urinary System Pressure Measurement
+4A0D7DZ	Measurement of the Urinary System Resistance
+4A0D7DZ	Urinary System Resistance Measurement
+4A0D83Z	Measurement of the Urinary System Contractility
+4A0D83Z	Urinary System Contractility Measurement
+4A0D85Z	Measurement of the Urinary System Flow
+4A0D85Z	Urinary System Flow Measurement
+4A0D8BZ	Measurement of the Urinary System Pressure
+4A0D8BZ	Urinary System Pressure Measurement
+4A0D8DZ	Measurement of the Urinary System Resistance
+4A0D8DZ	Urinary System Resistance Measurement
+4A0H74Z	Measurement of the Products Of Conception Electrical Activity
+4A0H74Z	Products Of Conception Electrical Activity Measurement
+4A0H7CZ	Measurement of the Products Of Conception Rate
+4A0H7CZ	Products Of Conception Rate Measurement
+4A0H7FZ	Measurement of the Products Of Conception Rhythm
+4A0H7FZ	Products Of Conception Rhythm Measurement
+4A0H7HZ	Measurement of the Products Of Conception Sound
+4A0H7HZ	Products Of Conception Sound Measurement
+4A0H84Z	Measurement of the Products Of Conception Electrical Activity
+4A0H84Z	Products Of Conception Electrical Activity Measurement
+4A0H8CZ	Measurement of the Products Of Conception Rate
+4A0H8CZ	Products Of Conception Rate Measurement
+4A0H8FZ	Measurement of the Products Of Conception Rhythm
+4A0H8FZ	Products Of Conception Rhythm Measurement
+4A0H8HZ	Measurement of the Products Of Conception Sound
+4A0H8HZ	Products Of Conception Sound Measurement
+4A0HX4Z	Measurement of the Products Of Conception Electrical Activity
+4A0HX4Z	Products Of Conception Electrical Activity Measurement
+4A0HXCZ	Measurement of the Products Of Conception Rate
+4A0HXCZ	Products Of Conception Rate Measurement
+4A0HXFZ	Measurement of the Products Of Conception Rhythm
+4A0HXFZ	Products Of Conception Rhythm Measurement
+4A0HXHZ	Measurement of the Products Of Conception Sound
+4A0HXHZ	Products Of Conception Sound Measurement
+4A0J72Z	Measurement of the Products Of Conception Conductivity
+4A0J72Z	Products Of Conception Conductivity Measurement
+4A0J74Z	Measurement of the Products Of Conception Electrical Activity
+4A0J74Z	Products Of Conception Electrical Activity Measurement
+4A0J7BZ	Measurement of the Products Of Conception Pressure
+4A0J7BZ	Products Of Conception Pressure Measurement
+4A0J82Z	Measurement of the Products Of Conception Conductivity
+4A0J82Z	Products Of Conception Conductivity Measurement
+4A0J84Z	Measurement of the Products Of Conception Electrical Activity
+4A0J84Z	Products Of Conception Electrical Activity Measurement
+4A0J8BZ	Measurement of the Products Of Conception Pressure
+4A0J8BZ	Products Of Conception Pressure Measurement
+4A0JX2Z	Measurement of the Products Of Conception Conductivity
+4A0JX2Z	Products Of Conception Conductivity Measurement
+4A0JX4Z	Measurement of the Products Of Conception Electrical Activity
+4A0JX4Z	Products Of Conception Electrical Activity Measurement
+4A0JXBZ	Measurement of the Products Of Conception Pressure
+4A0JXBZ	Products Of Conception Pressure Measurement
+4A1	Monitoring of the Physiological Systems
+4A1	Physiological Systems Monitoring
+4A1002Z	Monitoring of the Central Nervous System Conductivity
+4A1002Z	Central Nervous System Conductivity Monitoring
+4A1004G	Monitoring of the Intraoperative Central Nervous System Electrical Activity
+4A1004G	Intraoperative Central Nervous System Electrical Activity Monitoring
+4A1004Z	Monitoring of the Central Nervous System Electrical Activity
+4A1004Z	Central Nervous System Electrical Activity Monitoring
+4A100BZ	Monitoring of the Central Nervous System Pressure
+4A100BZ	Central Nervous System Pressure Monitoring
+4A1034G	Monitoring of the Intraoperative Central Nervous System Electrical Activity
+4A1034G	Intraoperative Central Nervous System Electrical Activity Monitoring
+4A1034Z	Monitoring of the Central Nervous System Electrical Activity
+4A1034Z	Central Nervous System Electrical Activity Monitoring
+4A103BD	Monitoring of the Intracranial Central Nervous System Pressure
+4A103BD	Intracranial Central Nervous System Pressure Monitoring
+4A103KD	Monitoring of the Intracranial Central Nervous System Temperature
+4A103KD	Intracranial Central Nervous System Temperature Monitoring
+4A103RD	Monitoring of the Intracranial Central Nervous System Saturation
+4A103RD	Intracranial Central Nervous System Saturation Monitoring
+4A1074G	Monitoring of the Intraoperative Central Nervous System Electrical Activity
+4A1074G	Intraoperative Central Nervous System Electrical Activity Monitoring
+4A1074Z	Monitoring of the Central Nervous System Electrical Activity
+4A1074Z	Central Nervous System Electrical Activity Monitoring
+4A107BD	Monitoring of the Intracranial Central Nervous System Pressure
+4A107BD	Intracranial Central Nervous System Pressure Monitoring
+4A107KD	Monitoring of the Intracranial Central Nervous System Temperature
+4A107KD	Intracranial Central Nervous System Temperature Monitoring
+4A107RD	Monitoring of the Intracranial Central Nervous System Saturation
+4A107RD	Intracranial Central Nervous System Saturation Monitoring
+4A1084G	Monitoring of the Intraoperative Central Nervous System Electrical Activity
+4A1084G	Intraoperative Central Nervous System Electrical Activity Monitoring
+4A1084Z	Monitoring of the Central Nervous System Electrical Activity
+4A1084Z	Central Nervous System Electrical Activity Monitoring
+4A108BD	Monitoring of the Intracranial Central Nervous System Pressure
+4A108BD	Intracranial Central Nervous System Pressure Monitoring
+4A108KD	Monitoring of the Intracranial Central Nervous System Temperature
+4A108KD	Intracranial Central Nervous System Temperature Monitoring
+4A108RD	Monitoring of the Intracranial Central Nervous System Saturation
+4A108RD	Intracranial Central Nervous System Saturation Monitoring
+4A10X2Z	Monitoring of the Central Nervous System Conductivity
+4A10X2Z	Central Nervous System Conductivity Monitoring
+4A10X4G	Monitoring of the Intraoperative Central Nervous System Electrical Activity
+4A10X4G	Intraoperative Central Nervous System Electrical Activity Monitoring
+4A10X4Z	Monitoring of the Central Nervous System Electrical Activity
+4A10X4Z	Central Nervous System Electrical Activity Monitoring
+4A11029	Monitoring of the Sensory Peripheral Nervous System Conductivity
+4A11029	Sensory Peripheral Nervous System Conductivity Monitoring
+4A1102B	Monitoring of the Motor Peripheral Nervous System Conductivity
+4A1102B	Motor Peripheral Nervous System Conductivity Monitoring
+4A1104G	Monitoring of the Intraoperative Peripheral Nervous System Electrical Activity
+4A1104G	Intraoperative Peripheral Nervous System Electrical Activity Monitoring
+4A1104Z	Monitoring of the Peripheral Nervous System Electrical Activity
+4A1104Z	Peripheral Nervous System Electrical Activity Monitoring
+4A11329	Monitoring of the Sensory Peripheral Nervous System Conductivity
+4A11329	Sensory Peripheral Nervous System Conductivity Monitoring
+4A1132B	Monitoring of the Motor Peripheral Nervous System Conductivity
+4A1132B	Motor Peripheral Nervous System Conductivity Monitoring
+4A1134G	Monitoring of the Intraoperative Peripheral Nervous System Electrical Activity
+4A1134G	Intraoperative Peripheral Nervous System Electrical Activity Monitoring
+4A1134Z	Monitoring of the Peripheral Nervous System Electrical Activity
+4A1134Z	Peripheral Nervous System Electrical Activity Monitoring
+4A11729	Monitoring of the Sensory Peripheral Nervous System Conductivity
+4A11729	Sensory Peripheral Nervous System Conductivity Monitoring
+4A1172B	Monitoring of the Motor Peripheral Nervous System Conductivity
+4A1172B	Motor Peripheral Nervous System Conductivity Monitoring
+4A1174G	Monitoring of the Intraoperative Peripheral Nervous System Electrical Activity
+4A1174G	Intraoperative Peripheral Nervous System Electrical Activity Monitoring
+4A1174Z	Monitoring of the Peripheral Nervous System Electrical Activity
+4A1174Z	Peripheral Nervous System Electrical Activity Monitoring
+4A11829	Monitoring of the Sensory Peripheral Nervous System Conductivity
+4A11829	Sensory Peripheral Nervous System Conductivity Monitoring
+4A1182B	Monitoring of the Motor Peripheral Nervous System Conductivity
+4A1182B	Motor Peripheral Nervous System Conductivity Monitoring
+4A1184G	Monitoring of the Intraoperative Peripheral Nervous System Electrical Activity
+4A1184G	Intraoperative Peripheral Nervous System Electrical Activity Monitoring
+4A1184Z	Monitoring of the Peripheral Nervous System Electrical Activity
+4A1184Z	Peripheral Nervous System Electrical Activity Monitoring
+4A11X29	Monitoring of the Sensory Peripheral Nervous System Conductivity
+4A11X29	Sensory Peripheral Nervous System Conductivity Monitoring
+4A11X2B	Monitoring of the Motor Peripheral Nervous System Conductivity
+4A11X2B	Motor Peripheral Nervous System Conductivity Monitoring
+4A11X4G	Monitoring of the Intraoperative Peripheral Nervous System Electrical Activity
+4A11X4G	Intraoperative Peripheral Nervous System Electrical Activity Monitoring
+4A11X4Z	Monitoring of the Peripheral Nervous System Electrical Activity
+4A11X4Z	Peripheral Nervous System Electrical Activity Monitoring
+4A1204Z	Monitoring of the Cardiac System Electrical Activity
+4A1204Z	Cardiac System Electrical Activity Monitoring
+4A1209Z	Monitoring of the Cardiac System Output
+4A1209Z	Cardiac System Output Monitoring
+4A120CZ	Monitoring of the Cardiac System Rate
+4A120CZ	Cardiac System Rate Monitoring
+4A120FZ	Monitoring of the Cardiac System Rhythm
+4A120FZ	Cardiac System Rhythm Monitoring
+4A120HZ	Monitoring of the Cardiac System Sound
+4A120HZ	Cardiac System Sound Monitoring
+4A1234Z	Monitoring of the Cardiac System Electrical Activity
+4A1234Z	Cardiac System Electrical Activity Monitoring
+4A1239Z	Monitoring of the Cardiac System Output
+4A1239Z	Cardiac System Output Monitoring
+4A123CZ	Monitoring of the Cardiac System Rate
+4A123CZ	Cardiac System Rate Monitoring
+4A123FZ	Monitoring of the Cardiac System Rhythm
+4A123FZ	Cardiac System Rhythm Monitoring
+4A123HZ	Monitoring of the Cardiac System Sound
+4A123HZ	Cardiac System Sound Monitoring
+4A1274Z	Monitoring of the Cardiac System Electrical Activity
+4A1274Z	Cardiac System Electrical Activity Monitoring
+4A1279Z	Monitoring of the Cardiac System Output
+4A1279Z	Cardiac System Output Monitoring
+4A127CZ	Monitoring of the Cardiac System Rate
+4A127CZ	Cardiac System Rate Monitoring
+4A127FZ	Monitoring of the Cardiac System Rhythm
+4A127FZ	Cardiac System Rhythm Monitoring
+4A127HZ	Monitoring of the Cardiac System Sound
+4A127HZ	Cardiac System Sound Monitoring
+4A1284Z	Monitoring of the Cardiac System Electrical Activity
+4A1284Z	Cardiac System Electrical Activity Monitoring
+4A1289Z	Monitoring of the Cardiac System Output
+4A1289Z	Cardiac System Output Monitoring
+4A128CZ	Monitoring of the Cardiac System Rate
+4A128CZ	Cardiac System Rate Monitoring
+4A128FZ	Monitoring of the Cardiac System Rhythm
+4A128FZ	Cardiac System Rhythm Monitoring
+4A128HZ	Monitoring of the Cardiac System Sound
+4A128HZ	Cardiac System Sound Monitoring
+4A12X45	Monitoring of the Cardiac System Electrical Activity
+4A12X45	Cardiac System Electrical Activity Monitoring
+4A12X4Z	Monitoring of the Cardiac System Electrical Activity
+4A12X4Z	Cardiac System Electrical Activity Monitoring
+4A12X9Z	Monitoring of the Cardiac System Output
+4A12X9Z	Cardiac System Output Monitoring
+4A12XCZ	Monitoring of the Cardiac System Rate
+4A12XCZ	Cardiac System Rate Monitoring
+4A12XFZ	Monitoring of the Cardiac System Rhythm
+4A12XFZ	Cardiac System Rhythm Monitoring
+4A12XHZ	Monitoring of the Cardiac System Sound
+4A12XHZ	Cardiac System Sound Monitoring
+4A12XM4	Monitoring of the Cardiac System Total Activity
+4A12XM4	Cardiac System Total Activity Monitoring
+4A12XSH	Monitoring of the Cardiac System Vascular Perfusion
+4A12XSH	Cardiac System Vascular Perfusion Monitoring
+4A13051	Monitoring of the Arterial System Flow
+4A13051	Arterial System Flow Monitoring
+4A13053	Monitoring of the Arterial System Flow
+4A13053	Arterial System Flow Monitoring
+4A1305C	Monitoring of the Arterial System Flow
+4A1305C	Arterial System Flow Monitoring
+4A130B1	Monitoring of the Arterial System Pressure
+4A130B1	Arterial System Pressure Monitoring
+4A130B3	Monitoring of the Arterial System Pressure
+4A130B3	Arterial System Pressure Monitoring
+4A130BC	Monitoring of the Arterial System Pressure
+4A130BC	Arterial System Pressure Monitoring
+4A130H1	Monitoring of the Arterial System Sound
+4A130H1	Arterial System Sound Monitoring
+4A130J1	Monitoring of the Arterial System Pulse
+4A130J1	Arterial System Pulse Monitoring
+4A130J3	Monitoring of the Arterial System Pulse
+4A130J3	Arterial System Pulse Monitoring
+4A130JC	Monitoring of the Arterial System Pulse
+4A130JC	Arterial System Pulse Monitoring
+4A130R1	Monitoring of the Arterial System Saturation
+4A130R1	Arterial System Saturation Monitoring
+4A13351	Monitoring of the Arterial System Flow
+4A13351	Arterial System Flow Monitoring
+4A13353	Monitoring of the Arterial System Flow
+4A13353	Arterial System Flow Monitoring
+4A1335C	Monitoring of the Arterial System Flow
+4A1335C	Arterial System Flow Monitoring
+4A133B1	Monitoring of the Arterial System Pressure
+4A133B1	Arterial System Pressure Monitoring
+4A133B3	Monitoring of the Arterial System Pressure
+4A133B3	Arterial System Pressure Monitoring
+4A133BC	Monitoring of the Arterial System Pressure
+4A133BC	Arterial System Pressure Monitoring
+4A133H1	Monitoring of the Arterial System Sound
+4A133H1	Arterial System Sound Monitoring
+4A133J1	Monitoring of the Arterial System Pulse
+4A133J1	Arterial System Pulse Monitoring
+4A133J3	Monitoring of the Arterial System Pulse
+4A133J3	Arterial System Pulse Monitoring
+4A133JC	Monitoring of the Arterial System Pulse
+4A133JC	Arterial System Pulse Monitoring
+4A133R1	Monitoring of the Arterial System Saturation
+4A133R1	Arterial System Saturation Monitoring
+4A13X51	Monitoring of the Arterial System Flow
+4A13X51	Arterial System Flow Monitoring
+4A13XB1	Monitoring of the Arterial System Pressure
+4A13XB1	Arterial System Pressure Monitoring
+4A13XH1	Monitoring of the Arterial System Sound
+4A13XH1	Arterial System Sound Monitoring
+4A13XJ1	Monitoring of the Arterial System Pulse
+4A13XJ1	Arterial System Pulse Monitoring
+4A13XR1	Monitoring of the Arterial System Saturation
+4A13XR1	Arterial System Saturation Monitoring
+4A14050	Monitoring of the Venous System Flow
+4A14050	Venous System Flow Monitoring
+4A14051	Monitoring of the Venous System Flow
+4A14051	Venous System Flow Monitoring
+4A14052	Monitoring of the Venous System Flow
+4A14052	Venous System Flow Monitoring
+4A14053	Monitoring of the Venous System Flow
+4A14053	Venous System Flow Monitoring
+4A140B0	Monitoring of the Venous System Pressure
+4A140B0	Venous System Pressure Monitoring
+4A140B1	Monitoring of the Venous System Pressure
+4A140B1	Venous System Pressure Monitoring
+4A140B2	Monitoring of the Venous System Pressure
+4A140B2	Venous System Pressure Monitoring
+4A140B3	Monitoring of the Venous System Pressure
+4A140B3	Venous System Pressure Monitoring
+4A140J0	Monitoring of the Venous System Pulse
+4A140J0	Venous System Pulse Monitoring
+4A140J1	Monitoring of the Venous System Pulse
+4A140J1	Venous System Pulse Monitoring
+4A140J2	Monitoring of the Venous System Pulse
+4A140J2	Venous System Pulse Monitoring
+4A140J3	Monitoring of the Venous System Pulse
+4A140J3	Venous System Pulse Monitoring
+4A140R0	Monitoring of the Venous System Saturation
+4A140R0	Venous System Saturation Monitoring
+4A140R2	Monitoring of the Venous System Saturation
+4A140R2	Venous System Saturation Monitoring
+4A140R3	Monitoring of the Venous System Saturation
+4A140R3	Venous System Saturation Monitoring
+4A14350	Monitoring of the Venous System Flow
+4A14350	Venous System Flow Monitoring
+4A14351	Monitoring of the Venous System Flow
+4A14351	Venous System Flow Monitoring
+4A14352	Monitoring of the Venous System Flow
+4A14352	Venous System Flow Monitoring
+4A14353	Monitoring of the Venous System Flow
+4A14353	Venous System Flow Monitoring
+4A143B0	Monitoring of the Venous System Pressure
+4A143B0	Venous System Pressure Monitoring
+4A143B1	Monitoring of the Venous System Pressure
+4A143B1	Venous System Pressure Monitoring
+4A143B2	Monitoring of the Venous System Pressure
+4A143B2	Venous System Pressure Monitoring
+4A143B3	Monitoring of the Venous System Pressure
+4A143B3	Venous System Pressure Monitoring
+4A143J0	Monitoring of the Venous System Pulse
+4A143J0	Venous System Pulse Monitoring
+4A143J1	Monitoring of the Venous System Pulse
+4A143J1	Venous System Pulse Monitoring
+4A143J2	Monitoring of the Venous System Pulse
+4A143J2	Venous System Pulse Monitoring
+4A143J3	Monitoring of the Venous System Pulse
+4A143J3	Venous System Pulse Monitoring
+4A143R0	Monitoring of the Venous System Saturation
+4A143R0	Venous System Saturation Monitoring
+4A143R2	Monitoring of the Venous System Saturation
+4A143R2	Venous System Saturation Monitoring
+4A143R3	Monitoring of the Venous System Saturation
+4A143R3	Venous System Saturation Monitoring
+4A14X51	Monitoring of the Venous System Flow
+4A14X51	Venous System Flow Monitoring
+4A14XB1	Monitoring of the Venous System Pressure
+4A14XB1	Venous System Pressure Monitoring
+4A14XJ1	Monitoring of the Venous System Pulse
+4A14XJ1	Venous System Pulse Monitoring
+4A1605H	Monitoring of the Lymphatic System Flow
+4A1605H	Lymphatic System Flow Monitoring
+4A1605Z	Monitoring of the Lymphatic System Flow
+4A1605Z	Lymphatic System Flow Monitoring
+4A160BZ	Monitoring of the Lymphatic System Pressure
+4A160BZ	Lymphatic System Pressure Monitoring
+4A1635H	Monitoring of the Lymphatic System Flow
+4A1635H	Lymphatic System Flow Monitoring
+4A1635Z	Monitoring of the Lymphatic System Flow
+4A1635Z	Lymphatic System Flow Monitoring
+4A163BZ	Monitoring of the Lymphatic System Pressure
+4A163BZ	Lymphatic System Pressure Monitoring
+4A1675H	Monitoring of the Lymphatic System Flow
+4A1675H	Lymphatic System Flow Monitoring
+4A1675Z	Monitoring of the Lymphatic System Flow
+4A1675Z	Lymphatic System Flow Monitoring
+4A167BZ	Monitoring of the Lymphatic System Pressure
+4A167BZ	Lymphatic System Pressure Monitoring
+4A1685H	Monitoring of the Lymphatic System Flow
+4A1685H	Lymphatic System Flow Monitoring
+4A1685Z	Monitoring of the Lymphatic System Flow
+4A1685Z	Lymphatic System Flow Monitoring
+4A168BZ	Monitoring of the Lymphatic System Pressure
+4A168BZ	Lymphatic System Pressure Monitoring
+4A1D73Z	Monitoring of the Urinary System Contractility
+4A1D73Z	Urinary System Contractility Monitoring
+4A1D75Z	Monitoring of the Urinary System Flow
+4A1D75Z	Urinary System Flow Monitoring
+4A1D7BZ	Monitoring of the Urinary System Pressure
+4A1D7BZ	Urinary System Pressure Monitoring
+4A1D7DZ	Monitoring of the Urinary System Resistance
+4A1D7DZ	Urinary System Resistance Monitoring
+4A1D83Z	Monitoring of the Urinary System Contractility
+4A1D83Z	Urinary System Contractility Monitoring
+4A1D85Z	Monitoring of the Urinary System Flow
+4A1D85Z	Urinary System Flow Monitoring
+4A1D8BZ	Monitoring of the Urinary System Pressure
+4A1D8BZ	Urinary System Pressure Monitoring
+4A1D8DZ	Monitoring of the Urinary System Resistance
+4A1D8DZ	Urinary System Resistance Monitoring
+4A1GXSH	Monitoring of the Skin And Breast Vascular Perfusion
+4A1GXSH	Skin And Breast Vascular Perfusion Monitoring
+4A1H74Z	Monitoring of the Products Of Conception Electrical Activity
+4A1H74Z	Products Of Conception Electrical Activity Monitoring
+4A1H7CZ	Monitoring of the Products Of Conception Rate
+4A1H7CZ	Products Of Conception Rate Monitoring
+4A1H7FZ	Monitoring of the Products Of Conception Rhythm
+4A1H7FZ	Products Of Conception Rhythm Monitoring
+4A1H7HZ	Monitoring of the Products Of Conception Sound
+4A1H7HZ	Products Of Conception Sound Monitoring
+4A1H84Z	Monitoring of the Products Of Conception Electrical Activity
+4A1H84Z	Products Of Conception Electrical Activity Monitoring
+4A1H8CZ	Monitoring of the Products Of Conception Rate
+4A1H8CZ	Products Of Conception Rate Monitoring
+4A1H8FZ	Monitoring of the Products Of Conception Rhythm
+4A1H8FZ	Products Of Conception Rhythm Monitoring
+4A1H8HZ	Monitoring of the Products Of Conception Sound
+4A1H8HZ	Products Of Conception Sound Monitoring
+4A1HX4Z	Monitoring of the Products Of Conception Electrical Activity
+4A1HX4Z	Products Of Conception Electrical Activity Monitoring
+4A1HXCZ	Monitoring of the Products Of Conception Rate
+4A1HXCZ	Products Of Conception Rate Monitoring
+4A1HXFZ	Monitoring of the Products Of Conception Rhythm
+4A1HXFZ	Products Of Conception Rhythm Monitoring
+4A1HXHZ	Monitoring of the Products Of Conception Sound
+4A1HXHZ	Products Of Conception Sound Monitoring
+4A1J72Z	Monitoring of the Products Of Conception Conductivity
+4A1J72Z	Products Of Conception Conductivity Monitoring
+4A1J74Z	Monitoring of the Products Of Conception Electrical Activity
+4A1J74Z	Products Of Conception Electrical Activity Monitoring
+4A1J7BZ	Monitoring of the Products Of Conception Pressure
+4A1J7BZ	Products Of Conception Pressure Monitoring
+4A1J82Z	Monitoring of the Products Of Conception Conductivity
+4A1J82Z	Products Of Conception Conductivity Monitoring
+4A1J84Z	Monitoring of the Products Of Conception Electrical Activity
+4A1J84Z	Products Of Conception Electrical Activity Monitoring
+4A1J8BZ	Monitoring of the Products Of Conception Pressure
+4A1J8BZ	Products Of Conception Pressure Monitoring
+4A1JX2Z	Monitoring of the Products Of Conception Conductivity
+4A1JX2Z	Products Of Conception Conductivity Monitoring
+4A1JX4Z	Monitoring of the Products Of Conception Electrical Activity
+4A1JX4Z	Products Of Conception Electrical Activity Monitoring
+4A1JXBZ	Monitoring of the Products Of Conception Pressure
+4A1JXBZ	Products Of Conception Pressure Monitoring
+4B0	Measurement of the Physiological Devices
+4B0	Physiological Devices Measurement
+4B00XVZ	Measurement of the Central Nervous System Stimulator
+4B00XVZ	Central Nervous System Stimulator Measurement
+4B00XW0	Measurement of the Central Nervous System Cerebrospinal Fluid Shunt
+4B00XW0	Central Nervous System Cerebrospinal Fluid Shunt Measurement
+4B01XVZ	Measurement of the Peripheral Nervous System Stimulator
+4B01XVZ	Peripheral Nervous System Stimulator Measurement
+4B02XSZ	Measurement of the Cardiac System Pacemaker
+4B02XSZ	Cardiac System Pacemaker Measurement
+4B02XTZ	Measurement of the Cardiac System Defibrillator
+4B02XTZ	Cardiac System Defibrillator Measurement

@@ -1,0 +1,58 @@
+# Ophthalmic / retinal pathology — diagnoses, not procedures.
+# Tracked by FP-4 in tests/BACKLOG.md.
+#
+# Status (post FP-4 score=0 blocklist, 2026-05-27):
+# - Bare-form ophthalmic compounds suppressed: choroidal detachment,
+#   detachment of the retina/choroid, vitreous detachment, RPE detachment,
+#   retinal detachment (with leading qualifiers).
+# - Known leak: <retinal|central retinal|branch retinal>+vein|artery
+#   occlusion still surfaces a submatch on "vein occlusion"/"artery
+#   occlusion" because Eduction drops score=0 matches before overlap
+#   resolution. Tracked under FP-2 (anatomy-pathology blocklist).
+#
+# Lines marked with "# leak:" are the known unfixed cases.
+
+retinal detachment
+exudative retinal detachment
+rhegmatogenous retinal detachment
+tractional retinal detachment
+serous retinal detachment
+total retinal detachment
+partial retinal detachment
+choroidal detachment
+choroidal detachment with hemorrhage
+posterior vitreous detachment
+vitreous detachment
+detachment of the retina
+detachment of the choroid
+macular detachment
+macular hole
+macular degeneration
+macular edema
+diabetic macular edema
+cystoid macular edema
+age-related macular degeneration
+retinal pigment epithelial detachment
+RPE detachment
+retinal tear
+retinal break
+retinal hole
+proliferative diabetic retinopathy
+non-proliferative diabetic retinopathy
+diabetic retinopathy
+hypertensive retinopathy
+retinal vasculitis
+retinal hemorrhage
+vitreous hemorrhage
+choroidal hemorrhage
+suprachoroidal hemorrhage
+choroidal effusion
+choroidal neovascularization
+
+# leak: substring "vein|artery occlusion" still fires (FP-2 territory)
+retinal vein occlusion
+retinal artery occlusion
+central retinal vein occlusion
+central retinal artery occlusion
+branch retinal vein occlusion
+branch retinal artery occlusion

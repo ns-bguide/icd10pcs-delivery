@@ -1,0 +1,33 @@
+8C0	We performed other procedures of the indwelling device.
+8C01X6J	We performed other procedures of the nervous system.
+8C01X6J	We performed other procedures with cerebrospinal fluid.
+8C02X6K	We performed other procedures of the circulatory system.
+8C02X6K	We performed other procedures with blood.
+8E0	We performed other procedures of the physiological systems and anatomical regions.
+8E01XY7	We performed other procedures for examination.
+8E090CZ	We performed other procedures of the head and neck region.
+8E090EM	We performed other procedures with an aminolevulinic acid.
+8E09XBF	We performed other procedures with a fluoroscopy.
+8E09XBG	We performed other procedures with a computerized tomography.
+8E09XBH	We performed other procedures with a magnetic resonance imaging.
+8E09XY8	We performed other procedures for suture removal.
+8E0H300	We performed other procedures of the integumentary system and breast.
+8E0H300	We performed other procedures with an anesthesia.
+8E0HX62	We performed other procedures with a breast milk.
+8E0HXY9	We performed other procedures for piercing.
+8E0KX1Z	We performed other procedures of the musculoskeletal system.
+8E0U0EN	We performed other procedures of the female reproductive system.
+8E0U0EN	We performed other procedures with a pafolacianine.
+8E0VX1C	We performed other procedures of the male reproductive system.
+8E0VX1C	We performed other procedures with a prostate.
+8E0VX1D	We performed other procedures with a rectum.
+8E0VX63	We performed other procedures with sperm.
+8E0W0CZ	We performed other procedures of the trunk region.
+8E0X0CZ	We performed other procedures of the upper extremity.
+8E0Y0CZ	We performed other procedures of the lower extremity.
+8E0ZXGP	We performed other procedures.
+8E0ZXGP	We performed other procedures for intraoperative specimen analysis.
+8E0ZXY1	We performed other procedures for in vitro fertilization.
+8E0ZXY4	We performed other procedures using yoga therapy.
+8E0ZXY5	We performed other procedures for meditation.
+8E0ZXY6	We performed other procedures for isolation.
