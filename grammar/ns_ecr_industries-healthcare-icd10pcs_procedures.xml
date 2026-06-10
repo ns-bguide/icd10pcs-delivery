@@ -15363,7 +15363,9 @@
             <entry score="1.0" headword="artificial anal sphincter (aas)"/>
             <entry score="1.0" headword="artificial anal sphincter aas"/>
             <entry score="1.0" headword="artificial anal sphincter"/>
+            <entry score="1.0" headword="artificial bowel sphincter"/>
             <entry score="1.0" headword="artificial sphincter"/>
+            <entry score="1.0" headword="artificial urinary sphincter"/>
             <entry score="1.0" headword="as single chamber"/>
             <entry score="1.0" headword="ascenda intrathecal catheter"/>
             <entry score="1.0" headword="atriclip laa exclusion system"/>
@@ -15375,6 +15377,9 @@
             <entry score="1.0" headword="autograft"/>
             <entry score="1.0" headword="autologous arterial tissue"/>
             <entry score="1.0" headword="autologous artery graft"/>
+            <entry score="1.0" headword="autologous chondrocyte"/>
+            <entry score="1.0" headword="autologous dural"/>
+            <entry score="1.0" headword="autologous nerve wrap"/>
             <entry score="1.0" headword="autologous tissue substitute"/>
             <entry score="1.0" headword="autologous vein graft"/>
             <entry score="1.0" headword="autologous venous tissue"/>
@@ -15399,6 +15404,8 @@
             <entry score="1.0" headword="bioactive embolization coils"/>
             <entry score="1.0" headword="bioactive intraluminal device"/>
             <entry score="1.0" headword="biologic with synthetic substitute"/>
+            <entry score="1.0" headword="bioprosthetic valve"/>
+            <entry score="1.0" headword="bioprosthetic valves"/>
             <entry score="1.0" headword="blood glucose monitoring system"/>
             <entry score="1.0" headword="bone anchored hearing aid"/>
             <entry score="1.0" headword="bone anchored hearing device"/>
@@ -15462,7 +15469,9 @@
             <entry score="1.0" headword="cvp line"/>
             <entry score="1.0" headword="cypher stent"/>
             <entry score="1.0" headword="cypher(r) stent"/>
+            <entry score="1.0" headword="cystoscopic"/>
             <entry score="1.0" headword="cystostomy tube"/>
+            <entry score="1.0" headword="da vinci"/>
             <entry score="1.0" headword="defibrillator cardiac lead"/>
             <entry score="1.0" headword="defibrillator generator"/>
             <entry score="1.0" headword="defibrillator lead"/>
@@ -15553,6 +15562,7 @@
             <entry score="1.0" headword="guedel airway"/>
             <entry score="1.0" headword="hearing device"/>
             <entry score="1.0" headword="hemodynamic monitoring device"/>
+            <entry score="1.0" headword="hemodynamic sensor"/>
             <entry score="1.0" headword="hybrid external fixation device"/>
             <entry score="1.0" headword="icp bolt"/>
             <entry score="1.0" headword="icp monitor with"/>
@@ -15595,9 +15605,13 @@
             <entry score="1.0" headword="interstim(tm) micro therapy neurostimulator"/>
             <entry score="1.0" headword="intracardiac pacemaker"/>
             <entry score="1.0" headword="intracranial bolt"/>
+            <entry score="1.0" headword="intracranial neurostim"/>
+            <entry score="1.0" headword="intracranial neurostim gen"/>
+            <entry score="1.0" headword="intracranial neurostimulator"/>
+            <entry score="1.0" headword="intracranial neurostimulator generator"/>
+            <entry score="1.0" headword="intracranial pressure monitor"/>
             <entry score="1.0" headword="intracranial stimulator device"/>
             <entry score="1.0" headword="intragastric balloon"/>
-            <entry score="1.0" headword="intraluminal device"/>
             <entry score="1.0" headword="intraluminal device, branched or fenestrated, one or two arteries"/>
             <entry score="1.0" headword="intraluminal device, branched or fenestrated, three or more arteries"/>
             <entry score="1.0" headword="intraluminal device, drug eluting, four or more"/>
@@ -15607,6 +15621,7 @@
             <entry score="1.0" headword="intraluminal device, drug-eluting, three"/>
             <entry score="1.0" headword="intraluminal device, drug-eluting, two"/>
             <entry score="1.0" headword="intraluminal device, four or more"/>
+            <entry score="1.0" headword="intraluminal device"/>
             <entry score="1.0" headword="intramedullary (im) rod (nail)"/>
             <entry score="1.0" headword="intramedullary im rod nail"/>
             <entry score="1.0" headword="intramedullary internal fixation device"/>
@@ -15661,6 +15676,7 @@
             <entry score="1.0" headword="ommaya reservoir"/>
             <entry score="1.0" headword="optimizer iii implantable pulse generator"/>
             <entry score="1.0" headword="optimizer(tm) iii implantable pulse generator"/>
+            <entry score="1.0" headword="orthopedic hardware"/>
             <entry score="1.0" headword="otw self expanding stent system"/>
             <entry score="1.0" headword="otw self-expanding stent system"/>
             <entry score="1.0" headword="oxidized zirconium on polyethylene synthetic substitute"/>
@@ -15682,6 +15698,7 @@
             <entry score="1.0" headword="percutaneous endoscopic gastrojejunostomy (peg/j) tube"/>
             <entry score="1.0" headword="percutaneous endoscopic gastrojejunostomy peg/j tube"/>
             <entry score="1.0" headword="percutaneous endoscopic gastrojejunostomy tube"/>
+            <entry score="1.0" headword="pericardium monitoring device"/>
             <entry score="1.0" headword="pessary intraluminal device"/>
             <entry score="1.0" headword="pessary ring"/>
             <entry score="1.0" headword="phrenic nerve stimulator lead"/>
@@ -15691,6 +15708,7 @@
             <entry score="1.0" headword="polyethylene synthetic substitute"/>
             <entry score="1.0" headword="precice intramedullary limb lengthening system"/>
             <entry score="1.0" headword="pressure sensor monitoring device"/>
+            <entry score="1.0" headword="pressure sensor"/>
             <entry score="1.0" headword="pump infusion device"/>
             <entry score="1.0" headword="quattro"/>
             <entry score="1.0" headword="radioactive element"/>
@@ -15733,6 +15751,7 @@
             <entry score="1.0" headword="spiration ibv(tm) valve system"/>
             <entry score="1.0" headword="stimulator generator"/>
             <entry score="1.0" headword="stimulator lead"/>
+            <entry score="1.0" headword="stimulator"/>
             <entry score="1.0" headword="subcutaneous abdominal infusion pump"/>
             <entry score="1.0" headword="subcutaneous defibrillator lead"/>
             <entry score="1.0" headword="subcutaneous infusion pump"/>
@@ -15747,8 +15766,8 @@
             <entry score="1.0" headword="syncardia (temporary) total artificial heart"/>
             <entry score="1.0" headword="syncardia temporary total artificial heart tah"/>
             <entry score="1.0" headword="syncardia total artificial heart"/>
-            <entry score="1.0" headword="synthetic substitute"/>
             <entry score="1.0" headword="synthetic substitute, reverse ball and socket"/>
+            <entry score="1.0" headword="synthetic substitute"/>
             <entry score="1.0" headword="t tube"/>
             <entry score="1.0" headword="t-tube"/>
             <entry score="1.0" headword="three intraluminal device"/>
@@ -15775,6 +15794,7 @@
             <entry score="1.0" headword="uterine balloon"/>
             <entry score="1.0" headword="vaginal mesh"/>
             <entry score="1.0" headword="vascular access device"/>
+            <entry score="1.0" headword="ventricular assist device"/>
             <entry score="1.0" headword="vertebral body tether spinal stabilization device"/>
             <entry score="1.0" headword="vocal cord hydroxyapatite"/>
             <entry score="1.0" headword="vocal cord radiesse"/>
