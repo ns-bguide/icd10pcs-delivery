@@ -2,28 +2,47 @@
 <!DOCTYPE grammars SYSTEM "edk.dtd">
 <grammars version="4.0">
 
-    
+
     <include path="ns_ecr_industries-healthcare-medical_conditions.xml" type="private"/>
 
     <grammar name="industries">
 
-        
+
 
         <entity name="icd10pcs/shared/approach_adj" type="private" case="insensitive">
             <entry score="1.0" headword="arthroscopic"/>
             <entry score="1.0" headword="bronchoscopic"/>
+            <entry score="1.0" headword="colonoscopic"/>
+            <entry score="1.0" headword="cystoscopic"/>
             <entry score="1.0" headword="endo"/>
             <entry score="1.0" headword="endoscopic"/>
+            <entry score="1.0" headword="esophagoscopic"/>
             <entry score="1.0" headword="external"/>
+            <entry score="1.0" headword="fetoscopic"/>
+            <entry score="1.0" headword="fluoroscopic"/>
+            <entry score="1.0" headword="gastroscopic"/>
+            <entry score="1.0" headword="hysteroscopic"/>
+            <entry score="1.0" headword="intrathecal"/>
             <entry score="1.0" headword="lap"/>
             <entry score="1.0" headword="laparoscopic"/>
+            <entry score="1.0" headword="laryngoscopic"/>
+            <entry score="1.0" headword="minilaparoscopic"/>
             <entry score="1.0" headword="minimally invasive"/>
+            <entry score="1.0" headword="neuroendoscopic"/>
             <entry score="1.0" headword="open"/>
             <entry score="1.0" headword="perc"/>
             <entry score="1.0" headword="percutaneous endoscopic"/>
             <entry score="1.0" headword="percutaneous"/>
+            <entry score="1.0" headword="pleuroscopic"/>
+            <entry score="1.0" headword="rats"/>
             <entry score="1.0" headword="robotic"/>
+            <entry score="1.0" headword="robotic-assisted"/>
+            <entry score="1.0" headword="robotic-enhanced"/>
+            <entry score="1.0" headword="sinoscopic"/>
             <entry score="1.0" headword="thoracoscopic"/>
+            <entry score="1.0" headword="transoral"/>
+            <entry score="1.0" headword="transsphenoidal"/>
+            <entry score="1.0" headword="ureteroscopic"/>
             <entry score="1.0" headword="vats"/>
         </entity>
 
@@ -42,7 +61,7 @@
             <entry score="1.0" headword="via natural or artificial opening"/>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/med_surg/ops_direct" type="private" case="insensitive">
             <entry score="1.0" case="sensitive" headword="ABF"/> <!-- aortobifemoral bypass -->
@@ -15972,7 +15991,7 @@
             <pattern>((dilat|replac|remov)(e|ed|ing)|(transplant|bypass|drain|extract|insert|repair|graft|implant|deliver|decompress|reconstruct|treat|inspect)(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/obstetrics/ops_direct" type="private" case="insensitive">
             <entry score="1.0" headword="resection"/>
@@ -16093,7 +16112,7 @@
             <pattern>(remov(e|ed|ing)|(transplant|drain|extract|insert|repair|abort|deliver|inspect)(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/obstetrics/body_parts)</pattern>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/placement/ops_medical_combine" type="private" case="insensitive">
             <entry score="1.0" headword="change"/>
@@ -16246,7 +16265,7 @@
             <pattern>((immobiliz|remov)(e|ed|ing)|(compress|dress|pack)(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/placement/body_regions)</pattern>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/administration/ops_medical_direct" type="private" case="insensitive">
             <entry score="1.0" headword="transfusion"/>
@@ -16486,7 +16505,7 @@
             <pattern>((introduc|irrigat)(e|ed|ing))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/administration/body_systems)</pattern>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/meas_mon/ops_medical_combine" type="private" case="insensitive">
             <entry score="1.0" headword="measurement"/>
@@ -16595,7 +16614,7 @@
             <pattern>(measur(e|ed|ing)|monitor(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/meas_mon/body_systems)</pattern>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/extracorp_asst/ops_medical_combine" type="private" case="insensitive">
             <entry score="1.0" headword="assistance"/>
@@ -16641,7 +16660,7 @@
             <pattern>(restor(e|ed|ing)|(assist|perform)(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/extracorp_asst/body_systems)</pattern>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/extracorp_ther/ops_medical_direct" type="private" case="insensitive">
             <entry score="1.0" headword="electromagnetic therapy"/>
@@ -16680,7 +16699,7 @@
             <pattern>(decompress(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/extracorp_ther/body_systems)</pattern>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/osteopathic/body_regions" type="private" case="insensitive">
             <entry score="1.0" headword="abdomen"/>
@@ -16748,7 +16767,7 @@
             <pattern>(treat(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/osteopathic/body_regions)</pattern>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/other_proc/body_regions" type="private" case="insensitive">
             <entry score="1.0" headword="circulatory system"/>
@@ -16785,7 +16804,7 @@
             <pattern>(?A:icd10pcs/other_proc/body_regions)\ other\ procedures?</pattern>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/chiropractic/body_regions" type="private" case="insensitive">
             <entry score="1.0" headword="abdomen"/>
@@ -16841,7 +16860,7 @@
             <pattern>(manipulat(e|ed|ing))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/chiropractic/body_regions)</pattern>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/imaging/types_medical_direct" type="private" case="insensitive">
             <entry score="1.0" case="sensitive" headword="MRI"/> <!-- magnetic resonance imaging -->
@@ -16908,7 +16927,7 @@
             <pattern>(?A:icd10pcs/imaging/body_systems)\ (?A:icd10pcs/imaging/types_medical_combine)</pattern>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/nuclear_medicine/types_medical_direct" type="private" case="insensitive">
             <entry score="1.0" headword="nonimaging nuclear medicine assay"/>
@@ -16954,7 +16973,7 @@
             <pattern>(?A:icd10pcs/nuclear_medicine/body_systems)\ (?A:icd10pcs/nuclear_medicine/types_medical_direct)</pattern>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/radiation/types_medical_direct" type="private" case="insensitive">
             <entry score="1.0" case="sensitive" headword="IORT"/> <!-- intraoperative radiation therapy -->
@@ -17161,7 +17180,7 @@
             <pattern>(?A:icd10pcs/radiation/body_systems)\ (?A:icd10pcs/radiation/types_medical_combine)</pattern>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/rehab/types_medical_direct" type="private" case="insensitive">
             <entry score="1.0" headword="activities of daily living assessment"/>
@@ -17699,7 +17718,7 @@
             <pattern>(?A:icd10pcs/rehab/types_medical_direct)\ \-\ (?A:icd10pcs/rehab/quals_medical_combine)</pattern>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/mental_health/types_medical_direct" type="private" case="insensitive">
             <entry score="1.0" headword="biofeedback"/>
@@ -17789,7 +17808,7 @@
             <pattern>(?A:icd10pcs/mental_health/types_medical_direct)\ \-\ (?A:icd10pcs/mental_health/quals_medical)</pattern>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/substance_abuse/qualifiers" type="private" case="insensitive">
             <entry score="1.0" headword="12 step"/>
@@ -17845,7 +17864,7 @@
             <pattern>(?A:icd10pcs/substance_abuse/types_medical_combine)\ for\ (?A:icd10pcs/substance_abuse/qualifiers)\ (abuse|dependence|use\ disorder|disorder)</pattern>
         </entity>
 
-        
+
 
         <entity name="icd10pcs/new_tech/ops_direct" type="private" case="insensitive">
             <entry score="1.0" headword="extirpation"/>
@@ -18977,7 +18996,7 @@
             <pattern>((dilat|replac|introduc|irrigat|measur)(e|ed|ing)|(bypass|insert|assist|inspect|monitor)(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
         </entity>
 
-        
+
 
         <entity name="healthcare/medical_procedures/eng/surgical" type="public" case="insensitive">
             <!-- FP-4: Ophthalmic diagnostic compounds (suppress with score=0). These are diagnoses (retinal detachment, CRVO, etc.) whose surface form collides with <body_part> <op> compositional patterns. -->
@@ -19022,7 +19041,7 @@
             <pattern score="0">venous\ occlusion</pattern>
             <pattern score="0">vein\ occlusion</pattern>
             <pattern score="0">artery\ occlusion</pattern>
-            
+
             <pattern>(?A:icd10pcs/med_surg/surgical)</pattern>
             <pattern>(?A:icd10pcs/obstetrics/surgical)</pattern>
             <pattern>(?A:icd10pcs/placement/surgical)</pattern>
@@ -19072,7 +19091,7 @@
             <pattern score="0">venous\ occlusion</pattern>
             <pattern score="0">vein\ occlusion</pattern>
             <pattern score="0">artery\ occlusion</pattern>
-            
+
             <pattern>(?A:industries/healthcare/medical_procedures/eng/surgical)</pattern>
             <pattern>(?A:icd10pcs/med_surg/non_surgical_medical)</pattern>
             <pattern>(?A:icd10pcs/obstetrics/non_surgical_medical)</pattern>
