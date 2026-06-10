@@ -14392,8 +14392,6 @@
             <entry score="1.0" headword="ppm dual-chambers"/>
             <entry score="1.0" headword="ppm"/>
             <entry score="1.0" headword="ppms"/>
-            <entry score="1.0" headword="prolapse"/>
-            <entry score="1.0" headword="prolapses"/>
             <entry score="1.0" headword="prolaryn vc"/>
             <entry score="1.0" headword="prolaryn vcs"/>
             <entry score="1.0" headword="prostatic arteries"/>
@@ -15843,6 +15841,56 @@
             <entry score="1.0" headword="totally implantable access device"/>
         </entity>
 
+        <!-- Includes high confidence word families of surgical actions used within this ICD-10-PCS section -->
+        <entity name="icd10pcs/med_surg/surgical_actions" type="private" case="insensitive">
+            <pattern>ablat(e[ds]?|ing|ions?)</pattern>
+            <pattern>amputat(e[ds]?|ing|ions?)</pattern>
+            <pattern>anastomo(s(e[ds]?|ing)|tics?)</pattern>
+            <pattern>biops(ie[ds]|y(ing)?)</pattern>
+            <pattern>cauteriz(e[ds]?|ing|ations?)</pattern>
+            <pattern>excis(e[ds]?|ing|ions?)</pattern>
+            <pattern>extirpat(e[ds]?|ing|ions?)</pattern>
+            <pattern>ly(s([ei]s|e[ds]?)|tics?)</pattern>
+            <pattern>resect(ed|ing|ions?|s)?</pattern>
+        </entity>
+
+        <!-- Includes low confidence word families of surgical actions used within this ICD-10-PCS section -->
+        <entity name="icd10pcs/med_surg/common_actions" type="private" case="insensitive">
+            <pattern>alter(ations?|ed|ing|s)?</pattern>
+            <pattern>bypass(e[ds]|ing)?</pattern>
+            <pattern>chang(e[ds]?|ing)</pattern>
+            <pattern>control(led|ling|s)?</pattern>
+            <pattern>creat(e[ds]?|ing|ions?)</pattern>
+            <pattern>(scope-assisted\ )?destr(oy(e[ds]?|ing)?|uctions?)</pattern>
+            <pattern>detach(e[ds]?|ing|ments?)?</pattern>
+            <pattern>dila(ta)?t(e[ds]?|ing|ions?)</pattern>
+            <pattern>divi(d(e[ds]?|ing)|sions?)</pattern>
+            <pattern>drain(ages?|ed|ing|s)?</pattern>
+            <pattern>explor(ations?|e[ds]?|ing)</pattern>
+            <pattern>extract(ed|ing|ions?|s)?</pattern>
+            <pattern>frag(\.|ment(ations?|ed|ing|s)?)?</pattern>
+            <pattern>fus(e[ds]?|ing|ions?)</pattern>
+            <pattern>([ei]n)?graft(ed|ing|ions?|s)?</pattern>
+            <pattern>implant(ed|ing|s)?</pattern>
+            <pattern>insert(ed|ing|ions?|s)?</pattern>
+            <pattern>ligat(e[ds]?|ing|ions?|ures?)</pattern>
+            <pattern>map(ped|ping|s)?</pattern>
+            <pattern>occlu(d(e[ds]?|ing)|sions?)</pattern>
+            <pattern>reattach(e[ds]?|ing|ments?)?</pattern>
+            <pattern>releas(e[ds]?|ing)</pattern>
+            <pattern>remov(als?|e[ds]?|ing)</pattern>
+            <pattern>reconstruct(ed|ing|ions?|s)?</pattern>
+            <pattern>repa(ir(ed|ing|s)?|ations?)</pattern>
+            <pattern>replac(e[ds]?|ements?|ing)</pattern>
+            <pattern>reposition(ed|ing|s)?</pattern>
+            <pattern>resor(e[ds]?|ing|ations?)</pattern>
+            <pattern>restrict(ed|ing|ions?|s)?</pattern>
+            <pattern>revis(e[ds]?|ing|ions?)</pattern>
+            <pattern>supplement(ations?|e[ds]?|ing|s)?</pattern>
+            <pattern>transplant(ations?|e[ds]?|ing|s)?</pattern>
+            <pattern>transf(er(ed|ing|s)?|usions?)</pattern>
+        </entity>
+
         <entity name="icd10pcs/med_surg/surgical" type="private" case="insensitive">
             <!-- Examples: 'appendectomy', 'abdominoplasty' (standalone surgical op) -->
             <pattern>(?A:icd10pcs/med_surg/ops_direct)</pattern>
@@ -15887,11 +15935,15 @@
             <pattern>(?A:icd10pcs/med_surg/op_includes_surg)</pattern>
             <!-- Example: 'excised', 'resected' (strict surgical verb, standalone) -->
             <!-- (excise|resect|biopsy) -->
-            <pattern>((excis|extirpat|ablat|cauteriz|ligat|anastomos)(e|ed|ing)|resect(ed|ing)?|(biopsy|biopsied|biopsying))</pattern>
+            <pattern>(?A:icd10pcs/med_surg/surgical_actions)</pattern>
             <!-- Example: 'excised the liver', 'resecting kidney' -->
-            <pattern>((excis|extirpat|ablat|cauteriz|ligat|anastomos)(e|ed|ing)|resect(ed|ing)?|(biopsy|biopsied|biopsying))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
+            <pattern>(?A:icd10pcs/med_surg/surgical_actions)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
+            <!-- Example: 'liver excision', 'kidney resected' -->
+            <pattern>(?A:icd10pcs/med_surg/body_parts)\ (?A:icd10pcs/med_surg/surgical_actions)</pattern>
             <!-- Example: 'ablated the left kidney', 'repairing heart valve' -->
-            <pattern>((creat|divid|fus|occlud|releas|replac|revis|explor|chang|remov)(e|ed|ing)|(reattach|transplant|alter|bypass|destroy|detach|drain|extract|fragment|insert|repair|reposition|restrict|supplement|transfer|graft|implant|reconstruct)(ed|ing)?|(control|controlled|controlling|map|mapped|mapping))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
+            <pattern>(?A:icd10pcs/med_surg/common_actions)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
+            <!-- Example: 'left kidney ablation', 'heart valve repaired' -->
+            <pattern>(?A:icd10pcs/med_surg/body_parts)\ (?A:icd10pcs/med_surg/common_actions)</pattern>
         </entity>
 
         <entity name="icd10pcs/med_surg/conditions" type="private" case="insensitive">
@@ -15953,6 +16005,8 @@
             <entry score="1.0" headword="peyronie"/>
             <entry score="1.0" headword="post caustic stricture"/>
             <entry score="1.0" headword="post-caustic stricture"/>
+            <entry score="1.0" headword="prolapse"/>
+            <entry score="1.0" headword="prolapses"/>
             <entry score="1.0" headword="rectus diastasis"/>
             <entry score="1.0" headword="retroperitoneal mass"/>
             <entry score="1.0" headword="rhinolith"/>
@@ -16059,6 +16113,7 @@
         <!-- ICD-10-PCS Codes: Section 1 - Obstetrics -->
 
         <entity name="icd10pcs/obstetrics/ops_direct" type="private" case="insensitive">
+            <entry score="1.0" headword="abortion"/>
             <entry score="1.0" headword="resection"/>
             <entry score="1.0" headword="transplantation"/>
         </entity>
@@ -16129,6 +16184,20 @@
             <entry score="1.0" headword="vacuum"/>
         </entity>
 
+        <!-- Includes high confidence word families of surgical actions used within this ICD-10-PCS section -->
+        <entity name="icd10pcs/obstetrics/surgical_actions" type="private" case="insensitive">
+            <pattern>(resect(ed|ing|ions?)?)</pattern>
+        </entity>
+
+        <!-- Includes low confidence word families of surgical actions used within this ICD-10-PCS section -->
+        <entity name="icd10pcs/obstetrics/common_actions" type="private" case="insensitive">
+            <pattern>chang(e[ds]?|ing)</pattern>
+            <pattern>(transplant|extract|insert|repair)(ed|ing|s)?</pattern>
+            <pattern>drain(ages?|ed|ing|s)</pattern>
+            <pattern>remov(als?|e[ds]?|ing)</pattern>
+            <pattern>reposition(ed|ing|s)?</pattern>
+        </entity>
+
         <entity name="icd10pcs/obstetrics/surgical" type="private" case="insensitive">
             <!-- Examples: 'resection', 'transplantation' (standalone obstetrics op) -->
             <pattern>(?A:icd10pcs/obstetrics/ops_direct)</pattern>
@@ -16145,12 +16214,15 @@
             <!-- Examples: 'extraction with high forceps', 'delivery with vacuum' -->
             <pattern>(?A:icd10pcs/obstetrics/ops_combine)(,|\ (with(\ (?A:industries/healthcare/determiners))?|(?A:industries/healthcare/prepositional_phrases)))\ ?(?A:icd10pcs/obstetrics/qualifiers)</pattern>
             <!-- Example: 'excised', 'resected' (strict surgical verb, standalone) -->
-            <!-- ) -->
-            <pattern>(resect(ed|ing)?)</pattern>
+            <pattern>(?A:icd10pcs/obstetrics/surgical_actions)</pattern>
             <!-- Example: 'excised the liver', 'resecting kidney' -->
-            <pattern>(resect(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/obstetrics/body_parts)</pattern>
+            <pattern>(?A:icd10pcs/obstetrics/surgical_actions)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/obstetrics/body_parts)</pattern>
+            <!-- Example: 'liver excision', 'kidney resected' -->
+            <pattern>(?A:icd10pcs/obstetrics/body_parts)\ (?A:icd10pcs/obstetrics/surgical_actions)</pattern>
             <!-- Example: 'ablated the left kidney', 'repairing heart valve' -->
-            <pattern>((chang|remov)(e|ed|ing)|(transplant|drain|extract|insert|repair|reposition)(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/obstetrics/body_parts)</pattern>
+            <pattern>(?A:icd10pcs/obstetrics/common_actions)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/obstetrics/body_parts)</pattern>
+            <!-- Example: 'left kidney ablation', 'heart valve repaired' -->
+            <pattern>(?A:icd10pcs/obstetrics/body_parts)\ (?A:icd10pcs/obstetrics/common_actions)</pattern>
         </entity>
 
         <entity name="icd10pcs/obstetrics/non_surgical_medical" type="private" case="insensitive">
@@ -16306,11 +16378,19 @@
             <entry score="1.0" headword="wire"/>
         </entity>
 
+        <!-- Includes low confidence word families of surgical actions used within this ICD-10-PCS section -->
+        <entity name="icd10pcs/placement/common_actions" type="private" case="insensitive">
+            <pattern>chang(e[ds]?|ing)</pattern>
+            <pattern>remov(als?|e[ds]?|ing)</pattern>
+        </entity>
+
         <entity name="icd10pcs/placement/surgical" type="private" case="insensitive">
             <!-- Examples: 'changed the splint on the head', 'removed the cast from the back' -->
-            <pattern>((chang|remov)(e|ed|ing))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/placement/devices)\ (on|from)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/placement/body_regions)</pattern>
+            <pattern>((?A:icd10pcs/placement/common_actions))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/placement/devices)\ (on|from)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/placement/body_regions)</pattern>
             <!-- Example: 'ablated the left kidney', 'repairing heart valve' -->
-            <pattern>((chang|remov)(e|ed|ing))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/placement/body_regions)</pattern>
+            <pattern>((?A:icd10pcs/placement/common_actions))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/placement/body_regions)</pattern>
+            <!-- Example: 'left kidney ablation', 'heart valve repaired' -->
+            <pattern>(?A:icd10pcs/placement/body_regions)\ (?A:icd10pcs/placement/common_actions)</pattern>
         </entity>
 
         <entity name="icd10pcs/placement/non_surgical_medical" type="private" case="insensitive">
@@ -18057,6 +18137,7 @@
             <entry score="1.0" headword="blackarmor carbon/peek fixation system"/>
             <entry score="1.0" headword="blackarmor peek fixation system"/>
             <entry score="1.0" headword="blackarmor(r) carbon/peek fixation system"/>
+            <entry score="1.0" headword="brain stimulation electrode"/>
             <entry score="1.0" headword="branched intraluminal device, manufactured integrated system, four or more arteries"/>
             <entry score="1.0" headword="branched synthetic substitute with intraluminal device"/>
             <entry score="1.0" headword="brexucabtagene autoleucel immunotherapy"/>
@@ -18959,6 +19040,24 @@
             <entry score="1.0" headword="urinary system"/>
         </entity>
 
+        <!-- Includes high confidence word families of surgical actions used within this ICD-10-PCS section -->
+        <entity name="icd10pcs/new_tech/surgical_actions" type="private" case="insensitive">
+            <pattern>extirpat(e[ds]?|ing|ion)</pattern>
+        </entity>
+
+        <!-- Includes low confidence word families of surgical actions used within this ICD-10-PCS section -->
+        <entity name="icd10pcs/new_tech/common_actions" type="private" case="insensitive">
+            <pattern>bypass(e[ds]|ing)?</pattern>
+            <pattern>destr(oy(e[ds]?|ing)?|uctions?)</pattern>
+            <pattern>divi(d(e[ds]?|ing)|sions?)</pattern>
+            <pattern>fus(e[ds]?|ing|ions?)</pattern>
+            <pattern>insert(ed|ing|ions?|s)?</pattern>
+            <pattern>replac(e[ds]?|ements?|ing)</pattern>
+            <pattern>reposition(ed|ing|s)?</pattern>
+            <pattern>restrict(ed|ing|ions?|s)?</pattern>
+            <pattern>supplement(ations?|e[ds]?|ing|s)?</pattern>
+        </entity>
+
         <entity name="icd10pcs/new_tech/surgical" type="private" case="insensitive">
             <!-- Examples: 'new technology procedure' (standalone new technology op) -->
             <pattern>(?A:icd10pcs/new_tech/ops_direct)</pattern>
@@ -18993,18 +19092,22 @@
             <!-- Example: 'nervous system destruction' (body system precedes op) -->
             <pattern>(?A:icd10pcs/new_tech/body_systems)\ (?A:icd10pcs/new_tech/ops_combine)</pattern>
             <!-- Example: 'inserted a neurostimulator lead into the ganglion' -->
-            <pattern>((divid|fus|replac)(e|ed|ing)|(bypass|destroy|insert|reposition|restrict|supplement)(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/new_tech/devices)\ into(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
+            <pattern>(?A:icd10pcs/new_tech/common_actions)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/new_tech/devices)\ into(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
             <!-- Example: 'inserted a neurostimulator lead into the aortic arch' (new_tech body part) -->
-            <pattern>((divid|fus|replac)(e|ed|ing)|(bypass|destroy|insert|reposition|restrict|supplement)(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/new_tech/devices)\ into(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/new_tech/body_parts)</pattern>
+            <pattern>(?A:icd10pcs/new_tech/common_actions)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/new_tech/devices)\ into(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/new_tech/body_parts)</pattern>
             <!-- Example: 'inserted a neurostimulator lead' (device only, no body) -->
-            <pattern>((divid|fus|replac)(e|ed|ing)|(bypass|destroy|insert|reposition|restrict|supplement)(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/new_tech/devices)</pattern>
+            <pattern>(?A:icd10pcs/new_tech/common_actions)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/new_tech/devices)</pattern>
             <!-- Example: 'excised', 'resected' (strict surgical verb, standalone) -->
             <!-- extirpat(e) -->
-            <pattern>(extirpat(e|ed|ing))</pattern>
+            <pattern>(?A:icd10pcs/new_tech/surgical_actions)</pattern>
             <!-- Example: 'excised the liver', 'resecting kidney' -->
-            <pattern>(extirpat(e|ed|ing))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
+            <pattern>(?A:icd10pcs/new_tech/surgical_actions)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
+            <!-- Example: 'liver excision', 'kidney resected' -->
+            <pattern>(?A:icd10pcs/med_surg/body_parts)\ (?A:icd10pcs/new_tech/surgical_actions)</pattern>
             <!-- Example: 'ablated the left kidney', 'repairing heart valve' -->
-            <pattern>((divid|fus|replac)(e|ed|ing)|(bypass|destroy|insert|reposition|restrict|supplement)(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
+            <pattern>(?A:icd10pcs/new_tech/common_actions)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
+            <!-- Example: 'left kidney ablation', 'heart valve repaired' -->
+            <pattern>(?A:icd10pcs/med_surg/body_parts)\ (?A:icd10pcs/new_tech/common_actions)</pattern>
         </entity>
 
         <entity name="icd10pcs/new_tech/non_surgical_medical" type="private" case="insensitive">
