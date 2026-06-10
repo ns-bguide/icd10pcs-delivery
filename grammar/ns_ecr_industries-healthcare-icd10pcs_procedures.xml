@@ -61,7 +61,7 @@
             <entry score="1.0" headword="via natural or artificial opening"/>
         </entity>
 
-
+        <!-- ICD-10-PCS Codes: Section 0 - Medical and Surgical -->
 
         <entity name="icd10pcs/med_surg/ops_direct" type="private" case="insensitive">
             <entry score="1.0" case="sensitive" headword="ABF"/> <!-- aortobifemoral bypass -->
@@ -16011,7 +16011,7 @@
             <pattern>((dilat|replac|remov)(e|ed|ing)|(transplant|bypass|drain|extract|insert|repair|graft|implant|deliver|decompress|reconstruct|treat|inspect)(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
         </entity>
 
-
+        <!-- ICD-10-PCS Codes: Section 1 - Obstetrics -->
 
         <entity name="icd10pcs/obstetrics/ops_direct" type="private" case="insensitive">
             <entry score="1.0" headword="resection"/>
@@ -16132,7 +16132,7 @@
             <pattern>(remov(e|ed|ing)|(transplant|drain|extract|insert|repair|abort|deliver|inspect)(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/obstetrics/body_parts)</pattern>
         </entity>
 
-
+        <!-- ICD-10-PCS Codes: Section 2 - Placement -->
 
         <entity name="icd10pcs/placement/ops_medical_combine" type="private" case="insensitive">
             <entry score="1.0" headword="change"/>
@@ -17884,7 +17884,7 @@
             <pattern>(?A:icd10pcs/substance_abuse/types_medical_combine)\ for\ (?A:icd10pcs/substance_abuse/qualifiers)\ (abuse|dependence|use\ disorder|disorder)</pattern>
         </entity>
 
-
+        <!-- ICD-10-PCS Codes: Section X - New Technology -->
 
         <entity name="icd10pcs/new_tech/ops_direct" type="private" case="insensitive">
             <entry score="1.0" headword="extirpation"/>
