@@ -416,6 +416,8 @@
             <entry score="1.0" headword="levator advancement"/>
             <entry score="1.0" headword="lichtenstein repair"/>
             <entry score="1.0" headword="lingulectomy"/>
+            <entry score="1.0" headword="linx"/>
+            <entry score="1.0" headword="linxes"/>
             <entry score="1.0" headword="lipectomy"/>
             <entry score="1.0" headword="lipoplasty"/>
             <entry score="1.0" headword="liposuction"/>
@@ -1133,6 +1135,7 @@
             <entry score="1.0" headword="abdomen subcutaneous tissue and fascias"/>
             <entry score="1.0" headword="abdomen tendon"/>
             <entry score="1.0" headword="abdomen tendons"/>
+            <entry score="1.0" headword="abdominal"/>
             <entry score="1.0" headword="abdominal aorta"/>
             <entry score="1.0" headword="abdominal aortas"/>
             <entry score="1.0" headword="abdominal aortic plexus"/>
@@ -1146,6 +1149,7 @@
             <entry score="1.0" headword="abdominal sympathetic nerve"/>
             <entry score="1.0" headword="abdominal sympathetic nerves"/>
             <entry score="1.0" headword="abdominal wall"/>
+            <entry score="1.0" headword="abdominals"/>
             <entry score="1.0" headword="abducens nerve"/>
             <entry score="1.0" headword="abducens nerves"/>
             <entry score="1.0" headword="abductor hallucis muscle"/>
@@ -1192,6 +1196,7 @@
             <entry score="1.0" headword="alar ligament of axis"/>
             <entry score="1.0" headword="alveolar process of mandible"/>
             <entry score="1.0" headword="alveolar process of maxilla"/>
+            <entry score="1.0" headword="ampulla"/>
             <entry score="1.0" headword="ampulla of vater"/>
             <entry score="1.0" headword="anal orifice"/>
             <entry score="1.0" headword="anal orifices"/>
@@ -1297,6 +1302,10 @@
             <entry score="1.0" headword="anterior vertebral muscles"/>
             <entry score="1.0" headword="antihelices"/>
             <entry score="1.0" headword="antihelix"/>
+            <entry score="1.0" headword="antral"/>
+            <entry score="1.0" headword="antral follicle"/>
+            <entry score="1.0" headword="antral follicles"/>
+            <entry score="1.0" headword="antrals"/>
             <entry score="1.0" headword="antrum of highmore"/>
             <entry score="1.0" headword="anus"/>
             <entry score="1.0" headword="anuses"/>
@@ -1528,6 +1537,8 @@
             <entry score="1.0" headword="cardiac plexus"/>
             <entry score="1.0" headword="cardiac plexuses"/>
             <entry score="1.0" headword="cardias"/>
+            <entry score="1.0" headword="cardiothoracic"/>
+            <entry score="1.0" headword="cardiovascular"/>
             <entry score="1.0" headword="carina"/>
             <entry score="1.0" headword="caroticotympanic arteries"/>
             <entry score="1.0" headword="caroticotympanic artery"/>
@@ -1649,9 +1660,11 @@
             <entry score="1.0" headword="colic artery"/>
             <entry score="1.0" headword="colic vein"/>
             <entry score="1.0" headword="colic veins"/>
+            <entry score="1.0" headword="collarbone"/>
             <entry score="1.0" headword="colocutaneous"/>
             <entry score="1.0" headword="colon"/>
             <entry score="1.0" headword="colons"/>
+            <entry score="1.0" headword="colorectal"/>
             <entry score="1.0" headword="columella"/>
             <entry score="1.0" headword="columellas"/>
             <entry score="1.0" headword="common bile duct"/>
@@ -1983,6 +1996,10 @@
             <entry score="1.0" headword="gastrocolic ligaments"/>
             <entry score="1.0" headword="gastrointestinal system"/>
             <entry score="1.0" headword="gastrointestinal tract"/>
+            <entry score="1.0" headword="gastrointestinal"/>
+            <entry score="1.0" headword="genitourinary"/>
+            <entry score="1.0" headword="genitourinary tract"/>
+            <entry score="1.0" headword="genitourinary tracts"/>
             <entry score="1.0" headword="gemellus muscle"/>
             <entry score="1.0" headword="gemellus muscles"/>
             <entry score="1.0" headword="general anatomical regions"/>
@@ -2012,6 +2029,8 @@
             <entry score="1.0" headword="greater tuberosity"/>
             <entry score="1.0" headword="greater wing"/>
             <entry score="1.0" headword="greater wings"/>
+            <entry score="1.0" headword="gynecologic" />
+            <entry score="1.0" headword="gynecological" />
             <entry score="1.0" headword="hair"/>
             <entry score="1.0" headword="hairs"/>
             <entry score="1.0" headword="halluces"/>
@@ -2056,6 +2075,7 @@
             <entry score="1.0" headword="hepatic portal veins"/>
             <entry score="1.0" headword="hepatic vein"/>
             <entry score="1.0" headword="hepatic veins"/>
+            <entry score="1.0" headword="hepatobiliary"/>
             <entry score="1.0" headword="hepatobiliary duct"/>
             <entry score="1.0" headword="hepatobiliary ducts"/>
             <entry score="1.0" headword="hepatobiliary system and pancreas"/>
@@ -2219,6 +2239,7 @@
             <entry score="1.0" headword="intestinal lymphatic trunks"/>
             <entry score="1.0" headword="intestine"/>
             <entry score="1.0" headword="intestines"/>
+            <entry score="1.0" headword="intraabdominal"/>
             <entry score="1.0" headword="intracranial arteries"/>
             <entry score="1.0" headword="intracranial artery"/>
             <entry score="1.0" headword="intracranial epidural space"/>
@@ -3053,6 +3074,7 @@
             <entry score="1.0" headword="mtp joints"/>
             <entry score="1.0" headword="multiple parathyroid glands"/>
             <entry score="1.0" headword="muscles"/>
+            <entry score="1.0" headword="musculoskeletal"/>
             <entry score="1.0" headword="myelencephalon"/>
             <entry score="1.0" headword="myelencephalons"/>
             <entry score="1.0" headword="nail bed"/>
@@ -3091,6 +3113,7 @@
             <entry score="1.0" headword="one artery coronary arteries"/>
             <entry score="1.0" headword="one artery coronary artery"/>
             <entry score="1.0" headword="one to two ribs"/>
+            <entry score="1.0" headword="ophthalmic"/>
             <entry score="1.0" headword="optic chiasma"/>
             <entry score="1.0" headword="optic chiasmas"/>
             <entry score="1.0" headword="optic nerve"/>
@@ -3099,6 +3122,8 @@
             <entry score="1.0" headword="oral cavity and throats"/>
             <entry score="1.0" headword="orbit"/>
             <entry score="1.0" headword="orbits"/>
+            <entry score="1.0" headword="otolaryngologic"/>
+            <entry score="1.0" headword="otolaryngological"/>
             <entry score="1.0" headword="ova"/>
             <entry score="1.0" headword="oval window"/>
             <entry score="1.0" headword="oval windows"/>
@@ -4218,8 +4243,11 @@
             <entry score="1.0" headword="urethras"/>
             <entry score="1.0" headword="urinary system"/>
             <entry score="1.0" headword="urinary tract"/>
+            <entry score="1.0" headword="urologic"/>
+            <entry score="1.0" headword="urological"/>
             <entry score="1.0" headword="uterine supporting structure"/>
             <entry score="1.0" headword="uterine supporting structures"/>
+            <entry score="1.0" headword="utero"/>
             <entry score="1.0" headword="uterus and cervices"/>
             <entry score="1.0" headword="uterus and cervix"/>
             <entry score="1.0" headword="uterus"/>
@@ -4234,6 +4262,7 @@
             <entry score="1.0" headword="vagus nerve"/>
             <entry score="1.0" headword="vagus nerves"/>
             <entry score="1.0" headword="vas deferens"/>
+            <entry score="1.0" headword="vascular"/>
             <entry score="1.0" headword="ventricle"/>
             <entry score="1.0" headword="ventricles"/>
             <entry score="1.0" headword="ventricular septa"/>
@@ -6571,6 +6600,7 @@
             <entry score="1.0" headword="ascending aorta vessels"/>
             <entry score="1.0" headword="ascending aorta-vessel"/>
             <entry score="1.0" headword="ascending aorta-vessels"/>
+            <entry score="1.0" headword="ascending aorta wall"/>
             <entry score="1.0" headword="ascending aortic dissection"/>
             <entry score="1.0" headword="ascending aortic dissections"/>
             <entry score="1.0" headword="ascites"/>
@@ -6990,8 +7020,6 @@
             <entry score="1.0" headword="femoropostibials"/>
             <entry score="1.0" headword="fess eth"/>
             <entry score="1.0" headword="fess eths"/>
-            <entry score="1.0" headword="fetal myelomeningocele"/>
-            <entry score="1.0" headword="fetal myelomeningoceles"/>
             <entry score="1.0" headword="fetoscopic laser"/>
             <entry score="1.0" headword="fetoscopic lasers"/>
             <entry score="1.0" headword="finger extensor"/>
@@ -14113,7 +14141,6 @@
             <entry score="1.0" headword="limasses-to-lad"/>
             <entry score="1.0" headword="lingual"/>
             <entry score="1.0" headword="linguals"/>
-            <entry score="1.0" headword="linx"/>
             <entry score="1.0" headword="lip cleft"/>
             <entry score="1.0" headword="lip clefts"/>
             <entry score="1.0" headword="liver wedge"/>
@@ -14669,7 +14696,6 @@
             <entry score="1.0" headword="vtos"/>
             <entry score="1.0" headword="vulvar"/>
             <entry score="1.0" headword="vulvars"/>
-            <entry score="1.0" headword="watchman flx"/>
             <entry score="1.0" headword="womb"/>
             <entry score="1.0" headword="wombs"/>
             <entry score="1.0" headword="wound"/>
@@ -15564,6 +15590,7 @@
             <entry score="1.0" headword="hemodynamic monitoring device"/>
             <entry score="1.0" headword="hemodynamic sensor"/>
             <entry score="1.0" headword="hybrid external fixation device"/>
+            <entry score="1.0" headword="hydrocephalus shunt"/>
             <entry score="1.0" headword="icp bolt"/>
             <entry score="1.0" headword="icp monitor with"/>
             <entry score="1.0" headword="ilizarov external fixator"/>
@@ -15703,6 +15730,8 @@
             <entry score="1.0" headword="pessary ring"/>
             <entry score="1.0" headword="phrenic nerve stimulator lead"/>
             <entry score="1.0" headword="picc line"/>
+            <entry score="1.0" headword="pleurx"/>
+            <entry score="1.0" headword="pleurxes"/>
             <entry score="1.0" headword="pneumatic synthetic substitute"/>
             <entry score="1.0" headword="polyethylene socket"/>
             <entry score="1.0" headword="polyethylene synthetic substitute"/>
@@ -15799,6 +15828,8 @@
             <entry score="1.0" headword="vocal cord hydroxyapatite"/>
             <entry score="1.0" headword="vocal cord radiesse"/>
             <entry score="1.0" headword="vocal cord restylane"/>
+            <entry score="1.0" headword="watchman flx"/>
+            <entry score="1.0" headword="watchman flxes"/>
             <entry score="1.0" headword="xt (s)(dr/vr)"/>
             <entry score="1.0" headword="zooplastic tissue"/>
         </entity>
@@ -15874,6 +15905,7 @@
             <entry score="1.0" headword="bronchial lithiasis"/>
             <entry score="1.0" headword="burn eschar"/>
             <entry score="1.0" headword="burn"/>
+            <entry score="1.0" headword="cardiomyopathy"/>
             <entry score="1.0" headword="chest fluid"/>
             <entry score="1.0" headword="chl"/>
             <entry score="1.0" headword="diastasis recti"/>
@@ -15885,6 +15917,8 @@
             <entry score="1.0" headword="esophageal anastomotic leak"/>
             <entry score="1.0" headword="ext ear fluid"/>
             <entry score="1.0" headword="external ear fluid"/>
+            <entry score="1.0" headword="fetal myelomeningocele"/>
+            <entry score="1.0" headword="fetal myelomeningoceles"/>
             <entry score="1.0" headword="fetal spina bifida"/>
             <entry score="1.0" headword="fibroid"/>
             <entry score="1.0" headword="fourth degree tear"/>
@@ -15900,15 +15934,21 @@
             <entry score="1.0" headword="may-thurner"/>
             <entry score="1.0" headword="meningioma"/>
             <entry score="1.0" headword="middle ear keratin"/>
+            <entry score="1.0" headword="myelomeningocele"/>
+            <entry score="1.0" headword="myelomeningoceles"/>
             <entry score="1.0" headword="nasal cavity fluid"/>
             <entry score="1.0" headword="nasal concha crust"/>
             <entry score="1.0" headword="nasal deviation"/>
             <entry score="1.0" headword="nasal trauma"/>
             <entry score="1.0" headword="nasal turbinate impacted material"/>
+            <entry score="1.0" headword="osteophyte"/>
+            <entry score="1.0" headword="osteophytes"/>
             <entry score="1.0" headword="otitis media"/>
             <entry score="1.0" headword="ovarian mass"/>
             <entry score="1.0" headword="pancreatic collection"/>
             <entry score="1.0" headword="pancreatic duct anastomotic stricture"/>
+            <entry score="1.0" headword="pericarditis"/>
+            <entry score="1.0" headword="peyronie"/>
             <entry score="1.0" headword="post caustic stricture"/>
             <entry score="1.0" headword="post-caustic stricture"/>
             <entry score="1.0" headword="rectus diastasis"/>
@@ -15920,6 +15960,9 @@
             <entry score="1.0" headword="small bowel obstruction"/>
             <entry score="1.0" headword="small bowel perforation"/>
             <entry score="1.0" headword="small bowel volvulus"/>
+            <entry score="1.0" headword="spina bifida"/>
+            <entry score="1.0" headword="spur"/>
+            <entry score="1.0" headword="thrombosis"/>
             <entry score="1.0" headword="tongue tie"/>
             <entry score="1.0" headword="traumatic hyphema"/>
             <entry score="1.0" headword="tympanic membrane keratin"/>
