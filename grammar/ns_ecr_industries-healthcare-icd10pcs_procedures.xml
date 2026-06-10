@@ -6539,8 +6539,6 @@
             <entry score="1.0" headword="adhesive capsulitises"/>
             <entry score="1.0" headword="adjustable"/>
             <entry score="1.0" headword="adjustables"/>
-            <entry score="1.0" headword="ahmed"/>
-            <entry score="1.0" headword="ahmeds"/>
             <entry score="1.0" headword="all"/>
             <entry score="1.0" headword="alls"/>
             <entry score="1.0" headword="ams 800"/>
@@ -15371,6 +15369,10 @@
             <entry score="1.0" headword="advisa (mri)"/>
             <entry score="1.0" headword="advisa mri"/>
             <entry score="1.0" headword="advisa"/>
+            <entry score="1.0" headword="ahmed"/>
+            <entry score="1.0" headword="ahmed valve"/>
+            <entry score="1.0" headword="ahmed valves"/>
+            <entry score="1.0" headword="ahmeds"/>
             <entry score="1.0" headword="airway intraluminal device"/>
             <entry score="1.0" headword="alfapump system"/>
             <entry score="1.0" headword="alfapump(r) system"/>
@@ -15845,11 +15847,11 @@
             <!-- Examples: 'appendectomy', 'abdominoplasty' (standalone surgical op) -->
             <pattern>(?A:icd10pcs/med_surg/ops_direct)</pattern>
             <!-- Examples: 'ablation of liver', 'ablation of the left kidney', 'destruction, heart' -->
-            <pattern>(?A:icd10pcs/med_surg/ops_combine)(,|\ (?A:industries/healthcare/prepositional_phrases))\ ?((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/body_parts)</pattern>
+            <pattern>(?A:icd10pcs/med_surg/ops_combine)(,|\ (?A:industries/healthcare/prepositional_phrases))\ ?((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/body_parts)</pattern>
             <!-- Example: 'liver ablation' (body precedes op — clinical noun-compound order) -->
             <pattern>(?A:icd10pcs/med_surg/body_parts)\ (?A:icd10pcs/med_surg/ops_combine)</pattern>
             <!-- Example: 'ablation liver', 'bypass left femoral' (op precedes body, optional laterality) -->
-            <pattern>(?A:icd10pcs/med_surg/ops_combine)\ ((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/body_parts)</pattern>
+            <pattern>(?A:icd10pcs/med_surg/ops_combine)\ ((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/body_parts)</pattern>
             <!-- Example: 'percutaneous ablation' (approach adjective precedes op) -->
             <pattern>(?A:icd10pcs/shared/approach_adj)\ (?A:icd10pcs/med_surg/ops_combine)</pattern>
             <!-- Examples: 'ablation percutaneous', 'ablation via natural opening' (op then approach adj or via) -->
@@ -15857,8 +15859,8 @@
             <!-- Example: 'liver ablation open', 'femoral bypass perc' (body + op + approach suffix) -->
             <pattern>(?A:icd10pcs/med_surg/body_parts)\ (?A:icd10pcs/med_surg/ops_combine)\ (?A:icd10pcs/shared/approach_adj)</pattern>
             <!-- Example: 'ablation of liver open', 'bypass left femoral perc' (op + body + approach suffix) -->
-            <pattern>(?A:icd10pcs/med_surg/ops_combine)(,|\ (?A:industries/healthcare/prepositional_phrases))\ ?((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/body_parts)\ (?A:icd10pcs/shared/approach_adj)</pattern>
-            <pattern>(?A:icd10pcs/med_surg/ops_combine)\ ((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/body_parts)\ (?A:icd10pcs/shared/approach_adj)</pattern>
+            <pattern>(?A:icd10pcs/med_surg/ops_combine)(,|\ (?A:industries/healthcare/prepositional_phrases))\ ?((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/body_parts)\ (?A:icd10pcs/shared/approach_adj)</pattern>
+            <pattern>(?A:icd10pcs/med_surg/ops_combine)\ ((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/body_parts)\ (?A:icd10pcs/shared/approach_adj)</pattern>
             <!-- REC-7: Madeleine concatenation artifact (op+approach with no space). Examples: 'abdominal aortic replacementopen', 'aortic valve supplementopen', 'right brachial artery patch repairopen'. Limited to the 4 ops observed in MERGED_clean. -->
             <pattern>(?A:icd10pcs/med_surg/body_parts)\ (repair|replacement|augmentation|supplement)open</pattern>
             <pattern>(?A:icd10pcs/med_surg/body_parts)\ patch\ (repair|replacement|augmentation|supplement)open</pattern>
@@ -15878,9 +15880,9 @@
             <!-- Example: 'pacemaker insertion' (device precedes op) -->
             <pattern>(?A:icd10pcs/med_surg/devices)\ (?A:icd10pcs/med_surg/ops_combine)</pattern>
             <!-- REC-3: `<op> of <placeholder-device> <prep> <bp>` form. Examples: 'insertion of other device into stomach', 'revision of other device in large intestine'. The triple anchor (op + placeholder + prep + bp) is what makes the generic placeholder device safe; standalone forms remain filtered by SKIP_EMPTY_PLACEHOLDERS. -->
-            <pattern>(?A:icd10pcs/med_surg/ops_combine)\ of\ (?A:icd10pcs/med_surg/devices_placeholder)\ (into|in)\ ((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/body_parts)</pattern>
-            <pattern>(?A:icd10pcs/med_surg/ops_combine)\ of\ (?A:icd10pcs/med_surg/devices_placeholder)\ (into|in)\ ((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/body_parts),?\ (?A:icd10pcs/shared/approach_adj)\ approach</pattern>
-            <pattern>(?A:icd10pcs/med_surg/ops_combine)\ of\ (?A:icd10pcs/med_surg/devices_placeholder)\ (into|in)\ ((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/body_parts),?\ (?A:icd10pcs/shared/approach_via)</pattern>
+            <pattern>(?A:icd10pcs/med_surg/ops_combine)\ of\ (?A:icd10pcs/med_surg/devices_placeholder)\ (into|in)\ ((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/body_parts)</pattern>
+            <pattern>(?A:icd10pcs/med_surg/ops_combine)\ of\ (?A:icd10pcs/med_surg/devices_placeholder)\ (into|in)\ ((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/body_parts),?\ (?A:icd10pcs/shared/approach_adj)\ approach</pattern>
+            <pattern>(?A:icd10pcs/med_surg/ops_combine)\ of\ (?A:icd10pcs/med_surg/devices_placeholder)\ (into|in)\ ((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/body_parts),?\ (?A:icd10pcs/shared/approach_via)</pattern>
             <!-- Examples: 'coronary artery bypass graft', 'cabg' (standalone procedure phrase) -->
             <pattern>(?A:icd10pcs/med_surg/op_includes_surg)</pattern>
             <!-- Example: 'excised', 'resected' (strict surgical verb, standalone) -->
@@ -16005,7 +16007,7 @@
             <!-- Example: 'colon inspection' (body precedes op) -->
             <pattern>(?A:icd10pcs/med_surg/body_parts)\ (?A:icd10pcs/med_surg/ops_medical_combine)</pattern>
             <!-- Example: 'inspection colon', 'removal left kidney' (op precedes body, optional laterality) -->
-            <pattern>(?A:icd10pcs/med_surg/ops_medical_combine)\ ((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/body_parts)</pattern>
+            <pattern>(?A:icd10pcs/med_surg/ops_medical_combine)\ ((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/body_parts)</pattern>
             <!-- Example: 'endoscopic inspection' (approach adjective precedes op) -->
             <pattern>(?A:icd10pcs/shared/approach_adj)\ (?A:icd10pcs/med_surg/ops_medical_combine)</pattern>
             <!-- Examples: 'inspection endoscopic', 'removal via natural opening' (op then approach adj or via) -->
@@ -16013,22 +16015,22 @@
             <!-- Example: 'colon inspection endoscopic' (body + op + approach suffix) -->
             <pattern>(?A:icd10pcs/med_surg/body_parts)\ (?A:icd10pcs/med_surg/ops_medical_combine)\ (?A:icd10pcs/shared/approach_adj)</pattern>
             <!-- Example: 'removal of port percutaneous' (op + body + approach suffix) -->
-            <pattern>(?A:icd10pcs/med_surg/ops_medical_combine)(,|\ (?A:industries/healthcare/prepositional_phrases))\ ?((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/body_parts)\ (?A:icd10pcs/shared/approach_adj)</pattern>
-            <pattern>(?A:icd10pcs/med_surg/ops_medical_combine)\ ((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/body_parts)\ (?A:icd10pcs/shared/approach_adj)</pattern>
+            <pattern>(?A:icd10pcs/med_surg/ops_medical_combine)(,|\ (?A:industries/healthcare/prepositional_phrases))\ ?((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/body_parts)\ (?A:icd10pcs/shared/approach_adj)</pattern>
+            <pattern>(?A:icd10pcs/med_surg/ops_medical_combine)\ ((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/body_parts)\ (?A:icd10pcs/shared/approach_adj)</pattern>
             <!-- Examples: 'removal of cardiac lead', 'change, drainage device' -->
             <pattern>(?A:icd10pcs/med_surg/ops_medical_combine)(,|\ (?A:industries/healthcare/prepositional_phrases))\ ?(?A:icd10pcs/med_surg/devices)</pattern>
             <!-- Example: 'cardiac lead removal' (device precedes op) -->
             <pattern>(?A:icd10pcs/med_surg/devices)\ (?A:icd10pcs/med_surg/ops_medical_combine)</pattern>
             <!-- REC-3 (medical): `<op_med> of <placeholder-device> <prep> <bp>` form. Examples: 'removal of other device from stomach', 'change of drainage device in large intestine'. -->
-            <pattern>(?A:icd10pcs/med_surg/ops_medical_combine)\ of\ (?A:icd10pcs/med_surg/devices_placeholder)\ (from|in)\ ((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/body_parts)</pattern>
-            <pattern>(?A:icd10pcs/med_surg/ops_medical_combine)\ of\ (?A:icd10pcs/med_surg/devices_placeholder)\ (from|in)\ ((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/body_parts),?\ (?A:icd10pcs/shared/approach_adj)\ approach</pattern>
-            <pattern>(?A:icd10pcs/med_surg/ops_medical_combine)\ of\ (?A:icd10pcs/med_surg/devices_placeholder)\ (from|in)\ ((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/body_parts),?\ (?A:icd10pcs/shared/approach_via)</pattern>
+            <pattern>(?A:icd10pcs/med_surg/ops_medical_combine)\ of\ (?A:icd10pcs/med_surg/devices_placeholder)\ (from|in)\ ((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/body_parts)</pattern>
+            <pattern>(?A:icd10pcs/med_surg/ops_medical_combine)\ of\ (?A:icd10pcs/med_surg/devices_placeholder)\ (from|in)\ ((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/body_parts),?\ (?A:icd10pcs/shared/approach_adj)\ approach</pattern>
+            <pattern>(?A:icd10pcs/med_surg/ops_medical_combine)\ of\ (?A:icd10pcs/med_surg/devices_placeholder)\ (from|in)\ ((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/body_parts),?\ (?A:icd10pcs/shared/approach_via)</pattern>
             <!-- Examples: 'pressure monitoring', 'temperature monitoring' (standalone phrase) -->
             <pattern>(?A:icd10pcs/med_surg/op_includes_med)</pattern>
             <!-- CACHE-2 condition + ops_combine: 'fibroid removal', 'schatzki ring dilation' -->
-            <pattern>((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/conditions)\ (?A:icd10pcs/med_surg/ops_combine)</pattern>
+            <pattern>((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/conditions)\ (?A:icd10pcs/med_surg/ops_combine)</pattern>
             <!-- CACHE-2 ops_combine + condition: 'removal of fibroid', 'drainage of pancreatic collection' -->
-            <pattern>(?A:icd10pcs/med_surg/ops_combine)(,|\ (?A:industries/healthcare/prepositional_phrases))\ ?((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/conditions)</pattern>
+            <pattern>(?A:icd10pcs/med_surg/ops_combine)(,|\ (?A:industries/healthcare/prepositional_phrases))\ ?((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/conditions)</pattern>
             <!-- CACHE-2 foreign body + ops_combine: 'egd coin removal', 'colon fb extraction' -->
             <pattern>(?A:icd10pcs/med_surg/foreign_bodies)\ (?A:icd10pcs/med_surg/ops_combine)</pattern>
             <!-- CACHE-2 ops_combine + foreign body: 'removal of egd coin' -->
@@ -16036,9 +16038,9 @@
             <!-- CACHE-2 eponym + ops_combine: 'manchester repair', 'mccall culdoplasty' -->
             <pattern>(?A:icd10pcs/med_surg/eponym_procedures)\ (?A:icd10pcs/med_surg/ops_combine)</pattern>
             <!-- CACHE-2 condition + ops_medical_combine: 'fibroid removal', 'schatzki ring dilation' -->
-            <pattern>((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/conditions)\ (?A:icd10pcs/med_surg/ops_medical_combine)</pattern>
+            <pattern>((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/conditions)\ (?A:icd10pcs/med_surg/ops_medical_combine)</pattern>
             <!-- CACHE-2 ops_medical_combine + condition: 'removal of fibroid', 'drainage of pancreatic collection' -->
-            <pattern>(?A:icd10pcs/med_surg/ops_medical_combine)(,|\ (?A:industries/healthcare/prepositional_phrases))\ ?((left|right|bilateral|l|r|bil)\ )?(?A:icd10pcs/med_surg/conditions)</pattern>
+            <pattern>(?A:icd10pcs/med_surg/ops_medical_combine)(,|\ (?A:industries/healthcare/prepositional_phrases))\ ?((l(eft)?|r(ight)?|bil(ateral)?)\ )?(?A:icd10pcs/med_surg/conditions)</pattern>
             <!-- CACHE-2 foreign body + ops_medical_combine: 'egd coin removal', 'colon fb extraction' -->
             <pattern>(?A:icd10pcs/med_surg/foreign_bodies)\ (?A:icd10pcs/med_surg/ops_medical_combine)</pattern>
             <!-- CACHE-2 ops_medical_combine + foreign body: 'removal of egd coin' -->
