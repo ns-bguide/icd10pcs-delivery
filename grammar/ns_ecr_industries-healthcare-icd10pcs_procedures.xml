@@ -70,39 +70,38 @@
         <entity name="icd10pcs/shared/approach_adj" type="private" case="insensitive">
             <entry score="1.0" headword="arthroscopic"/>
             <entry score="1.0" headword="bronchoscopic"/>
-            <entry score="1.0" headword="endo"/>
-            <entry score="1.0" headword="endoscopic"/>
-            <entry score="1.0" headword="external"/>
-            <entry score="1.0" headword="lap"/>
-            <entry score="1.0" headword="laparoscopic"/>
-            <entry score="1.0" headword="minimally invasive"/>
-            <entry score="1.0" headword="open"/>
-            <entry score="1.0" headword="perc"/>
-            <entry score="1.0" headword="percutaneous endoscopic"/>
-            <entry score="1.0" headword="percutaneous"/>
-            <entry score="1.0" headword="robotic"/>
-            <entry score="1.0" headword="thoracoscopic"/>
-            <entry score="1.0" headword="vats"/>
-        
             <entry score="1.0" headword="colonoscopic"/>
             <entry score="1.0" headword="cystoscopic"/>
+            <entry score="1.0" headword="endo"/>
+            <entry score="1.0" headword="endoscopic"/>
             <entry score="1.0" headword="esophagoscopic"/>
+            <entry score="1.0" headword="external"/>
             <entry score="1.0" headword="fetoscopic"/>
             <entry score="1.0" headword="fluoroscopic"/>
             <entry score="1.0" headword="gastroscopic"/>
             <entry score="1.0" headword="hysteroscopic"/>
             <entry score="1.0" headword="intrathecal"/>
+            <entry score="1.0" headword="lap"/>
+            <entry score="1.0" headword="laparoscopic"/>
             <entry score="1.0" headword="laryngoscopic"/>
             <entry score="1.0" headword="minilaparoscopic"/>
+            <entry score="1.0" headword="minimally invasive"/>
             <entry score="1.0" headword="neuroendoscopic"/>
+            <entry score="1.0" headword="open"/>
+            <entry score="1.0" headword="perc"/>
+            <entry score="1.0" headword="percutaneous endoscopic"/>
+            <entry score="1.0" headword="percutaneous"/>
             <entry score="1.0" headword="pleuroscopic"/>
             <entry score="1.0" headword="rats"/>
+            <entry score="1.0" headword="robotic"/>
             <entry score="1.0" headword="robotic-assisted"/>
             <entry score="1.0" headword="robotic-enhanced"/>
             <entry score="1.0" headword="sinoscopic"/>
+            <entry score="1.0" headword="thoracoscopic"/>
             <entry score="1.0" headword="transoral"/>
             <entry score="1.0" headword="transsphenoidal"/>
             <entry score="1.0" headword="ureteroscopic"/>
+            <entry score="1.0" headword="vats"/>
         </entity>
 
         <!-- Approach modifiers in 'via …' form (via natural opening, via natural or artificial opening). -->
@@ -469,6 +468,8 @@
             <entry score="1.0" headword="levator advancement"/>
             <entry score="1.0" headword="lichtenstein repair"/>
             <entry score="1.0" headword="lingulectomy"/>
+            <entry score="1.0" headword="linx"/>
+            <entry score="1.0" headword="linxes"/>
             <entry score="1.0" headword="lipectomy"/>
             <entry score="1.0" headword="lipoplasty"/>
             <entry score="1.0" headword="liposuction"/>
@@ -755,9 +756,6 @@
             <entry score="1.0" headword="xlif"/>
             <entry score="1.0" headword="z plasty"/>
             <entry score="1.0" headword="z-plasty"/>
-        
-            <entry score="1.0" headword="linx"/>
-            <entry score="1.0" headword="linxes"/>
         </entity>
 
         <!-- Operations that REQUIRE a body-part context to fire (e.g. 'excision' → 'excision of liver'). The core precision lever. -->
@@ -6612,8 +6610,6 @@
             <entry score="1.0" headword="adhesive capsulitises"/>
             <entry score="1.0" headword="adjustable"/>
             <entry score="1.0" headword="adjustables"/>
-            <entry score="1.0" headword="ahmed"/>
-            <entry score="1.0" headword="ahmeds"/>
             <entry score="1.0" headword="all"/>
             <entry score="1.0" headword="alls"/>
             <entry score="1.0" headword="ams 800"/>
@@ -6665,10 +6661,6 @@
             <entry score="1.0" headword="arm nerve bundle"/>
             <entry score="1.0" headword="arm nerve bundles"/>
             <entry score="1.0" headword="arteriovenous graft"/>
-            <entry score="1.0" headword="artificial bowel sphincter"/>
-            <entry score="1.0" headword="artificial bowel sphincters"/>
-            <entry score="1.0" headword="artificial urinary sphincter"/>
-            <entry score="1.0" headword="artificial urinary sphincters"/>
             <entry score="1.0" headword="ascending aorta vessel"/>
             <entry score="1.0" headword="ascending aorta vessels"/>
             <entry score="1.0" headword="ascending aorta-vessel"/>
@@ -6700,8 +6692,6 @@
             <entry score="1.0" headword="auricular autoplasties"/>
             <entry score="1.0" headword="auricular autoplasty"/>
             <entry score="1.0" headword="auses"/>
-            <entry score="1.0" headword="autologous chondrocyte"/>
-            <entry score="1.0" headword="autologous chondrocytes"/>
             <entry score="1.0" headword="autologous dural expansion"/>
             <entry score="1.0" headword="autologous dural expansions"/>
             <entry score="1.0" headword="av node surgical"/>
@@ -7622,8 +7612,6 @@
             <entry score="1.0" headword="orbital floor repairs"/>
             <entry score="1.0" headword="organoaxial volvulus"/>
             <entry score="1.0" headword="organoaxial volvuluses"/>
-            <entry score="1.0" headword="orthopedic hardware"/>
-            <entry score="1.0" headword="orthopedic hardwares"/>
             <entry score="1.0" headword="osteochondral allograft"/>
             <entry score="1.0" headword="osteochondral allografts"/>
             <entry score="1.0" headword="osteochondral defect"/>
@@ -13436,6 +13424,7 @@
             <entry score="1.0" headword="abdominal wall mesh"/>
             <entry score="1.0" headword="abdominal wall meshes"/>
             <entry score="1.0" headword="abdominal"/>
+            <entry score="1.0" headword="abdominals"/>
             <entry score="1.0" headword="abscess"/>
             <entry score="1.0" headword="abscesses"/>
             <entry score="1.0" headword="achilles"/>
@@ -13451,15 +13440,20 @@
             <entry score="1.0" headword="agger nases"/>
             <entry score="1.0" headword="aicd generator"/>
             <entry score="1.0" headword="aicd generators"/>
+            <entry score="1.0" headword="ampulla"/>
             <entry score="1.0" headword="ampullaries"/>
             <entry score="1.0" headword="ampullary"/>
+            <entry score="1.0" headword="ampullas"/>
             <entry score="1.0" headword="anal"/>
             <entry score="1.0" headword="anals"/>
             <entry score="1.0" headword="aneurysm"/>
             <entry score="1.0" headword="aneurysms"/>
             <entry score="1.0" headword="ant mediastinal thymis"/>
             <entry score="1.0" headword="anterior mediastinal thymis"/>
+            <entry score="1.0" headword="antral follicle"/>
+            <entry score="1.0" headword="antral follicles"/>
             <entry score="1.0" headword="antral"/>
+            <entry score="1.0" headword="antrals"/>
             <entry score="1.0" headword="aortic aneurysm"/>
             <entry score="1.0" headword="aortic aneurysms"/>
             <entry score="1.0" headword="aortic zone i"/>
@@ -13491,6 +13485,7 @@
             <entry score="1.0" headword="arms"/>
             <entry score="1.0" headword="arteries"/>
             <entry score="1.0" headword="artery"/>
+            <entry score="1.0" headword="ascending aorta wall"/>
             <entry score="1.0" headword="at"/>
             <entry score="1.0" headword="atrioventricular valve"/>
             <entry score="1.0" headword="atrioventricular valves"/>
@@ -13575,6 +13570,9 @@
             <entry score="1.0" headword="cardiac rhythm managements"/>
             <entry score="1.0" headword="cardiac rhythm"/>
             <entry score="1.0" headword="cardiac rhythms"/>
+            <entry score="1.0" headword="cardiothoracic"/>
+            <entry score="1.0" headword="cardiovascular"/>
+            <entry score="1.0" headword="cardiovasculars"/>
             <entry score="1.0" headword="carotid dacron"/>
             <entry score="1.0" headword="carotid dacrons"/>
             <entry score="1.0" headword="carotid kink"/>
@@ -13649,10 +13647,14 @@
             <entry score="1.0" headword="cochlears"/>
             <entry score="1.0" headword="codman"/>
             <entry score="1.0" headword="codmen"/>
+            <entry score="1.0" headword="collarbone"/>
+            <entry score="1.0" headword="collarbones"/>
             <entry score="1.0" headword="colon sigmoid"/>
             <entry score="1.0" headword="colon sigmoids"/>
             <entry score="1.0" headword="colon-sigmoid"/>
             <entry score="1.0" headword="colon-sigmoids"/>
+            <entry score="1.0" headword="colorectal"/>
+            <entry score="1.0" headword="colorectals"/>
             <entry score="1.0" headword="common atrioventricular valve"/>
             <entry score="1.0" headword="common atrioventricular valves"/>
             <entry score="1.0" headword="compression screw"/>
@@ -13839,10 +13841,15 @@
             <entry score="1.0" headword="gastric antras"/>
             <entry score="1.0" headword="gastric"/>
             <entry score="1.0" headword="gastrocolic"/>
+            <entry score="1.0" headword="gastrointestinal"/>
+            <entry score="1.0" headword="gastrointestinals"/>
             <entry score="1.0" headword="gb"/>
             <entry score="1.0" headword="gbs"/>
             <entry score="1.0" headword="gea"/>
             <entry score="1.0" headword="geas"/>
+            <entry score="1.0" headword="genitourinaries"/>
+            <entry score="1.0" headword="genitourinary tracts"/>
+            <entry score="1.0" headword="genitourinary"/>
             <entry score="1.0" headword="glaucoma filtering"/>
             <entry score="1.0" headword="glaucoma filterings"/>
             <entry score="1.0" headword="glaucoma"/>
@@ -13863,6 +13870,9 @@
             <entry score="1.0" headword="groshongs"/>
             <entry score="1.0" headword="growing rod"/>
             <entry score="1.0" headword="growing rods"/>
+            <entry score="1.0" headword="gynecologic"/>
+            <entry score="1.0" headword="gynecological"/>
+            <entry score="1.0" headword="gynecologicals"/>
             <entry score="1.0" headword="head lymph vessel"/>
             <entry score="1.0" headword="head lymph vessels"/>
             <entry score="1.0" headword="heart assist"/>
@@ -13879,6 +13889,8 @@
             <entry score="1.0" headword="hemorrhoidal plexus"/>
             <entry score="1.0" headword="hemorrhoidal plexuses"/>
             <entry score="1.0" headword="hemorrhoids"/>
+            <entry score="1.0" headword="hepatobiliaries"/>
+            <entry score="1.0" headword="hepatobiliary"/>
             <entry score="1.0" headword="hernia"/>
             <entry score="1.0" headword="hernias"/>
             <entry score="1.0" headword="hiatal hernia"/>
@@ -13949,8 +13961,8 @@
             <entry score="1.0" headword="intercostal drains"/>
             <entry score="1.0" headword="interfragmentary screw"/>
             <entry score="1.0" headword="interfragmentary screws"/>
-            <entry score="1.0" headword="intracranial pressure monitor"/>
-            <entry score="1.0" headword="intracranial pressure monitors"/>
+            <entry score="1.0" headword="intraabdominal"/>
+            <entry score="1.0" headword="intraabdominals"/>
             <entry score="1.0" headword="intranasal"/>
             <entry score="1.0" headword="intranasals"/>
             <entry score="1.0" headword="intraocular"/>
@@ -14038,7 +14050,6 @@
             <entry score="1.0" headword="limasses-to-lad"/>
             <entry score="1.0" headword="lingual"/>
             <entry score="1.0" headword="linguals"/>
-            <entry score="1.0" headword="linx"/>
             <entry score="1.0" headword="lip cleft"/>
             <entry score="1.0" headword="lip clefts"/>
             <entry score="1.0" headword="liver wedge"/>
@@ -14124,6 +14135,8 @@
             <entry score="1.0" headword="msa"/>
             <entry score="1.0" headword="msas"/>
             <entry score="1.0" headword="muscle fiber types wes"/>
+            <entry score="1.0" headword="musculoskeletal"/>
+            <entry score="1.0" headword="musculoskeletals"/>
             <entry score="1.0" headword="mv"/>
             <entry score="1.0" headword="mvs"/>
             <entry score="1.0" headword="myometrias"/>
@@ -14167,12 +14180,16 @@
             <entry score="1.0" headword="obstetric perineals"/>
             <entry score="1.0" headword="om"/>
             <entry score="1.0" headword="oms"/>
+            <entry score="1.0" headword="ophthalmic"/>
             <entry score="1.0" headword="orbital floor"/>
             <entry score="1.0" headword="orbital floors"/>
             <entry score="1.0" headword="orbital rim"/>
             <entry score="1.0" headword="orbital rims"/>
             <entry score="1.0" headword="orbital"/>
             <entry score="1.0" headword="orif humeris"/>
+            <entry score="1.0" headword="otolaryngologic"/>
+            <entry score="1.0" headword="otolaryngological"/>
+            <entry score="1.0" headword="otolaryngologicals"/>
             <entry score="1.0" headword="ovarian"/>
             <entry score="1.0" headword="ovarians"/>
             <entry score="1.0" headword="pacemaker generator"/>
@@ -14243,7 +14260,6 @@
             <entry score="1.0" headword="pituitary apoplexy"/>
             <entry score="1.0" headword="plaque"/>
             <entry score="1.0" headword="plaques"/>
-            <entry score="1.0" headword="pleurx"/>
             <entry score="1.0" headword="pm generator"/>
             <entry score="1.0" headword="pm generators"/>
             <entry score="1.0" headword="pm"/>
@@ -14544,10 +14560,15 @@
             <entry score="1.0" headword="urethrals"/>
             <entry score="1.0" headword="urinary sphincter"/>
             <entry score="1.0" headword="urinary sphincters"/>
+            <entry score="1.0" headword="urologic"/>
+            <entry score="1.0" headword="urological"/>
+            <entry score="1.0" headword="urologicals"/>
             <entry score="1.0" headword="uterine arteries"/>
             <entry score="1.0" headword="uterine artery"/>
             <entry score="1.0" headword="uterine"/>
             <entry score="1.0" headword="uterines"/>
+            <entry score="1.0" headword="utero"/>
+            <entry score="1.0" headword="uteroes"/>
             <entry score="1.0" headword="uvular"/>
             <entry score="1.0" headword="uvulars"/>
             <entry score="1.0" headword="va"/>
@@ -14556,6 +14577,8 @@
             <entry score="1.0" headword="valves"/>
             <entry score="1.0" headword="varicocele"/>
             <entry score="1.0" headword="varicoceles"/>
+            <entry score="1.0" headword="vascular"/>
+            <entry score="1.0" headword="vasculars"/>
             <entry score="1.0" headword="vc"/>
             <entry score="1.0" headword="vcs"/>
             <entry score="1.0" headword="vein dacron"/>
@@ -14565,8 +14588,6 @@
             <entry score="1.0" headword="venous tos"/>
             <entry score="1.0" headword="ventral hernia"/>
             <entry score="1.0" headword="ventral hernias"/>
-            <entry score="1.0" headword="ventricular assist device"/>
-            <entry score="1.0" headword="ventricular assist devices"/>
             <entry score="1.0" headword="ventricular"/>
             <entry score="1.0" headword="ventriculars"/>
             <entry score="1.0" headword="vertebral"/>
@@ -14587,7 +14608,6 @@
             <entry score="1.0" headword="vtos"/>
             <entry score="1.0" headword="vulvar"/>
             <entry score="1.0" headword="vulvars"/>
-            <entry score="1.0" headword="watchman flx"/>
             <entry score="1.0" headword="womb"/>
             <entry score="1.0" headword="wombs"/>
             <entry score="1.0" headword="wound"/>
@@ -15207,6 +15227,7 @@
             <entry score="1.0" headword="venous angles"/>
             <entry score="1.0" headword="venous system"/>
             <entry score="1.0" headword="venous"/>
+            <entry score="1.0" headword="ventricular assist devices"/>
             <entry score="1.0" headword="ventricular branch"/>
             <entry score="1.0" headword="ventricular branches"/>
             <entry score="1.0" headword="ventricular cavity"/>
@@ -15220,32 +15241,6 @@
             <entry score="1.0" headword="walls"/>
             <entry score="1.0" headword="zone"/>
             <entry score="1.0" headword="zones"/>
-        
-            <entry score="1.0" headword="abdominals"/>
-            <entry score="1.0" headword="ampulla"/>
-            <entry score="1.0" headword="antral follicle"/>
-            <entry score="1.0" headword="antral follicles"/>
-            <entry score="1.0" headword="antrals"/>
-            <entry score="1.0" headword="cardiothoracic"/>
-            <entry score="1.0" headword="cardiovascular"/>
-            <entry score="1.0" headword="collarbone"/>
-            <entry score="1.0" headword="colorectal"/>
-            <entry score="1.0" headword="gastrointestinal"/>
-            <entry score="1.0" headword="genitourinary"/>
-            <entry score="1.0" headword="genitourinary tracts"/>
-            <entry score="1.0" headword="gynecologic" />
-            <entry score="1.0" headword="gynecological" />
-            <entry score="1.0" headword="hepatobiliary"/>
-            <entry score="1.0" headword="intraabdominal"/>
-            <entry score="1.0" headword="musculoskeletal"/>
-            <entry score="1.0" headword="ophthalmic"/>
-            <entry score="1.0" headword="otolaryngologic"/>
-            <entry score="1.0" headword="otolaryngological"/>
-            <entry score="1.0" headword="urologic"/>
-            <entry score="1.0" headword="urological"/>
-            <entry score="1.0" headword="utero"/>
-            <entry score="1.0" headword="vascular"/>
-            <entry score="1.0" headword="ascending aorta wall"/>
         </entity>
 
         <!-- Devices, implants and materials (CMS axis-6). Fire only via <op> <device> compositions. -->
@@ -15283,6 +15278,10 @@
             <entry score="1.0" headword="advisa (mri)"/>
             <entry score="1.0" headword="advisa mri"/>
             <entry score="1.0" headword="advisa"/>
+            <entry score="1.0" headword="ahmed valve"/>
+            <entry score="1.0" headword="ahmed valves"/>
+            <entry score="1.0" headword="ahmed"/>
+            <entry score="1.0" headword="ahmeds"/>
             <entry score="1.0" headword="airway intraluminal device"/>
             <entry score="1.0" headword="alfapump system"/>
             <entry score="1.0" headword="alfapump(r) system"/>
@@ -15301,7 +15300,9 @@
             <entry score="1.0" headword="artificial anal sphincter (aas)"/>
             <entry score="1.0" headword="artificial anal sphincter aas"/>
             <entry score="1.0" headword="artificial anal sphincter"/>
+            <entry score="1.0" headword="artificial bowel sphincter"/>
             <entry score="1.0" headword="artificial sphincter"/>
+            <entry score="1.0" headword="artificial urinary sphincter"/>
             <entry score="1.0" headword="as single chamber"/>
             <entry score="1.0" headword="ascenda intrathecal catheter"/>
             <entry score="1.0" headword="atriclip laa exclusion system"/>
@@ -15313,6 +15314,9 @@
             <entry score="1.0" headword="autograft"/>
             <entry score="1.0" headword="autologous arterial tissue"/>
             <entry score="1.0" headword="autologous artery graft"/>
+            <entry score="1.0" headword="autologous chondrocyte"/>
+            <entry score="1.0" headword="autologous dural"/>
+            <entry score="1.0" headword="autologous nerve wrap"/>
             <entry score="1.0" headword="autologous tissue substitute"/>
             <entry score="1.0" headword="autologous vein graft"/>
             <entry score="1.0" headword="autologous venous tissue"/>
@@ -15337,6 +15341,8 @@
             <entry score="1.0" headword="bioactive embolization coils"/>
             <entry score="1.0" headword="bioactive intraluminal device"/>
             <entry score="1.0" headword="biologic with synthetic substitute"/>
+            <entry score="1.0" headword="bioprosthetic valve"/>
+            <entry score="1.0" headword="bioprosthetic valves"/>
             <entry score="1.0" headword="blood glucose monitoring system"/>
             <entry score="1.0" headword="bone anchored hearing aid"/>
             <entry score="1.0" headword="bone anchored hearing device"/>
@@ -15400,7 +15406,9 @@
             <entry score="1.0" headword="cvp line"/>
             <entry score="1.0" headword="cypher stent"/>
             <entry score="1.0" headword="cypher(r) stent"/>
+            <entry score="1.0" headword="cystoscopic"/>
             <entry score="1.0" headword="cystostomy tube"/>
+            <entry score="1.0" headword="da vinci"/>
             <entry score="1.0" headword="defibrillator cardiac lead"/>
             <entry score="1.0" headword="defibrillator generator"/>
             <entry score="1.0" headword="defibrillator lead"/>
@@ -15491,7 +15499,9 @@
             <entry score="1.0" headword="guedel airway"/>
             <entry score="1.0" headword="hearing device"/>
             <entry score="1.0" headword="hemodynamic monitoring device"/>
+            <entry score="1.0" headword="hemodynamic sensor"/>
             <entry score="1.0" headword="hybrid external fixation device"/>
+            <entry score="1.0" headword="hydrocephalus shunt"/>
             <entry score="1.0" headword="icp bolt"/>
             <entry score="1.0" headword="icp monitor with"/>
             <entry score="1.0" headword="ilizarov external fixator"/>
@@ -15533,6 +15543,11 @@
             <entry score="1.0" headword="interstim(tm) micro therapy neurostimulator"/>
             <entry score="1.0" headword="intracardiac pacemaker"/>
             <entry score="1.0" headword="intracranial bolt"/>
+            <entry score="1.0" headword="intracranial neurostim gen"/>
+            <entry score="1.0" headword="intracranial neurostim"/>
+            <entry score="1.0" headword="intracranial neurostimulator generator"/>
+            <entry score="1.0" headword="intracranial neurostimulator"/>
+            <entry score="1.0" headword="intracranial pressure monitor"/>
             <entry score="1.0" headword="intracranial stimulator device"/>
             <entry score="1.0" headword="intragastric balloon"/>
             <entry score="1.0" headword="intraluminal device"/>
@@ -15599,6 +15614,7 @@
             <entry score="1.0" headword="ommaya reservoir"/>
             <entry score="1.0" headword="optimizer iii implantable pulse generator"/>
             <entry score="1.0" headword="optimizer(tm) iii implantable pulse generator"/>
+            <entry score="1.0" headword="orthopedic hardware"/>
             <entry score="1.0" headword="otw self expanding stent system"/>
             <entry score="1.0" headword="otw self-expanding stent system"/>
             <entry score="1.0" headword="oxidized zirconium on polyethylene synthetic substitute"/>
@@ -15620,15 +15636,19 @@
             <entry score="1.0" headword="percutaneous endoscopic gastrojejunostomy (peg/j) tube"/>
             <entry score="1.0" headword="percutaneous endoscopic gastrojejunostomy peg/j tube"/>
             <entry score="1.0" headword="percutaneous endoscopic gastrojejunostomy tube"/>
+            <entry score="1.0" headword="pericardium monitoring device"/>
             <entry score="1.0" headword="pessary intraluminal device"/>
             <entry score="1.0" headword="pessary ring"/>
             <entry score="1.0" headword="phrenic nerve stimulator lead"/>
             <entry score="1.0" headword="picc line"/>
+            <entry score="1.0" headword="pleurx"/>
+            <entry score="1.0" headword="pleurxes"/>
             <entry score="1.0" headword="pneumatic synthetic substitute"/>
             <entry score="1.0" headword="polyethylene socket"/>
             <entry score="1.0" headword="polyethylene synthetic substitute"/>
             <entry score="1.0" headword="precice intramedullary limb lengthening system"/>
             <entry score="1.0" headword="pressure sensor monitoring device"/>
+            <entry score="1.0" headword="pressure sensor"/>
             <entry score="1.0" headword="pump infusion device"/>
             <entry score="1.0" headword="quattro"/>
             <entry score="1.0" headword="radioactive element"/>
@@ -15671,6 +15691,7 @@
             <entry score="1.0" headword="spiration ibv(tm) valve system"/>
             <entry score="1.0" headword="stimulator generator"/>
             <entry score="1.0" headword="stimulator lead"/>
+            <entry score="1.0" headword="stimulator"/>
             <entry score="1.0" headword="subcutaneous abdominal infusion pump"/>
             <entry score="1.0" headword="subcutaneous defibrillator lead"/>
             <entry score="1.0" headword="subcutaneous infusion pump"/>
@@ -15713,42 +15734,15 @@
             <entry score="1.0" headword="uterine balloon"/>
             <entry score="1.0" headword="vaginal mesh"/>
             <entry score="1.0" headword="vascular access device"/>
+            <entry score="1.0" headword="ventricular assist device"/>
             <entry score="1.0" headword="vertebral body tether spinal stabilization device"/>
             <entry score="1.0" headword="vocal cord hydroxyapatite"/>
             <entry score="1.0" headword="vocal cord radiesse"/>
             <entry score="1.0" headword="vocal cord restylane"/>
-            <entry score="1.0" headword="xt (s)(dr/vr)"/>
-            <entry score="1.0" headword="zooplastic tissue"/>
-        
-            <entry score="1.0" headword="ahmed"/>
-            <entry score="1.0" headword="ahmed valve"/>
-            <entry score="1.0" headword="ahmed valves"/>
-            <entry score="1.0" headword="ahmeds"/>
-            <entry score="1.0" headword="artificial bowel sphincter"/>
-            <entry score="1.0" headword="artificial urinary sphincter"/>
-            <entry score="1.0" headword="autologous chondrocyte"/>
-            <entry score="1.0" headword="autologous dural"/>
-            <entry score="1.0" headword="autologous nerve wrap"/>
-            <entry score="1.0" headword="bioprosthetic valve"/>
-            <entry score="1.0" headword="bioprosthetic valves"/>
-            <entry score="1.0" headword="cystoscopic"/>
-            <entry score="1.0" headword="da vinci"/>
-            <entry score="1.0" headword="hemodynamic sensor"/>
-            <entry score="1.0" headword="hydrocephalus shunt"/>
-            <entry score="1.0" headword="intracranial neurostim"/>
-            <entry score="1.0" headword="intracranial neurostim gen"/>
-            <entry score="1.0" headword="intracranial neurostimulator"/>
-            <entry score="1.0" headword="intracranial neurostimulator generator"/>
-            <entry score="1.0" headword="intracranial pressure monitor"/>
-            <entry score="1.0" headword="orthopedic hardware"/>
-            <entry score="1.0" headword="pericardium monitoring device"/>
-            <entry score="1.0" headword="pleurx"/>
-            <entry score="1.0" headword="pleurxes"/>
-            <entry score="1.0" headword="pressure sensor"/>
-            <entry score="1.0" headword="stimulator"/>
-            <entry score="1.0" headword="ventricular assist device"/>
             <entry score="1.0" headword="watchman flx"/>
             <entry score="1.0" headword="watchman flxes"/>
+            <entry score="1.0" headword="xt (s)(dr/vr)"/>
+            <entry score="1.0" headword="zooplastic tissue"/>
         </entity>
 
         <!-- Generic device placeholders too vague to match standalone; safe only inside the triple-anchored REC-3 pattern. -->
@@ -15759,8 +15753,22 @@
             <entry score="1.0" headword="totally implantable access device"/>
         </entity>
 
-        <!-- AGGREGATOR — stitches this section's components into surgical-procedure patterns. -->
+        <!-- high-confidence surgical action verb-families (standalone or +body part) -->
+        <entity name="icd10pcs/med_surg/surgical_actions" type="private" case="insensitive">
+            <!-- ablate[ds]? -->
+            <pattern>ablat(e[ds]?|ing|ions?)</pattern>
+            <pattern>anastomo(s(e[ds]?|ing))</pattern>
+            <pattern>biops(ie[ds]|y(ing)?)</pattern>
+            <pattern>cauteriz(e[ds]?|ing|ations?)</pattern>
+            <pattern>excis(e[ds]?|ing|ions?)</pattern>
+            <pattern>extirpat(e[ds]?|ing|ions?)</pattern>
+            <pattern>ly(s([ei]s|e[ds]?)|tics?)</pattern>
+            <pattern>resect(ed|ing|ions?|s)?</pattern>
+        </entity>
+
+        <!-- action verb-families requiring a body-part/device/region context -->
         <entity name="icd10pcs/med_surg/common_actions" type="private" case="insensitive">
+            <!-- alter -->
             <pattern>alter(ations?|ed|ing|s)?</pattern>
             <pattern>bypass(e[ds]|ing)?</pattern>
             <pattern>chang(e[ds]?|ing)</pattern>
@@ -15796,17 +15804,7 @@
             <pattern>transf(er(ed|ing|s)?|usions?)</pattern>
         </entity>
 
-        <entity name="icd10pcs/med_surg/surgical_actions" type="private" case="insensitive">
-            <pattern>ablat(e[ds]?|ing|ions?)</pattern>
-            <pattern>anastomo(s(e[ds]?|ing))</pattern>
-            <pattern>biops(ie[ds]|y(ing)?)</pattern>
-            <pattern>cauteriz(e[ds]?|ing|ations?)</pattern>
-            <pattern>excis(e[ds]?|ing|ions?)</pattern>
-            <pattern>extirpat(e[ds]?|ing|ions?)</pattern>
-            <pattern>ly(s([ei]s|e[ds]?)|tics?)</pattern>
-            <pattern>resect(ed|ing|ions?|s)?</pattern>
-        </entity>
-
+        <!-- AGGREGATOR — stitches this section's components into surgical-procedure patterns. -->
         <entity name="icd10pcs/med_surg/surgical" type="private" case="insensitive">
             <!-- Examples: 'appendectomy', 'abdominoplasty' (standalone surgical op) -->
             <pattern>(?A:icd10pcs/med_surg/ops_direct)</pattern>
@@ -15869,7 +15867,6 @@
             <pattern>((excis|extirpat|ablat|cauteriz|ligat|anastomos)(e|ed|ing)|resect(ed|ing)?|(biopsy|biopsied|biopsying))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
             <!-- Example: 'ablated the left kidney', 'repairing heart valve' -->
             <pattern>((creat|divid|fus|occlud|releas|replac|revis|explor|chang|remov)(e|ed|ing)|(reattach|transplant|alter|bypass|destroy|detach|drain|extract|fragment|insert|repair|reposition|restrict|supplement|transfer|graft|implant|reconstruct)(ed|ing)?|(control|controlled|controlling|map|mapped|mapping))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
-        
             <!-- Surgical/common action verb-families (ENG-837988) -->
             <pattern>(?A:icd10pcs/med_surg/surgical_actions)</pattern>
             <pattern>(?A:icd10pcs/med_surg/surgical_actions)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
@@ -15892,6 +15889,7 @@
             <entry score="1.0" headword="bronchial lithiasis"/>
             <entry score="1.0" headword="burn eschar"/>
             <entry score="1.0" headword="burn"/>
+            <entry score="1.0" headword="cardiomyopathy"/>
             <entry score="1.0" headword="chest fluid"/>
             <entry score="1.0" headword="chl"/>
             <entry score="1.0" headword="diastasis recti"/>
@@ -15903,6 +15901,8 @@
             <entry score="1.0" headword="esophageal anastomotic leak"/>
             <entry score="1.0" headword="ext ear fluid"/>
             <entry score="1.0" headword="external ear fluid"/>
+            <entry score="1.0" headword="fetal myelomeningocele"/>
+            <entry score="1.0" headword="fetal myelomeningoceles"/>
             <entry score="1.0" headword="fetal spina bifida"/>
             <entry score="1.0" headword="fibroid"/>
             <entry score="1.0" headword="fourth degree tear"/>
@@ -15918,17 +15918,25 @@
             <entry score="1.0" headword="may-thurner"/>
             <entry score="1.0" headword="meningioma"/>
             <entry score="1.0" headword="middle ear keratin"/>
+            <entry score="1.0" headword="myelomeningocele"/>
+            <entry score="1.0" headword="myelomeningoceles"/>
             <entry score="1.0" headword="nasal cavity fluid"/>
             <entry score="1.0" headword="nasal concha crust"/>
             <entry score="1.0" headword="nasal deviation"/>
             <entry score="1.0" headword="nasal trauma"/>
             <entry score="1.0" headword="nasal turbinate impacted material"/>
+            <entry score="1.0" headword="osteophyte"/>
+            <entry score="1.0" headword="osteophytes"/>
             <entry score="1.0" headword="otitis media"/>
             <entry score="1.0" headword="ovarian mass"/>
             <entry score="1.0" headword="pancreatic collection"/>
             <entry score="1.0" headword="pancreatic duct anastomotic stricture"/>
+            <entry score="1.0" headword="pericarditis"/>
+            <entry score="1.0" headword="peyronie"/>
             <entry score="1.0" headword="post caustic stricture"/>
             <entry score="1.0" headword="post-caustic stricture"/>
+            <entry score="1.0" headword="prolapse"/>
+            <entry score="1.0" headword="prolapses"/>
             <entry score="1.0" headword="rectus diastasis"/>
             <entry score="1.0" headword="retroperitoneal mass"/>
             <entry score="1.0" headword="rhinolith"/>
@@ -15938,27 +15946,15 @@
             <entry score="1.0" headword="small bowel obstruction"/>
             <entry score="1.0" headword="small bowel perforation"/>
             <entry score="1.0" headword="small bowel volvulus"/>
+            <entry score="1.0" headword="spina bifida"/>
+            <entry score="1.0" headword="spur"/>
+            <entry score="1.0" headword="thrombosis"/>
             <entry score="1.0" headword="tongue tie"/>
             <entry score="1.0" headword="traumatic hyphema"/>
             <entry score="1.0" headword="tympanic membrane keratin"/>
             <entry score="1.0" headword="tympanic membrane perforation"/>
             <entry score="1.0" headword="vitreous strand"/>
             <entry score="1.0" headword="vvf"/>
-        
-            <entry score="1.0" headword="cardiomyopathy"/>
-            <entry score="1.0" headword="fetal myelomeningocele"/>
-            <entry score="1.0" headword="fetal myelomeningoceles"/>
-            <entry score="1.0" headword="myelomeningocele"/>
-            <entry score="1.0" headword="myelomeningoceles"/>
-            <entry score="1.0" headword="osteophyte"/>
-            <entry score="1.0" headword="osteophytes"/>
-            <entry score="1.0" headword="pericarditis"/>
-            <entry score="1.0" headword="peyronie"/>
-            <entry score="1.0" headword="prolapse"/>
-            <entry score="1.0" headword="prolapses"/>
-            <entry score="1.0" headword="spina bifida"/>
-            <entry score="1.0" headword="spur"/>
-            <entry score="1.0" headword="thrombosis"/>
         </entity>
 
         <!-- Foreign-body phrases that compose with retrieval operations (e.g. 'egd coin removal'). -->
@@ -16058,10 +16054,9 @@
 
         <!-- Operations that fire STANDALONE — the word alone is a complete procedure (e.g. 'appendectomy'). -->
         <entity name="icd10pcs/obstetrics/ops_direct" type="private" case="insensitive">
+            <entry score="1.0" headword="abortion"/>
             <entry score="1.0" headword="resection"/>
             <entry score="1.0" headword="transplantation"/>
-        
-            <entry score="1.0" headword="abortion"/>
         </entity>
 
         <!-- Operations that REQUIRE a body-part context to fire (e.g. 'excision' → 'excision of liver'). The core precision lever. -->
@@ -16136,19 +16131,58 @@
             <entry score="1.0" headword="vacuum"/>
         </entity>
 
-        <!-- AGGREGATOR — stitches this section's components into surgical-procedure patterns. -->
-        <entity name="icd10pcs/obstetrics/common_actions" type="private" case="insensitive">
-            <pattern>chang(e[ds]?|ing)</pattern>
-            <pattern>(transplant|extract|insert|repair)(ed|ing|s)?</pattern>
-            <pattern>drain(ages?|ed|ing|s)</pattern>
-            <pattern>remov(als?|e[ds]?|ing)</pattern>
-            <pattern>reposition(ed|ing|s)?</pattern>
-        </entity>
-
+        <!-- high-confidence surgical action verb-families (standalone or +body part) -->
         <entity name="icd10pcs/obstetrics/surgical_actions" type="private" case="insensitive">
-            <pattern>(resect(ed|ing|ions?)?)</pattern>
+            <!-- ablate[ds]? -->
+            <pattern>ablat(e[ds]?|ing|ions?)</pattern>
+            <pattern>anastomo(s(e[ds]?|ing))</pattern>
+            <pattern>biops(ie[ds]|y(ing)?)</pattern>
+            <pattern>cauteriz(e[ds]?|ing|ations?)</pattern>
+            <pattern>excis(e[ds]?|ing|ions?)</pattern>
+            <pattern>extirpat(e[ds]?|ing|ions?)</pattern>
+            <pattern>ly(s([ei]s|e[ds]?)|tics?)</pattern>
+            <pattern>resect(ed|ing|ions?|s)?</pattern>
         </entity>
 
+        <!-- action verb-families requiring a body-part/device/region context -->
+        <entity name="icd10pcs/obstetrics/common_actions" type="private" case="insensitive">
+            <!-- alter -->
+            <pattern>alter(ations?|ed|ing|s)?</pattern>
+            <pattern>bypass(e[ds]|ing)?</pattern>
+            <pattern>chang(e[ds]?|ing)</pattern>
+            <pattern>control(led|ling|s)?</pattern>
+            <pattern>creat(e[ds]?|ing|ions?)</pattern>
+            <pattern>(scope-assisted\ )?destr(oy(e[ds]?|ing)?|uctions?)</pattern>
+            <pattern>detach(e[ds]?|ing|ments?)?</pattern>
+            <pattern>dila(ta)?t(e[ds]?|ing|ions?)</pattern>
+            <pattern>divi(d(e[ds]?|ing)|sions?)</pattern>
+            <pattern>drain(ages?|ed|ing|s)?</pattern>
+            <pattern>explor(ations?|e[ds]?|ing)</pattern>
+            <pattern>extract(ed|ing|ions?|s)?</pattern>
+            <pattern>frag(\.|ment(ations?|ed|ing|s)?)?</pattern>
+            <pattern>fus(e[ds]?|ing|ions?)</pattern>
+            <pattern>([ei]n)?graft(ed|ing|ions?|s)?</pattern>
+            <pattern>implant(ed|ing|s)?</pattern>
+            <pattern>insert(ed|ing|ions?|s)?</pattern>
+            <pattern>ligat(e[ds]?|ing|ions?|ures?)</pattern>
+            <pattern>map(ped|ping|s)?</pattern>
+            <pattern>occlu(d(e[ds]?|ing)|sions?)</pattern>
+            <pattern>reattach(e[ds]?|ing|ments?)?</pattern>
+            <pattern>releas(e[ds]?|ing)</pattern>
+            <pattern>remov(als?|e[ds]?|ing)</pattern>
+            <pattern>reconstruct(ed|ing|ions?|s)?</pattern>
+            <pattern>repa(ir(ed|ing|s)?|ations?)</pattern>
+            <pattern>replac(e[ds]?|ements?|ing)</pattern>
+            <pattern>reposition(ed|ing|s)?</pattern>
+            <pattern>resor(e[ds]?|ing|ations?)</pattern>
+            <pattern>restrict(ed|ing|ions?|s)?</pattern>
+            <pattern>revis(e[ds]?|ing|ions?)</pattern>
+            <pattern>supplement(ations?|e[ds]?|ing|s)?</pattern>
+            <pattern>transplant(ations?|e[ds]?|ing|s)?</pattern>
+            <pattern>transf(er(ed|ing|s)?|usions?)</pattern>
+        </entity>
+
+        <!-- AGGREGATOR — stitches this section's components into surgical-procedure patterns. -->
         <entity name="icd10pcs/obstetrics/surgical" type="private" case="insensitive">
             <!-- Examples: 'resection', 'transplantation' (standalone obstetrics op) -->
             <pattern>(?A:icd10pcs/obstetrics/ops_direct)</pattern>
@@ -16171,7 +16205,6 @@
             <pattern>(resect(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/obstetrics/body_parts)</pattern>
             <!-- Example: 'ablated the left kidney', 'repairing heart valve' -->
             <pattern>((chang|remov)(e|ed|ing)|(transplant|drain|extract|insert|repair|reposition)(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/obstetrics/body_parts)</pattern>
-        
             <!-- Surgical/common action verb-families (ENG-837988) -->
             <pattern>(?A:icd10pcs/obstetrics/surgical_actions)</pattern>
             <pattern>(?A:icd10pcs/obstetrics/surgical_actions)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/obstetrics/body_parts)</pattern>
@@ -16202,7 +16235,7 @@
             <!-- Example: 'inspecting the colon', 'mapped cardiac conduction' -->
             <pattern>(resect(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/obstetrics/body_parts)</pattern>
             <!-- Example: 'changing the drainage device', 'removing cardiac lead' -->
-            <pattern>(remov(e|ed|ing)|(transplant|drain|extract|insert|repair|abort|deliver|inspect)(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/obstetrics/body_parts)</pattern>
+            <pattern>(remov(e|ed|ing)|(transplant|abort|drain|extract|insert|repair|deliver|inspect)(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/obstetrics/body_parts)</pattern>
         </entity>
 
         <!-- ═════════════════════════════════════════════════════════════════════════════
@@ -16339,19 +16372,51 @@
             <entry score="1.0" headword="wire"/>
         </entity>
 
-        <!-- AGGREGATOR — stitches this section's components into surgical-procedure patterns. -->
+        <!-- action verb-families requiring a body-part/device/region context -->
         <entity name="icd10pcs/placement/common_actions" type="private" case="insensitive">
+            <!-- alter -->
+            <pattern>alter(ations?|ed|ing|s)?</pattern>
+            <pattern>bypass(e[ds]|ing)?</pattern>
             <pattern>chang(e[ds]?|ing)</pattern>
+            <pattern>control(led|ling|s)?</pattern>
+            <pattern>creat(e[ds]?|ing|ions?)</pattern>
+            <pattern>(scope-assisted\ )?destr(oy(e[ds]?|ing)?|uctions?)</pattern>
+            <pattern>detach(e[ds]?|ing|ments?)?</pattern>
+            <pattern>dila(ta)?t(e[ds]?|ing|ions?)</pattern>
+            <pattern>divi(d(e[ds]?|ing)|sions?)</pattern>
+            <pattern>drain(ages?|ed|ing|s)?</pattern>
+            <pattern>explor(ations?|e[ds]?|ing)</pattern>
+            <pattern>extract(ed|ing|ions?|s)?</pattern>
+            <pattern>frag(\.|ment(ations?|ed|ing|s)?)?</pattern>
+            <pattern>fus(e[ds]?|ing|ions?)</pattern>
+            <pattern>([ei]n)?graft(ed|ing|ions?|s)?</pattern>
+            <pattern>implant(ed|ing|s)?</pattern>
+            <pattern>insert(ed|ing|ions?|s)?</pattern>
+            <pattern>ligat(e[ds]?|ing|ions?|ures?)</pattern>
+            <pattern>map(ped|ping|s)?</pattern>
+            <pattern>occlu(d(e[ds]?|ing)|sions?)</pattern>
+            <pattern>reattach(e[ds]?|ing|ments?)?</pattern>
+            <pattern>releas(e[ds]?|ing)</pattern>
             <pattern>remov(als?|e[ds]?|ing)</pattern>
+            <pattern>reconstruct(ed|ing|ions?|s)?</pattern>
+            <pattern>repa(ir(ed|ing|s)?|ations?)</pattern>
+            <pattern>replac(e[ds]?|ements?|ing)</pattern>
+            <pattern>reposition(ed|ing|s)?</pattern>
+            <pattern>resor(e[ds]?|ing|ations?)</pattern>
+            <pattern>restrict(ed|ing|ions?|s)?</pattern>
+            <pattern>revis(e[ds]?|ing|ions?)</pattern>
+            <pattern>supplement(ations?|e[ds]?|ing|s)?</pattern>
+            <pattern>transplant(ations?|e[ds]?|ing|s)?</pattern>
+            <pattern>transf(er(ed|ing|s)?|usions?)</pattern>
         </entity>
 
+        <!-- AGGREGATOR — stitches this section's components into surgical-procedure patterns. -->
         <entity name="icd10pcs/placement/surgical" type="private" case="insensitive">
             <!-- Examples: 'changed the splint on the head', 'removed the cast from the back' -->
             <pattern>((chang|remov)(e|ed|ing))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/placement/devices)\ (on|from)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/placement/body_regions)</pattern>
             <!-- Example: 'ablated the left kidney', 'repairing heart valve' -->
             <pattern>((chang|remov)(e|ed|ing))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/placement/body_regions)</pattern>
-        
-            <!-- Surgical/common action verb-families (ENG-837988) -->
+            <!-- Common action verb-families (ENG-837988) -->
             <pattern>((?A:icd10pcs/placement/common_actions))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/placement/devices)\ (on|from)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/placement/body_regions)</pattern>
             <pattern>((?A:icd10pcs/placement/common_actions))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/placement/body_regions)</pattern>
             <pattern>(?A:icd10pcs/placement/body_regions)\ (?A:icd10pcs/placement/common_actions)</pattern>
@@ -18185,6 +18250,7 @@
             <entry score="1.0" headword="blackarmor carbon/peek fixation system"/>
             <entry score="1.0" headword="blackarmor peek fixation system"/>
             <entry score="1.0" headword="blackarmor(r) carbon/peek fixation system"/>
+            <entry score="1.0" headword="brain stimulation electrode"/>
             <entry score="1.0" headword="branched intraluminal device, manufactured integrated system, four or more arteries"/>
             <entry score="1.0" headword="branched synthetic substitute with intraluminal device"/>
             <entry score="1.0" headword="brexucabtagene autoleucel immunotherapy"/>
@@ -18654,8 +18720,6 @@
             <entry score="1.0" headword="zevtera(tm)"/>
             <entry score="1.0" headword="ziihera"/>
             <entry score="1.0" headword="ziihera(r)"/>
-        
-            <entry score="1.0" headword="brain stimulation electrode"/>
         </entity>
 
         <!-- Anatomy lexicon (CMS axis-4 'Body Part'). Fires only when composed with an operation — never bare. -->
@@ -19091,23 +19155,58 @@
             <entry score="1.0" headword="urinary system"/>
         </entity>
 
-        <!-- AGGREGATOR — stitches this section's components into surgical-procedure patterns. -->
+        <!-- high-confidence surgical action verb-families (standalone or +body part) -->
+        <entity name="icd10pcs/new_tech/surgical_actions" type="private" case="insensitive">
+            <!-- ablate[ds]? -->
+            <pattern>ablat(e[ds]?|ing|ions?)</pattern>
+            <pattern>anastomo(s(e[ds]?|ing))</pattern>
+            <pattern>biops(ie[ds]|y(ing)?)</pattern>
+            <pattern>cauteriz(e[ds]?|ing|ations?)</pattern>
+            <pattern>excis(e[ds]?|ing|ions?)</pattern>
+            <pattern>extirpat(e[ds]?|ing|ions?)</pattern>
+            <pattern>ly(s([ei]s|e[ds]?)|tics?)</pattern>
+            <pattern>resect(ed|ing|ions?|s)?</pattern>
+        </entity>
+
+        <!-- action verb-families requiring a body-part/device/region context -->
         <entity name="icd10pcs/new_tech/common_actions" type="private" case="insensitive">
+            <!-- alter -->
+            <pattern>alter(ations?|ed|ing|s)?</pattern>
             <pattern>bypass(e[ds]|ing)?</pattern>
-            <pattern>destr(oy(e[ds]?|ing)?|uctions?)</pattern>
+            <pattern>chang(e[ds]?|ing)</pattern>
+            <pattern>control(led|ling|s)?</pattern>
+            <pattern>creat(e[ds]?|ing|ions?)</pattern>
+            <pattern>(scope-assisted\ )?destr(oy(e[ds]?|ing)?|uctions?)</pattern>
+            <pattern>detach(e[ds]?|ing|ments?)?</pattern>
+            <pattern>dila(ta)?t(e[ds]?|ing|ions?)</pattern>
             <pattern>divi(d(e[ds]?|ing)|sions?)</pattern>
+            <pattern>drain(ages?|ed|ing|s)?</pattern>
+            <pattern>explor(ations?|e[ds]?|ing)</pattern>
+            <pattern>extract(ed|ing|ions?|s)?</pattern>
+            <pattern>frag(\.|ment(ations?|ed|ing|s)?)?</pattern>
             <pattern>fus(e[ds]?|ing|ions?)</pattern>
+            <pattern>([ei]n)?graft(ed|ing|ions?|s)?</pattern>
+            <pattern>implant(ed|ing|s)?</pattern>
             <pattern>insert(ed|ing|ions?|s)?</pattern>
+            <pattern>ligat(e[ds]?|ing|ions?|ures?)</pattern>
+            <pattern>map(ped|ping|s)?</pattern>
+            <pattern>occlu(d(e[ds]?|ing)|sions?)</pattern>
+            <pattern>reattach(e[ds]?|ing|ments?)?</pattern>
+            <pattern>releas(e[ds]?|ing)</pattern>
+            <pattern>remov(als?|e[ds]?|ing)</pattern>
+            <pattern>reconstruct(ed|ing|ions?|s)?</pattern>
+            <pattern>repa(ir(ed|ing|s)?|ations?)</pattern>
             <pattern>replac(e[ds]?|ements?|ing)</pattern>
             <pattern>reposition(ed|ing|s)?</pattern>
+            <pattern>resor(e[ds]?|ing|ations?)</pattern>
             <pattern>restrict(ed|ing|ions?|s)?</pattern>
+            <pattern>revis(e[ds]?|ing|ions?)</pattern>
             <pattern>supplement(ations?|e[ds]?|ing|s)?</pattern>
+            <pattern>transplant(ations?|e[ds]?|ing|s)?</pattern>
+            <pattern>transf(er(ed|ing|s)?|usions?)</pattern>
         </entity>
 
-        <entity name="icd10pcs/new_tech/surgical_actions" type="private" case="insensitive">
-            <pattern>extirpat(e[ds]?|ing|ion)</pattern>
-        </entity>
-
+        <!-- AGGREGATOR — stitches this section's components into surgical-procedure patterns. -->
         <entity name="icd10pcs/new_tech/surgical" type="private" case="insensitive">
             <!-- Examples: 'new technology procedure' (standalone new technology op) -->
             <pattern>(?A:icd10pcs/new_tech/ops_direct)</pattern>
@@ -19150,7 +19249,6 @@
             <pattern>(extirpat(e|ed|ing))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
             <!-- Example: 'ablated the left kidney', 'repairing heart valve' -->
             <pattern>((divid|fus|replac)(e|ed|ing)|(bypass|destroy|insert|reposition|restrict|supplement)(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
-        
             <!-- Surgical/common action verb-families (ENG-837988) -->
             <pattern>(?A:icd10pcs/new_tech/common_actions)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/new_tech/devices)\ into(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/med_surg/body_parts)</pattern>
             <pattern>(?A:icd10pcs/new_tech/common_actions)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/new_tech/devices)\ into(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/new_tech/body_parts)</pattern>
