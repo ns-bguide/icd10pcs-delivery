@@ -19357,6 +19357,10 @@
             <pattern score="0">venous\ occlusion</pattern>
             <pattern score="0">vein\ occlusion</pattern>
             <pattern score="0">artery\ occlusion</pattern>
+            <!-- FP-OBS: nursing-observation / assessment labels (suppress with score=0). Span-coincident observation phrases that otherwise match via the action verb-regex (e.g. 'altered skin integrity', 'abdominal changes'). Real procedures are unaffected. Surfaced by scripts/fp_audit/mimic_fp_harness.py. -->
+            <pattern score="0">altered\ skin([\ \w]*)?</pattern>
+            <pattern score="0">skin\ integrity([\ \w]*)?</pattern>
+            <pattern score="0">abdominal\ changes([:\ \w]*)?</pattern>
             
             <!-- Section 0: Medical and Surgical -->
             <pattern>(?A:icd10pcs/med_surg/surgical)</pattern>
@@ -19411,6 +19415,10 @@
             <pattern score="0">venous\ occlusion</pattern>
             <pattern score="0">vein\ occlusion</pattern>
             <pattern score="0">artery\ occlusion</pattern>
+            <!-- FP-OBS: nursing-observation / assessment labels (suppress with score=0). Span-coincident observation phrases that otherwise match via the action verb-regex (e.g. 'altered skin integrity', 'abdominal changes'). Real procedures are unaffected. Surfaced by scripts/fp_audit/mimic_fp_harness.py. -->
+            <pattern score="0">altered\ skin([\ \w]*)?</pattern>
+            <pattern score="0">skin\ integrity([\ \w]*)?</pattern>
+            <pattern score="0">abdominal\ changes([:\ \w]*)?</pattern>
             
             <pattern>(?A:industries/healthcare/medical_procedures/eng/surgical)</pattern>
             <!-- Section 0: Medical and Surgical -->

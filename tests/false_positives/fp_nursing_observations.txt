@@ -1,0 +1,13 @@
+# Nursing-observation / assessment labels that are NOT procedures (FP-OBS).
+# Surfaced by the real-data MIMIC FP harness (scripts/fp_audit/mimic_fp_harness.py).
+# These are span-coincident observation phrases suppressed via score=0 in the public
+# aggregators. They must NOT fire. (Inner-span cases like "Impaired Skin Drainage #3"
+# are NOT here — see ROADMAP FP-OBS: they share the span of the real procedure
+# "Scalp Skin Drainage" and cannot be suppressed without losing that TP.)
+altered skin
+altered skin integrity
+Altered Skin Integrity NCP - Goal
+skin integrity
+skin integrity assessment
+abdominal changes
+Abdominal Changes: Observation

@@ -67,3 +67,8 @@ mar repair
 rap repair
 mars repair
 bodies drainage
+# ── nursing-observation FPs (FP-OBS, span-coincident; scripts/fp_audit/mimic_fp_harness.py) ──
+altered skin
+altered skin integrity
+skin integrity
+abdominal changes
