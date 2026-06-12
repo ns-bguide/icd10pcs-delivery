@@ -1,0 +1,69 @@
+# Regression bucket — 2026-06-11 (REC-ABBR wins)
+#
+# Each line below is a confirmed FP that previously fired but is now correctly
+# suppressed after demoting 15 FP-prone short abbreviations (tea, tab, apr, lar,
+# frag, bms, esg, moca, bka, abf, exc, tep, tme, uka, hj) from standalone
+# ops_direct matching to combine-only. CI gate (run_regression_gate.py) MUST
+# report zero matches on this file. If any line fires, the abbreviation demotion
+# has regressed — investigate before merging.
+#
+# Bucket is APPEND-ONLY (see regressed_2026_05_28.txt header for the removal protocol).
+tea
+tab
+apr
+lar
+frag
+bms
+esg
+moca
+bka
+abf
+exc
+tep
+tme
+uka
+hj
+would you like some tea
+open a new tab in the browser
+the apr on this loan is high
+bms reported strong earnings today
+esg investing is increasingly popular
+throw the frag over there
+please see exc for the exception details
+# ── lat + common-word op (adversarial combo sweep, scripts/fp_audit/combo_probe.py) ──
+# The <LAT> <ops_combine> pattern was restricted to ops_lat_safe; these must NOT fire.
+l tea
+r tea
+the l tea was bitter
+l tab
+r tab key
+l lead
+r lead
+l drain
+l graft
+l patch
+l apr
+r tap
+l sling
+l flap
+# ── non-anatomy junk tokens removed from body_parts (scripts/fp_audit/junk_token_audit.py) ──
+# These compositions must NOT fire — the bare tokens are not anatomy.
+have repair
+nfl block
+fees drainage
+hat repair
+they removal
+gas drainage
+pet repair
+com repair
+snap repair
+hp repair
+pad repair
+tail repair
+cuts repair
+fish drainage
+oct drainage
+mar repair
+rap repair
+mars repair
+bodies drainage

@@ -1,0 +1,39 @@
+# REC-ABBR — FP-prone short standalone abbreviations in ordinary prose
+# Created 2026-06-11 (user-flagged audit; ROADMAP "REC-ABBR").
+#
+# Purpose: lock in the fix that demoted 15 short ops_direct abbreviations
+# (tea, tab, apr, lar, frag, bms, esg, moca, bka, abf, exc, tep, tme, uka, hj)
+# from STANDALONE matching to combine-only. Before the fix, the lowercase forms
+# (kept for clinical shorthand) fired on these everyday-English / non-medical
+# sentences. NONE of these lines should fire now.
+#
+# Counterpart TP coverage (these SHOULD still match, verified in the master list):
+#   "aortic tea", "l tab", "r tea", "l uka", "abf bypass", "moca gsv" — kept via
+#   the <body> <op> / <LAT> <ops_combine> compositional patterns.
+#
+# bare ambiguous tokens (must NOT fire standalone)
+tea
+tab
+apr
+lar
+frag
+bms
+esg
+moca
+bka
+abf
+exc
+tep
+tme
+uka
+hj
+# the same tokens embedded in ordinary English prose
+would you like some tea
+open a new tab in the browser
+the apr on this loan is high
+bms reported strong earnings today
+esg investing is increasingly popular
+i ordered a mocha not a moca
+throw the frag over there
+please see exc for the exception details
+the tme acronym means time
