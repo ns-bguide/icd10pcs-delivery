@@ -16888,11 +16888,6 @@
             <pattern>(?A:icd10pcs/extracorp_ther/ops_medical_combine)\ (?A:industries/healthcare/prepositional_phrases)\ ?(?A:icd10pcs/extracorp_ther/body_systems)</pattern>
             <!-- Example: 'circulatory apheresis' (body system precedes op) -->
             <pattern>(?A:icd10pcs/extracorp_ther/body_systems)\ (?A:icd10pcs/extracorp_ther/ops_medical_combine)</pattern>
-            <!-- Example: 'inspected', 'mapped' (strict medical verb, standalone) -->
-            <!-- perfus(e) -->
-            <pattern>(perfus(e|ed|ing))</pattern>
-            <!-- Example: 'inspecting the colon', 'mapped cardiac conduction' -->
-            <pattern>(perfus(e|ed|ing))(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/extracorp_ther/body_systems)</pattern>
             <!-- Example: 'changing the drainage device', 'removing cardiac lead' -->
             <pattern>(decompress(ed|ing)?)(\ (?A:industries/healthcare/determiners))?\ (?A:icd10pcs/extracorp_ther/body_systems)</pattern>
         </entity>

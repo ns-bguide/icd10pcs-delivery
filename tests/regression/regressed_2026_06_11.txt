@@ -72,3 +72,8 @@ altered skin
 altered skin integrity
 skin integrity
 abdominal changes
+# ── physical-exam findings (real MIMIC notes; scripts/fp_audit/note_fp_harness.py) ──
+warm, well perfused
+extremities warm and well perfused
+perfused
+perfusing
